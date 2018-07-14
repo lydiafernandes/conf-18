@@ -1,6 +1,6 @@
 <?php
 
-$conn = mysqli_connect("localhost","scicondb","Ke0P3M!_him6","scicondb");
+$conn = mysqli_connect("den1.mysql5.gear.host","scicondb","Ke0P3M!_him6","scicondb");
 
 echo "<p>Praise the Lord</p>";
 if(!$conn)
