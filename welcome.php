@@ -80,7 +80,7 @@ session_start();
 				</li>
 		
 				<li class="nav-item">
-					<a class="nav-link" href="#">Connect</a>
+					<a class="nav-link" href="contact.php">Connect</a>
 				</li>
 
 				<li class="nav-item" <?php echo $login_session; ?>>
