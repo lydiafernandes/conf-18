@@ -19,6 +19,7 @@ $result = $conn->query($sql);
 if(!$row = mysqli_fetch_array($result))
 {
     echo "Your username or password is incorrect!";
+    header("location:welcome.php");
 }
 else{
     //echo "You are logged in!";
