@@ -197,7 +197,12 @@ figure {
     padding: 1rem;
 }
 
-
+#home .home, #about .about, #about .about, #contact .contact
+{
+  color:#6648b1;
+  font-weight: bold;
+  font-style: italic;
+}
 
 
 
