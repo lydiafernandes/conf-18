@@ -40,7 +40,7 @@
   			<form class="col-12" method="post" action="login.php">
   				
   				<div class="form-group">
-  					<input type="text" name="username" class="form-control" placeholder="Enter UserName">
+  					<input type="text" name="email" class="form-control" placeholder="Enter Email">
   				</div>
 
   				<div class="form-group">

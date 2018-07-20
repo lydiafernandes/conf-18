@@ -5,15 +5,11 @@ ini_set("display_errors", 1);
 error_reporting(E_ALL);
 
 include 'dbh.php';
-print_r($_POST);
 
-$uid = $_POST['username'];
+$email = $_POST['email'];
 $pwd = $_POST['password'];
 
-echo $uid."<br>";
-echo $pwd;
-
-$sql = "SELECT * FROM user WHERE USERNAME='$uid' AND PWD='$pwd'";
+$sql = "SELECT * FROM user WHERE email='$email' AND PWD='$pwd'";
 $result = $conn->query($sql);
 
 if(!$row = mysqli_fetch_array($result))
