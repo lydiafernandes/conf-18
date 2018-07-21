@@ -9,13 +9,13 @@ include 'dbh.php';
 $email = $_POST['email'];
 $pwd = $_POST['password'];
 
-$sql = "SELECT * FROM user WHERE email='$email' AND PWD='$pwd'";
+$sql = "SELECT * FROM users WHERE email='$email' AND password='$pwd'";
 $result = $conn->query($sql);
 
 if(!$row = mysqli_fetch_array($result))
 {
     echo "Your username or password is incorrect!";
-    header("location:welcome.php");
+    //header("location:welcome.php");
 }
 else{
     //echo "You are logged in!";

@@ -1,6 +1,7 @@
 <?php
 session_start();
 //inlcude 'session.php';
+include 'database/create_users_table.php';
 ?>
 <!DOCTYPE html>
 <HTML>
@@ -64,7 +65,7 @@ session_start();
                     </div>
             </div> <!-- end of col-md-6 -->
 
-            </div> <!-- end of row class-->
+          </div> <!-- end of row class-->
 
         </div> <!-- end of container class--> 
 

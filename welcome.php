@@ -17,7 +17,7 @@ session_start();
 </head>
 <body>
 
-<?php //include("includes/navigation.php");?>
+<?php include("includes/navigation.php");?>
 
 
 <!-- Image Slider -->
@@ -374,7 +374,7 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 </div>
 
 <!--- Connect -->
-<?php //include("includes/footer.php");?>
+<?php include("includes/footer.php");?>
 
 </body>
 </html>

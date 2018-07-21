@@ -47,7 +47,7 @@ session_start();
 			<div class="card">
 				<img class="card-img-top" src="img/Rajmohan.jpg">
 				<div class="card-body">
-					<h4 class="card-title"> Dr. Agnelo Menezes </h4>
+					<h4 class="card-title"> Dr. Rajmohan</h4>
 					<p class="card-text"> He is the Principal of the College with 20+ years of teaching experience.</p>
 					<a href="#" class="btn btn-outline-secondary">See Profile</a>
 				</div>

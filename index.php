@@ -40,11 +40,11 @@
   			<form class="col-12" method="post" action="login.php">
   				
   				<div class="form-group">
-  					<input type="text" name="email" class="form-control" placeholder="Enter Email">
+  					<input type="text" id="email" name="email" class="form-control" placeholder="Enter Email">
   				</div>
 
   				<div class="form-group">
-  					<input type="password" name="password" class="form-control" placeholder="Enter Password">
+  					<input type="password" id="password" name="password" class="form-control" placeholder="Enter Password">
 			  </div> 
 				 
 
