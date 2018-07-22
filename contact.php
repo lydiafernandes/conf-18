@@ -1,7 +1,7 @@
 <?php
 session_start();
 //inlcude 'session.php';
-//include 'database/create_users_table.php';
+
 ?>
 <!DOCTYPE html>
 <HTML>

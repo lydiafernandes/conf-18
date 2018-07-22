@@ -45,7 +45,7 @@ session_start();
 		<!-- FIRST CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/Rajmohan.jpg">
+				<img class="card-img-top" width="763" height="602" src="img/Rajmohan.jpg">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Rajmohan</h4>
 					<p class="card-text"> He is the Principal of the College with 20+ years of teaching experience.</p>
