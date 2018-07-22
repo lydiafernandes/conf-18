@@ -148,7 +148,7 @@ session_start();
 				<img class="card-img-top" src="img/speakersnewdimensions/Renjith_New.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Renjith P Nair, PhD </h4>
-					<p class="card-text"> ecturer in molecular oncology, Malabar Cancer Centre, Thalassery, India</p>
+					<p class="card-text"> Lecturer in molecular oncology, Malabar Cancer Centre, Thalassery, India</p>
 					<a href="#" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
@@ -220,12 +220,12 @@ session_start();
     <h1> <a name="lima">Dr. Melchior Luiz Lima M.D. MSc. Ph.D. </a></h1>
     <p class="card-text para-justify">
     <pre>
-         Professor of Cardiovascular Institute “São Francisco de Assis”. 
-	Cardiovascular Surgeon, Center of Cardiovascular Surgery &amp; Heart Transplantation, Meridional Hospital, 
-	Cariacica, ES, Brazil. 
-	Titular Member &amp; Member of the Deliberative Council of the Brazilian Society of Cardiovascular Surgery.
-	Philosophy Doctor - Federal University of São Paulo, Brazil (2015). 
-	Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011). 
+       Professor of Cardiovascular Institute “São Francisco de Assis”. 
+Cardiovascular Surgeon, Center of Cardiovascular Surgery &amp; Heart Transplantation, Meridional Hospital, 
+Cariacica, ES, Brazil. 
+Titular Member &amp; Member of the Deliberative Council of the Brazilian Society of Cardiovascular Surgery.
+Philosophy Doctor - Federal University of São Paulo, Brazil (2015). 
+Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011). 
  </pre>
  <hr>
 Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011).  
