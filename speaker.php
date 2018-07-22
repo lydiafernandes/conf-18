@@ -50,7 +50,7 @@ session_start();
 					<h4 class="card-title"> Dr. Rajmohan V.</h4>
 					<p class="card-text"> Asst. Professor with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) 
 					and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</p>
-					<a href="rajmohan" class="btn btn-outline-secondary">See Profile</a>
+					<a href="#rajmohan" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -62,7 +62,7 @@ session_start();
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Daniel R. Wilson, MD, PhD </h4>
 					<p class="card-text"> A pioneer in Evolutionary Neuroscience, Currently he is the President of Western University of Health Sciences, Pomona, California USA.</p>
-					<a href="wilson" class="btn btn-outline-secondary">See Profile</a>
+					<a href="#wilson" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
