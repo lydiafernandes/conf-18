@@ -185,7 +185,7 @@ session_start();
     Email: 
     Web:<a href="#">?</a>  -->
     </pre>
-    Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011).  
+Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011).  
 Master of Science - Cardiovascular Institute “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2010). 
 Post-Graduation (Medical Residency) - “Real and Benemérita Sociedade Portuguesa de Beneficência”, São Joaquim Hospital, São Paulo, SP, Brazil (1991). 
 Graduation (Medicine) - School of Sciences of “Santa Casa de Misericórdia de Vitória”, Vitória, ES, Brazil (1988).
