@@ -73,9 +73,10 @@ session_start();
 				<img class="card-img-top" src="img/speakersnewdimensions/Luis_Lima_New.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Melchior Luiz Lima M.D. MSc. Ph.D. </h4>
-					<p class="card-text"> Professor of Cardiovascular Institute <pre> “São Francisco de Assis”</pre>. 
-</p>
-					<a href="#" class="btn btn-outline-secondary">See Profile</a>
+					<p class="card-text"> A Professor of Cardiovascular Institute <pre> “São Francisco de Assis”</pre>
+					and Cardiovascular Surgeon, Center of Cardiovascular Surgery &amp; Heart
+				    Transplantation, Meridional Hospital, Cariacica, ES, Brazil. . </p>
+					<a href="#lima" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -100,7 +101,7 @@ session_start();
 			<div class="card">
 				<img class="card-img-top" src="img/speakersnewdimensions/Subburaman_Mohan_New.png">
 				<div class="card-body">
-					<h4 class="card-title"> Fr. Roy Pereira S.J. </h4>
+					<h4 class="card-title"> Dr.Subburaman Mohan. </h4>
 					<p class="card-text"> He is the Vice Principal of the College with 20+ years of teaching experience.</p>
 					<a href="#" class="btn btn-outline-secondary">See Profile</a>
 				</div>
@@ -165,6 +166,30 @@ session_start();
 	Unit under the Department of Ayurveda Medical Education of Government of Kerala.He has started his carrier as medical officer in the Department of Indian Systems of Medicine under of the Government of Kerala and was deputed as Research Officer in the Drug Standardization Unit under the Department of Ayurveda Medical Education of Government of Kerala.
     He has started his carrier as medical officer in the Department of Indian Systems of Medicine under of the Government of Kerala and was deputed as Research Officer in the Drug Standardization Unit under the Department of Ayurveda Medical Education of Government of Kerala.  His teaching carrier started at Vaidyaratnam P S Varier Ayurveda College, Kottakkal and later continued to Government Ayurveda College, Thiruvananthapuram and since January 2018, to the current institution.  He was the faculty of Research Methodology at Government Ayurveda College, Thiruvananthapuram and Subject expert of research methodology at Kerala University of Health Sciences (KUHS).   Currently he is acting as a resource person to UGC – Human Resource Development Centre, University of Calicut and technical committee member of School of Ayurveda and School of Health Policy and Planning of KUHS.  He has acted as a member of the committee for the preparation of perspective plan for KUHS and was an active member in the committee for developing a vision document for the functioning of KUHS.  He has actively Participated in the Conceptualization and Project Development Workshop for High Impact Projects (HIP) in Ayurveda, organized by FRLHT - Institute of Ayurveda and Integrative Medicine (I-AIM), for the Dept. of AYUSH, Govt. of India, held at the School of Ancient Wisdom, Bangalore from 21st to 23rd may, 2010 and was a national level coordinator for one of the projects.  He has been a resource person to various International and National seminar and conferences since 2007 and has 13 publications to his credit.  He is awarded with SKM Research Scholar 2010 Award by SKM Centre for AYUSH System Research and Education, Erode – A National Level award for outstanding contribution to Research Methodologies in Ayurveda.  He is a teacher, clinician and researcher currently researching on the interface of ageing, Rasayana (ayurvedic drugs for ageing and degeneration) 
 	and cancer through interdisciplinary and multidisciplinary approaches. 
+</p>
+
+</div>
+<!-- ------------------------------------------------ -->
+<hr>
+<div class="container">
+    <h1> <a name="lima">Dr. Melchior Luiz Lima M.D. MSc. Ph.D. </a></h1>
+    <p class="card-text para-justify">
+    <pre>
+    Professor of Cardiovascular Institute “São Francisco de Assis”. 
+	Cardiovascular Surgeon, Center of Cardiovascular Surgery &amp; Heart Transplantation, Meridional Hospital, Cariacica, ES, Brazil. 
+	Titular Member &amp; Member of the Deliberative Council of the Brazilian Society of Cardiovascular Surgery.
+	Philosophy Doctor - Federal University of São Paulo, Brazil (2015). 
+	Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011). 
+   <!-- 
+    tel: 
+    Email: 
+    Web:<a href="#">?</a>  -->
+    </pre>
+    Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011).  
+Master of Science - Cardiovascular Institute “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2010). 
+Post-Graduation (Medical Residency) - “Real and Benemérita Sociedade Portuguesa de Beneficência”, São Joaquim Hospital, São Paulo, SP, Brazil (1991). 
+Graduation (Medicine) - School of Sciences of “Santa Casa de Misericórdia de Vitória”, Vitória, ES, Brazil (1988).
+Cardiovascular Surgeon research program collaborator of the Department of Physiological Sciences, Federal University of “Espírito Santo”, Vitoria, ES, Brazil. Researcher on vascular reactivity, myocardial protection and dysfunction of cardiac mitochondrial subpopulations in heart failure.
 </p>
 
 
