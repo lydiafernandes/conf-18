@@ -73,9 +73,9 @@ session_start();
 				<img class="card-img-top" src="img/speakersnewdimensions/Luis_Lima_New.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Melchior Luiz Lima M.D. MSc. Ph.D. </h4>
-					<p class="card-text"> A Professor of Cardiovascular Institute <pre> “São Francisco de Assis”</pre>
+					<p class="card-text"> A Professor of Cardiovascular Institute “São Francisco de Assis”
 					and Cardiovascular Surgeon, Center of Cardiovascular Surgery &amp; Heart
-				    Transplantation, Meridional Hospital, Cariacica, ES, Brazil. . </p>
+				    Transplantation, Meridional Hospital, Cariacica, ES, Brazil. </p>
 					<a href="#lima" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
