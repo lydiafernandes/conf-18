@@ -45,7 +45,7 @@ session_start();
 		<!-- FIRST CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" width="763" height="602" src="img/Rajmohan.jpg">
+				<img class="card-img-top" src="img/Rajmohan.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Rajmohan</h4>
 					<p class="card-text"> He is the Principal of the College with 20+ years of teaching experience.</p>
@@ -57,7 +57,7 @@ session_start();
 		<!-- SECOND CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/roy_pereira.png">
+				<img class="card-img-top" src="img/Wilson.png">
 				<div class="card-body">
 					<h4 class="card-title"> Fr. Roy Pereira S.J. </h4>
 					<p class="card-text"> He is the Vice Principal of the College with 20+ years of teaching experience.</p>
@@ -69,7 +69,7 @@ session_start();
 		<!-- THIRD CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/principal_agnelo_menezes.png">
+				<img class="card-img-top" src="img/Lima.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Agnelo Menezes </h4>
 					<p class="card-text"> He is the Principal of the College with 20+ years of teaching experience.</p>
