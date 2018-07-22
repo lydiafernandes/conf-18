@@ -169,7 +169,7 @@ session_start();
 </p>
 <pre> test lima </pre>
 </div>
-<!-- ------------------------------------------------ -->
+<!-- -----------------got ------------------------------- -->
 <hr> 
 <div class="container">
     <h1> <a name="lima">Dr. Melchior Luiz Lima M.D. MSc. Ph.D. </a></h1>
@@ -180,11 +180,7 @@ session_start();
 	Titular Member &amp; Member of the Deliberative Council of the Brazilian Society of Cardiovascular Surgery.
 	Philosophy Doctor - Federal University of São Paulo, Brazil (2015). 
 	Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011). 
-   <!-- 
-    tel: 
-    Email: 
-    Web:<a href="#">?</a>  -->
-    </pre>
+ </pre>
 Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011).  
 Master of Science - Cardiovascular Institute “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2010). 
 Post-Graduation (Medical Residency) - “Real and Benemérita Sociedade Portuguesa de Beneficência”, São Joaquim Hospital, São Paulo, SP, Brazil (1991). 
