@@ -47,8 +47,9 @@ session_start();
 			<div class="card">
 				<img class="card-img-top" src="img/Rajmohan.png">
 				<div class="card-body">
-					<h4 class="card-title"> Dr. Rajmohan</h4>
-					<p class="card-text"> He is the Principal of the College with 20+ years of teaching experience.</p>
+					<h4 class="card-title"> Dr. Rajmohan V.</h4>
+					<p class="card-text"> Asst. Professor with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) 
+					and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</p>
 					<a href="#" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
@@ -126,6 +127,28 @@ session_start();
 
 </div>
 
+<div class="container">
+    <h1> <a name="rajmohan">Dr. Rajmohan V. </a></h1>
+    <p class="card-text">
+    <pre>
+    Assistant Professor,				       TC 19/1807(22) “Devi Darsanam”
+    Government Ayurveda College, 		       Kesavan Nair Road, Poojappura,
+    Pariyaram, Kannur 67050		               Thiruvananthapuram,Kerala 695012
+
+    tel: 
+    Email: 
+    Web:<a href="#">?</a>
+    </pre>
+    Having completed his Bachelors in Ayurvedic Medicine and Surgery (BAMS) and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College, Thiruvananthapuram under the University of Kerala.   He has started his carrier as medical officer in the 
+	Department of Indian Systems of Medicine under of the Government of Kerala and was deputed as Research Officer in the Drug Standardization 
+	Unit under the Department of Ayurveda Medical Education of Government of Kerala.He has started his carrier as medical officer in the Department of Indian Systems of Medicine under of the Government of Kerala and was deputed as Research Officer in the Drug Standardization Unit under the Department of Ayurveda Medical Education of Government of Kerala.
+    He has started his carrier as medical officer in the Department of Indian Systems of Medicine under of the Government of Kerala and was deputed as Research Officer in the Drug Standardization Unit under the Department of Ayurveda Medical Education of Government of Kerala.  His teaching carrier started at Vaidyaratnam P S Varier Ayurveda College, Kottakkal and later continued to Government Ayurveda College, Thiruvananthapuram and since January 2018, to the current institution.  He was the faculty of Research Methodology at Government Ayurveda College, Thiruvananthapuram and Subject expert of research methodology at Kerala University of Health Sciences (KUHS).   Currently he is acting as a resource person to UGC – Human Resource Development Centre, University of Calicut and technical committee member of School of Ayurveda and School of Health Policy and Planning of KUHS.  He has acted as a member of the committee for the preparation of perspective plan for KUHS and was an active member in the committee for developing a vision document for the functioning of KUHS.  He has actively Participated in the Conceptualization and Project Development Workshop for High Impact Projects (HIP) in Ayurveda, organized by FRLHT - Institute of Ayurveda and Integrative Medicine (I-AIM), for the Dept. of AYUSH, Govt. of India, held at the School of Ancient Wisdom, Bangalore from 21st to 23rd may, 2010 and was a national level coordinator for one of the projects.  He has been a resource person to various International and National seminar and conferences since 2007 and has 13 publications to his credit.  He is awarded with SKM Research Scholar 2010 Award by SKM Centre for AYUSH System Research and Education, Erode – A National Level award for outstanding contribution to Research Methodologies in Ayurveda.  He is a teacher, clinician and researcher currently researching on the interface of ageing, Rasayana (ayurvedic drugs for ageing and degeneration) and cancer through interdisciplinary and multidisciplinary approaches. 
+</p>
+
+
+</div>
+
+<!--------------------------------------------------- --> 
 <div class="container">
     <h1> <a name="alex">Dr. Alex </a>C Varghese Ph.D.</h1>
     <p class="card-text">
