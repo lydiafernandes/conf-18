@@ -106,13 +106,13 @@ var x = setInterval(function() {
 		<!-- 
 			<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10"> 
 		-->
-				<p class="lead">This calls for a celebration.
+				<p class="lead" style="text-align:center">This calls for a celebration.
 
 We're celebrating our sesquicentennial across 2018–19. The year-long commemoration, 
 which begins during the joyous christmas week Dec, 2018, 
 leading up to the 150th anniversary of the college.
 </p>
-<p class="lead">
+<p class="lead" style="text-align:center">
 The occasion is a time for all of us at St. Xavier &apos;s College to reflect on our
  past — and look forward to our future of maintaining the momentum for 
  Excellence in Education. 
@@ -135,7 +135,7 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 	<div class="row Welcome text-center">
 		
 		<div class="col-12">
-			<h1 class="display-4"> From Health to Well Being:  <br>
+			<h1 class="display-4" style="background-color:#999999;"> From Health to Well Being:  <br>
 			An Interdisciplinary approach from Fundamental Sciences to 
 			Translational Medicine
 </h1>
@@ -228,129 +228,7 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 </figure>
 
 
-
-<!--- Emoji Section 
-<button class="fun" data-toggle="collapse" data-target="#emoji"> Click for fun!
-</button>
-
-<div id="emoji" class="collapse">
-	<div class="container-fluid padding">
-		<div class="row text-center">
-			<div class="col-sm-6 col-md-3">
-				<img class="gif" src="img/gif/molecules-bonding-animation.gif">
-			</div>
-
-			<div class="col-sm-6 col-md-3">
-				<img class="gif" src="img/gif/cell_animation.gif">
-			</div>
-
-			<div class="col-sm-6 col-md-3">
-				<img class="gif" src="img/gif/molecules-bonding-animation.gif">
-			</div>
-
-			<div class="col-sm-6 col-md-3">
-				<img class="gif" src="img/gif/molecules-bonding-animation.gif">
-			</div>
-	
-		</div>
-	</div>
-</div>
--->
-
-<!--- Meet the team -->
-<div class="container-fluid padding">
-	<div class="row welcome text-center">
-		<div class="col-12">
-			<h1 class="display-4">Meet the Team </h1>
-		</div>
-		<hr>
-	</div>
-</div>
-
-<!--- Cards -->
-<div  class="container-fluid padding">
-	<div class="row padding">
-
-		<!-- FIRST CARD APPEARS HERE -->
-		<div class="col-md-4">
-			<div class="card">
-				<img class="card-img-top" src="img/principal_agnelo_menezes.png">
-				<div class="card-body">
-					<h4 class="card-title"> Dr. Agnelo Menezes </h4>
-					<p class="card-text"> He is the Principal of the College with 20+ years of teaching experience.</p>
-					<a href="#" class="btn btn-outline-secondary">See Profile</a>
-				</div>
-			</div>
-		</div>
-
-		<!-- SECOND CARD APPEARS HERE -->
-		<div class="col-md-4">
-			<div class="card">
-				<img class="card-img-top" src="img/roy_pereira.png">
-				<div class="card-body">
-					<h4 class="card-title"> Fr. Roy Pereira S.J. </h4>
-					<p class="card-text"> He is the Vice Principal of the College with 20+ years of teaching experience.</p>
-					<a href="#" class="btn btn-outline-secondary">See Profile</a>
-				</div>
-			</div>
-		</div>
-
-		<!-- THIRD CARD APPEARS HERE -->
-		<div class="col-md-4">
-			<div class="card">
-				<img class="card-img-top" src="img/principal_agnelo_menezes.png">
-				<div class="card-body">
-					<h4 class="card-title"> Dr. Agnelo Menezes </h4>
-					<p class="card-text"> He is the Principal of the College with 20+ years of teaching experience.</p>
-					<a href="#" class="btn btn-outline-secondary">See Profile</a>
-				</div>
-			</div>
-		</div>
-
-	</div>
-	<div class="row padding">
-
-		<!-- ROW 2-FIRST CARD APPEARS HERE -->
-		<div class="col-md-4">
-			<div class="card">
-				<img class="card-img-top" src="img/nandita_mangalore.png">
-				<div class="card-body">
-					<h4 class="card-title"> Dr. Nandita Mangalore</h4>
-					<p class="card-text"> Head of Dept. Life Science at St. Xavier&apos;s College with 20+ years of teaching experience.</p>
-					<a href="#" class="btn btn-outline-secondary">See Profile</a>
-				</div>
-			</div>
-		</div>
-
-		<!-- ROW 2 - SECOND CARD APPEARS HERE -->
-		<div class="col-md-4">
-			<div class="card">
-				<img class="card-img-top" src="img/roy_pereira.png">
-				<div class="card-body">
-					<h4 class="card-title"> Fr. Roy Pereira S.J. </h4>
-					<p class="card-text"> He is the Vice Principal of the College with 20+ years of teaching experience.</p>
-					<a href="#" class="btn btn-outline-secondary">See Profile</a>
-				</div>
-			</div>
-		</div>
-
-		<!--ROW 2- THIRD CARD APPEARS HERE -->
-		<div class="col-md-4">
-			<div class="card">
-				<img class="card-img-top" src="img/finosh.png">
-				<div class="card-body">
-					<h4 class="card-title"> Mr. Finosh G. T. </h4>
-					<p class="card-text"> He is a part of Creighton University and a Former Research fellow at Sree Chitra Tirunal Institute for Medical Sciences and Technology</p>
-					<a href="#" class="btn btn-outline-secondary">See Profile</a>
-				</div>
-			</div>
-		</div>
-
-	</div>
-
-</div>
-
-<!--- Two Column Section -->
+<!--- Two Column Section 
 <div class="container-fluid">
 	<div class="row padding">
 		
@@ -372,6 +250,7 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 		</div>
 	</div>
 </div>
+--> 
 
 <!--- Connect -->
 <?php include("includes/footer.php");?>
