@@ -102,7 +102,7 @@ session_start();
 				<img class="card-img-top" src="img/speakersnewdimensions/Subburaman_Mohan_New.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Subburaman Mohan. </h4>
-					<p class="card-text"> Senior Research Career Scientist, Veterans Administration (VA). Director of the Musculoskeletal Disease Center at the VA Loma Linda Healthcare, California</p>
+					<p class="card-text"> Senior Research Career Scientist, Veterans Administration (VA). Director, Musculoskeletal Disease Center, VA Loma Linda, California</p>
 					<a href="#mohan" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
@@ -127,6 +127,51 @@ session_start();
 
 	</div>
 
+<!--------------------- row 3 begins ------------ -->
+<div class="row padding">
+
+		<!-- ROW 3-FIRST CARD APPEARS HERE -->
+		<div class="col-md-4">
+			<div class="card">
+				<img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
+				<div class="card-body">
+					<h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
+					<p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
+					<a href="#vemula" class="btn btn-outline-secondary">See Profile</a>
+				</div>
+			</div>
+		</div>
+
+		<!-- ROW 3 - SECOND CARD APPEARS HERE -->
+		<div class="col-md-4">
+			<div class="card">
+				<img class="card-img-top" src="img/speakersnewdimensions/Subburaman_Mohan_New.png">
+				<div class="card-body">
+					<h4 class="card-title"> Dr. Subburaman Mohan. </h4>
+					<p class="card-text"> Senior Research Career Scientist, Veterans Administration (VA). Director, Musculoskeletal Disease Center, VA Loma Linda, California</p>
+					<a href="#mohan" class="btn btn-outline-secondary">See Profile</a>
+				</div>
+			</div>
+		</div>
+
+		<!--ROW 3- THIRD CARD APPEARS HERE -->
+		<div class="col-md-4">
+			<div class="card">
+				<img class="card-img-top" src="img/speakersnewdimensions/Alex_New.png">
+				<div class="card-body">
+					<h4 class="card-title"> Dr. Alex C Varghese </h4>
+					<p class="card-text"> Scientific  Director <br>
+                                           ASTRA Fertility Group,<br>
+                                           <b>Web:</b> 
+                                           <a href="www.lifeinvitro.com"> www.lifeinvitro.com</a>
+
+                    </p>
+					<a href="#alex" class="btn btn-outline-secondary">See Profile</a>
+				</div>
+			</div>
+		</div>
+
+	</div>
 </div>
 <hr>
 <div class="container">
