@@ -45,7 +45,7 @@ session_start();
 		<!-- FIRST CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/Rajmohan.png">
+				<img class="card-img-top" src="img/speakersnewdimensions/Rajmohan_New.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Rajmohan V.</h4>
 					<p class="card-text"> Asst. Professor with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) 
@@ -58,7 +58,7 @@ session_start();
 		<!-- SECOND CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/Wilson.png">
+				<img class="card-img-top" src="img/speakersnewdimensions/Daniel_Wilson_New.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Daniel R. Wilson, MD, PhD </h4>
 					<p class="card-text"> A pioneer in Evolutionary Neuroscience, Currently he is the President of Western University of Health Sciences, Pomona, California USA.</p>
@@ -70,7 +70,7 @@ session_start();
 		<!-- THIRD CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/Lima.png">
+				<img class="card-img-top" src="img/speakersnewdimensions/Luis_Lima_New.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Agnelo Menezes </h4>
 					<p class="card-text"> He is the Principal of the College with 20+ years of teaching experience.</p>
@@ -85,7 +85,7 @@ session_start();
 		<!-- ROW 2-FIRST CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/nandita_mangalore.png">
+				<img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Nandita Mangalore</h4>
 					<p class="card-text"> Head of Dept. Life Science at St. Xavier&apos;s College with 20+ years of teaching experience.</p>
@@ -97,7 +97,8 @@ session_start();
 		<!-- ROW 2 - SECOND CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/roy_pereira.png">
+				<img class="card-img-top" src="img/speakersnewdimensions/Subburaman_Mohan_New.png">
+				<img class="card-img-top" src="img/">
 				<div class="card-body">
 					<h4 class="card-title"> Fr. Roy Pereira S.J. </h4>
 					<p class="card-text"> He is the Vice Principal of the College with 20+ years of teaching experience.</p>
@@ -109,7 +110,7 @@ session_start();
 		<!--ROW 2- THIRD CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/new_alex.png">
+				<img class="card-img-top" src="img/Alex_New.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Alex C Varghese </h4>
 					<p class="card-text"> Scientific  Director <br>
@@ -129,7 +130,7 @@ session_start();
 <hr>
 <div class="container">
     <h1> <a name="rajmohan">Dr. Rajmohan V. </a></h1>
-    <p class="card-text" style="text-align:justify">
+    <p class="card-text para-justify">
     <pre>
     Assistant Professor,				            TC 19/1807(22) “Devi Darsanam”
     Government Ayurveda College, 		                   Kesavan Nair Road, Poojappura,

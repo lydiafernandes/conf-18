@@ -25,6 +25,9 @@ html, body {
   height: 100%;
 }
 
+.para-justify{
+  text-align: justify;
+}
 .carousel-caption{
   position: absolute;
   top:50%;
