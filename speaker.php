@@ -133,11 +133,11 @@ session_start();
 		<!-- ROW 3-FIRST CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
+				<img class="card-img-top" src="img/speakersnewdimensions/Sorab_New.png">
 				<div class="card-body">
-					<h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
-					<p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-					<a href="#vemula" class="btn btn-outline-secondary">See Profile</a>
+					<h4 class="card-title"> Prof. Sorab Nariman Dalal.</h4>
+					<p class="card-text"> Scientific Officer ‘G’, Associate Professor - HBNI, Tata Memorial Centre</p>
+					<a href="#" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -145,11 +145,11 @@ session_start();
 		<!-- ROW 3 - SECOND CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Subburaman_Mohan_New.png">
+				<img class="card-img-top" src="img/speakersnewdimensions/Renjith_New.png">
 				<div class="card-body">
-					<h4 class="card-title"> Dr. Subburaman Mohan. </h4>
-					<p class="card-text"> Senior Research Career Scientist, Veterans Administration (VA). Director, Musculoskeletal Disease Center, VA Loma Linda, California</p>
-					<a href="#mohan" class="btn btn-outline-secondary">See Profile</a>
+					<h4 class="card-title"> Dr. Renjith P Nair, PhD </h4>
+					<p class="card-text"> ecturer in molecular oncology, Malabar Cancer Centre, Thalassery, India</p>
+					<a href="#" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -212,7 +212,7 @@ session_start();
     He has started his carrier as medical officer in the Department of Indian Systems of Medicine under of the Government of Kerala and was deputed as Research Officer in the Drug Standardization Unit under the Department of Ayurveda Medical Education of Government of Kerala.  His teaching carrier started at Vaidyaratnam P S Varier Ayurveda College, Kottakkal and later continued to Government Ayurveda College, Thiruvananthapuram and since January 2018, to the current institution.  He was the faculty of Research Methodology at Government Ayurveda College, Thiruvananthapuram and Subject expert of research methodology at Kerala University of Health Sciences (KUHS).   Currently he is acting as a resource person to UGC – Human Resource Development Centre, University of Calicut and technical committee member of School of Ayurveda and School of Health Policy and Planning of KUHS.  He has acted as a member of the committee for the preparation of perspective plan for KUHS and was an active member in the committee for developing a vision document for the functioning of KUHS.  He has actively Participated in the Conceptualization and Project Development Workshop for High Impact Projects (HIP) in Ayurveda, organized by FRLHT - Institute of Ayurveda and Integrative Medicine (I-AIM), for the Dept. of AYUSH, Govt. of India, held at the School of Ancient Wisdom, Bangalore from 21st to 23rd may, 2010 and was a national level coordinator for one of the projects.  He has been a resource person to various International and National seminar and conferences since 2007 and has 13 publications to his credit.  He is awarded with SKM Research Scholar 2010 Award by SKM Centre for AYUSH System Research and Education, Erode – A National Level award for outstanding contribution to Research Methodologies in Ayurveda.  He is a teacher, clinician and researcher currently researching on the interface of ageing, Rasayana (ayurvedic drugs for ageing and degeneration) 
 	and cancer through interdisciplinary and multidisciplinary approaches. 
 </p>
-<pre> test lima </pre>
+
 </div>
 <!-- -----------------got ------------------------------- -->
 <hr> 
@@ -220,7 +220,7 @@ session_start();
     <h1> <a name="lima">Dr. Melchior Luiz Lima M.D. MSc. Ph.D. </a></h1>
     <p class="card-text para-justify">
     <pre>
-    Professor of Cardiovascular Institute “São Francisco de Assis”. 
+         Professor of Cardiovascular Institute “São Francisco de Assis”. 
 	Cardiovascular Surgeon, Center of Cardiovascular Surgery &amp; Heart Transplantation, Meridional Hospital, 
 	Cariacica, ES, Brazil. 
 	Titular Member &amp; Member of the Deliberative Council of the Brazilian Society of Cardiovascular Surgery.
@@ -234,8 +234,6 @@ Post-Graduation (Medical Residency) - “Real and Benemérita Sociedade Portugue
 Graduation (Medicine) - School of Sciences of “Santa Casa de Misericórdia de Vitória”, Vitória, ES, Brazil (1988).
 Cardiovascular Surgeon research program collaborator of the Department of Physiological Sciences, Federal University of “Espírito Santo”, Vitoria, ES, Brazil. Researcher on vascular reactivity, myocardial protection and dysfunction of cardiac mitochondrial subpopulations in heart failure.
 </p>
-
-
 </div>
 <hr>
 <!--------------------------------------------------- --> 
