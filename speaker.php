@@ -60,7 +60,7 @@ session_start();
 			<div class="card">
 				<img class="card-img-top" src="img/speakersnewdimensions/Daniel_Wilson_New.png">
 				<div class="card-body">
-					<h4 class="card-title"> Dr. Daniel R. Wilson, MD, PhD </h4>
+					<h4 class="card-title"> Dr. Daniel R. Wilson, M.D., Ph.D. </h4>
 					<p class="card-text"> A pioneer in Evolutionary Neuroscience, Currently he is the President of Western University of Health Sciences, Pomona, California USA.</p>
 					<a href="#wilson" class="btn btn-outline-secondary">See Profile</a>
 				</div>
@@ -72,8 +72,9 @@ session_start();
 			<div class="card">
 				<img class="card-img-top" src="img/speakersnewdimensions/Luis_Lima_New.png">
 				<div class="card-body">
-					<h4 class="card-title"> Dr. Agnelo Menezes </h4>
-					<p class="card-text"> He is the Principal of the College with 20+ years of teaching experience.</p>
+					<h4 class="card-title"> Dr. Melchior Luiz Lima M.D. MSc. Ph.D. </h4>
+					<p class="card-text"> Professor of Cardiovascular Institute <pre> “São Francisco de Assis”</pre>. 
+</p>
 					<a href="#" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
@@ -98,7 +99,6 @@ session_start();
 		<div class="col-md-4">
 			<div class="card">
 				<img class="card-img-top" src="img/speakersnewdimensions/Subburaman_Mohan_New.png">
-				<img class="card-img-top" src="img/">
 				<div class="card-body">
 					<h4 class="card-title"> Fr. Roy Pereira S.J. </h4>
 					<p class="card-text"> He is the Vice Principal of the College with 20+ years of teaching experience.</p>
@@ -110,7 +110,7 @@ session_start();
 		<!--ROW 2- THIRD CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/Alex_New.png">
+				<img class="card-img-top" src="img/speakersnewdimensions/Alex_New.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Alex C Varghese </h4>
 					<p class="card-text"> Scientific  Director <br>
