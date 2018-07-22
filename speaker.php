@@ -102,7 +102,7 @@ session_start();
 				<img class="card-img-top" src="img/speakersnewdimensions/Subburaman_Mohan_New.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Subburaman Mohan. </h4>
-					<p class="card-text"> Senior Research Career Scientist at the Veterans Administration (VA), currently the Director of the Musculoskeletal Disease Center at the VA Loma Linda Healthcare Systems, California</p>
+					<p class="card-text"> Senior Research Career Scientist, Veterans Administration (VA). Director of the Musculoskeletal Disease Center at the VA Loma Linda Healthcare, California</p>
 					<a href="#mohan" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
@@ -247,7 +247,7 @@ India, Deccan Herald and many more.
 
 
 </div>
-
+<hr>
 <!--------------------------------------------------- --> 
 <div class="container">
     <h1> <a name="alex">Dr. Alex </a>C Varghese Ph.D.</h1>
