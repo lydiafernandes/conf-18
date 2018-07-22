@@ -89,9 +89,9 @@ session_start();
 			<div class="card">
 				<img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
 				<div class="card-body">
-					<h4 class="card-title"> Dr. Nandita Mangalore</h4>
-					<p class="card-text"> Head of Dept. Life Science at St. Xavier&apos;s College with 20+ years of teaching experience.</p>
-					<a href="#" class="btn btn-outline-secondary">See Profile</a>
+					<h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
+					<p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
+					<a href="#vemula" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -181,6 +181,7 @@ session_start();
 	Philosophy Doctor - Federal University of São Paulo, Brazil (2015). 
 	Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011). 
  </pre>
+ <hr>
 Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011).  
 Master of Science - Cardiovascular Institute “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2010). 
 Post-Graduation (Medical Residency) - “Real and Benemérita Sociedade Portuguesa de Beneficência”, São Joaquim Hospital, São Paulo, SP, Brazil (1991). 
@@ -191,6 +192,37 @@ Cardiovascular Surgeon research program collaborator of the Department of Physio
 
 </div>
 <hr>
+<!--------------------------------------------------- --> 
+<div class="container">
+    <h1> <a name="vemula">Dr. Praveen </a>Vemula Ph.D.</h1>
+    <p class="card-text" style="text-align:justify">
+    <pre>
+	Faculty, Institute for Stem Cell Biology and Regenerative Medicine(inStem),
+	Bangalore, India.
+    </pre>
+    After obtaining Ph.D. from Indian Institute of Science in 2005, he
+received postdoctoral training at The City College of New York and Harvard–MIT Division of
+Health Sciences and Technology at Harvard Medical School in affiliation with Brigham and
+Women’s Hospital. In 2009, the Ewing Marion Kauffman Foundation selected him as an
+entrepreneur fellow through whom he received formal training in translational research and
+entrepreneurship. <br><br>
+Dr. Vemula is interested in the fields of biomaterials and chemical biology programs. In
+biomaterials, he is interested in drug delivery and gene delivery; in chemical biology he is
+interested in small molecular drug discovery. Overall he is intersted translation science. He has
+published >60 peer-reviewed papers and has given 80 national and international invited lectures
+and has 20 issued or pending patents. Several technologies developed by his team have formed
+the foundation for multiple products on the market. Based on the technologies he developed, two
+biotech companies were formed, Skintifique and Alivio Therapeutics. Two more startups are being
+formed.<br><br>
+Vemula’s work has been discussed in hundreds of newspapers, online websites, television
+newscasts, and radio shows around the world including The New York Times, CNN, ABC News,
+NBC, Boston Globe, LA Times, BBC, Discovery, National Geographic, The Hindu, The Times of
+India, Deccan Herald and many more.
+</p>
+
+
+</div>
+
 <!--------------------------------------------------- --> 
 <div class="container">
     <h1> <a name="alex">Dr. Alex </a>C Varghese Ph.D.</h1>
