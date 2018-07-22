@@ -101,9 +101,9 @@ session_start();
 			<div class="card">
 				<img class="card-img-top" src="img/speakersnewdimensions/Subburaman_Mohan_New.png">
 				<div class="card-body">
-					<h4 class="card-title"> Dr.Subburaman Mohan. </h4>
-					<p class="card-text"> He is the Vice Principal of the College with 20+ years of teaching experience.</p>
-					<a href="#" class="btn btn-outline-secondary">See Profile</a>
+					<h4 class="card-title"> Dr. Subburaman Mohan. </h4>
+					<p class="card-text"> Senior Research Career Scientist at the Veterans Administration (VA), currently the Director of the Musculoskeletal Disease Center at the VA Loma Linda Healthcare Systems, California</p>
+					<a href="#mohan" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -176,7 +176,8 @@ session_start();
     <p class="card-text para-justify">
     <pre>
     Professor of Cardiovascular Institute “São Francisco de Assis”. 
-	Cardiovascular Surgeon, Center of Cardiovascular Surgery &amp; Heart Transplantation, Meridional Hospital, Cariacica, ES, Brazil. 
+	Cardiovascular Surgeon, Center of Cardiovascular Surgery &amp; Heart Transplantation, Meridional Hospital, 
+	Cariacica, ES, Brazil. 
 	Titular Member &amp; Member of the Deliberative Council of the Brazilian Society of Cardiovascular Surgery.
 	Philosophy Doctor - Federal University of São Paulo, Brazil (2015). 
 	Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011). 
@@ -222,7 +223,31 @@ India, Deccan Herald and many more.
 
 
 </div>
+
 <hr>
+<!--------------------------------------------------- --> 
+<div class="container">
+    <h1> <a name="mohan">Subburaman </a> Mohan Ph.D.</h1>
+    <p class="card-text" style="text-align:justify">
+    <pre>
+	Senior Research Career Scientist at the Veterans Administration (VA),
+	Director of the Musculoskeletal Disease Center at the VA Loma Linda Healthcare Systems,
+	Professor of Medicine, Orthopedics and Biochemistry at Loma Linda University, California
+    </pre>
+	Dr. Subburaman Mohan, Ph.D., is a well-established scientist in skeletal biology research with an international reputation and has published nearly 400 papers
+	in scientific journals with high impact factors.  
+	Dr. Mohan’s research interests during the past three decades have focused on the discovery of novel genes and evaluation of the functions of genes that are relevant
+	 to the acquisition, maintenance, and loss of bone and cartilage using various molecular genetics and biochemical approaches.   Dr. Mohan has made seminal contributions
+	  to the field of growth hormone/insulin-like growth factor (IGF) actions on bone. He discovered of two novel IGF binding proteins and elucidated their role in the musculoskeletal
+	   system. His current research funded by VA and NIH is centered around genetic regulation of peak bone mass, molecular pathways for thyroid hormone and hypoxia signaling in
+	    endochondral ossification, epigenetic mechanisms of vitamin C deficiency-induced skeletal fractures and long-term consequences 
+	of mild traumatic brain injury on bone.  Dr. Mohan is a well funded investigator and is a recipient of a number of professional awards.  
+	He has been a member or is a current member of the Editorial Board of several scientific journals, scientific organizing committees, and grant review panels.  
+</p>
+
+
+</div>
+
 <!--------------------------------------------------- --> 
 <div class="container">
     <h1> <a name="alex">Dr. Alex </a>C Varghese Ph.D.</h1>
