@@ -197,8 +197,8 @@ Cardiovascular Surgeon research program collaborator of the Department of Physio
     <h1> <a name="vemula">Dr. Praveen </a>Vemula Ph.D.</h1>
     <p class="card-text" style="text-align:justify">
     <pre>
-	Faculty, Institute for Stem Cell Biology and Regenerative Medicine(inStem),
-	Bangalore, India.
+Faculty, Institute for Stem Cell Biology and Regenerative Medicine(inStem),
+Bangalore, India.
     </pre>
     After obtaining Ph.D. from Indian Institute of Science in 2005, he
 received postdoctoral training at The City College of New York and Harvard–MIT Division of
@@ -222,7 +222,7 @@ India, Deccan Herald and many more.
 
 
 </div>
-
+<hr>
 <!--------------------------------------------------- --> 
 <div class="container">
     <h1> <a name="alex">Dr. Alex </a>C Varghese Ph.D.</h1>
