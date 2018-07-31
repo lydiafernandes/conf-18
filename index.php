@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Conference Login</title>
+  <title>Science Conference Login</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -44,7 +44,7 @@
   				</div>
 
   				<div class="form-group">
-  					<input type="password" id="password" name="password" class="form-control" placeholder="Enter Password">
+  					<input type="password" id="password" name="password" class="form-control" placeholder="Don't Enter Password">
 			  </div> 
 				 
 
