@@ -218,6 +218,7 @@ Pioneer in Evolutionary Neuroscience as President of the American Neuropsychiatr
 From 2012 to 2016 Vice President for Health Affairs & Dean of the University of Florida Health Science Center-Jacksonville. Supervised academic, clinical, and research activities in the Schools of Medicine, Nursing, and Pharmacy based at a 700 bed hospital all with a combined budget of $800M and some 6,000 employees, including a 750 faculty and resident practice spanning 51 sites in Florida and Georgia.   
   
 Now President of Western University of Health Sciences with graduate colleges of Medicine, Nursing, Pharmacy, Veterinary Medicine, Dentistry, Podiatry, Optometry, Health Professions and Biomedical Sciences — the most comprehensive health sciences university in the United States. 
+<a href="#top" class="btn btn-outline-secondary">Top</a>
 </p>
 
 </div>
@@ -240,6 +241,7 @@ Master of Science - Cardiovascular Institute “São Francisco de Assis”, Belo
 Post-Graduation (Medical Residency) - “Real and Benemérita Sociedade Portuguesa de Beneficência”, São Joaquim Hospital, São Paulo, SP, Brazil (1991). 
 Graduation (Medicine) - School of Sciences of “Santa Casa de Misericórdia de Vitória”, Vitória, ES, Brazil (1988).
 Cardiovascular Surgeon research program collaborator of the Department of Physiological Sciences, Federal University of “Espírito Santo”, Vitoria, ES, Brazil. Researcher on vascular reactivity, myocardial protection and dysfunction of cardiac mitochondrial subpopulations in heart failure.
+<a href="#top" class="btn btn-outline-secondary">Top</a>
 </p>
 </div>
 <hr>
@@ -269,6 +271,7 @@ Vemula’s work has been discussed in hundreds of newspapers, online websites, t
 newscasts, and radio shows around the world including The New York Times, CNN, ABC News,
 NBC, Boston Globe, LA Times, BBC, Discovery, National Geographic, The Hindu, The Times of
 India, Deccan Herald and many more.
+<a href="#top" class="btn btn-outline-secondary">Top</a>
 </p>
 
 
@@ -293,6 +296,7 @@ India, Deccan Herald and many more.
 	    endochondral ossification, epigenetic mechanisms of vitamin C deficiency-induced skeletal fractures and long-term consequences 
 	of mild traumatic brain injury on bone.  Dr. Mohan is a well funded investigator and is a recipient of a number of professional awards.  
 	He has been a member or is a current member of the Editorial Board of several scientific journals, scientific organizing committees, and grant review panels.  
+	<a href="#top" class="btn btn-outline-secondary">Top</a>
 </p>
 
 
@@ -316,10 +320,33 @@ India, Deccan Herald and many more.
 <br><br>He is an executive committee member of special group in Andrology of Canadian Fertility
  and Andrology Society (CFAS) and Chairman-Scientific Committee of 7th International
   Congress of Academy of Clinical embryologists, Goa, India (www.acegoa2018.com)
+  <a href="#top" class="btn btn-outline-secondary">Top</a>
 </p>
 
 
 </div>
+<hr>
+<!--------------------------------------------------- --> 
+<div class="container">
+    <h1> <a name="sorab"> </a> Prof. Sorab Nariman Dalal.</h1>
+    <p class="card-text" style="text-align:justify">
+    <pre>
+	Designation: Scientific Officer ‘G’, Associate Professor - HBNI
+	Department: Sorab’s laboratory, ACTREC, Tata Memorial Centre
+    </pre>
+	Awards and Honors
+Research Fellow of the Leukemia Society of America from July 1997 to July 2000. 
+Joint Secretary Indian Association of Cancer Research April 2009 to March 2012
+Secretary Indian Association of Cancer Research April 2012 to 2014
+Editor Journal of Biosciences from 2011, Current Science from 2018
+Member of the Task Force on Cancer Biology from 2012-2014
+DAE SRC Outstanding Scientist Award 2015
+<a href="#top" class="btn btn-outline-secondary">Top</a>
+</p>
+
+
+</div>
+
 <!-- -------------------------------------------------->
 <!--- Connect-->
 <?php include("includes/footer.php");?>
