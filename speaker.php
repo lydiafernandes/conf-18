@@ -32,7 +32,7 @@ session_start();
 <div class="container-fluid padding">
 	<div class="row welcome text-center">
 		<div class="col-12">
-			<h1 class="display-4">Our Esteemed Invited Speakers </h1>
+			<h1 class="display-4"><a name="top">Our Esteemed Invited Speakers </a></h1>
 		</div>
 		<hr>
 	</div>
@@ -50,7 +50,7 @@ session_start();
 					<h4 class="card-title"> Dr. Rajmohan V.</h4>
 					<p class="card-text"> Asst. Professor with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) 
 					and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</p>
-					<a href="#rajmohan" name="top" class="btn btn-outline-secondary">See Profile</a>
+					<a href="#rajmohan" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
