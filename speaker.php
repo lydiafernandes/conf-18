@@ -206,11 +206,17 @@ session_start();
     Email: 
     Web:<a href="#">?</a> -->
     </pre>
-    Having completed his Bachelors in Ayurvedic Medicine and Surgery (BAMS) and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College, Thiruvananthapuram under the University of Kerala.   He has started his carrier as medical officer in the 
-	Department of Indian Systems of Medicine under of the Government of Kerala and was deputed as Research Officer in the Drug Standardization 
-	Unit under the Department of Ayurveda Medical Education of Government of Kerala.He has started his carrier as medical officer in the Department of Indian Systems of Medicine under of the Government of Kerala and was deputed as Research Officer in the Drug Standardization Unit under the Department of Ayurveda Medical Education of Government of Kerala.
-    He has started his carrier as medical officer in the Department of Indian Systems of Medicine under of the Government of Kerala and was deputed as Research Officer in the Drug Standardization Unit under the Department of Ayurveda Medical Education of Government of Kerala.  His teaching carrier started at Vaidyaratnam P S Varier Ayurveda College, Kottakkal and later continued to Government Ayurveda College, Thiruvananthapuram and since January 2018, to the current institution.  He was the faculty of Research Methodology at Government Ayurveda College, Thiruvananthapuram and Subject expert of research methodology at Kerala University of Health Sciences (KUHS).   Currently he is acting as a resource person to UGC – Human Resource Development Centre, University of Calicut and technical committee member of School of Ayurveda and School of Health Policy and Planning of KUHS.  He has acted as a member of the committee for the preparation of perspective plan for KUHS and was an active member in the committee for developing a vision document for the functioning of KUHS.  He has actively Participated in the Conceptualization and Project Development Workshop for High Impact Projects (HIP) in Ayurveda, organized by FRLHT - Institute of Ayurveda and Integrative Medicine (I-AIM), for the Dept. of AYUSH, Govt. of India, held at the School of Ancient Wisdom, Bangalore from 21st to 23rd may, 2010 and was a national level coordinator for one of the projects.  He has been a resource person to various International and National seminar and conferences since 2007 and has 13 publications to his credit.  He is awarded with SKM Research Scholar 2010 Award by SKM Centre for AYUSH System Research and Education, Erode – A National Level award for outstanding contribution to Research Methodologies in Ayurveda.  He is a teacher, clinician and researcher currently researching on the interface of ageing, Rasayana (ayurvedic drugs for ageing and degeneration) 
-	and cancer through interdisciplinary and multidisciplinary approaches. 
+    Yale (BA Anthropology), Iowa (MD), McLean Hospital & Harvard Medical School (Internship, Residency & Fellowships), Case Western (Diploma Leadership), and Cambridge (PhD  Biological Anthropology).  
+  
+Some 350 formal scholarly communications and Principle Investigator on more than 40 grants and Co-I or Consultant on some 40 other studies.    
+  
+Directed Neuropsychiatry at McLean Hospital & Harvard Medical School from 1987-92.  From 1994 to 2000, served as Medical Director of the largest state hospital in Ohio. University of Cincinnati Professor of Psychiatry and Medical Director of the University Institute for Medicine & Law.  Creighton University Chairman of Psychiatry and Professor of Psychiatry, Neurology, and Anthropology 2000-2012.
+
+Pioneer in Evolutionary Neuroscience as President of the American Neuropsychiatric Association and Founding Chair of the World Psychiatric Association Section on Evolutionary Psychiatry. 
+  
+From 2012 to 2016 Vice President for Health Affairs & Dean of the University of Florida Health Science Center-Jacksonville. Supervised academic, clinical, and research activities in the Schools of Medicine, Nursing, and Pharmacy based at a 700 bed hospital all with a combined budget of $800M and some 6,000 employees, including a 750 faculty and resident practice spanning 51 sites in Florida and Georgia.   
+  
+Now President of Western University of Health Sciences with graduate colleges of Medicine, Nursing, Pharmacy, Veterinary Medicine, Dentistry, Podiatry, Optometry, Health Professions and Biomedical Sciences — the most comprehensive health sciences university in the United States. 
 </p>
 
 </div>
@@ -313,8 +319,8 @@ India, Deccan Herald and many more.
 
 
 </div>
-<!-- ------------------------------------------------  -->
-<!--- Connect -->
+<!-- -------------------------------------------------->
+<!--- Connect-->
 <?php include("includes/footer.php");?>
 
 </body>
