@@ -149,7 +149,7 @@ session_start();
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Renjith P Nair, PhD </h4>
 					<p class="card-text"> Lecturer in molecular oncology, Malabar Cancer Centre, Thalassery, India</p>
-					<a href="#" class="btn btn-outline-secondary">See Profile</a>
+					<a href="#renjith" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -341,6 +341,30 @@ Secretary Indian Association of Cancer Research April 2012 to 2014
 Editor Journal of Biosciences from 2011, Current Science from 2018
 Member of the Task Force on Cancer Biology from 2012-2014
 DAE SRC Outstanding Scientist Award 2015
+<a href="#top" class="btn btn-outline-secondary">Top</a>
+</p>
+
+
+</div>
+
+<!-- -------------------------------------------------->
+<hr>
+<!--------------------------------------------------- --> 
+<div class="container">
+    <h1> <a name="renjith"> </a> Dr. Renjtih P Nair</h1>
+    <p class="card-text" style="text-align:justify">
+    <pre>
+	Designation: Lecturer in molecular oncology, Malabar Cancer Centre, Thalassery, India.
+    </pre>
+	Awards and Honors
+	Dr. Renjith, is involved in the molecular diagnosis of different cancer types.
+	 He is a recipient of several awards and fellowships from KSCSTE, CSIR, ICMR and JNCASR.
+	 His areas of research are personalized therapy, tissue engineering, gene therapy, 
+	 protein engineering, drug repurposing and molecular oncology. He had several publications
+	 in peer reviewed high impact international journals. He delivered several invited talks 
+	 in national and international conferences. He is a reviewer of several international 
+	 journals including RSC Advances, Artificial Organs, Biomedical Materials
+	 and Journal of Applied polymer Science. 
 <a href="#top" class="btn btn-outline-secondary">Top</a>
 </p>
 

@@ -164,13 +164,14 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 		<h3> HTML5 </h3> -->
 		<p>St. Xavier&apos;s College - Autonomous, Mumbai</p>
 	</div>
-
+<!-- space for third logo
 	<div class="col-sm-12 col-md-4">
 
 		<i class="fas fa-bold"></i>
 		<h3> BOOTSTRAP </h3>
 		<p>Built with the latest version of BOOTSTRAP, BOOTSTRAP 4,</p>
 	</div>
+	-->
 
 	<div class="col-xs-12 col-sm-6 col-md-4">
 		<img src="img/197px-Creighton_University_seal.png">
