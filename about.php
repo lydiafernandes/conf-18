@@ -67,7 +67,7 @@ session_start();
       </ul>
     </nav>
     <div class="col-sm-9 col-8">
-      <div id="section1" class="bg-success col-sm-7">    
+      <div id="section1" class="bg-success col-sm-9 col-8">    
         <h1>Creighton University</h1>
         <p>
             Creighton is a Jesuit comprehensive university committed to 
