@@ -67,7 +67,7 @@ session_start();
       </ul>
     </nav>
     <div class="col-sm-9 col-8">
-      <div id="section1" class="bg-success" style="background-color:#96d900;">    
+      <div id="section1" class="bg-success">    
         <h1>Creighton University</h1>
          <img src="img/creighton_ovrview.jpg" class="img-fluid float-left rounded" width="304"
          height="236" alt="image of creighton" title="Aerial view of Creighton University">
