@@ -28,8 +28,7 @@ session_start();
       position: relative;
   }
   ul.nav-pills {
-      padding-top:50%;
-      top: 20px;
+      top: 100px;
       position: fixed;
   }
   div.col-8 div {
@@ -107,7 +106,7 @@ session_start();
             Institution, known for its academic excellence and commitment towards humanity 
             with its ethos based on the ‘magis’ - striving for ‘the more’. 
             <br>
-                <img src="img/creighton_ovrview.jpg" class="img-fluid rounded" style="width:100%" alt="image of creighton">
+                <img src="img/sxc_aerial_view.jpg" class="img-fluid rounded" style="width:100%" alt="image of creighton">
             <br>
         </p>
       </div>        
