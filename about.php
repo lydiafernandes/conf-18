@@ -67,7 +67,7 @@ session_start();
       </ul>
     </nav>
     <div class="col-sm-9 col-8">
-      <div id="section1" class="bg-success col-sm-9 col-8">    
+      <div id="section1" class="bg-success">    
         <h1>Creighton University</h1>
         <p>
             Creighton is a Jesuit comprehensive university committed to 
@@ -82,8 +82,8 @@ session_start();
             World Report magazine’s college ranking for the Midwest Regional Universities. It has earned
             No. 1 Ranking in America’s Best Colleges” edition for the 15th year in a row.
         
-        <img src="img/creighton_ovrview.jpg" class="img-fluid rounded" width="304"
-         height="236" alt="image of creighton" title="Aerial view of Creighton University">
+        <!-- img src="img/creighton_ovrview.jpg" class="img-fluid rounded" width="304"
+         height="236" alt="image of creighton" title="Aerial view of Creighton University" -->
 
         The mission of the Creighton School of Medicine is to improve the human well-being with 
         a diverse body of students, faculty and staff who provide excellence in educating 
