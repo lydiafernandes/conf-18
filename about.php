@@ -72,7 +72,7 @@ session_start();
          <img src="img/creighton_ovrview.jpg" class="img-fluid float-left rounded" width="304"
          height="236" alt="image of creighton" title="Aerial view of Creighton University">
 
-         <img src="img/creightoncampus.jpg" class="img-fluid rounded" Style="margin:10px;" width="304"
+         <img src="img/creightoncampus.jpg" class="img-fluid rounded" Style="margin:10px;padding-bottom:10px" width="304"
          height="236" alt="image of creighton" title="Campus of Creighton University">
          
          <img src="img/CreightonUniv_Church.jpg" class="img-fluid float-right rounded" width="304"
@@ -114,9 +114,9 @@ session_start();
             with its ethos based on the ‘magis’ - striving for ‘the more’. 
         </p>
             
-            <img src="img/sxc_lib.jpg" class="img-fluid float-left" alt="xaviers library" width="304" height="350">
-            <img src="img/sxc_chapel.jpg" alt="xavier chapel" class="img-fluid" style="margin:10px" width="304" height="350">
-            <img src="img/sxc_quad_eco.jpg" class="img-fluid float-right" alt="xaviers quad" width="304" height="350"> 
+            <img src="img/sxc_lib.jpg" class="img-fluid float-left" alt="xaviers library" width="310" height="350">
+            <img src="img/sxc_chapel.jpg" alt="xavier chapel" class="img-fluid" style="margin:10px" width="310" height="350">
+            <img src="img/sxc_quad_eco.jpg" class="img-fluid float-right" alt="xaviers quad" width="310" height="350"> 
         <p>
             Nestled in a locale of exquisite Victorian Gothic style architectural splendor of 
             artistic sophistication, the college campus stands on a strategic road named 
