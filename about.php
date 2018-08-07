@@ -68,8 +68,8 @@ session_start();
     </nav>
     <div class="col-sm-9 col-8">
       <div id="section1" class="bg-success">    
-        <h1 class="display-3">Creighton University</h1>
-        <p class="display-4">
+        <h1>Creighton University</h1>
+        <p>
             Creighton is a Jesuit comprehensive university committed to 
             excellence in its selected undergraduate, graduate and professional programs.
             Creighton University, located in Omaha, NE, USA, is a supportive community of 
@@ -101,7 +101,7 @@ session_start();
         </p>
       </div>
       <div id="section2" class="bg-warning"> 
-        <h1 class="display-3">St. Xavier's College-Autonomous, Mumbai</h1>
+        <h1>St. Xavier's College-Autonomous, Mumbai</h1>
         <p>St. Xaviers’s College  founded in 1869 by ‘Society of Jesus’, is a premier Jesuit 
             Institution, known for its academic excellence and commitment towards humanity 
             with its ethos based on the ‘magis’ - striving for ‘the more’. 
