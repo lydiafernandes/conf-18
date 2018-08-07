@@ -44,8 +44,8 @@ session_start();
 
 <!-- -------------------------------------------------->
 <div class="container-fluid">
-  <div class="row"> 
-    <nav class="col-sm-3 col-4" id="myScrollspy" style="padding-top:25%">
+  <div class="row" style="padding-top:50%"> 
+    <nav class="col-sm-3 col-4" id="myScrollspy">
       <ul class="nav nav-pills flex-column">
         <li class="nav-item">
           <a class="nav-link active" href="#section1">Creighton University</a>
@@ -57,7 +57,7 @@ session_start();
           <a class="nav-link" href="#section3">Conference Schedule</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#"></a>
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#"Section4></a>
           <div class="dropdown-menu">
             <a class="dropdown-item" href="#section41">Link 1</a>
             <a class="dropdown-item" href="#section42">Link 2</a>
@@ -67,7 +67,7 @@ session_start();
     </nav>
     <div class="col-sm-9 col-8">
       <div id="section1" class="bg-success">    
-        <h1>Creighton University</h1>
+        <h1 class="display-3">Creighton University</h1>
         <p>
             Creighton is a Jesuit comprehensive university committed to 
             excellence in its selected undergraduate, graduate and professional programs.
