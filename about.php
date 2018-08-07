@@ -71,10 +71,12 @@ session_start();
         <h1>Creighton University</h1>
          <img src="img/creighton_ovrview.jpg" class="img-fluid float-left rounded" width="304"
          height="236" alt="image of creighton" title="Aerial view of Creighton University">
-         <img src="img/creightoncampus.jpg" class="img-fluid rounded" width="304"
-         height="236" alt="image of creighton" title="Aerial view of Creighton University">
+
+         <img src="img/creightoncampus.jpg" class="img-fluid rounded" Style="margin:5px;" width="304"
+         height="236" alt="image of creighton" title="Campus of Creighton University">
+         
          <img src="img/CreightonUniv_Church.jpg" class="img-fluid float-right rounded" width="304"
-         height="236" alt="image of creighton" title="Aerial view of Creighton University">
+         height="236" alt="image of creighton" title="Church view of Creighton University">
          <p>
             Creighton is a Jesuit comprehensive university committed to 
             excellence in its selected undergraduate, graduate and professional programs.
