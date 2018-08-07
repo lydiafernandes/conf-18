@@ -43,7 +43,7 @@ session_start();
 <?php include("includes/navigation.php");?>
 
 <!-- -------------------------------------------------->
-<div class="container-fluid" style="padding-top:100px">
+<div class="container-fluid" style="padding-top:25%">
   <div class="row"> 
     <nav class="col-sm-3 col-4" id="myScrollspy">
       <ul class="nav nav-pills flex-column">
