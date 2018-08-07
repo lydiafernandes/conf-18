@@ -82,7 +82,7 @@ session_start();
             World Report magazine’s college ranking for the Midwest Regional Universities. It has earned
             No. 1 Ranking in America’s Best Colleges” edition for the 15th year in a row.
         <br>
-        <img src="img/creighton_ovrview.jpg" class="img-fluid rounded" style="width:100%" alt="image of creighton">
+        <img src="img/creighton_ovrview.jpg" class="img-fluid rounded" width="304" height="236" alt="image of creighton">
         <br>
         The mission of the Creighton School of Medicine is to improve the human well-being with 
         a diverse body of students, faculty and staff who provide excellence in educating 
@@ -106,7 +106,9 @@ session_start();
             Institution, known for its academic excellence and commitment towards humanity 
             with its ethos based on the ‘magis’ - striving for ‘the more’. 
             <br>
-                <img src="img/sxc_aerial_view.jpg" class="img-fluid rounded" style="width:100%" alt="image of creighton">
+            <img src="img/sxc_lib.jpg" class="float-left" alt="xaviers library" width="304" height="236">
+            <img src="img/sxc_chapel.jpg" alt="xavier chapel" width="304" height="236">
+            <img src="img/sxc_quad_eco.jpg" class="float-right" alt="xaviers quad" width="304" height="236"> 
             <br>
         </p>
       </div>        
