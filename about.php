@@ -69,10 +69,9 @@ session_start();
     <div class="col-sm-9 col-8">
       <div id="section1" class="bg-success">    
         <h1>Creighton University</h1>
-        <p>
-
-        <img src="img/creighton_ovrview.jpg" class="img-fluid rounded" width="304"
+         <img src="img/creighton_ovrview.jpg" class="img-fluid rounded" width="304"
          height="236" alt="image of creighton" title="Aerial view of Creighton University">
+         <p>
             Creighton is a Jesuit comprehensive university committed to 
             excellence in its selected undergraduate, graduate and professional programs.
             Creighton University, located in Omaha, NE, USA, is a supportive community of 
@@ -84,7 +83,8 @@ session_start();
             something meaningful to the world. Creighton University has earned the top spot in U.S.News &
             World Report magazine’s college ranking for the Midwest Regional Universities. It has earned
             No. 1 Ranking in America’s Best Colleges” edition for the 15th year in a row.
-        <br>
+            </p>
+            <p>
         The mission of the Creighton School of Medicine is to improve the human well-being with 
         a diverse body of students, faculty and staff who provide excellence in educating 
         students, physicians and the public, advancing knowledge and providing comprehensive 
@@ -106,11 +106,18 @@ session_start();
         <p>St. Xaviers’s College  founded in 1869 by ‘Society of Jesus’, is a premier Jesuit 
             Institution, known for its academic excellence and commitment towards humanity 
             with its ethos based on the ‘magis’ - striving for ‘the more’. 
+        </p>
             
-            <img src="img/sxc_lib.jpg" class="float-left" alt="xaviers library" width="304" height="236">
-            <img src="img/sxc_chapel.jpg" alt="xavier chapel" width="304" height="236">
-            <img src="img/sxc_quad_eco.jpg" class="float-right" alt="xaviers quad" width="304" height="236"> 
-        
+            <img src="img/sxc_lib.jpg" class="float-left" alt="xaviers library" width="304" height="350">
+            <img src="img/sxc_chapel.jpg" alt="xavier chapel" width="304" height="350">
+            <img src="img/sxc_quad_eco.jpg" class="float-right" alt="xaviers quad" width="304" height="350"> 
+        <p>
+            Nestled in a locale of exquisite Victorian Gothic style architectural splendor of 
+            artistic sophistication, the college campus stands on a strategic road named 
+            ‘Mahapalika Marg’ connecting Dhobi Talao to Victoria Terminus, now known as 
+            Chatrapati Shivaji Maharaj Terminus (CSMT). 
+            All the elegant structures on Mahapalika Marg overlook the ‘Esplanade’ or ‘Azad Maidan’. 
+
         </p>
       </div>        
       <div id="section3" class="bg-secondary">         
