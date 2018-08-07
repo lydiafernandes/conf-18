@@ -180,14 +180,14 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 	<div class="col-xs-12 col-sm-6 col-md-4">
 		<a href="about.php" border="0">
 			<img src="img/197px-Creighton_University_seal.png">
-		
+		</a>
 		<!--
 		<i class="fas fa-css3"></i>
 		<h3> CSS3 </h3> 
 		<p>Built with the latest version of CSS, CSS3,</p>
 		-->
 		<p>Creighton University, Omaha, NE, USA</p>
-		</a>
+		
 	</div>
 	<hr class="my-4">
 </div>
