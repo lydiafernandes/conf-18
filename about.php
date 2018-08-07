@@ -73,7 +73,7 @@ session_start();
          height="236" alt="image of creighton" title="Aerial view of Creighton University">
 
          <img src="img/creightoncampus.jpg" class="img-fluid rounded" Style="margin:10px;padding-bottom:10px" width="304"
-         height="236" alt="image of creighton" title="Campus of Creighton University">
+         height="250" alt="image of creighton" title="Campus of Creighton University">
          
          <img src="img/CreightonUniv_Church.jpg" class="img-fluid float-right rounded" width="304"
          height="236" alt="image of creighton" title="Church view of Creighton University">
