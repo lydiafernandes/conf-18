@@ -28,7 +28,7 @@ session_start();
       position: relative;
   }
   ul.nav-pills {
-      top: 40px;
+      top: 20px;
       position: fixed;
   }
   div.col-8 div {
@@ -38,7 +38,7 @@ session_start();
 
 
 </head>
-<body data-spy="scroll" data-target="#myScrollspy" data-offset="1"> 
+<body data-spy="scroll" data-target="#myScrollspy" data-offset="10%"> 
     <!-- include the nav bar -->
 <?php include("includes/navigation.php");?>
 
