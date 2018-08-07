@@ -28,7 +28,7 @@ session_start();
       position: relative;
   }
   ul.nav-pills {
-      top: 20px;
+      top: 40px;
       position: fixed;
   }
   div.col-8 div {
