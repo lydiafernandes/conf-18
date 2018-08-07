@@ -109,7 +109,7 @@ session_start();
         </p>
             
             <img src="img/sxc_lib.jpg" class="float-left" alt="xaviers library" width="304" height="350">
-            <img src="img/sxc_chapel.jpg" alt="xavier chapel" width="304" height="350">
+            <img src="img/sxc_chapel.jpg" alt="xavier chapel" style="margin-left:5px" width="304" height="350">
             <img src="img/sxc_quad_eco.jpg" class="float-right" alt="xaviers quad" width="304" height="350"> 
         <p>
             Nestled in a locale of exquisite Victorian Gothic style architectural splendor of 
