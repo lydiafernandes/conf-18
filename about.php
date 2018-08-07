@@ -43,9 +43,9 @@ session_start();
 <?php include("includes/navigation.php");?>
 
 <!-- -------------------------------------------------->
-<div class="container-fluid" style="padding-top:25%">
+<div class="container-fluid">
   <div class="row"> 
-    <nav class="col-sm-3 col-4" id="myScrollspy">
+    <nav class="col-sm-3 col-4" id="myScrollspy" style="padding-top:25%">
       <ul class="nav nav-pills flex-column">
         <li class="nav-item">
           <a class="nav-link active" href="#section1">Creighton University</a>
@@ -81,7 +81,7 @@ session_start();
             World Report magazine’s college ranking for the Midwest Regional Universities. It has earned
             No. 1 Ranking in America’s Best Colleges” edition for the 15th year in a row.
         </p>
-        <img src="img/creighton_overview.jpg" class="img-fluid rounded" style="width:100%" alt="image of creighton">
+        <img src="img/creighton_ovrview.jpg" class="img-fluid rounded" style="width:100%" alt="image of creighton">
         <p>
         The mission of the Creighton School of Medicine is to improve the human well-being with 
         a diverse body of students, faculty and staff who provide excellence in educating 
