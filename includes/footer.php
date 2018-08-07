@@ -1,5 +1,5 @@
 <!--- Connect -->
-<
+
 <div class="container-fluid padding">
 	<div class="row text-center padding">
 		<!-- lets add the first of the 4 width column -->
