@@ -66,7 +66,7 @@ session_start();
         </li>
       </ul>
     </nav>
-    <div class="col-sm-9 col-8">
+    <div class="col-sm-9 col-10">
       <div id="section1" class="bg-success">    
         <h1>Creighton University</h1>
         <p>
