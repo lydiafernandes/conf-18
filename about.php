@@ -82,6 +82,22 @@ session_start();
             No. 1 Ranking in America’s Best Colleges” edition for the 15th year in a row.
         </p>
         <img src="creighton_overview.jpg" class="img-fluid rounded" style="width:100%" alt="image of creighton">
+        <p>
+        The mission of the Creighton School of Medicine is to improve the human well-being with 
+        a diverse body of students, faculty and staff who provide excellence in educating 
+        students, physicians and the public, advancing knowledge and providing comprehensive 
+        patient care. The Department of Clinical and Translational Science (CTS) at Creighton
+         University School of Medicine is instituted to support advance education, 
+         provide collaboration and research in clinical and translational science. 
+         Our goal is to establish Creighton as a nationally and internationally renowned 
+         research institution for cutting-edge multidisciplinary translational research programs.
+          CTS strives to improve the future of health care and bring about an era of personalized 
+          medicine while advancing science and applying new discoveries to patient care. 
+          The Department of CTS fosters an extremely conducive environment where learners are 
+          mentored to become exceptional scientists/physicians and emerge as independent
+           investigators.
+
+        </p>
       </div>
       <div id="section2" class="bg-warning"> 
         <h1>Section 2</h1>
