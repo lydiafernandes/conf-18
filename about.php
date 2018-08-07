@@ -119,6 +119,19 @@ session_start();
             All the elegant structures on Mahapalika Marg overlook the ‘Esplanade’ or ‘Azad Maidan’. 
 
         </p>
+        <p>
+            The students and faculty at our campus strive to thrive in an academic environment
+             envisaging  creative freedom, critical thinking with a commitment to principles of 
+             social justice, equal opportunities by imbibing the essence of inclusive education.
+              The college campus symbolises a homogeneity merging traditional concepts with 
+              modern technological advancements. It keeps up with the ever complex environment
+               of the present world through its various centres such as Blatter Herbarium, 
+               Heras Institute of Indian History and Culture, Caius Laboratory for 
+               Interdisciplinary Research, Nadkarny Sacasa Research Laboratory (NSRL),
+                Xavier’s Research Centre for Visually Challenged (XRCVC), Department of
+                 Inter-Religious Studies (DIRS) and the Xavier’s Visual Arts Studio (XVAS) 
+                 on the campus.
+        </p>
       </div>        
       <div id="section3" class="bg-secondary">         
         <h1>Section 3</h1>
