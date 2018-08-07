@@ -219,7 +219,7 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 			<a href="#" class="btn btn-primary"> Learn More </a>
 		</div>
 		<div class="col-md-12 col-lg-6">
-			<img src="img/desk.png" class="img-fluid">
+			<img src="img/desk.png" class="img-fluid" style="width:100%">
 		</div>
 	</div>
 </div>
