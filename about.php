@@ -114,9 +114,9 @@ session_start();
             with its ethos based on the ‘magis’ - striving for ‘the more’. 
         </p>
             
-            <img src="img/sxc_lib.jpg" class="img-fluid float-left" alt="xaviers library" width="304" height="300">
-            <img src="img/sxc_chapel.jpg" alt="xavier chapel" class="img-fluid" style="margin-left:10px; margin-right:10px;" width="304" height="300">
-            <img src="img/new_sxc_eco.png" class="img-fluid float-right" alt="xaviers quad" width="304" height="300"> 
+            <img src="img/sxc_lib.jpg" class="img-fluid float-left" alt="xaviers library" width="304" height="275">
+            <img src="img/sxc_chapel.jpg" alt="xavier chapel" class="img-fluid" style="margin-left:10px; margin-right:10px;" width="304" height="275">
+            <img src="img/new_sxc_eco.png" class="img-fluid float-right" alt="xaviers quad" width="304" height="275"> 
         <p>
             Nestled in a locale of exquisite Victorian Gothic style architectural splendor of 
             artistic sophistication, the college campus stands on a strategic road named 
