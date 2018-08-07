@@ -81,7 +81,7 @@ session_start();
             World Report magazine’s college ranking for the Midwest Regional Universities. It has earned
             No. 1 Ranking in America’s Best Colleges” edition for the 15th year in a row.
         </p>
-        <img src="creighton_overview.jpg" class="img-fluid rounded" style="width:100%" alt="image of creighton">
+        <img src="img/creighton_overview.jpg" class="img-fluid rounded" style="width:100%" alt="image of creighton">
         <p>
         The mission of the Creighton School of Medicine is to improve the human well-being with 
         a diverse body of students, faculty and staff who provide excellence in educating 
