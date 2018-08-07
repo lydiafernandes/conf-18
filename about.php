@@ -5,7 +5,7 @@ session_start();
 <!DOCTYPE html>
 <HTML>
     <head>
-        <title> Contact Us </title>
+        <title> About Us </title>
         <meta charset="utf-8">
     	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -22,7 +22,6 @@ session_start();
 
         <!-- this file is included in the external file -->
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
-        <link rel="stylesheet" type="text/css" href="css/style_contact.css"> 
        
         <style>
   body {
