@@ -28,6 +28,7 @@ session_start();
       position: relative;
   }
   ul.nav-pills {
+      padding-top:50%;
       top: 20px;
       position: fixed;
   }
@@ -40,11 +41,11 @@ session_start();
 </head>
 <body data-spy="scroll" data-target="#myScrollspy" data-offset="1"> 
     <!-- include the nav bar -->
-<?php include("includes/navigation.php");?>
+    <?php include("includes/navigation.php");?>
 
 <!-- -------------------------------------------------->
 <div class="container-fluid">
-  <div class="row" style="padding-top:50%"> 
+  <div class="row"> 
     <nav class="col-sm-3 col-4" id="myScrollspy">
       <ul class="nav nav-pills flex-column">
         <li class="nav-item">
@@ -57,18 +58,19 @@ session_start();
           <a class="nav-link" href="#section3">Conference Schedule</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#"Section4></a>
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Section4</a>
           <div class="dropdown-menu">
             <a class="dropdown-item" href="#section41">Link 1</a>
             <a class="dropdown-item" href="#section42">Link 2</a>
           </div>
+
         </li>
       </ul>
     </nav>
     <div class="col-sm-9 col-8">
       <div id="section1" class="bg-success">    
         <h1 class="display-3">Creighton University</h1>
-        <p>
+        <p class="display-4">
             Creighton is a Jesuit comprehensive university committed to 
             excellence in its selected undergraduate, graduate and professional programs.
             Creighton University, located in Omaha, NE, USA, is a supportive community of 
@@ -80,9 +82,9 @@ session_start();
             something meaningful to the world. Creighton University has earned the top spot in U.S.News &
             World Report magazine’s college ranking for the Midwest Regional Universities. It has earned
             No. 1 Ranking in America’s Best Colleges” edition for the 15th year in a row.
-        </p>
+        <br>
         <img src="img/creighton_ovrview.jpg" class="img-fluid rounded" style="width:100%" alt="image of creighton">
-        <p>
+        <br>
         The mission of the Creighton School of Medicine is to improve the human well-being with 
         a diverse body of students, faculty and staff who provide excellence in educating 
         students, physicians and the public, advancing knowledge and providing comprehensive 
@@ -100,8 +102,14 @@ session_start();
         </p>
       </div>
       <div id="section2" class="bg-warning"> 
-        <h1>Section 2</h1>
-        <p>Try to scroll this section and look at the navigation list while scrolling!</p>
+        <h1 class="display-3">St. Xavier's College-Autonomous, Mumbai</h1>
+        <p>St. Xaviers’s College  founded in 1869 by ‘Society of Jesus’, is a premier Jesuit 
+            Institution, known for its academic excellence and commitment towards humanity 
+            with its ethos based on the ‘magis’ - striving for ‘the more’. 
+            <br>
+                <img src="img/creighton_ovrview.jpg" class="img-fluid rounded" style="width:100%" alt="image of creighton">
+            <br>
+        </p>
       </div>        
       <div id="section3" class="bg-secondary">         
         <h1>Section 3</h1>
