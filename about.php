@@ -71,6 +71,10 @@ session_start();
         <h1>Creighton University</h1>
          <img src="img/creighton_ovrview.jpg" class="img-fluid rounded" width="304"
          height="236" alt="image of creighton" title="Aerial view of Creighton University">
+         <img src="img/creightoncampus.jpg" class="img-fluid rounded" width="304"
+         height="236" alt="image of creighton" title="Aerial view of Creighton University">
+         <img src="img/CreightonUniv_Church.jpg" class="img-fluid rounded" width="304"
+         height="236" alt="image of creighton" title="Aerial view of Creighton University">
          <p>
             Creighton is a Jesuit comprehensive university committed to 
             excellence in its selected undergraduate, graduate and professional programs.
@@ -109,7 +113,7 @@ session_start();
         </p>
             
             <img src="img/sxc_lib.jpg" class="float-left" alt="xaviers library" width="304" height="350">
-            <img src="img/sxc_chapel.jpg" alt="xavier chapel" style="margin-left:5px" width="304" height="350">
+            <img src="img/sxc_chapel.jpg" alt="xavier chapel" style="margin-left:5px; margin-right:5px" width="304" height="350">
             <img src="img/sxc_quad_eco.jpg" class="float-right" alt="xaviers quad" width="304" height="350"> 
         <p>
             Nestled in a locale of exquisite Victorian Gothic style architectural splendor of 
