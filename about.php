@@ -32,7 +32,15 @@ session_start();
       position: fixed;
   }
   div.col-8 div {
-      height: 800px;
+      height: 750px;
+  }
+
+
+#section1{
+  background-color:#96d900;
+}
+  #section2{
+      height:1000px;
   }
   </style>
 
