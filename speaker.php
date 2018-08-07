@@ -157,13 +157,12 @@ session_start();
 		<!--ROW 3- THIRD CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Alex_New.png">
+				<img class="card-img-top" src="img/Ramesh_Goyal.png">
 				<div class="card-body">
-					<h4 class="card-title"> Dr. Alex C Varghese </h4>
-					<p class="card-text"> Scientific  Director <br>
-                                           ASTRA Fertility Group,<br>
-                                           <b>Web:</b> 
-                                           <a href="www.lifeinvitro.com"> www.lifeinvitro.com</a>
+					<h4 class="card-title"> Dr. Ramesh K. Goyal </h4>
+					<p class="card-text"> Member of Task Force, Committee for Herbal Group, 
+					Indian Council of Medical research ,Member,
+					 Indian Pharmacopoeia Commission, CDSCO, Govt. of India.
 
                     </p>
 					<a href="#alex" class="btn btn-outline-secondary">See Profile</a>
