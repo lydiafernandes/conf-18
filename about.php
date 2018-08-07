@@ -38,13 +38,13 @@ session_start();
 
 
 </head>
-<body data-spy="scroll" data-target="#myScrollspy" data-offset="20%"> 
+<body data-spy="scroll" data-target="#myScrollspy" data-offset="1"> 
     <!-- include the nav bar -->
 <?php include("includes/navigation.php");?>
 
 <!-- -------------------------------------------------->
 <div class="container-fluid">
-  <div class="row">
+  <div class="row" style="margin-top:20%;"> 
     <nav class="col-sm-3 col-4" id="myScrollspy">
       <ul class="nav nav-pills flex-column">
         <li class="nav-item">
@@ -81,6 +81,7 @@ session_start();
             World Report magazine’s college ranking for the Midwest Regional Universities. It has earned
             No. 1 Ranking in America’s Best Colleges” edition for the 15th year in a row.
         </p>
+        <img src="creighton_overview.jpg" class="img-fluid rounded" style="width:100%" alt="image of creighton">
       </div>
       <div id="section2" class="bg-warning"> 
         <h1>Section 2</h1>
