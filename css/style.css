@@ -154,7 +154,13 @@ hr.light{
 @media (max-width: 576px) {
   
 }
-
+/* Related simple non-responsive mixins*/
+.element {
+  @include float-left;
+}
+.another-element {
+  @include float-right;
+}
 
 /*---Firefox Bug Fix --*/
 .carousel-item {
