@@ -7,7 +7,7 @@ session_start();
     <head>
         <title> About Us </title>
         <meta charset="utf-8">
-    	<meta name="viewport" content="width=device-width, initial-scale=1">
+      	<meta name="viewport" content="width=device-width, initial-scale=1">
 
          <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -24,11 +24,11 @@ session_start();
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
        
         <style>
-  body {
-      position: relative;
-  }
-  ul.nav-pills {
-      top: 100px;
+        body {
+              position: relative;
+            }
+        ul.nav-pills {
+                       top: 20%;
       position: fixed;
   }
   div.col-8 div {
