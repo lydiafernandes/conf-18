@@ -162,7 +162,9 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 <div class="container-fluid" padding></div>
 <div class="row text-center padding">
 	<div class="col-xs-12 col-sm-6 col-md-4">
-		<img src="img/logo_college197x197.png">
+		<a href="about.php" border="0">
+			<img src="img/logo_college197x197.png">
+		</a>
 		<!-- <i class="fas fa-code"></i>
 		<h3> HTML5 </h3> -->
 		<p>St. Xavier&apos;s College - Autonomous, Mumbai</p>

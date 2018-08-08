@@ -93,7 +93,7 @@ session_start();
          
          <img src="img/CreightonUniv_Church.jpg" class="img-fluid float-right rounded" width="300"
          height="236" alt="image of creighton" title="Church view of Creighton University">
-         <br>
+         <hr>
          <p>
             Creighton is a Jesuit comprehensive university committed to 
             excellence in its selected undergraduate, graduate and professional programs.
