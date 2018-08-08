@@ -41,6 +41,7 @@ session_start();
 }
   #section2{
     background-color:#ffdb4d;
+    height:75%px;
   }
   </style>
 
