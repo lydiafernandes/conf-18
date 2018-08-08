@@ -84,7 +84,7 @@ session_start();
     <div class="col-sm-9 col-8">
       <div id="section1" class="bg-success container">    
         <h1>Creighton University</h1>
-         <img src="img/creighton_ovrview.jpg" class="img-fluid float-left rounded" width="304"
+         <img src="img/creighton_ovrview.jpg" class="img-fluid float-left rounded float-left" width="304"
          height="236" alt="image of creighton" title="Aerial view of Creighton University">
 
          <img src="img/creightoncampus.jpg" class="img-fluid rounded" style=""
@@ -129,7 +129,8 @@ session_start();
             with its ethos based on the ‘magis’ - striving for ‘the more’. 
         </p>
             
-            <img src="img/sxc_lib.jpg" class="img-fluid float-left" alt="xaviers library" width="304" height="275">
+            <img src="img/sxc_lib.jpg" class="img-fluid float-left" alt="xaviers library" 
+            width="304" height="275">
             <img src="img/sxc_chapel.jpg" alt="xavier chapel" class="img-fluid" style="margin-left:10px; margin-right:10px;" width="304" height="275">
             <img src="img/new_sxc_eco.png" class="img-fluid float-right" alt="xaviers quad" width="304" height="275"> 
         <p>
