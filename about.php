@@ -84,6 +84,7 @@ session_start();
     <div class="col-sm-9 col-8">
       <div id="section1" class="bg-success container">    
         <h1>Creighton University</h1>
+        <p>
          <img src="img/creighton_ovrview.jpg" class="img-fluid float-left rounded float-left"
           width="300" height="236" alt="image of creighton" title="Aerial view of Creighton University">
 
@@ -92,6 +93,7 @@ session_start();
          
          <img src="img/CreightonUniv_Church.jpg" class="img-fluid float-right rounded" width="300"
          height="236" alt="image of creighton" title="Church view of Creighton University">
+         </p>
          <p>
             Creighton is a Jesuit comprehensive university committed to 
             excellence in its selected undergraduate, graduate and professional programs.
