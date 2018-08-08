@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+
+<?php
+session_start();
+//inlcude 'session.php';
+?><!DOCTYPE html>
 <HTML>
     <head>
         <title> Contact Us </title>
