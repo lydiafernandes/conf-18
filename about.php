@@ -37,10 +37,10 @@ session_start();
 
 
 #section1{
-  background-color:#96d900;
+  background-color:#66ff66;
 }
   #section2{
-      
+    background-color:#ffdb4d;
   }
   </style>
 
@@ -70,7 +70,7 @@ session_start();
         <li class="nav-item">
           <a class="nav-link" href="#section3">Conference Schedule</a>
         </li>
-
+        <!--
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Section4</a>
           <div class="dropdown-menu">
@@ -78,7 +78,7 @@ session_start();
             <a class="dropdown-item" href="#section42">Link 2</a>
           </div>
         </li>
-
+        -->
       </ul>
     </nav>
     <div class="col-sm-9 col-8">
@@ -159,6 +159,7 @@ session_start();
                  on the campus.
         </p>
       </div>        
+      <!--
       <div id="section3" class="bg-secondary">         
         <h1>Section 3</h1>
         <p>Try to scroll this section and look at the navigation list while scrolling!</p>
@@ -171,6 +172,7 @@ session_start();
         <h1>Section 4-2</h1>
         <p>Try to scroll this section and look at the navigation list while scrolling!</p>
       </div>
+      -->
     </div>
   </div> <!-- end of row div --> 
 </div> <!-- end of main div -->
