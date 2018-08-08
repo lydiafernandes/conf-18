@@ -32,7 +32,7 @@ session_start();
       position: fixed;
   }
   div.col-8 div {
-      height: 750px;
+      height: 75%;
   }
 
 
@@ -40,7 +40,7 @@ session_start();
   background-color:#96d900;
 }
   #section2{
-      height:1000px;
+      
   }
   </style>
 
@@ -52,30 +52,37 @@ session_start();
 
 <!-- -------------------------------------------------->
 <div class="container-fluid">
+  <!-- contains all the sections -->
   <div class="row"> 
+    <!-- contains all the navigation menu -->
     <nav class="col-sm-3 col-4" id="myScrollspy">
+
       <ul class="nav nav-pills flex-column">
+        
         <li class="nav-item">
           <a class="nav-link active" href="#section1">Creighton University</a>
         </li>
+
         <li class="nav-item">
           <a class="nav-link" href="#section2">St. Xavier's College</a>
         </li>
+
         <li class="nav-item">
           <a class="nav-link" href="#section3">Conference Schedule</a>
         </li>
+
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Section4</a>
           <div class="dropdown-menu">
             <a class="dropdown-item" href="#section41">Link 1</a>
             <a class="dropdown-item" href="#section42">Link 2</a>
           </div>
-
         </li>
+
       </ul>
     </nav>
     <div class="col-sm-9 col-8">
-      <div id="section1" class="bg-success>    
+      <div id="section1" class="bg-success container">    
         <h1>Creighton University</h1>
          <img src="img/creighton_ovrview.jpg" class="img-fluid float-left rounded" width="304"
          height="236" alt="image of creighton" title="Aerial view of Creighton University">
@@ -160,8 +167,8 @@ session_start();
         <p>Try to scroll this section and look at the navigation list while scrolling!</p>
       </div>
     </div>
-  </div>
-</div>
+  </div> <!-- end of row div --> 
+</div> <!-- end of main div -->
 
 <!-- -------------------------------------------------->
 
