@@ -37,7 +37,7 @@
 				</li>
 		
 				<li class="nav-item">
-					<a class="nav-link" href="#">Venue</a>
+					<a class="nav-link" href="venue.php">Venue</a>
 				</li>
 
 				<li class="nav-item">
