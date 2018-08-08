@@ -39,6 +39,11 @@
 				<li class="nav-item">
 					<a class="nav-link" href="#">Venue</a>
 				</li>
+
+				<li class="nav-item">
+					<a class="nav-link" href="#">Advisory Committee</a>
+				</li>
+		
 		
 				<li class="nav-item">
 					<a class="nav-link" href="#">Registration</a>
@@ -52,10 +57,7 @@
 					<a class="nav-link" href="#">Sponsorship &amp; Exhibition</a>
 				</li>
 
-				<li class="nav-item">
-					<a class="nav-link" href="#">Advisory Committee</a>
-				</li>
-		
+				
 				<li class="nav-item">
 					<a class="nav-link" href="#">Our Partners</a>
 				</li>

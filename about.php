@@ -28,7 +28,7 @@ session_start();
               position: relative;
             }
         ul.nav-pills {
-                       top: 20%;
+                       top: 15%;
       position: fixed;
   }
   div.col-8 div {
@@ -41,7 +41,6 @@ session_start();
 }
   #section2{
     background-color:#ffdb4d;
-    height:75%;
   }
   </style>
 
@@ -86,7 +85,7 @@ session_start();
       <div id="section1" class="bg-success container">    
         <h1>Creighton University</h1>
         
-         <img src="img/creighton_ovrview.jpg" class="img-fluid float-left rounded float-left"
+         <img src="img/creighton_ovrview.jpg" class="img-fluid float-left rounded"
           width="300" height="236" alt="image of creighton" title="Aerial view of Creighton University">
 
          <img src="img/creightoncampus.jpg" class="img-fluid rounded" style=""
@@ -133,7 +132,7 @@ session_start();
         </p>
             
             <img src="img/sxc_lib(1).jpg" class="img-fluid float-left" alt="xaviers library" 
-            width="304" height="250">
+            width="304" height="236">
             <img src="img/sxc_chapel.jpg" alt="xavier chapel" class="img-fluid" 
             style="margin-left:10px; margin-right:10px;" width="304" height="250">
             <img src="img/new_sxc_eco.png" class="img-fluid float-right" alt="xaviers quad" 
@@ -175,21 +174,14 @@ session_start();
       </div>
       -->
     </div>
-    <!-- testing the row -->
-    <div class="row">
-      <!--- Connect-->
-      <?php include("includes/footer.php");?>
-
-    </div>
-    <!-- end of testing the row -->
+    
   </div> <!-- end of row div --> 
 </div> <!-- end of main div -->
 
 <!-- -------------------------------------------------->
 
 <!--- Connect-->
-<!--
-<!-- ?php include("includes/footer.php");? -->
 
+<?php include("includes/footer.php");?>
 </body>
 </html>

@@ -25,12 +25,20 @@
 <body> 
     <!-- include the nav bar -->
 <?php include("includes/navigation.php");?>
+<div class="container">
 
-
+    <div id="row">
+        <img src="img/Map.jpg" class="img-fluid rounded" alt="Map of College">
+        <hr>
+        <p> Map of St. xavier&quote;s College (Courtesy - Amanda Crasto, SYBMM)</p> 
+        <hr>
+    <div>
+</div>
 <!-- -------------------------------------------------->
 
 <!--- Connect-->
 
 <?php include("includes/footer.php");?>
+
 </body>
 </html>
