@@ -87,7 +87,7 @@ session_start();
          <img src="img/creighton_ovrview.jpg" class="img-fluid float-left rounded" width="304"
          height="236" alt="image of creighton" title="Aerial view of Creighton University">
 
-         <img src="img/new_creighton_campus.png" class="rounded" style="margin:20px;"
+         <img src="img/new_creighton_campus.png" class="rounded" style=""
           width="304" height="236" alt="image of creighton" title="Campus of Creighton University">
          
          <img src="img/CreightonUniv_Church.jpg" class="img-fluid float-right rounded" width="304"
