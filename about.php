@@ -32,7 +32,7 @@ session_start();
       position: fixed;
   }
   div.col-8 div {
-      height: 75%;
+      height: 50%;
   }
 
 
@@ -87,8 +87,8 @@ session_start();
          <img src="img/creighton_ovrview.jpg" class="img-fluid float-left rounded" width="304"
          height="236" alt="image of creighton" title="Aerial view of Creighton University">
 
-         <img src="img/new_creighton_campus.png" class="img-fluid rounded" style="margin:0px 5px 20px;" width="304"
-         height="250" alt="image of creighton" title="Campus of Creighton University">
+         <img src="img/new_creighton_campus.png" class="img-fluid rounded" style="margin:0px 5px 20px;"
+          width="304" height="236" alt="image of creighton" title="Campus of Creighton University">
          
          <img src="img/CreightonUniv_Church.jpg" class="img-fluid float-right rounded" width="304"
          height="236" alt="image of creighton" title="Church view of Creighton University">
