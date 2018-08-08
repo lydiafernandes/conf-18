@@ -175,13 +175,21 @@ session_start();
       </div>
       -->
     </div>
+    <!-- testing the row -->
+    <div class="row">
+      <!--- Connect-->
+      <?php include("includes/footer.php");?>
+
+    </div>
+    <!-- end of testing the row -->
   </div> <!-- end of row div --> 
 </div> <!-- end of main div -->
 
 <!-- -------------------------------------------------->
 
 <!--- Connect-->
-<?php include("includes/footer.php");?>
+<!--
+<!-- ?php include("includes/footer.php");? -->
 
 </body>
 </html>
