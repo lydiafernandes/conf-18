@@ -84,13 +84,13 @@ session_start();
     <div class="col-sm-9 col-8">
       <div id="section1" class="bg-success container">    
         <h1>Creighton University</h1>
-         <img src="img/creighton_ovrview.jpg" class="img-fluid float-left rounded float-left" width="304"
-         height="236" alt="image of creighton" title="Aerial view of Creighton University">
+         <img src="img/creighton_ovrview.jpg" class="img-fluid float-left rounded float-left"
+          width="300" height="236" alt="image of creighton" title="Aerial view of Creighton University">
 
          <img src="img/creightoncampus.jpg" class="img-fluid rounded" style=""
-          width="304" height="236" alt="image of creighton" title="Campus of Creighton University">
+          width="300" height="236" alt="image of creighton" title="Campus of Creighton University">
          
-         <img src="img/CreightonUniv_Church.jpg" class="img-fluid float-right rounded" width="304"
+         <img src="img/CreightonUniv_Church.jpg" class="img-fluid float-right rounded" width="300"
          height="236" alt="image of creighton" title="Church view of Creighton University">
          <p>
             Creighton is a Jesuit comprehensive university committed to 
