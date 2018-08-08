@@ -132,7 +132,7 @@ session_start();
             with its ethos based on the ‘magis’ - striving for ‘the more’. 
         </p>
             
-            <img src="img/sxc_lib.jpg" class="img-fluid float-left" alt="xaviers library" 
+            <img src="img/sxc_lib(1).jpg" class="img-fluid float-left" alt="xaviers library" 
             width="304" height="250">
             <img src="img/sxc_chapel.jpg" alt="xavier chapel" class="img-fluid" 
             style="margin-left:10px; margin-right:10px;" width="304" height="250">
