@@ -137,7 +137,7 @@ session_start();
 				<div class="card-body">
 					<h4 class="card-title"> Prof. Sorab Nariman Dalal.</h4>
 					<p class="card-text"> Scientific Officer ‘G’, Associate Professor - HBNI, Tata Memorial Centre</p>
-					<a href="#" class="btn btn-outline-secondary">See Profile</a>
+					<a href="#sorab" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
