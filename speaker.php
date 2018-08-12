@@ -135,7 +135,7 @@ session_start();
 			<div class="card">
 				<img class="card-img-top" src="img/speakersnewdimensions/Sorab_New.png">
 				<div class="card-body">
-					<h4 class="card-title"> Prof. Sorab Nariman Dalal.</h4>
+					<h4 class="card-title"> Dr. Sorab Nariman Dalal.</h4>
 					<p class="card-text"> Scientific Officer ‘G’, Associate Professor - HBNI, Tata Memorial Centre</p>
 					<a href="#sorab" class="btn btn-outline-secondary">See Profile</a>
 				</div>
@@ -327,14 +327,14 @@ India, Deccan Herald and many more.
 <hr>
 <!--------------------------------------------------- --> 
 <div class="container">
-    <h1> <a name="sorab"> </a> Prof. Sorab Nariman Dalal.</h1>
+    <h1> <a name="sorab"> </a> Dr. Sorab Nariman Dalal.</h1>
     <p class="card-text" style="text-align:justify">
     <pre>
 	Designation: Scientific Officer ‘G’, Associate Professor - HBNI
 	Department: Sorab’s laboratory, ACTREC, Tata Memorial Centre
     </pre>
-	Awards and Honors
-Research Fellow of the Leukemia Society of America from July 1997 to July 2000. 
+	<strong> Awards and Honors: </strong><br>
+He has been a research fellow of the Leukemia Society of America from July 1997 to July 2000. 
 Joint Secretary Indian Association of Cancer Research April 2009 to March 2012
 Secretary Indian Association of Cancer Research April 2012 to 2014
 Editor Journal of Biosciences from 2011, Current Science from 2018
@@ -355,7 +355,7 @@ DAE SRC Outstanding Scientist Award 2015
     <pre>
 	Designation: Lecturer in molecular oncology, Malabar Cancer Centre, Thalassery, India.
     </pre>
-	Awards and Honors
+	<strong>Awards and Honors:</strong><br>
 	Dr. Renjith, is involved in the molecular diagnosis of different cancer types.
 	 He is a recipient of several awards and fellowships from KSCSTE, CSIR, ICMR and JNCASR.
 	 His areas of research are personalized therapy, tissue engineering, gene therapy, 
