@@ -53,7 +53,7 @@ session_start();
 }
 
 /* Clearfix (clear floats) */
-h1::after {
+.row::after {
     content: "";
     clear: both;
     display: table;
