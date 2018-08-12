@@ -57,7 +57,7 @@ session_start();
 .inner_row::after {
     content: "";
     clear: both;
-    display: table;
+   /* display: table;*/
 }
   </style>
 
