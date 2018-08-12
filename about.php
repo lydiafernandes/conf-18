@@ -101,7 +101,7 @@ session_start();
       <div id="section1" class="bg-success container">    
         <h1>Creighton University</h1>
         <div class="column"> 
-            <img src="img/creighton_ovrview.jpg" class="img-fluid rounded"
+            <img src="img/images/abt_us_larger_Building.png" class="img-fluid rounded"
             style="width:100%;" alt="image of creighton" title="Aerial view of Creighton University">
         </div>
         <div class="column">
