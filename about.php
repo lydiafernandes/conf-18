@@ -55,7 +55,7 @@ session_start();
   <!-- contains all the sections -->
   <div class="row"> 
     <!-- contains all the navigation menu -->
-    <nav class="col-sm-3 col-4" id="myScrollspy">
+    <nav class="col-sm-3 col-3" id="myScrollspy">
 
       <ul class="nav nav-pills flex-column">
         
@@ -81,7 +81,7 @@ session_start();
         -->
       </ul>
     </nav>
-    <div class="col-sm-9 col-8">
+    <div class="col-sm-9 col-9">
       <div id="section1" class="bg-success container">    
         <h1>Creighton University</h1>
         
@@ -135,7 +135,7 @@ session_start();
             width="304" height="236">
 
             <img src="img/abt_us_images/sxc_chapel1.png" alt="xavier chapel" class="img-fluid" 
-            style="margin-left:10px; margin-right:10px;" width="304" height="236">
+            style="" width="304" height="236">
             
             <img src="img/abt_us_images/sxc_quad_eco1.png" class="img-fluid float-right" alt="xaviers quad" 
             width="304" height="236"> 
