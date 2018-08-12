@@ -42,6 +42,22 @@ session_start();
   #section2{
     background-color:#ffdb4d;
   }
+
+* {
+    box-sizing: border-box;
+}
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
   </style>
 
 
@@ -84,19 +100,19 @@ session_start();
     <div class="col-sm-9 col-8">
       <div id="section1" class="bg-success container">    
         <h1>Creighton University</h1>
-        
-         <img src="img/creighton_ovrview.jpg" class="img-fluid float-left rounded"
-          width="304" height="236" Style="margin:0px 5px 0px;" alt="image of creighton" title="Aerial view of Creighton University">
-
-         <img src="img/abt_us_images/creightoncampus1.png" class="img-fluid rounded" style="margin-l"
-          width="304" height="236" alt="image of creighton" title="Campus of Creighton University">
-         
-         <img src="img/CreightonUniv_Church.jpg" class="img-fluid float-right rounded" width="304"
-         height="236" alt="image of creighton" title="Church view of Creighton University">
-         <hr>
+        <div class="column"> 
+            <img src="img/creighton_ovrview.jpg" class="img-fluid rounded"
+            style="width:100%" alt="image of creighton" title="Aerial view of Creighton University">
+        </div>
+        <div class="column">
+            <img src="img/abt_us_images/creightoncampus1.png" class="img-fluid rounded" style="width:100%" alt="image of creighton" title="Campus of Creighton University">
+        </div>
+          <div class="column">
+            <img src="img/CreightonUniv_Church.jpg" class="img-fluid rounded" style="width:100%" alt="image of creighton" title="Church view of Creighton University">
+          </div>
          <p>
             Creighton is a Jesuit comprehensive university committed to 
-            excellence in its selected undergraduate, graduate and professional programs.
+            exce<llence in its selected undergraduate, graduate and professional programs.
             Creighton University, located in Omaha, NE, USA, is a supportive community of 
             students, faculty and staff thriving in an environment that stimulates critical 
             and creative thinking while providing ethical perspectives for dealing with an
