@@ -105,7 +105,7 @@ h1::after {
             style="width:100%;" alt="image of creighton" title="Aerial view of Creighton University">
         </div>
         <div class="column">
-            <img src="img/abt_us_images/creightoncampus1.png" class="img-fluid rounded" 
+            <img src="img/abt_us_images/creightoncampus2.png" class="img-fluid rounded" 
             style="width:100%;" alt="image of creighton" title="Campus of Creighton University">
         </div>
           <div class="column">
