@@ -43,7 +43,7 @@ session_start();
     background-color:#ffdb4d;
   }
 
-* {
+*{
     box-sizing: border-box;
 }
   .column {
@@ -101,7 +101,7 @@ session_start();
       <div  id="section1" class="inner_row bg-success container">    
         <h1>Creighton University</h1>
         <div class="column"> 
-            <img src="img/abt_us_images/large_Building.png" class="img-fluid rounded"
+            <img src="img/CreightonUniv_Church.jpg" class="img-fluid rounded"
             style="width:100%;" alt="image of creighton" title="Aerial view of Creighton University">
         </div>
         <div class="column">
