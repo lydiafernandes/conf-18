@@ -24,7 +24,7 @@
 							 echo "<p> YOU are not logged in!</p>";
 							 header("Location:/");
 						 }
-				 else echo "<p>welcome".$_SESSION['id'];
+				 else echo "<p>welcome".$_SESSION['id']."</p>";
 				 ?>
 				 </a>
 				</li>

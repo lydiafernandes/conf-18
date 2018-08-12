@@ -55,7 +55,7 @@ session_start();
   <!-- contains all the sections -->
   <div class="row"> 
     <!-- contains all the navigation menu -->
-    <nav class="col-sm-3 col-3" id="myScrollspy">
+    <nav class="col-sm-3 col-4" id="myScrollspy">
 
       <ul class="nav nav-pills flex-column">
         
@@ -81,17 +81,17 @@ session_start();
         -->
       </ul>
     </nav>
-    <div class="col-sm-9 col-9">
+    <div class="col-sm-9 col-8">
       <div id="section1" class="bg-success container">    
         <h1>Creighton University</h1>
         
          <img src="img/creighton_ovrview.jpg" class="img-fluid float-left rounded"
-          width="300" height="236" Style="" alt="image of creighton" title="Aerial view of Creighton University">
+          width="304" height="236" Style="margin:0px 5px 0px;" alt="image of creighton" title="Aerial view of Creighton University">
 
-         <img src="img/abt_us_images/creightoncampus1.png" class="img-fluid rounded" style=""
-          width="300" height="236" alt="image of creighton" title="Campus of Creighton University">
+         <img src="img/abt_us_images/creightoncampus1.png" class="img-fluid rounded" style="margin-l"
+          width="304" height="236" alt="image of creighton" title="Campus of Creighton University">
          
-         <img src="img/CreightonUniv_Church.jpg" class="img-fluid float-right rounded" width="300"
+         <img src="img/CreightonUniv_Church.jpg" class="img-fluid float-right rounded" width="304"
          height="236" alt="image of creighton" title="Church view of Creighton University">
          <hr>
          <p>
@@ -135,7 +135,7 @@ session_start();
             width="304" height="236">
 
             <img src="img/abt_us_images/sxc_chapel1.png" alt="xavier chapel" class="img-fluid" 
-            style="" width="304" height="236">
+            style="margin:0px 5px 0px;" width="304" height="236">
             
             <img src="img/abt_us_images/sxc_quad_eco1.png" class="img-fluid float-right" alt="xaviers quad" 
             width="304" height="236"> 
