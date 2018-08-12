@@ -53,7 +53,7 @@ session_start();
 }
 
 /* Clearfix (clear floats) */
-.row::after {
+.inner_row::after {
     content: "";
     clear: both;
     display: table;
@@ -98,10 +98,10 @@ session_start();
       </ul>
     </nav>
     <div class="col-sm-9 col-8">
-      <div id="section1" class="bg-success container">    
+      <div  id="section1" class="inner_row bg-success container">    
         <h1>Creighton University</h1>
         <div class="column"> 
-            <img src="img/images/abt_us_larger_Building.png" class="img-fluid rounded"
+            <img src="img/images/abt_us_images/larger_Building.png" class="img-fluid rounded"
             style="width:100%;" alt="image of creighton" title="Aerial view of Creighton University">
         </div>
         <div class="column">
@@ -143,7 +143,7 @@ session_start();
       </p>
 
       </div>
-      <div id="section2" class="bg-warning"> 
+      <div id="section2" class="bg-warning container inner_row "> 
         <h1>St. Xavier's College-Autonomous, Mumbai</h1>
         <p>St. Xaviers’s College  founded in 1869 by ‘Society of Jesus’, is a premier Jesuit 
             Institution, known for its academic excellence and commitment towards humanity 
