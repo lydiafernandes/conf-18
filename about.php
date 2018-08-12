@@ -53,7 +53,7 @@ session_start();
 }
 
 /* Clearfix (clear floats) */
-.row::after {
+h1::after {
     content: "";
     clear: both;
     display: table;
@@ -105,7 +105,7 @@ session_start();
             style="width:100%;" alt="image of creighton" title="Aerial view of Creighton University">
         </div>
         <div class="column">
-            <img src="img/creightoncampus.jpg" class="img-fluid rounded" 
+            <img src="img/abt_us_images/creightoncampus1.png" class="img-fluid rounded" 
             style="width:100%;" alt="image of creighton" title="Campus of Creighton University">
         </div>
           <div class="column">
@@ -114,7 +114,7 @@ session_start();
           </div>
          <p>
             Creighton is a Jesuit comprehensive university committed to 
-            exce<llence in its selected undergraduate, graduate and professional programs.
+            excellence in its selected undergraduate, graduate and professional programs.
             Creighton University, located in Omaha, NE, USA, is a supportive community of 
             students, faculty and staff thriving in an environment that stimulates critical 
             and creative thinking while providing ethical perspectives for dealing with an
@@ -124,8 +124,9 @@ session_start();
             something meaningful to the world. Creighton University has earned the top spot in U.S.News &
             World Report magazine’s college ranking for the Midwest Regional Universities. It has earned
             No. 1 Ranking in America’s Best Colleges” edition for the 15th year in a row.
-            </p>
-            <p>
+        </p>
+
+        <p>
         The mission of the Creighton School of Medicine is to improve the human well-being with 
         a diverse body of students, faculty and staff who provide excellence in educating 
         students, physicians and the public, advancing knowledge and providing comprehensive 
@@ -139,8 +140,8 @@ session_start();
           The Department of CTS fosters an extremely conducive environment where learners are 
           mentored to become exceptional scientists/physicians and emerge as independent
            investigators.
+      </p>
 
-        </p>
       </div>
       <div id="section2" class="bg-warning"> 
         <h1>St. Xavier's College-Autonomous, Mumbai</h1>
@@ -148,15 +149,20 @@ session_start();
             Institution, known for its academic excellence and commitment towards humanity 
             with its ethos based on the ‘magis’ - striving for ‘the more’. 
         </p>
-            
-            <img src="img/abt_us_images/sxc_lib1.png" class="img-fluid float-left" alt="xaviers library" 
-            width="304" height="236">
+            <div class="column">
+                 <img src="img/abt_us_images/sxc_lib1.png" class="img-fluid" 
+                 alt="xaviers library" style="width:100%;">
+            </div>
 
-            <img src="img/abt_us_images/sxc_chapel1.png" alt="xavier chapel" class="img-fluid" 
-            style="margin:0px 5px 0px;" width="304" height="236">
-            
-            <img src="img/abt_us_images/sxc_quad_eco1.png" class="img-fluid float-right" alt="xaviers quad" 
-            width="304" height="236"> 
+            <div class="column">
+                 <img src="img/abt_us_images/sxc_chapel1.png" alt="xavier chapel" class="img-fluid" 
+                 style="width:100%;">
+            </div>
+
+            <div class="column">
+                <img src="img/abt_us_images/sxc_quad_eco1.png" class="img-fluid" 
+                  alt="xaviers quad" style="width:100%;">
+            </div> 
         <p>
             Nestled in a locale of exquisite Victorian Gothic style architectural splendor of 
             artistic sophistication, the college campus stands on a strategic road named 
