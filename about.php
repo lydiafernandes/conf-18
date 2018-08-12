@@ -50,6 +50,7 @@ session_start();
     float: left;
     width: 33.33%;
     padding: 0px 5px 0px;
+    margin:0px;
 }
 
 /* Clearfix (clear floats) */
