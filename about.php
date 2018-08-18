@@ -65,7 +65,7 @@ session_start();
 </head>
 <body data-spy="scroll" data-target="#myScrollspy" data-offset="1"> 
     <!-- include the nav bar -->
-    <?php include("includes/navigation.php");?>
+    <?php include("includes/navigation1.php");?>
 
 <!-- -------------------------------------------------->
 <div class="container-fluid">

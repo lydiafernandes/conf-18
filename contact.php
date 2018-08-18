@@ -29,7 +29,7 @@ session_start();
 </head>
 <body> 
     <!-- includee the nav bar -->
-<?php include("includes/navigation.php");?>
+<?php include("includes/navigation1.php");?>
 
     <div class="container contact-form">
             <h1> Contact Form</h1>
