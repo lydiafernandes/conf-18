@@ -28,7 +28,7 @@ session_start();
 </head>
 <body> 
     <!-- include the nav bar -->
-<?php include("includes/navigation.php");?>
+<?php include("includes/navigation1.php");?>
 <div class="container">
 
     <div id="row">
