@@ -24,9 +24,17 @@
       <li class="nav-item">
         <a class="nav-link" href="welcome.php">Home</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="about.php">About</a>
-      </li>
+       <!-- Dropdown -->
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+        About US
+      </a>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="abt_sxc.php">St. Xavier&quit;s College</a>
+        <a class="dropdown-item" href="abt_creighton.php">Creighton University</a>
+        <a class="dropdown-item" href="abt_conf.php">The Conference</a>
+      </div>
+    </li>
       <li class="nav-item">
         <a class="nav-link" href="venue.php">Venue</a>
       </li>  

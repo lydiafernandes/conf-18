@@ -21,7 +21,7 @@ session_start();
 
         <!-- this file is included in the externa file -->
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
-        <link rel="stylesheet" type="text/css" href="css/style_contact.css"> 
+    
        
 
 

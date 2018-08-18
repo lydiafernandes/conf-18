@@ -103,15 +103,15 @@ session_start();
         <h1>Creighton University</h1>
         <div class="column"> 
             <img src="img/CreightonUniv_Church.jpg" class="img-fluid rounded"
-            style="width:100%;" alt="image of creighton" title="Aerial view of Creighton University">
+            width="306" height="234" style="" alt="image of creighton" title="Aerial view of Creighton University">
         </div>
         <div class="column">
             <img src="img/abt_us_images/creightoncampus2.png" class="img-fluid rounded" 
-            style="width:100%;" alt="image of creighton" title="Campus of Creighton University">
+            width="306" height="234" style="" alt="image of creighton" title="Campus of Creighton University">
         </div>
           <div class="column">
             <img src="img/CreightonUniv_Church.jpg" class="img-fluid rounded" 
-            style="width:100%;" alt="image of creighton" title="Church view of Creighton University">
+            width="306" height="234" style="" alt="image of creighton" title="Church view of Creighton University">
           </div>
          <p>
             Creighton is a Jesuit comprehensive university committed to 
