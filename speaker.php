@@ -26,7 +26,7 @@ session_start();
 </head>
 <body> 
     <!-- includee the nav bar -->
-<?php include("includes/navigation.php");?>
+<?php include("includes/navigation1.php");?>
 <!-- -------------------------------- -->
 <!--- Invited Speakers -->
 <div class="container-fluid padding">

@@ -28,8 +28,17 @@
         <a class="nav-link" href="about.php">About</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>    
+        <a class="nav-link" href="venue.php">Venue</a>
+      </li>  
+      <li class="nav-item">
+        <a class="nav-link" href="speaker.php">Invited Speakers</a>
+      </li>  
+      <li class="nav-item">
+	      <a class="nav-link" href="contact.php">Connect</a>
+	  </li>
+      <li class="nav-item" <?php echo $login_session; ?>>
+		<a class="nav-link" href="logout.php">Logout</a>
+	 </li>
     </ul>
   </div>  
 </nav>
