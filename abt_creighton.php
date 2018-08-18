@@ -21,7 +21,15 @@ session_start();
         <!-- this file is included in the externa file -->
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
     
-       
+  <style>
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 0px 5px 0px;
+    margin:0px;
+}
+
+</style>
 
 
 </head>
@@ -31,7 +39,7 @@ session_start();
 
 
 <!-- -------------------------------------------------->
-<div  id="section1" class="inner_row bg-success container">    
+<div  id="section1" class="bg-success container">    
         <h1>Creighton University</h1>
         <div class="column"> 
             <img src="img/CreightonUniv_Church.jpg" class="img-fluid rounded"

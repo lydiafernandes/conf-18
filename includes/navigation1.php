@@ -27,10 +27,10 @@
        <!-- Dropdown -->
     <li class="nav-item dropdown">
       <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-        About US
+        About Us
       </a>
       <div class="dropdown-menu">
-        <a class="dropdown-item" href="abt_sxc.php">St. Xavier&quot;s College</a>
+        <a class="dropdown-item" href="abt_sxc.php">St. Xavier&apos;s College</a>
         <a class="dropdown-item" href="abt_creighton.php">Creighton University</a>
         <a class="dropdown-item" href="abt_conf.php">The Conference</a>
       </div>
