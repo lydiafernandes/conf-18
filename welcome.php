@@ -29,7 +29,7 @@ session_start();
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="img/back_ground.jpeg" alt="First slide">
+      <img class="d-block w-100" src="img/background1.png" alt="First slide">
       <div class="carousel-caption">
         <h1 class="display-2">X150 <br> The Conference</h1>
         <h3> Celebrating 150 Glorious years</h3>
