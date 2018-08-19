@@ -162,7 +162,7 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 <div class="container-fluid" padding></div>
 <div class="row text-center padding">
 	<div class="col-xs-12 col-sm-6 col-md-4">
-		<a href="about.php" border="0">
+		<a href="abt_xaviers.php" border="0">
 			<img src="img/logo_college197x197.png">
 		</a>
 		<!-- <i class="fas fa-code"></i>
@@ -180,7 +180,7 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 	
 
 	<div class="col-xs-12 col-sm-6 col-md-4">
-		<a href="about.php" border="0">
+		<a href="abt_creighton.php" border="0">
 			<img src="img/197px-Creighton_University_seal.png">
 		</a>
 		<!--

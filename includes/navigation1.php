@@ -30,7 +30,7 @@
         About Us
       </a>
       <div class="dropdown-menu">
-        <a class="dropdown-item" href="abt_sxc.php">St. Xavier&apos;s College</a>
+        <a class="dropdown-item" href="abt_xaviers.php">St. Xavier&apos;s College</a>
         <a class="dropdown-item" href="abt_creighton.php">Creighton University</a>
         <a class="dropdown-item" href="abt_conf.php">The Conference</a>
       </div>

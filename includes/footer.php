@@ -30,7 +30,7 @@
 				<img src="img/w3newbie.png">
 				<hr class="light">
 				<p> 022 22620661</p>
-				<p> isc150@xaviers.edu </p>
+				<p> isc150@xaviers.edu</p>
 				<p> 5, Mahapalika Marg </p>
 				<p> Mumbai, Maharasthra 400 001 </p>
 			</div>
@@ -49,9 +49,7 @@
 				<h5> Reach Us @ </h5>
 				<hr class="light">
 				<p> Mumbai,  400 001</p>
-				<p> Bengaluru,  000 000</p>
 				<p> USA, 000 000 </p>
-				<p> Australia, 000 000 </p>
 			</div>
 
 			<div class="col-12">
