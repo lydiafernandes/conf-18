@@ -34,7 +34,7 @@ session_start();
     <div id="row">
         <img src="img/Map.jpg" class="img-fluid rounded" alt="Map of College">
         <hr>
-        <p> Map of St. Xavier&quot;s College (Courtesy - Amanda Crasto, SYBMM)</p> 
+        <p> Map of St. Xavier&apos;s College (Courtesy - Amanda Crasto, SYBMM)</p> 
         <hr>
     <div>
 </div>
