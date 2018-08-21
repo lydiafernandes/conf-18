@@ -40,7 +40,7 @@ session_start();
 
             <div class="col-md-6">
                 <address> 5, Mahapalika Marg, Mumbai, 400001 </address>
-                <p>Email: fhtwbconference@xaviers.edu</p>
+                <p>Email: isc150@xaviers.edu</p>
                 <p>Contact: 022 2262 0661</p>
             </div> <!-- end of col-md-6 -->
 

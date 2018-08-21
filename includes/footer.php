@@ -36,6 +36,7 @@
 				<h5> Our hours</h5>
 				<hr class="light">
 				<p> Monday:- 9:00 am to 3:30 pm</p>
+				<p align="center"> To </p>
 				<p> Saturday:- 9:00 am to 12:00 pm </p>
 				<p> Closed on Sunday </p>
 			</div>
@@ -45,7 +46,7 @@
 				<h5> Reach Us @ </h5>
 				<hr class="light">
 				<p> 022 22620661</p>
-				<p> isc150@xaviers.edu</p>
+				<p><a href="mailto:isc150@xaviers.edu"> isc150@xaviers.edu</a></p>
 				<p> 5, Mahapalika Marg </p>
 				<p> Mumbai, Maharasthra 400 001 </p>
 				
