@@ -38,7 +38,7 @@ session_start();
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/graduation_day.jpg" alt="Second slide">
+      <img class="d-block w-100" src="img/new_graduation_day.png" alt="Second slide">
       <div class="carousel-caption">
       		<!-- Display the countdown timer in an element -->
 <h1 class="display-2" id="demo">
@@ -83,7 +83,7 @@ var x = setInterval(function() {
       </div>
     </div>
    <div class="carousel-item">
-      <a href="creighton.php"><img class="d-block w-100" src="img/creighton_ovrview.jpg" alt="fourth slide"></a>
+      <a href="https://www.creighton.edu/"><img class="d-block w-100" src="img/creighton_ovrview.jpg" alt="fourth slide"></a>
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
