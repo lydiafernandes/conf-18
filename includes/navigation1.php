@@ -35,9 +35,23 @@
         <a class="dropdown-item" href="abt_conf.php">The Conference</a>
       </div>
     </li>
+
+     <!-- Dropdown -->
+     <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+        Venue
+      </a>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="#">Xavier&apos;s Map</a>
+        <a class="dropdown-item" href="#">Mumbai Tour</a> 
+        <a class="dropdown-item" href="#">How to arrive?</a>
+      </div>
+    </li>
+    <!---------- 
       <li class="nav-item">
         <a class="nav-link" href="venue.php">Venue</a>
       </li>  
+      -->
       <li class="nav-item">
         <a class="nav-link" href="speaker.php">Invited Speakers</a>
       </li>  
