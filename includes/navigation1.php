@@ -42,7 +42,7 @@
         Venue
       </a>
       <div class="dropdown-menu">
-        <a class="dropdown-item" href="#">Xavier&apos;s Map</a>
+        <a class="dropdown-item" href="venue.php">Xavier&apos;s Map</a>
         <a class="dropdown-item" href="#">Mumbai Tour</a> 
         <a class="dropdown-item" href="#">How to arrive?</a>
       </div>
