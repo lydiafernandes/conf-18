@@ -27,9 +27,9 @@
 		<div class="row text-center padding">
 
 			<div class="col-md-4">
-				<img src="img/sci_conf18_logo.png" style="width:30%; height:20%;">
+				<img src="img/sci_conf18_logo.png" style="width:30%; height:30%;">
 				<hr class="light">
-				<p> 022 22620661</p>
+				
 				<p> isc150@xaviers.edu</p>
 				<p> 5, Mahapalika Marg </p>
 				<p> Mumbai, Maharasthra 400 001 </p>
@@ -48,6 +48,7 @@
 				<hr class="light">
 				<h5> Reach Us @ </h5>
 				<hr class="light">
+				<p> 022 22620661</p>
 				<p> Mumbai,  400 001</p>
 				<p> USA, 000 000 </p>
 			</div>
