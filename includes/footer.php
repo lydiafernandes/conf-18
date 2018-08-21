@@ -27,7 +27,7 @@
 		<div class="row text-center padding">
 
 			<div class="col-md-4">
-				<img src="img/sci_conf18_logo.png" style="width:30%; height:30%;">
+				<img class="img-fluid" src="img/sci_conf18_logo.png" style="width:50%">
 				<hr class="light">
 			</div>
 
