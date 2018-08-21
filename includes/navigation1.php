@@ -1,6 +1,8 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-md bg-dark navbar-dark">
-  <a class="navbar-brand" href="#">Navbar</a>
+  <a class="navbar-brand" href="#" border="0">
+   <img src="img/sci_conf18_logo.png" height="10%" width="10%" alt="Logo of science conference">
+  </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -42,9 +44,10 @@
         Venue
       </a>
       <div class="dropdown-menu">
+        <a class="dropdown-item" href="#">How to arrive?</a>
         <a class="dropdown-item" href="venue.php">Xavier&apos;s Map</a>
         <a class="dropdown-item" href="#">Mumbai Tour</a> 
-        <a class="dropdown-item" href="#">How to arrive?</a>
+        
       </div>
     </li>
     <!---------- 
