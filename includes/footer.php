@@ -27,7 +27,7 @@
 		<div class="row text-center padding">
 
 			<div class="col-md-4">
-				<img src="img/sci_conf18_logo.png">
+				<img src="img/sci_conf18_logo.png" style="width:50%; height:50%;">
 				<hr class="light">
 				<p> 022 22620661</p>
 				<p> isc150@xaviers.edu</p>
