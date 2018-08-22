@@ -135,7 +135,7 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 
 <!--- Welcome Section -->
 <div class="container-fluid padding">
-	<div class="row Welcome text-center">
+	<div class="row welcome text-center">
 		
 		<div class="col-12">
 			<h1 class="display-4" style="background-color:#999999;"> From Health to Well Being:  <br>
