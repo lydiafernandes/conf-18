@@ -45,32 +45,35 @@ session_start();
             </div> <!-- end of col-md-6 -->
 
             <div class="col-md-6">
+                <form class="contact-form" action="contactform.php" method="post">
                     <div class="form-group">
                         <label> Name</label>
-                        <input type="text" class="form-control" name="" placeholder="Please enter your full name" 
+                        <input type="text" class="form-control" name="frm_name" placeholder="Please enter your full name" 
                         id="frm_name">
                     </div>
 
                     <div class="form-group">
                         <label> Email</label>
-                        <input type="email" class="form-control" name="" placeholder="Please enter your e-mail id" 
+                        <input type="email" class="form-control" name="frm_email" placeholder="Please enter your e-mail id" 
                         id="frm_email">
                     </div>
 
                     <div class="form-group">
                         <label> Subject</label>
-                        <input type="email" class="form-control" name=""
+                        <input type="email" class="form-control" name="frm_subject"
                          placeholder="Please enter the subject" id="frm_subject">
                     </div>
 
                      <div class="form-group">
                         <label>Message</label>
-                        <textarea rows="5" class="form-control" name="" id="frm_msg"></textarea>
+                        <textarea rows="5" class="form-control" name="frm_msg" id="frm_msg"></textarea>
                     </div>
 
                      <div class="form-group">
-                        <button class="btn btn-primary btn-block">Send</button>
+                        <button class="btn btn-primary btn-block" type="submit" name="submit">
+                        Send</button>
                     </div>
+                </form>
             </div> <!-- end of col-md-6 -->
 
           </div> <!-- end of row class-->

@@ -10,7 +10,7 @@ html, body {
 
 .navbar{
   margin-bottom: 0px;
-  /*padding: .8rem;*/
+  padding: .8rem;
 }
 
 .navbar-nav li{
