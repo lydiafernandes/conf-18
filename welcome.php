@@ -137,7 +137,7 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 <div class="container-fluid padding">
 	<div class="row welcome text-center">
 		
-		<div class="col-12" style="margin:0px">
+		<div class="col-12" style="margin-top:0px">
 			<h1 class="display-4" style="background-color:#999999;"> From Health to Well Being:  <br>
 			An Interdisciplinary approach from Fundamental Sciences to 
 			Translational Medicine
