@@ -27,7 +27,7 @@
 		<div class="row text-center padding">
 
 			<div class="col-md-4">
-				<img class="img-fluid" src="img/sci_conf18_logo.png" style="width:50%">
+				<img class="img-fluid" src="img/logo_black_bgrnd.png" style="width:50%">
 				<hr class="light">
 			</div>
 
@@ -35,8 +35,8 @@
 				<hr class="light">
 				<h5> Our hours</h5>
 				<hr class="light">
-				<p> Monday:- 9:00 am to 3:30 pm</p>
-				<p align="center"> To </p>
+				<p> Monday:- 9:00 am to 3:30 pm,  to</p>
+				<p> Friday:- 9:00 am to 3:30 pm  </p>
 				<p> Saturday:- 9:00 am to 12:00 pm </p>
 				<p> Closed on Sunday </p>
 			</div>
