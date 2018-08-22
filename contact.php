@@ -60,7 +60,7 @@ session_start();
 
                     <div class="form-group">
                         <label> Subject</label>
-                        <input type="email" class="form-control" name="frm_subject"
+                        <input type="text" class="form-control" name="frm_subject"
                          placeholder="Please enter the subject" id="frm_subject">
                     </div>
 
