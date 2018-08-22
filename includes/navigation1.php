@@ -1,5 +1,5 @@
 <!-- Navigation -->
-<nav class="navbar navbar-expand-md bg-dark navbar-dark">
+<nav class="navbar navbar-expand-md bg-dark navbar-dark" style="margin-botton:0px;">
   <a class="navbar-brand" href="img/logo_black_bgrnd.png" target="_blank" border="0">
    <img src="img/logo_grey_bgrnd.jpg" alt="Logo of science conference" style="margin:0px;">
   </a>
