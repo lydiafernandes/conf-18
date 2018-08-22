@@ -1,7 +1,7 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-md bg-dark navbar-dark">
-  <a class="navbar-brand" href="img/sci_conf18_logo.png" target="_blank" border="0">
-   <img src="img/sci_conf18_logo.png" style="width:60px; height:50px; margin:0px;" alt="Logo of science conference">
+  <a class="navbar-brand" href="img/logo_black_bgrnd.png" target="_blank" border="0">
+   <img src="img/sci_conf18_logo.png" alt="Logo of science conference">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>

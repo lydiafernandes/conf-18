@@ -27,7 +27,7 @@
 		<div class="row text-center padding">
 
 			<div class="col-md-4">
-				<img class="img-fluid" src="img/logo_black_bgrnd.png" style="width:50%">
+				<img class="img-fluid" src="img/logo_black_bgrnd.png">
 				<hr class="light">
 			</div>
 
