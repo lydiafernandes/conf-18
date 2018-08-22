@@ -1,7 +1,8 @@
 <?php
-
-    if(isset([$_POST['submit']))
+echo "testing";
+    if(isset($_POST['submit']))
     {
+        echo "data has come in";
         $name = $_POST['frm_name'];
         $email_from = $_POST['frm_email'];
         $subject = $_POST['frm_subject'];
