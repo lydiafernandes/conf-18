@@ -12,7 +12,9 @@ echo "testing";
         $headers = "From: ".$email_from;
         $txt = "You have received an email from ". $name.".\n\n".$msg;
 
-        mail($mail_to, $subject, $txt, $headers);
+        if (mail($mail_to, $subject, $txt, $headers)){
+            echo "Mail sennt";
+        }
         header("Location: contact.php?mailsend");
     }
     else
