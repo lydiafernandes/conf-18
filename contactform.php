@@ -25,6 +25,6 @@ echo "testing";
         echo "Something went wrong";
         //header("Location: contact.php);
     }*/
-
+    }
 
 ?>
