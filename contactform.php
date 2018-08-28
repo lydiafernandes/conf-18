@@ -35,12 +35,12 @@ echo "<br> testing after <br>";
 
         //$set subject
         $mail->Subject="$subject";
-        $mail->isHTML(isHtml:true)
+        $mail->isHTML(true);
 
         $mail->Body="this is $msg";
 
 
-        $mail->setFrom(address:'$email_from', name:'$name');
+        $mail->setFrom($email_from, $name);
 
         //set where we are sending the mail
         $mail->sendEmailTo($mail_to);
