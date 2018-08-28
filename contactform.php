@@ -4,7 +4,7 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 echo "testing before";
 
-include_once('phpmailer/PHPMailerAutoload.php');
+include('phpmailer/PHPMailerAutoload.php');
 echo "<br> testing after <br>";
    if(isset($_POST['submit']))
     {
@@ -34,7 +34,7 @@ echo "<br> testing after <br>";
         $mqil->SMTPSecure = "ssl";
 
         //set a port
-        $mail->Port=465;
+        $mail->Port=25; //465
 
         //set subject
         $mail->Subject=$subject;
@@ -46,9 +46,11 @@ echo "<br> testing after <br>";
         //set who is sending the email
         $mail->setFrom($email_from, $name);
 
-        //set where we are sending the mail
+        //set where we are sending the mail (recepients)
         $mail->sendEmailTo($email_to);
 
+
+        //send an email
         if($mail->send())
         {
             echo "mail is sent";
