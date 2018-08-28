@@ -1,4 +1,7 @@
 <?php
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
 echo "testing before";
 
 include_once('phpmailer/PHPMailerAutoload.php');
@@ -33,21 +36,22 @@ echo "<br> testing after <br>";
         //set a port
         $mail->Port=465;
 
-        //$set subject
-        $mail->Subject="$subject";
+        //set subject
+        $mail->Subject=$subject;
         $mail->isHTML(true);
 
+        //set body
         $mail->Body="this is $msg";
 
-
+        //set who is sending the email
         $mail->setFrom($email_from, $name);
 
         //set where we are sending the mail
-        $mail->sendEmailTo($mail_to);
+        $mail->sendEmailTo($email_to);
 
         if($mail->send())
         {
-            echo "mailis sent";
+            echo "mail is sent";
         }
         else 
            echo "Something went wrong".$mail->ErrorInfo;
