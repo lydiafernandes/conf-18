@@ -1,7 +1,7 @@
 <?php
 echo "testing before";
-require "phpmailer/PHPMailerAutoload.php";
-
+//require "phpmailer/PHPMailerAutoload.php";
+include_once('phpmailer/PHPMailerAutoload.php');
 echo "testing";
    if(isset($_POST['submit']))
     {
