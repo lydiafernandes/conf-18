@@ -1,6 +1,6 @@
 <?php
 echo "testing before";
-//require "phpmailer/PHPMailerAutoload.php";
+
 include_once('phpmailer/PHPMailerAutoload.php');
 echo "<br> testing after <br>";
    if(isset($_POST['submit']))
