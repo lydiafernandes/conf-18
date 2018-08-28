@@ -1,4 +1,5 @@
 <?php
+echo "testing before";
 require "phpmailer/PHPMailerAutoload.php";
 
 echo "testing";
