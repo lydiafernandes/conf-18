@@ -4,6 +4,11 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 echo "testing before";
 
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+require 'vendor/autoload.php';
+ 
+
 include('phpmailer/PHPMailerAutoload.php');
 echo "<br> testing after <br>";
    if(isset($_POST['submit']))
