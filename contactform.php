@@ -22,7 +22,8 @@ echo "<br> testing after <br>";
 
         //creating an instance of PHPMailer
         //$mail = new PHPMailer();
-        $mail = new PHPMailer\PHPMailer\PHPMailer();
+        //$mail = new PHPMailer\PHPMailer\PHPMailer();
+        $mail = new PHPMailer\PHPMailer\PHPMailer(true);
 
         //set a host
         $mail->Host = "smtp.gmail.com";
