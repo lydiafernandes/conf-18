@@ -53,7 +53,7 @@ session_start();
         </div>
 
           <div class="column">
-            <img src="img/CreightonUniv_Church.jpg" class="img-fluid rounded" 
+            <img src="img/abt_us_images/large_Building.jpg" class="img-fluid rounded" 
             width="306" height="234" style="" alt="image of creighton" title="Church view of Creighton University">
           </div>
          <p>
