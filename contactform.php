@@ -6,10 +6,10 @@ echo "testing before";
 
 //use PHPMailer\PHPMailer\PHPMailer;
 //use PHPMailer\PHPMailer\Exception;
-//require 'vendor/autoload.php';
+require 'vendor/autoload.php';
  
 
-include('phpmailer/PHPMailerAutoload.php');
+//include('phpmailer/PHPMailerAutoload.php');
 echo "<br> testing after <br>";
    if(isset($_POST['submit']))
     {
