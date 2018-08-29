@@ -54,7 +54,7 @@
 
 			<div class="col-12">
 				<hr class="light">
-				<h5> &copy; xaviers.edu </h5>
+				<h5> Copyright St. Xavier&apos;s College, &copy; </h5>
 			</div>
 		</div> 
 	</div>
