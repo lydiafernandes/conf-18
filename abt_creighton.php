@@ -43,7 +43,7 @@ session_start();
         <h1>Creighton University</h1>
         <div class="column"> 
             <img src="img/CreightonUniv_Church.jpg" class="img-fluid rounded"
-            width="306" height="234" style="" alt="image of creighton" title="Aerial view of Creighton University">
+            width="306" height="234" style="" alt="image of creighton" title="">
         </div>
 
         <div class="column">
@@ -54,7 +54,7 @@ session_start();
 
           <div class="column">
             <img src="img/abt_us_images/large_Building.jpg" class="img-fluid rounded" 
-            width="306" height="234" style="" alt="image of creighton" title="Church view of Creighton University">
+            width="306" height="234" style="" alt="image of creighton" title="">
           </div>
          <p>
             Creighton is a Jesuit comprehensive university committed to 
