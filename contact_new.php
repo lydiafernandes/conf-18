@@ -32,15 +32,17 @@ session_start();
 <?php include("includes/navigation1.php");?>
 
     <div class="container contact-form">
-            <h1> Contact Form</h1>
+            <h1> Write to us @</h1>
             <hr>
             <div class="row">
 
           
 
             <div class="col-md-6">
+
+                <p><a href="mailto:isc150@xaviers.edu">Email: isc150@xaviers.edu</a></p>
                 <address> 5, Mahapalika Marg, Mumbai, 400001 </address>
-                <p>Email: isc150@xaviers.edu</p>
+                
                 <p>Contact: 022 2262 0661</p>
             </div> <!-- end of col-md-6 -->
 
