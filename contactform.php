@@ -49,7 +49,7 @@ echo "<br> testing after <br>";
         $mail->Body="this is $msg";
 
         //set who is sending the email
-        $mail->setFrom($email_from, $name);
+        $mail->setFrom($email_to, $name);
 
         //set where we are sending the mail (recepients)
         $mail->sendEmailTo($email_to);
