@@ -59,7 +59,7 @@
         <a class="nav-link" href="speaker.php">Invited Speakers</a>
       </li>  
       <li class="nav-item">
-	      <a class="nav-link" href="contact.php">Connect</a>
+	      <a class="nav-link" href="contact_new.php">Connect</a>
 	  </li>
       <li class="nav-item" <?php echo $login_session; ?>>
 		<a class="nav-link" href="logout.php">Logout</a>
