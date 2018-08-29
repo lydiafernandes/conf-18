@@ -14,17 +14,17 @@
 				 /*if(!isset($_SESSION['id'])){ 
 				  echo "<p> U are not logged in <p>";
 				 }*/
-				 if($_SESSION['id'] != 1) 
+			/*	 if($_SESSION['id'] != 1) 
 						 {
 							 echo "<p> YOU are not logged in!</p>";
 							 header("Location:/");
 						 }
-				 else echo "<p>welcome".$_SESSION['id']."</p>";
+				 else echo "<p>welcome".$_SESSION['id']."</p>";*/
 				 ?>
 			 </a>	
      </li>
       <li class="nav-item">
-        <a class="nav-link" href="welcome.php">Home</a>
+        <a class="nav-link" href="index.php">Home</a>
       </li>
        <!-- Dropdown -->
     <li class="nav-item dropdown">
@@ -61,9 +61,9 @@
       <li class="nav-item">
 	      <a class="nav-link" href="contact_new.php">Connect</a>
 	  </li>
-      <li class="nav-item" <?php echo $login_session; ?>>
+      <!-- li class="nav-item" <?php echo $login_session; ?>>
 		<a class="nav-link" href="logout.php">Logout</a>
-	 </li>
+	 </li -->
     </ul>
   </div>  
 </nav>
