@@ -21,7 +21,8 @@ echo "<br> testing after <br>";
         $msg = $_POST['frm_msg'];
 
         //creating an instance of PHPMailer
-        $mail = new PHPMailer();
+        //$mail = new PHPMailer();
+        $mail = new PHPMailer\PHPMailer\PHPMailer();
 
         //set a host
         $mail->Host = "smtp.gmail.com";
