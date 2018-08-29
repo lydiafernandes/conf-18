@@ -23,9 +23,9 @@
 </head>
 <body> 
     <!-- include the nav bar -->
-<?php include("includes/navigation.php");?>
+<?php include("includes/navigation1.php");?>
 
-<H3> click <a href="files/Tentative_Technical_Programme_25th_August_2018.docx">here</a> to download schedule </H3>
+<H4 align="center"> click <a href="files/Tentative_Technical_Programme_25th_August_2018.docx">here</a> to download schedule </H4>
  
 <!-- -------------------------------------------------->
 
