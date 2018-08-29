@@ -152,7 +152,7 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 			 Conference entitled “From Health to Well Being:
 			   An Interdisciplinary approach from Fundamental Sciences to 
 			  Translational Medicine” will be held at the iconic campus 
-			  of St. Xavier&apos;s College, Mumbai, India from <strong>09 –11 January 2019</strong>.  
+			  of St. Xavier&apos;s College, Mumbai, India from <br> <strong>09 –11 January 2019</strong>.  
 			</p>
 		</div>
 	</div>
