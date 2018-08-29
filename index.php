@@ -33,8 +33,8 @@
       <div class="carousel-caption">
         <h1 class="display-2">X150 <br> The Conference</h1>
         <h3> Celebrating 150 Glorious years</h3>
-        <button type="button" class="btn btn-outline-light btn-lg"> Take a Tour</button>
-        <button type="button" class="btn btn-primary btn-lg">SIGN-UP</button>
+        <!-- button type="button" class="btn btn-outline-light btn-lg"> Take a Tour</button -->
+        <!-- button type="button" class="btn btn-primary btn-lg">SIGN-UP</button -->
       </div>
     </div>
     <div class="carousel-item">
