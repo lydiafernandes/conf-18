@@ -40,7 +40,7 @@
 
             <div class="col-md-6">
 
-                <p><a href="mailto:isc150@xaviers.edu" style="link:white; visited:white">Email: isc150@xaviers.edu</a></p>
+                <p><a href="mailto:isc150@xaviers.edu" style="link:white; visited:white; active:white;">Email: isc150@xaviers.edu</a></p>
                 <address> 5, Mahapalika Marg, Mumbai, 400001 </address>
                 
                 <p>Contact: 022 2262 0661</p>
