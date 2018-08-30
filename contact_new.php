@@ -25,7 +25,18 @@
         <link rel="stylesheet" type="text/css" href="css/style_contact.css"> 
        
 
-
+        <style>
+            :link{
+                color:white;
+            }
+            visited{ color:white}
+            :hover{
+                color:white;
+            }
+            :active{
+                color:white;
+            }
+        </style>
 </head>
 <body> 
     <!-- includee the nav bar -->
@@ -40,7 +51,7 @@
 
             <div class="col-md-6">
 
-                <p><a href="mailto:isc150@xaviers.edu" style="link:white; visited:white; active:white;">Email: isc150@xaviers.edu</a></p>
+                <p><a href="mailto:isc150@xaviers.edu">Email: isc150@xaviers.edu</a></p>
                 <address> 5, Mahapalika Marg, Mumbai, 400001 </address>
                 
                 <p>Contact: 022 2262 0661</p>
