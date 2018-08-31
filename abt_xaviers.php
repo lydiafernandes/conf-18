@@ -1,6 +1,6 @@
 <?php
 //session_start();
-
+//inlcude 'session.php';
 ?>
 <!DOCTYPE html>
 <HTML>
@@ -35,54 +35,70 @@
 </head>
 <body> 
     <!-- include the nav bar -->
+
+
 <?php include("includes/navigation1.php");?>
 
 
 <!-- -------------------------------------------------->
-<div id="section2" class="bg-warning container inner_row "> 
-        <h1>St. Xavier's College-Autonomous, Mumbai</h1>
-        <p>St. Xaviers’s College  founded in 1869 by ‘Society of Jesus’, is a premier Jesuit 
+
+<div class="row" style="border:none; background:white;">
+		<div class="col-sm-6 col-md-6 col-xs-6">
+			<img src="img/abt_us_images/xaviers_firstquad.jpg" class="img-fluid" style="width:100%; 
+            height:100%; margin-left:-15px;" />
+		</div>
+		<div class="col-sm-6 col-md-6 col-xs-6">  
+			<h3>St. Xavier's College-Autonomous, Mumbai</h3>
+			<p style="color:#03225C; padding:10px;">St. Xaviers’s College  founded in 1869 by ‘Society of Jesus’, is a premier Jesuit 
             Institution, known for its academic excellence and commitment towards humanity 
-            with its ethos based on the ‘magis’ - striving for ‘the more’. 
-        </p>
-            <div class="column">
-                 <img src="img/abt_us_images/sxc_lib1.png" class="img-fluid" 
-                 alt="xaviers library" style="width:100%;">
-            </div>
-
-            <div class="column">
-                 <img src="img/abt_us_images/sxc_chapel1.png" alt="xavier chapel" class="img-fluid" 
-                 style="width:100%;">
-            </div>
-
-            <div class="column">
-                <img src="img/abt_us_images/sxc_quad_eco1.png" class="img-fluid" 
-                  alt="xaviers quad" style="width:100%;">
-            </div> 
-        <p>
-            Nestled in a locale of exquisite Victorian Gothic style architectural splendor of 
+            with its ethos based on the ‘magis’ - striving for ‘the more’. It is the unique Jesuit concept of 
+            always striving <strong>to be more </strong> and <strong> do more </strong>; of always seeking to 
+            grow in learning, in faith and in <strong>service to others.</strong>
+            </p>
+		</div>
+	</div>
+<!-- ---------------------------------------- -->
+    <div class="row" style="border:none; background:white;">
+		
+		<div class="col-sm-5 col-md-5 col-xs-5">  
+			<h3>The Victorian Gothic style....</h3>
+			<p style="color:#03225C; padding-top:15px; margin-left:10px;">Nestled in a locale of exquisite Victorian Gothic style architectural splendor of 
             artistic sophistication, the college campus stands on a strategic road named 
-            ‘Mahapalika Marg’ connecting Dhobi Talao to Victoria Terminus, now known as 
-            Chatrapati Shivaji Maharaj Terminus (CSMT). 
-            All the elegant structures on Mahapalika Marg overlook the ‘Esplanade’ or ‘Azad Maidan’. 
+            ‘Mahapalika Marg’ connecting Dhobi Talao to <strong> Victoria Terminus</strong>, now known as 
+            <strong>Chatrapati Shivaji Maharaj Terminus (CSMT)</strong>. 
+            All the elegant structures on Mahapalika Marg overlook the <strong>‘Esplanade’ </strong> or
+             <strong>‘Azad Maidan’.</strong> 
+            </p>
+		</div>
 
-        </p>
-        <p>
-            The students and faculty at our campus strive to thrive in an academic environment
-             envisaging  creative freedom, critical thinking with a commitment to principles of 
-             social justice, equal opportunities by imbibing the essence of inclusive education.
-              The college campus symbolises a homogeneity merging traditional concepts with 
-              modern technological advancements. It keeps up with the ever complex environment
+        <div class="col-sm-7 col-md-7 col-xs-7">
+			<img src="img/abt_us_images/xaviers_chapel.jpg" class="img-fluid" style="width:100%; height:100%;" />
+		</div>
+	</div>
+<!-- ---------------------------------------- -->
+    <div class="row" style="border:none; background:white;">
+		
+    <div class="col-sm-5 col-md-5 col-xs-5">
+			<img src="img/abt_us_images/xaviers_foyer.jpg" class="img-fluid rounded" 
+            style="width:100%; height:100" />
+		</div>
+		<div class="col-sm-7 col-md-7 col-xs-7">  
+			<h3>Being Inclusive...</h3>
+			<p style="color:#03225C;">The students and faculty at our campus strive to thrive in an 
+            academic environment envisaging  creative freedom, critical thinking with a commitment to
+             principles of social justice, equal opportunities by imbibing the essence of inclusive
+              education. The college campus symbolises a homogeneity merging traditional concepts 
+              with modern technological advancements. It keeps up with the ever complex environment
                of the present world through its various centres such as Blatter Herbarium, 
-               Heras Institute of Indian History and Culture, Caius Laboratory for 
-               Interdisciplinary Research, Nadkarny Sacasa Research Laboratory (NSRL),
-                Xavier’s Research Centre for Visually Challenged (XRCVC), Department of
-                 Inter-Religious Studies (DIRS) and the Xavier’s Visual Arts Studio (XVAS) 
-                 on the campus.
-        </p>
-      </div>        
-           
+               Heras Institute of Indian History and Culture, Caius Laboratory for Interdisciplinary 
+               Research, Nadkarny Sacasa Research Laboratory (NSRL), Xavier’s Research Centre 
+               for Visually Challenged (XRCVC), Department of Inter-Religious Studies (DIRS) and the
+                Xavier’s Visual Arts Studio (XVAS) on the campus.
+            </p>
+		</div>
 
+       
+	</div>
 <!--- Connect-->
 
 <?php include("includes/footer.php");?>
