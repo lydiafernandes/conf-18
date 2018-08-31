@@ -72,7 +72,7 @@
 		</div>
 
         <div class="col-sm-7 col-md-7 col-xs-7">
-			<img src="img/abt_us_images/xaviers_chapel.jpg" class="img-fluid" style="width:70%; height:100%;" />
+			<img src="img/abt_us_images/xaviers_chapel.jpg" class="img-fluid" style="width:100%; height:100%;" />
 		</div>
 	</div>
 <!-- ---------------------------------------- -->
