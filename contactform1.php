@@ -23,10 +23,10 @@ $mail->SMTPSecure = "tls";
 //Set TCP port to connect to 
 $mail->Port = 587;                                   
 
-$mail->From = "isc150@xaviers.edu";
+$mail->From = "fdes.lydia@gmail.com";
 $mail->FromName = "Lydia Fernandes";
 
-$mail->addAddress("fdes.lydia@gmail.com", "Recepient Name");
+$mail->addAddress("isc150@xaviers.edu", "Recepient Name");
 
 $mail->isHTML(true);
 
