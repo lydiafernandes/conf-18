@@ -42,7 +42,7 @@
 
 <!-- -------------------------------------------------->
 
-<div class="row" style="border:none; background:white; height:210px;">
+<div class="row container-fluid" style="border:none; background:white;">
 		<div class="col-xs-6">
 			<img src="img/abt_us_images/xaviers_chapel.jpg" class="img-fluid" style="width:100%; margin-left:-15px;" />
 		</div>
