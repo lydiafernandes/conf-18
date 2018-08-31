@@ -62,7 +62,7 @@
 		
 		<div class="col-sm-5 col-md-5 col-xs-5">  
 			<h3>The Victorian Gothic style....</h3>
-			<p style="color:#03225C; padding:15px;">Nestled in a locale of exquisite Victorian Gothic style architectural splendor of 
+			<p style="color:#03225C; padding-top:15px;">Nestled in a locale of exquisite Victorian Gothic style architectural splendor of 
             artistic sophistication, the college campus stands on a strategic road named 
             ‘Mahapalika Marg’ connecting Dhobi Talao to <strong> Victoria Terminus</strong>, now known as 
             <strong>Chatrapati Shivaji Maharaj Terminus (CSMT)</strong>. 
