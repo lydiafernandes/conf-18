@@ -9,8 +9,8 @@
 
 		<div class="col-12 social padding">
 
-			<a href="https://www.facebook.com/alumnixaviers/"><i class="fab fa-facebook"></i></a>
-			<a href="https://www.instagram.com/alumnixaviers/"><i class="fab fa-instagram"></i></a>
+			<a href="https://www.facebook.com/alumnixaviers/" target="_blank"><i class="fab fa-facebook"></i></a>
+			<a href="https://www.instagram.com/alumnixaviers/" target="_blank"><i class="fab fa-instagram"></i></a>
 			<!-- a href="#"><i class="fab fa-twitter"></i></a>
 			<a href="#"><i class="fab fa-google-plus-g"></i></a>
 			

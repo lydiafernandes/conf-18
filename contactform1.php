@@ -41,6 +41,7 @@ if(!$mail->send())
 else 
 {
     echo "Message has been sent successfully";
+    header("location:contact.php");
 }
 
 ?>
