@@ -30,7 +30,7 @@
     <!-- includee the nav bar -->
 <?php include("includes/navigation1.php");?>
 
-    <div class="container contact-form">
+    <div class="container contact-form" style="padding-top:10px;"> 
             <h1> Contact Form</h1>
             <hr>
             <div class="row">
