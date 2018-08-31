@@ -44,7 +44,7 @@
 
 <div class="row" style="border:none; background:white;">
 		<div class="col-sm-5 col-md-5 col-xs-5">
-			<img src="img/abt_us_images/xaviers_chapel.jpg" class="img-fluid" style="width:200px; height:150px; margin-left:-15px;" />
+			<img src="img/abt_us_images/xaviers_chapel.jpg" class="img-fluid" style="width:75%; height:50%; margin-left:-15px;" />
 		</div>
 		<div class="col-sm-7 col-md-7 col-xs-7">  
 			<h3>Hello World</h3>
