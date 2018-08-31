@@ -67,7 +67,7 @@
             ‘Mahapalika Marg’ connecting Dhobi Talao to <strong> Victoria Terminus</strong>, now known as 
             <strong>Chatrapati Shivaji Maharaj Terminus (CSMT)</strong>. 
             All the elegant structures on Mahapalika Marg overlook the <strong>‘Esplanade’ </strong> or
-             <strong>‘Azad Maidan’.</strong> 
+             <b>‘Azad Maidan’.</b> 
             </p>
 		</div>
 
