@@ -43,10 +43,10 @@
 <!-- -------------------------------------------------->
 
 <div class="row" style="border:none; background:white;">
-		<div class="col-sm-5 col-md-5 col-xs-5">
+		<div class="col-sm-6 col-md-6 col-xs-6">
 			<img src="img/abt_us_images/xaviers_firstquad.jpg" class="img-fluid" style="width:100%; height:100%; margin-left:-15px;" />
 		</div>
-		<div class="col-sm-7 col-md-7 col-xs-7">  
+		<div class="col-sm-6 col-md-6 col-xs-6">  
 			<h3>St. Xavier's College-Autonomous, Mumbai</h3>
 			<p style="color:#03225C;">St. Xaviers’s College  founded in 1869 by ‘Society of Jesus’, is a premier Jesuit 
             Institution, known for its academic excellence and commitment towards humanity 
