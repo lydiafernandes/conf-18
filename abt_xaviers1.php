@@ -60,7 +60,7 @@
     <div class="row" style="border:none; background:white;">
 		
 		<div class="col-sm-7 col-md-7 col-xs-7">  
-			<h3>St. Xavier's College-Autonomous, Mumbai</h3>
+			<h3>The Victorian Gothic style....</h3>
 			<p style="color:#03225C;">Nestled in a locale of exquisite Victorian Gothic style architectural splendor of 
             artistic sophistication, the college campus stands on a strategic road named 
             ‘Mahapalika Marg’ connecting Dhobi Talao to Victoria Terminus, now known as 
@@ -77,15 +77,20 @@
     <div class="row" style="border:none; background:white;">
 		
     <div class="col-sm-5 col-md-5 col-xs-5">
-			<img src="img/abt_us_images/xaviers_foyer.jpg" class="img-fluid rounded" style="width:100%; height:100%; margin-left:-15px;" />
+			<img src="img/abt_us_images/xaviers_foyer.jpg" class="img-fluid rounded" style="width:100%; height:100%; margin-left:-10px;" />
 		</div>
 		<div class="col-sm-7 col-md-7 col-xs-7">  
-			<h3>St. Xavier's College-Autonomous, Mumbai</h3>
-			<p style="color:#03225C;">Nestled in a locale of exquisite Victorian Gothic style architectural splendor of 
-            artistic sophistication, the college campus stands on a strategic road named 
-            ‘Mahapalika Marg’ connecting Dhobi Talao to Victoria Terminus, now known as 
-            Chatrapati Shivaji Maharaj Terminus (CSMT). 
-            All the elegant structures on Mahapalika Marg overlook the ‘Esplanade’ or ‘Azad Maidan’. 
+			<h3>Being Inclusive...</h3>
+			<p style="color:#03225C;">The students and faculty at our campus strive to thrive in an 
+            academic environment envisaging  creative freedom, critical thinking with a commitment to
+             principles of social justice, equal opportunities by imbibing the essence of inclusive
+              education. The college campus symbolises a homogeneity merging traditional concepts 
+              with modern technological advancements. It keeps up with the ever complex environment
+               of the present world through its various centres such as Blatter Herbarium, 
+               Heras Institute of Indian History and Culture, Caius Laboratory for Interdisciplinary 
+               Research, Nadkarny Sacasa Research Laboratory (NSRL), Xavier’s Research Centre 
+               for Visually Challenged (XRCVC), Department of Inter-Religious Studies (DIRS) and the
+                Xavier’s Visual Arts Studio (XVAS) on the campus.
             </p>
 		</div>
 
