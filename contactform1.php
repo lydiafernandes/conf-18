@@ -26,7 +26,7 @@ $mail->Port = 587;
 $mail->From = "isc150@xaviers.edu";
 $mail->FromName = "Lydia Fernandes";
 
-$mail->addAddress("isc150@xaviers.edu", "Recepient Name");
+$mail->addAddress("fdes.lydia@gmail.com", "Recepient Name");
 
 $mail->isHTML(true);
 
