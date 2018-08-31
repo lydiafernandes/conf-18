@@ -42,11 +42,11 @@
 
 <!-- -------------------------------------------------->
 
-<div class="row container-fluid" style="border:none; background:white;">
-		<div class="col-xs-6">
-			<img src="img/abt_us_images/xaviers_chapel.jpg" class="img-fluid" style="width:100%; margin-left:-15px;" />
+<div class="row" style="border:none; background:white;">
+		<div class="col-xs-6  container-fluid">
+			<img src="img/abt_us_images/xaviers_chapel.jpg" class="img-fluid" style="width:200px; height:150px; margin-left:-15px;" />
 		</div>
-		<div class="col-xs-6">  
+		<div class="col-xs-6  container-fluid">  
 			<h3>Hello World</h3>
 			<p style="font-size:10px; color:#03225C;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit adipiscing blandit. Aliquam placerat, velit a fermentum fermentum, mi felis vehicula justo, a dapibus quam augue non massa.</p>
 		</div>
