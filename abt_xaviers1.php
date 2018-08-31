@@ -59,7 +59,7 @@
 <!-- ---------------------------------------- -->
     <div class="row" style="border:none; background:white;">
 		
-		<div class="col-sm-7 col-md-7 col-xs-7">  
+		<div class="col-sm-6 col-md-6 col-xs-6">  
 			<h3>The Victorian Gothic style....</h3>
 			<p style="color:#03225C;">Nestled in a locale of exquisite Victorian Gothic style architectural splendor of 
             artistic sophistication, the college campus stands on a strategic road named 
@@ -69,7 +69,7 @@
             </p>
 		</div>
 
-        <div class="col-sm-5 col-md-5 col-xs-5">
+        <div class="col-sm-6 col-md-6 col-xs-6">
 			<img src="img/abt_us_images/xaviers_chapel.jpg" class="img-fluid" style="width:100%; height:100%; margin-left:-15px;" />
 		</div>
 	</div>
