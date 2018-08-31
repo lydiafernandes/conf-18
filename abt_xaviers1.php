@@ -60,7 +60,7 @@
 <!-- ---------------------------------------- -->
     <div class="row" style="border:none; background:white;">
 		
-		<div class="col-sm-5 col-md-5 col-xs-5"  style="margin-left:15px;">  
+		<div class="col-sm-5 col-md-5 col-xs-5"  style="margin-left:10px;">  
 			<h3>The Victorian Gothic style....</h3>
 			<p style="color:#03225C; padding-top:15px;">Nestled in a locale of exquisite Victorian Gothic style architectural splendor of 
             artistic sophistication, the college campus stands on a strategic road named 
