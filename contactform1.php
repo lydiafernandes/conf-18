@@ -16,17 +16,17 @@ $mail->Host = "smtp.gmail.com";
 //Set this to true if SMTP host requires authentication to send email
 $mail->SMTPAuth = true;                          
 //Provide username and password     
-$mail->Username = "fdes.lydia@gmail.com";                 
-$mail->Password = "Wasdwasd713";//my mail password                      
+$mail->Username = "isc150@xaviers.edu";                 
+$mail->Password = "Isc1501819";//my mail password                      
 //If SMTP requires TLS encryption then set it
 $mail->SMTPSecure = "tls";                           
 //Set TCP port to connect to 
 $mail->Port = 587;                                   
 
-$mail->From = "fdes.lydia@gmail.com";
+$mail->From = "isc150@xaviers.edu";
 $mail->FromName = "Lydia Fernandes";
 
-$mail->addAddress("fdes.lydia@gmail.com", "Recepient Name");
+$mail->addAddress("isc150@xaviers.edu", "Recepient Name");
 
 $mail->isHTML(true);
 
