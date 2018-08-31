@@ -44,7 +44,7 @@
             </div> <!-- end of col-md-6 -->
 
             <div class="col-md-6">
-                <form class="contact-form" action="contactform.php" method="post">
+                <form class="contact-form" action="contactform1.php" method="post">
                     <div class="form-group">
                         <label> Name</label>
                         <input type="text" class="form-control" name="frm_name" placeholder="Please enter your full name" 
