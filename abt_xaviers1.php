@@ -47,8 +47,26 @@
 			<img src="img/abt_us_images/xaviers_chapel.jpg" class="img-fluid" style="width:100%; height:100%; margin-left:-15px;" />
 		</div>
 		<div class="col-sm-7 col-md-7 col-xs-7">  
-			<h3>Hello World</h3>
-			<p style="font-size:10px; color:#03225C;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit adipiscing blandit. Aliquam placerat, velit a fermentum fermentum, mi felis vehicula justo, a dapibus quam augue non massa.</p>
+			<h3>St. Xavier's College-Autonomous, Mumbai</h3>
+			<p style="font-size:12px; color:#03225C;">St. Xaviers’s College  founded in 1869 by ‘Society of Jesus’, is a premier Jesuit 
+            Institution, known for its academic excellence and commitment towards humanity 
+            with its ethos based on the ‘magis’ - striving for ‘the more’
+            </p>
+		</div>
+	</div>
+
+    <div class="row" style="border:none; background:white;">
+		
+		<div class="col-sm-7 col-md-7 col-xs-7">  
+			<h3>St. Xavier's College-Autonomous, Mumbai</h3>
+			<p style="font-size:12px; color:#03225C;">St. Xaviers’s College  founded in 1869 by ‘Society of Jesus’, is a premier Jesuit 
+            Institution, known for its academic excellence and commitment towards humanity 
+            with its ethos based on the ‘magis’ - striving for ‘the more’
+            </p>
+		</div>
+
+        <div class="col-sm-5 col-md-5 col-xs-5">
+			<img src="img/abt_us_images/xaviers_chapel.jpg" class="img-fluid" style="width:100%; height:100%; margin-left:-15px;" />
 		</div>
 	</div>
 <!--- Connect-->

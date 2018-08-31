@@ -61,6 +61,7 @@ echo "<br> testing after <br>";
         if($mail->send())
         {
             echo "mail is sent";
+        
         }
         else 
            echo "Something went wrong".$mail->ErrorInfo;
