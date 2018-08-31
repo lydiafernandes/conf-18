@@ -48,7 +48,7 @@
 		</div>
 		<div class="col-sm-6 col-md-6 col-xs-6">  
 			<h3>St. Xavier's College-Autonomous, Mumbai</h3>
-			<p style="color:#03225C;">St. Xaviers’s College  founded in 1869 by ‘Society of Jesus’, is a premier Jesuit 
+			<p style="color:#03225C; padding:10px;">St. Xaviers’s College  founded in 1869 by ‘Society of Jesus’, is a premier Jesuit 
             Institution, known for its academic excellence and commitment towards humanity 
             with its ethos based on the ‘magis’ - striving for ‘the more’. It is the unique Jesuit concept of 
             always striving <strong>to be more </strong> and <strong> do more </strong>; of always seeking to 
@@ -77,7 +77,7 @@
     <div class="row" style="border:none; background:white;">
 		
     <div class="col-sm-5 col-md-5 col-xs-5">
-			<img src="img/abt_us_images/xaviers_foyer.jpg" class="img-fluid rounded" style="width:100%; height:100%; margin-left:-10px;" />
+			<img src="img/abt_us_images/xaviers_foyer.jpg" class="img-fluid rounded" style="width:100%; height:100%; margin-left:-5px;" />
 		</div>
 		<div class="col-sm-7 col-md-7 col-xs-7">  
 			<h3>Being Inclusive...</h3>
