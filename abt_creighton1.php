@@ -70,8 +70,9 @@ body{
             This University, in keeping with the Jesuit traditions, provides a 
             place where students learn to become leaders through service to others and contribute
             something meaningful to the world. Creighton University has earned the top spot in
-             U.S.News &amp; World Report magazine’s college ranking for the Midwest Regional Universities. It has earned
-            No. 1 Ranking in America’s Best Colleges” edition for the 15th year in a row.
+             U.S.News &amp; World Report magazine’s college ranking for the Midwest Regional 
+             Universities. It has earned <strong> No. 1 Ranking in America’s Best Colleges&apos; </strong>
+             edition for the 15th year in a row.
         </p>
 		</div>
 
