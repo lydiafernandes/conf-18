@@ -29,6 +29,9 @@
     margin:0px;
 }
 
+body{
+    backgroud-color:#DCDCDC;
+}
 </style>
 
 
@@ -42,7 +45,7 @@
 
 <!-- -------------------------------------------------->
 
-<div class="row" style="border:none; background:white;">
+<div class="row" style="border:none; background:#DCDCDC;">
 		<div class="col-sm-6 col-md-6 col-xs-6">
 			<img src="img/abt_us_images/xaviers_firstquad.jpg" class="img-fluid" style="width:100%; 
             height:100%; margin-left:-15px;" />
@@ -58,7 +61,7 @@
 		</div>
 	</div>
 <!-- ---------------------------------------- -->
-    <div class="row" style="border:none; background:white;">
+    <div class="row" style="border:none; background:#DCDCDC;">
 		
 		<div class="col-sm-5 col-md-5 col-xs-5">  
 			<h3>The Victorian Gothic style....</h3>
@@ -76,7 +79,7 @@
 		</div>
 	</div>
 <!-- ---------------------------------------- -->
-    <div class="row" style="border:none; background:white;">
+    <div class="row" style="border:none; background:#DCDCDC;">
 		
     <div class="col-sm-5 col-md-5 col-xs-5">
 			<img src="img/abt_us_images/xaviers_foyer.jpg" class="img-fluid rounded" 
