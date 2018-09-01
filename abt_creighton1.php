@@ -44,8 +44,7 @@
 
 <div class="row" style="border:none; background:white;">
 		<div class="col-sm-6 col-md-6 col-xs-6">
-        By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/35571143@N00">Troy Johnson</a> from USA - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/35571143@N00/120133116/">https://www.flickr.com/photos/35571143@N00/120133116/</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3261739">Link</a>
-			<img src="img/abt_us_images/xaviers_firstquad.jpg" class="img-fluid" style="width:100%; 
+         	<img src="img/abt_us_images/Creighton_University2.jpg" class="img-fluid" style="width:100%; 
             height:100%; margin-left:-15px;" />
 		</div>
 		<div class="col-sm-6 col-md-6 col-xs-6">  
@@ -73,14 +72,14 @@
 		</div>
 
         <div class="col-sm-7 col-md-7 col-xs-7">
-			<img src="img/abt_us_images/xaviers_chapel.jpg" class="img-fluid" style="width:100%; height:100%;" />
+			<img src="img/abt_us_images/Creighton_University1.jpg" class="img-fluid" style="width:100%; height:100%;" />
 		</div>
 	</div>
 <!-- ---------------------------------------- -->
     <div class="row" style="border:none; background:white;">
 		
     <div class="col-sm-5 col-md-5 col-xs-5">
-			<img src="img/abt_us_images/xaviers_foyer.jpg" class="img-fluid rounded" 
+			<img src="img/abt_us_images/Creighton_University3.jpg" class="img-fluid rounded" 
             style="width:100%; height:100" />
 		</div>
 		<div class="col-sm-7 col-md-7 col-xs-7">  
