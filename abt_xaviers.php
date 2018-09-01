@@ -30,7 +30,7 @@
 }
 
 body{
-    backgroud-color:#DCDCDC;
+    background-color:#DCDCDC;
 }
 </style>
 
