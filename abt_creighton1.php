@@ -29,7 +29,7 @@
     margin:0px;
 }
 body{
-    background-color:#D3D3D3;
+    background-color:#DCDCDC;
 }
 
 </style>
@@ -45,7 +45,7 @@ body{
 
 <!-- -------------------------------------------------->
 
-<div class="row" style="border:none; background:#D3D3D3;">
+<div class="row" style="border:none; background:#DCDCDC;">
 		<div class="col-sm-6 col-md-6 col-xs-6">
          	<img src="img/abt_us_images/Creighton_University2.jpg" class="img-fluid" style="width:100%; 
             height:100%; margin-left:-15px;" />
@@ -62,7 +62,7 @@ body{
 		</div>
 	</div>
 <!-- ---------------------------------------- -->
-    <div class="row" style="border:none; background:#D3D3D3;">
+    <div class="row" style="border:none; background:#DCDCDC;">
 		
 		<div class="col-sm-5 col-md-5 col-xs-5">  
 			<h3>Service to others and Academic excellence.....</h3>
@@ -81,7 +81,7 @@ body{
 		</div>
 	</div>
 <!-- ---------------------------------------- -->
-    <div class="row" style="border:none; background:#D3D3D3;">
+    <div class="row" style="border:none; background:#DCDCDC;">
 		
     <div class="col-sm-5 col-md-5 col-xs-5">
 			<img src="img/abt_us_images/Creighton_University3.jpg" class="img-fluid rounded" 
