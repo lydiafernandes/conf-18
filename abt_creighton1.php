@@ -48,12 +48,13 @@
             height:100%; margin-left:-15px;" />
 		</div>
 		<div class="col-sm-6 col-md-6 col-xs-6">  
-			<h3>St. Xavier's College-Autonomous, Mumbai</h3>
-			<p style="color:#03225C; padding:10px;">St. Xaviers’s College  founded in 1869 by ‘Society of Jesus’, is a premier Jesuit 
-            Institution, known for its academic excellence and commitment towards humanity 
-            with its ethos based on the ‘magis’ - striving for ‘the more’. It is the unique Jesuit concept of 
-            always striving <strong>to be more </strong> and <strong> do more </strong>; of always seeking to 
-            grow in learning, in faith and in <strong>service to others.</strong>
+			<h3>Creighton University</h3>
+			<p style="color:#03225C; padding:10px;">Creighton is a <strong>Jesuit </strong> comprehensive university 
+            committed to excellence in its selected undergraduate, graduate and professional programs.
+            Creighton University, located in <strong> Omaha, NE, USA,</strong> is a supportive community of 
+            students, faculty and staff thriving in an environment that stimulates critical 
+            and creative thinking while providing ethical perspectives for dealing with an
+            increasingly complex world.
             </p>
 		</div>
 	</div>
@@ -61,18 +62,18 @@
     <div class="row" style="border:none; background:white;">
 		
 		<div class="col-sm-5 col-md-5 col-xs-5">  
-			<h3>The Victorian Gothic style....</h3>
-			<p style="color:#03225C; padding-top:15px; margin-left:10px;">Nestled in a locale of exquisite Victorian Gothic style architectural splendor of 
-            artistic sophistication, the college campus stands on a strategic road named 
-            ‘Mahapalika Marg’ connecting Dhobi Talao to <strong> Victoria Terminus</strong>, now known as 
-            <strong>Chatrapati Shivaji Maharaj Terminus (CSMT)</strong>. 
-            All the elegant structures on Mahapalika Marg overlook the <strong>‘Esplanade’ </strong> or
-             <strong>‘Azad Maidan’.</strong> 
-            </p>
+			<h3>Service to others and Academic excellence.....</h3>
+			<p style="color:#03225C; padding-top:15px; margin-left:10px;">
+            This University, in keeping with the Jesuit traditions, provides a 
+            place where students learn to become leaders through service to others and contribute
+            something meaningful to the world. Creighton University has earned the top spot in
+             U.S.News &amp; World Report magazine’s college ranking for the Midwest Regional Universities. It has earned
+            No. 1 Ranking in America’s Best Colleges” edition for the 15th year in a row.
+        </p>
 		</div>
 
         <div class="col-sm-7 col-md-7 col-xs-7">
-			<img src="img/abt_us_images/Creighton_University1.jpg" class="img-fluid" style="width:100%; height:100%;" />
+			<img src="img/abt_us_images/CreightonUniv_Church1.jpg" class="img-fluid" style="width:100%; height:100%;" />
 		</div>
 	</div>
 <!-- ---------------------------------------- -->
@@ -83,17 +84,21 @@
             style="width:100%; height:100" />
 		</div>
 		<div class="col-sm-7 col-md-7 col-xs-7">  
-			<h3>Being Inclusive...</h3>
-			<p style="color:#03225C;">The students and faculty at our campus strive to thrive in an 
-            academic environment envisaging  creative freedom, critical thinking with a commitment to
-             principles of social justice, equal opportunities by imbibing the essence of inclusive
-              education. The college campus symbolises a homogeneity merging traditional concepts 
-              with modern technological advancements. It keeps up with the ever complex environment
-               of the present world through its various centres such as Blatter Herbarium, 
-               Heras Institute of Indian History and Culture, Caius Laboratory for Interdisciplinary 
-               Research, Nadkarny Sacasa Research Laboratory (NSRL), Xavier’s Research Centre 
-               for Visually Challenged (XRCVC), Department of Inter-Religious Studies (DIRS) and the
-                Xavier’s Visual Arts Studio (XVAS) on the campus.
+			<h3>Creighton School of Medicine</h3>
+			<p style="color:#03225C;">
+            The <strong> mission </strong> of the Creighton School of Medicine is to improve the human well-being with 
+        a diverse body of students, faculty and staff who provide excellence in educating 
+        students, physicians and the public, advancing knowledge and providing comprehensive 
+        patient care. The Department of Clinical and Translational Science (CTS) at Creighton
+         University School of Medicine is instituted to support advance education, 
+         provide <strong> collaboration and research </strong>in clinical and translational science. 
+         Our goal is to establish Creighton as a nationally and internationally renowned 
+         research institution for cutting-edge multidisciplinary translational research programs.
+          CTS strives to improve the future of health care and bring about an era of personalized 
+          medicine while advancing science and applying new discoveries to patient care. 
+          The Department of CTS fosters an extremely conducive environment where learners are 
+          mentored to become exceptional scientists/physicians and emerge as independent
+           investigators.
             </p>
 		</div>
 
