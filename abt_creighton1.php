@@ -28,6 +28,9 @@
     padding: 0px 5px 0px;
     margin:0px;
 }
+body{
+    background-color:#D3D3D3;
+}
 
 </style>
 
