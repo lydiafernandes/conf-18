@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <HTML>
     <head>
-        <title> Contact Us </title>
+        <title> Invited Speaker</title>
         <meta charset="utf-8">
     	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -67,13 +67,16 @@
 <!-- First Container -->
 <div class="container-fluid bg-1 text-center">
   
-  <img src="img/speakersnewdimensions/Daniel_Wilson_New.png" class="img-responsive rounded margin"
-   style="display:inline" alt="pic of Daniel Wilson" width="50%" height="50%">
+  <img src="img/Ramesh_Goyal.png" class="img-responsive rounded margin"
+   style="display:inline" alt="pic of Dr. Ramesh Goyal" width="50%" height="50%">
 
    <h3 class="margin">
-      <a name="top"> Dr. Daniel R. Wilson, M.D., Ph.D.</a>
+      <a name="top"> Dr. Ramesh K. Goyal</a>
     </h3>
-  <h4> A pioneer in Evolutionary Neuroscience, Currently he is the President of Western University of Health Sciences, Pomona, California USA.</h4>
+  <h4> Member of Task Force, Committee for Herbal Group, 
+					Indian Council of Medical research ,Member,
+					 Indian Pharmacopoeia Commission, CDSCO, Govt. of India.
+  </h4>
 </div>
 
 <!-- Second Container -->
@@ -84,38 +87,22 @@
   </h3>
     
      <p style="display:none;">  
-            Having completed his Bachelors in Ayurvedic Medicine and Surgery (BAMS) and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College, Thiruvananthapuram under the University of Kerala. 
-              He has started his carrier as medical officer in the 
-            Department of Indian Systems of Medicine under of the Government of Kerala and was deputed as 
-            Research Officer in the Drug Standardization 
-            Unit under the Department of Ayurveda Medical Education of Government of Kerala.He has started
-             his carrier as medical officer in the Department of Indian Systems of Medicine under of the 
-             Government of Kerala and was deputed as Research Officer in the Drug Standardization Unit under 
-             the Department of Ayurveda Medical Education of Government of Kerala.
-            He has started his carrier as medical officer in the Department of Indian Systems of Medicine 
-            under of the Government of Kerala and was deputed as Research Officer in the Drug Standardization 
-            Unit under the Department of Ayurveda Medical Education of Government of Kerala. 
-             His teaching career started at Vaidyaratnam P S Varier Ayurveda College, Kottakkal and 
-             later continued to Government Ayurveda College, Thiruvananthapuram and since January 2018, 
-             to the current institution.  He was the faculty of Research Methodology at Government 
-             Ayurveda College, Thiruvananthapuram and Subject expert of research methodology at Kerala 
-             University of Health Sciences (KUHS).   Currently he is acting as a resource person to
-              UGC – Human Resource Development Centre, University of Calicut and technical committee
-               member of School of Ayurveda and School of Health Policy and Planning of KUHS.  He has
-                acted as a member of the committee for the preparation of perspective plan for KUHS and 
-                was an active member in the committee for developing a vision document for the 
-                functioning of KUHS.  He has actively Participated in the Conceptualization and
-                 Project Development Workshop for High Impact Projects (HIP) in Ayurveda, organized
-                  by FRLHT - Institute of Ayurveda and Integrative Medicine (I-AIM), for the Dept. of
-                   AYUSH, Govt. of India, held at the School of Ancient Wisdom, Bangalore from 21st to 
-                   23rd may, 2010 and was a national level coordinator for one of the projects. 
-                    He has been a resource person to various International and National seminar 
-                    and conferences since 2007 and has 13 publications to his credit.  He is awarded 
-                    with SKM Research Scholar 2010 Award by SKM Centre for AYUSH System Research and 
-                    Education, Erode – A National Level award for outstanding contribution to Research 
-                    Methodologies in Ayurveda.  He is a teacher, clinician and researcher currently
-                     researching on the interface of ageing, Rasayana (ayurvedic drugs for ageing and degeneration) 
-	        and cancer through interdisciplinary and multidisciplinary approaches. 
+     Prof. Ramesh K. Goyal, Vice Chancellor of the First University of Pharmacy in India: 
+	Delhi Pharmaceutical Sciences and Research University. He has been previously Vice-Chancellor
+	 of the Maharaja Sayajirao University of Baroda, Executive Director (Research & strategies)
+	  at V ClinBio Labs., Chennai, Director (Pharmacology) at NMIMS University, 
+	  Mumbai; Director ISF College of Pharmacy,  Moga, Punjab and Professor at L. M. College of
+	   Pharmacy, Ahmedabad. 
+	   <br>
+	   Dr Goyal has three patents, 18 books, 26 book chapters, over 312 full papers (‘h’ index 40),
+	    over 550 abstracts published in National and International journals. 
+		He has guided 44 Ph.D. and 179 M. Pharm. students. He is the recipient of 65 awards,
+		 including Best Pharmacy Teacher and Best Pharmaceutical Research Scientist from APTI 
+		 and Life Time Achievement & Distinguished Service Awards from International Academy of 
+		 Cardiovascular Sciences, Canada (IACS). <br>
+
+He has over 40 years of experience in Teaching and Research particularly in Cardiovascular
+ Pharmacology & Diabetes. He has been the Chairman of CRC of AICTE, Bhopal. 
             <a href="#top" class="btn btn-outline-light btn-lg">Top</a>
     
         </p>

@@ -44,12 +44,15 @@
 		<!-- FIRST CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Rajmohan_New.png">
+				<img class="card-img-top" src="img/Ramesh_Goyal.png">
 				<div class="card-body">
-					<h4 class="card-title"> Dr. Rajmohan V.</h4>
-					<p class="card-text"> Asst. Professor with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) 
-					and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</p>
-					<a href="rajmohan.php" class="btn btn-outline-secondary">See Profile</a>
+					<h4 class="card-title"> Dr. Ramesh K. Goyal </h4>
+					<p class="card-text"> Member of Task Force, Committee for Herbal Group, 
+					Indian Council of Medical research ,Member,
+					 Indian Pharmacopoeia Commission, CDSCO, Govt. of India.
+
+                    </p>
+					<a href="goyal.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -154,17 +157,15 @@
 		</div>
 
 		<!--ROW 3- THIRD CARD APPEARS HERE -->
+		
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/Ramesh_Goyal.png">
+				<img class="card-img-top" src="img/speakersnewdimensions/Rajmohan_New.png">
 				<div class="card-body">
-					<h4 class="card-title"> Dr. Ramesh K. Goyal </h4>
-					<p class="card-text"> Member of Task Force, Committee for Herbal Group, 
-					Indian Council of Medical research ,Member,
-					 Indian Pharmacopoeia Commission, CDSCO, Govt. of India.
-
-                    </p>
-					<a href="#ramesh" class="btn btn-outline-secondary">See Profile</a>
+					<h4 class="card-title"> Dr. Rajmohan V.</h4>
+					<p class="card-text"> Asst. Professor with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) 
+					and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</p>
+					<a href="rajmohan.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -174,30 +175,7 @@
 <hr>
 
 <!-- ------------------------------------------------- -->
-<div class="container">
-    <h1> <a name="wilson">President Daniel R. Wilson, MD, PhD </a></h1>
-    <p class="card-text" style="text-align:justify">
-    <pre>
-    Western University of Health Sciences, Pomona, California USA
-   <!-- tel: 
-    Email: 
-    Web:<a href="#">?</a> -->
-    </pre>
-    Yale (BA Anthropology), Iowa (MD), McLean Hospital & Harvard Medical School (Internship, Residency & Fellowships), Case Western (Diploma Leadership), and Cambridge (PhD  Biological Anthropology).  
-  
-Some 350 formal scholarly communications and Principle Investigator on more than 40 grants and Co-I or Consultant on some 40 other studies.    
-  
-Directed Neuropsychiatry at McLean Hospital & Harvard Medical School from 1987-92.  From 1994 to 2000, served as Medical Director of the largest state hospital in Ohio. University of Cincinnati Professor of Psychiatry and Medical Director of the University Institute for Medicine & Law.  Creighton University Chairman of Psychiatry and Professor of Psychiatry, Neurology, and Anthropology 2000-2012.
 
-Pioneer in Evolutionary Neuroscience as President of the American Neuropsychiatric Association and Founding Chair of the World Psychiatric Association Section on Evolutionary Psychiatry. 
-  
-From 2012 to 2016 Vice President for Health Affairs & Dean of the University of Florida Health Science Center-Jacksonville. Supervised academic, clinical, and research activities in the Schools of Medicine, Nursing, and Pharmacy based at a 700 bed hospital all with a combined budget of $800M and some 6,000 employees, including a 750 faculty and resident practice spanning 51 sites in Florida and Georgia.   
-  
-Now President of Western University of Health Sciences with graduate colleges of Medicine, Nursing, Pharmacy, Veterinary Medicine, Dentistry, Podiatry, Optometry, Health Professions and Biomedical Sciences — the most comprehensive health sciences university in the United States. 
-<a href="#top" class="btn btn-outline-secondary">Top</a>
-</p>
-
-</div>
 <!-- -----------------got ------------------------------- -->
 <hr> 
 <div class="container">
