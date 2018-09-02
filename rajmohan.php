@@ -81,7 +81,7 @@
   <h3 class="margin">
   <button type="button" class="btn btn-outline-light btn-lg">Read more</button>
   </h3>
-  <p class="speaker">
+  <p class="speaker" id="speaker_details" style="display:none;">
   <pre>
     
    <!-- 
