@@ -88,7 +88,6 @@ $(document).ready(function(){
   <h3 class="margin">
   <button type="button" class="btn btn-outline-light btn-lg">Read more</button>
   </h3>
-    <div id="speaker_details" style="display:none;">
         <p class="speaker">
             <pre>
     
@@ -105,7 +104,7 @@ $(document).ready(function(){
             <a href="#top" class="btn btn-outline-secondary">Top</a>
     
         </p>
-    </div>
+
 </div>
 
 <!--- Connect-->
