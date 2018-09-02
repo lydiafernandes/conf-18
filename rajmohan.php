@@ -86,7 +86,7 @@
    style="display:inline" alt="pic of Dr. Rajmohan" width="50%" height="50%">
    <h3 class="margin">
       <a name="top"> Dr. Rajmohan V.</a>
-</h3>
+    </h3>
   <h3> Asst. Professor with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</h3>
 </div>
 
