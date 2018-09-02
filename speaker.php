@@ -78,7 +78,7 @@
 					<p class="card-text"> A Professor of Cardiovascular Institute “São Francisco de Assis”
 					and Cardiovascular Surgeon, Center of Cardiovascular Surgery &amp; Heart
 				    Transplantation, Meridional Hospital, Cariacica, ES, Brazil. </p>
-					<a href="#lima" class="btn btn-outline-secondary">See Profile</a>
+					<a href="lima.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -326,36 +326,6 @@ DAE SRC Outstanding Scientist Award 2015
 </div>
 
 <!-- -------------------------------------------------->
-<hr>
-<!--------------------------------------------------- --> 
-<div class="container">
-    <h1> <a name="ramesh"> </a> Dr. Ramesh Goyal</h1>
-    <p class="card-text" style="text-align:justify">
-    <pre>
-	Member of Task Force, Committee for Herbal Group, Indian Council of Medical research ,Member, Indian Pharmacopoeia Commission, CDSCO, Govt. of India. 
-    </pre>
-	Prof. Ramesh K. Goyal, Vice Chancellor of the First University of Pharmacy in India: 
-	Delhi Pharmaceutical Sciences and Research University. He has been previously Vice-Chancellor
-	 of the Maharaja Sayajirao University of Baroda, Executive Director (Research & strategies)
-	  at V ClinBio Labs., Chennai, Director (Pharmacology) at NMIMS University, 
-	  Mumbai; Director ISF College of Pharmacy,  Moga, Punjab and Professor at L. M. College of
-	   Pharmacy, Ahmedabad. 
-	   <br>
-	   Dr Goyal has three patents, 18 books, 26 book chapters, over 312 full papers (‘h’ index 40),
-	    over 550 abstracts published in National and International journals. 
-		He has guided 44 Ph.D. and 179 M. Pharm. students. He is the recipient of 65 awards,
-		 including Best Pharmacy Teacher and Best Pharmaceutical Research Scientist from APTI 
-		 and Life Time Achievement & Distinguished Service Awards from International Academy of 
-		 Cardiovascular Sciences, Canada (IACS). <br>
-
-He has over 40 years of experience in Teaching and Research particularly in Cardiovascular
- Pharmacology & Diabetes. He has been the Chairman of CRC of AICTE, Bhopal. 
-<a href="#top" class="btn btn-outline-secondary">Top</a>
-</p>
-
-
-</div>
-
 <!-- -------------------------------------------------->
 
 <!--- Connect-->

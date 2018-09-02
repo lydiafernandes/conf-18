@@ -67,15 +67,15 @@
 <!-- First Container -->
 <div class="container-fluid bg-1 text-center">
   
-  <img src="img/speakersnewdimensions/Luis_Lima_New.png" class="img-responsive rounded margin"
-   style="display:inline" alt="pic of Dr. Melchior Lima" width="50%" height="50%">
+  <img src="img/Ramesh_Goyal.png" class="img-responsive rounded margin"
+   style="display:inline" alt="pic of Dr. Ramesh Goyal" width="50%" height="50%">
 
    <h3 class="margin">
-      <a name="top"> Dr. Melchior Luiz Lima M.D. MSc. Ph.D.</a>
+      <a name="top"> Dr. Ramesh K. Goyal</a>
     </h3>
-  <h4> A Professor of Cardiovascular Institute “São Francisco de Assis”
-					and Cardiovascular Surgeon, Center of Cardiovascular Surgery &amp; Heart
-				    Transplantation, Meridional Hospital, Cariacica, ES, Brazil.
+  <h4> Member of Task Force, Committee for Herbal Group, 
+					Indian Council of Medical research ,Member,
+					 Indian Pharmacopoeia Commission, CDSCO, Govt. of India.
   </h4>
 </div>
 
@@ -87,21 +87,22 @@
   </h3>
     
      <p style="display:none;">  
-     <pre>
-Professor of Cardiovascular Institute “São Francisco de Assis”. 
-Cardiovascular Surgeon, Center of Cardiovascular Surgery &amp; Heart Transplantation, Meridional Hospital, 
-Cariacica, ES, Brazil. 
-Titular Member &amp; Member of the Deliberative Council of the Brazilian Society of Cardiovascular Surgery.
-Philosophy Doctor - Federal University of São Paulo, Brazil (2015). 
-Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011). 
- </pre>
- <hr>
-Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011).  
-Master of Science - Cardiovascular Institute “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2010). 
-Post-Graduation (Medical Residency) - “Real and Benemérita Sociedade Portuguesa de Beneficência”, São Joaquim Hospital, São Paulo, SP, Brazil (1991). 
-Graduation (Medicine) - School of Sciences of “Santa Casa de Misericórdia de Vitória”, Vitória, ES, Brazil (1988).
-Cardiovascular Surgeon research program collaborator of the Department of Physiological Sciences, Federal University of “Espírito Santo”,
-Vitoria, ES, Brazil. Researcher on vascular reactivity, myocardial protection and dysfunction of cardiac mitochondrial subpopulations in heart failure.
+     Prof. Ramesh K. Goyal, Vice Chancellor of the First University of Pharmacy in India: 
+	Delhi Pharmaceutical Sciences and Research University. He has been previously Vice-Chancellor
+	 of the Maharaja Sayajirao University of Baroda, Executive Director (Research & strategies)
+	  at V ClinBio Labs., Chennai, Director (Pharmacology) at NMIMS University, 
+	  Mumbai; Director ISF College of Pharmacy,  Moga, Punjab and Professor at L. M. College of
+	   Pharmacy, Ahmedabad. 
+	   <br>
+	   Dr Goyal has three patents, 18 books, 26 book chapters, over 312 full papers (‘h’ index 40),
+	    over 550 abstracts published in National and International journals. 
+		He has guided 44 Ph.D. and 179 M. Pharm. students. He is the recipient of 65 awards,
+		 including Best Pharmacy Teacher and Best Pharmaceutical Research Scientist from APTI 
+		 and Life Time Achievement & Distinguished Service Awards from International Academy of 
+		 Cardiovascular Sciences, Canada (IACS). <br>
+
+He has over 40 years of experience in Teaching and Research particularly in Cardiovascular
+ Pharmacology & Diabetes. He has been the Chairman of CRC of AICTE, Bhopal. 
             <a href="#top" class="btn btn-outline-light btn-lg">Top</a>
     
         </p>
