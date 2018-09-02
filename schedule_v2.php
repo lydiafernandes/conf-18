@@ -281,6 +281,61 @@
                                     </td>
                                 </tr>
 
+                                <tr>
+                                    <td colspan="2">
+                                    POSTER PRESENTATION    -          (4:00 - 6:00PM )   
+                                    </td>
+                                    <td>
+                                    College Hall
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">
+                                    
+                                        Meet your Scientist II (for College kids) 4.30 – 5.30
+   
+                                    </td>
+                                    <td>
+                                            -
+                                    </td>
+                                </tr>
+
+                                 <tr>
+                                    <td colspan="2">
+                                    
+                                    Debate  -  (6-7pm)  
+   
+                                    </td>
+                                    <td>
+                                    Seminar Room
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">
+                                    
+                                    CULTURAL PROGRAMME  ( 7 – 7:30 pm)
+   
+                                    </td>
+                                    <td>
+                                    College Hall
+                                    </td>
+                                </tr>
+
+                                 <tr>
+                                    <td colspan="2">
+                                    
+                                    Dinner (Banquet)
+   
+                                    </td>
+                                    <td>
+                                    Ist Quadrangle
+
+                                    </td>
+                                </tr>
+
+
+                                        
+
                             </tbody>
                         </table>
                     </div>
