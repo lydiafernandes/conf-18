@@ -56,6 +56,13 @@
   }
   
   </style>
+  <script>
+$(document).ready(function(){
+    $("button").click(function(){
+        $("p.speaker").toggle();
+    });
+});
+</script>
 </head>
 <body> 
     <!-- include the nav bar -->
