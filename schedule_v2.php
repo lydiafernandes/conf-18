@@ -21,18 +21,26 @@
 </head>
 <body> 
     <!-- include the nav bar -->
-<?php include("includes/navigation.php");?>
+<?php include("includes/navigation1.php");?>
 
 <!-- Tabs -->
 <section id="tabs">
 	<div class="container">
-		<h6 class="section-title h1">Tabs</h6>
+		<h6 class="section-title h1">
+            From Health to Well being: An Interdisciplinary approach from Fundamental  
+             Sciences to Translational Medicine
+        </h6>
+
+        <h6 class="section-title h1">
+            Venue: St. Xavier’s College, Mumbai (India) <br>
+            9th -11th January 2019
+        </h6>
 		<div class="row">
 			<div class="col-xs-12 ">
 				<nav>
 					<div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
-						<a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Home</a>
-						<a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Profile</a>
+						<a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Day1</a>
+						<a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Day 2</a>
 						<a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false">Contact</a>
 						<a class="nav-item nav-link" id="nav-about-tab" data-toggle="tab" href="#nav-about" role="tab" aria-controls="nav-about" aria-selected="false">About</a>
 					</div>
