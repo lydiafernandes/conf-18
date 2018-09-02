@@ -26,17 +26,17 @@
 <!-- Tabs -->
 <section id="tabs">
 	<div class="container">
-		<h2 class="section-title">
+		<h3 class="section-title">
             From Health to Well being: An Interdisciplinary approach from Fundamental  
              Sciences to Translational Medicine
-        </h2>
+        </h3>
 
-        <h3 class="section-title">
+        <h4 class="section-title">
             Venue: St. Xavier’s College, Mumbai (India) <br>
             9th -11th January 2019
-        </h3>
+        </h4>
 		<div class="row">
-			<div class="col-xs-12 ">
+			<div class="col-xs-12">
 				<nav>
 					<div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
 						<a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Day1</a>
@@ -102,7 +102,9 @@
                                 
                                 <tr>             
                                     <td colspan="3" align="center">
-                                    Dinner : 7:30 onwards        (XIMR Hall)   &amp;   College Tour   
+                                    <strong> 
+                                        Dinner : 7:30 pm onwards   (XIMR Hall)   &amp;   College Tour
+                                    </strong>   
                                     </td>   
                                 </tr>
 
@@ -110,8 +112,8 @@
                         </table>
   
                     </div>
-					<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
-						<!-- Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim. Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore. Duis reprehenderit occaecat anim ullamco ad duis occaecat ex. -->
+					<div class="tab-pane fade table-responsive" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+						<!-- Day 2 -->
                         <table class="table table-dark table-hover">
                             <thead>
                                 <tr>
@@ -122,9 +124,83 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>John</td>
-                                    <td>Doe</td>
-                                    <td>john@example.com</td>
+                                    <td>8 – 8.45 am</td>9 – 10 am
+                                    <td>Breakfast</td>
+                                    <td>XIMR- Hall</td>
+                                </tr>
+                                <tr>
+                                    <td>9 – 10 am</td>
+                                    <td><strong> Keynote lecture on <em> ‘Translational Medicine – Research Prospective’</em> by Prof. D.K. Agrawal</strong></td>
+                                    <td>MMR</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="3">
+                                      Technical Break  (10:00 – 10.30 am)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="3" style="background-color:#007b5e;">
+                                    &nbsp;  
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Venue – I  (10.30 - 12.45 pm)</td>
+                                    <td>Venue – II (10.30 - 12.45 pm)</td>
+                                    <td>Venue – III (10.30 - 12.45 pm)</td>
+                                </tr>
+                                <tr>
+                                    <td>Topic 1. <br>
+                                     Cardiovascular Research: Mending the Broken Heart
+                                    </td>
+                                    <td>Topic 2. <br>
+                                     Pharmacology Research: Untold stories of drug discovery
+                                    </td>
+                                    <td>Topic 3. <br>
+                                    Musculoskeletal Research: Building health and saving unfit
+                                </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                    <strong>Plenary Speaker: 30 + 5min <br>
+
+                                    Prof. Melchior Luis Lima </strong>
+                                     (Professor of Cardiovascular Institute Sao Francisco de Assis,         
+                                     Head of the Heart Transplant Center of the Meridional Hospital, USA)
+                                    </td>
+                                    <td><strong>Plenary Speaker: 30 + 5min<br>
+
+                                     Prof. Andras Varo <strong>(University of Szeged, Hungary)
+
+                                     </td>
+                                    <td>
+                                    <strong> Plenary Speaker: 30  + 5min <br>
+                                    Dr. Rajiv Kumar</strong> (NIH, USA)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong> Speaker – I (20+5) min. </strong><br>
+                                        Dr. Mohamed Radwan, (CTS, Creighton University, USA)
+                                    </td>
+                                    <td><strong> Speaker - I</strong></td>
+                                    <td><strong> Speaker – I (20+5) min. <br>
+                                        Dr FinoshThankam, (CTS, Creighton University, USA)</strong>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>  Speaker – II (20+5) min.</td>
+                                    <td>  Speaker – II (20+5) min.</td>
+                                    <td>  Speaker – II (20+5) min.</td>
+                                </tr>
+                                <tr>
+                                    <td>  Speaker – III (20+5) min.</td>
+                                    <td>  Speaker – III (20+5) min.</td>
+                                    <td>  Speaker – III (20+5) min.</td>
+                                </tr>
+                                <tr>
+                                    <td>  Selected Paper -  ( 12+3) Min.</td>
+                                    <td> Selected Paper -  ( 12+3) Min.</td>
+                                    <td>  Selected Paper -  ( 12+3) Min.</td>
                                 </tr>
                             </tbody>
                         </table>
