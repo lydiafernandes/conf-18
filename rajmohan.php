@@ -59,7 +59,7 @@
   <script>
 $(document).ready(function(){
     $("button").click(function(){
-        $("p.speaker").toggle();
+        $(".speaker").toggle();
     });
 });
 </script>
