@@ -49,7 +49,7 @@
 					<h4 class="card-title"> Dr. Rajmohan V.</h4>
 					<p class="card-text"> Asst. Professor with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) 
 					and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</p>
-					<a href="#rajmohan" class="btn btn-outline-secondary">See Profile</a>
+					<a href="rajmohan.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
