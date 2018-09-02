@@ -72,7 +72,7 @@
 <!-- First Container -->
 <div class="container-fluid bg-1 text-center">
   <h3 class="margin"> Dr. Rajmohan V.</h3>
-  <img src="img/speakersnewdimensions/Rajmohan_New.png" class="img-responsive img-circle margin"
+  <img src="img/speakersnewdimensions/Rajmohan_New.png" class="img-responsive rounded margin"
    style="display:inline" alt="pic of Dr. Rajmohan" width="350" height="350">
   <h3><a name="top"> Asst. Professor </a>with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</h3>
 </div>
