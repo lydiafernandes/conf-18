@@ -19,11 +19,11 @@
 
 
 <style>
-  body {
+ /* body {
       font: 20px Montserrat, sans-serif;
       line-height: 1.8;
       color: #f5f6f7;
-  }
+  }*/
   p {font-size: 16px;}
   .margin {margin-bottom: 45px;}
   .bg-1 { 
