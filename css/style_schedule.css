@@ -13,7 +13,7 @@ section .section-title {
 	background: #007b5e;
     color: #eee;
 }
-#tabs h3.section-title{
+#tabs h3.section-title, h2.section-title{
     color: #eee;
 }
 
