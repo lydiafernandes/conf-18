@@ -26,20 +26,21 @@
       color: #f5f6f7;
   }*/
 
-  body{
-      color:#03225C;
-  }
   p.speaker {font-size: 16px;}
 
   .margin {margin-bottom: 45px;}
 
   .bg-1 { 
       background-color: #DCDCDC; /* Grey */
-      color: #ffffff;
+      color: #000000;
   }
   .bg-2 { 
       background-color: #474e5d; /* Dark Blue */
       color: #ffffff;
+  }
+
+  pre{
+      color:#ffffff;
   }
   .bg-3 { 
       background-color: #ffffff; /* White */
