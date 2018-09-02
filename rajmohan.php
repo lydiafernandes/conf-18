@@ -124,7 +124,7 @@
                     Methodologies in Ayurveda.  He is a teacher, clinician and researcher currently
                      researching on the interface of ageing, Rasayana (ayurvedic drugs for ageing and degeneration) 
 	        and cancer through interdisciplinary and multidisciplinary approaches. 
-            <a href="#top" class="btn btn-outline-secondary">Top</a>
+            <a href="#top" class="btn btn-outline-light btn-lg">Top</a>
     
         </p>
 
