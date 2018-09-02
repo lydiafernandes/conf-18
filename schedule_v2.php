@@ -229,8 +229,8 @@
                                     </td>
                                     <td rowspan="6">
                                     Topic 6. <br>
-                                    <strong> Fundamental Sciences <br>(Material and Physical Sciences)
-                                    <br> Oral Presentations 15 </strong> 
+                                    <strong> Fundamental Sciences <br><br>(Material and Physical Sciences)
+                                    <br> <br>Oral Presentations<br> <br>15 </strong> 
                                     </td>
                                 </tr>
 
