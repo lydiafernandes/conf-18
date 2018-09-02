@@ -22,6 +22,7 @@
  /* body {
       font: 20px Montserrat, sans-serif;
       line-height: 1.8;
+  
       color: #f5f6f7;
   }*/
   p.speaker {font-size: 16px;}
@@ -48,18 +49,7 @@
       padding-top: 70px;
       padding-bottom: 70px;
   }
-  .navbar {
-      padding-top: 15px;
-      padding-bottom: 15px;
-      border: 0;
-      border-radius: 0;
-      margin-bottom: 0;
-      font-size: 12px;
-      letter-spacing: 5px;
-  }
-  .navbar-nav  li a:hover {
-      color: #1abc9c !important;
-  }
+  
   </style>
 </head>
 <body> 
@@ -73,7 +63,7 @@
 <div class="container-fluid bg-1 text-center">
   <h3 class="margin"> Dr. Rajmohan V.</h3>
   <img src="img/speakersnewdimensions/Rajmohan_New.png" class="img-responsive rounded margin"
-   style="display:inline" alt="pic of Dr. Rajmohan" width="350" height="350">
+   style="display:inline" alt="pic of Dr. Rajmohan" width="50%" height="50%">
   <h3><a name="top"> Asst. Professor </a>with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</h3>
 </div>
 
