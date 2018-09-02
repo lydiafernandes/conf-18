@@ -79,7 +79,7 @@
 <div class="container-fluid bg-2 text-center">
     
   <h3 class="margin">
-  <button type="button" class="btn btn-primary btn-lg">Read more</button>
+  <button type="button" class="btn btn-outline-light btn-lg">Read more</button>
   </h3>
   <p class="speaker">
   <pre>
