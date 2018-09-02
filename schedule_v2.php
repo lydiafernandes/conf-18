@@ -82,7 +82,7 @@
                                 </tr>
                                 <tr>
                                     <td>4:30 – 5:00 pm</td>
-                                    <td>Refreshment</td>
+                                    <td>Refreshments</td>
                                     <td>&nbsp;</td>
                                 </tr>
                                 <tr>
