@@ -67,12 +67,14 @@
 <!-- First Container -->
 <div class="container-fluid bg-1 text-center">
   
-  <img src="img/speakersnewdimensions/Rajmohan_New.png" class="img-responsive rounded margin"
-   style="display:inline" alt="pic of Dr. Rajmohan" width="50%" height="50%">
+  <img src="img/speakersnewdimensions/Daniel_Wilson_New.png" class="img-responsive rounded margin"
+   style="display:inline" alt="pic of Daniel Wilson" width="50%" height="50%">
+
    <h3 class="margin">
-      <a name="top"> Dr. Rajmohan V.</a>
+      <a name="top"> Dr. Daniel R. Wilson, M.D., Ph.D.</a>
     </h3>
-  <h4> Asst. Professor with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</h4></div>
+  <h4> A pioneer in Evolutionary Neuroscience, Currently he is the President of Western University of Health Sciences, Pomona, California USA.</h4>
+</div>
 
 <!-- Second Container -->
 <div class="container-fluid bg-2 text-center">
