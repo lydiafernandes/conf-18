@@ -18,6 +18,9 @@
         
         <script type="text/javascript">
              $(document).ready(function(){
+
+                 $("img").fadeIn(4000);
+                 
                $("button").click(function(){
                 $("p").toggle();
             });
