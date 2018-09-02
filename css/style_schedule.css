@@ -5,20 +5,20 @@ section {
 
 section .section-title {
     text-align: center;
-    color: #000000;
+    color: #007b5e;
     margin-bottom: 50px;
     text-transform: uppercase;
 }
 #tabs{
-	background: #DCDCDC;
-    color: #000000;
+	background: #007b5e;
+    color: #eee;
 }
 #tabs h4.section-title, h3.section-title{
-    color: #000000;
+    color: #eee;
 }
 
 #tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
-    color: #000000;
+    color: #f3f3f3;
     background-color: transparent;
     border-color: transparent transparent #f3f3f3;
     border-bottom: 4px solid !important;
@@ -29,7 +29,7 @@ section .section-title {
     border: 1px solid transparent;
     border-top-left-radius: .25rem;
     border-top-right-radius: .25rem;
-    color: #000000;
+    color: #eee;
     font-size: 20px;
 }
 
