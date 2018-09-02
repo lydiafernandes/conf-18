@@ -80,7 +80,7 @@
 <!-- Second Container -->
 <div class="container-fluid bg-2 text-center">
   <h3 class="margin">Read More...</h3>
-  <p>
+  <p class="speaker">
   <pre>
     Assistant Professor,				            TC 19/1807(22) “Devi Darsanam”
     Government Ayurveda College, 		                   Kesavan Nair Road, Poojappura,
