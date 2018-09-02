@@ -79,9 +79,7 @@
 <div class="container-fluid bg-2 text-center">
     
   <h3 class="margin">
-    <a href="#" class="btn btn-default btn-lg">
-            Read More...
-  </a>
+  <button type="button" class="btn btn-primary btn-lg">Read more</button>
   </h3>
   <p class="speaker">
   <pre>
