@@ -34,12 +34,6 @@
       color: #f5f6f7;
   }*/
 
-  #speaker {
-      font-size: 16px;
-      display:none;
-      color:yellow;
-      }
-
   .margin {margin-bottom: 45px;}
 
   .bg-1 { 
@@ -94,7 +88,7 @@
   <h3 class="margin">
   <button type="button" class="btn btn-outline-light btn-lg">Read more</button>
   </h3>
-        <p id="speaker">
+        <p id="speaker" style="display:none;">
             <pre>
     
             <!-- 
