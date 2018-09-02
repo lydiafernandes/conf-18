@@ -26,7 +26,10 @@
       color: #f5f6f7;
   }*/
 
-  p.speaker {font-size: 16px;}
+  #speaker {
+      font-size: 16px;
+      display:none;
+      }
 
   .margin {margin-bottom: 45px;}
 
@@ -57,11 +60,11 @@
   
   </style>
   <script>
-$(document).ready(function(){
-    $("button").click(function(){
-        $(".speaker").toggle();
+    $(document).ready(function(){
+         $("button").click(function(){
+                $("#speaker").toggle();
+          });
     });
-});
 </script>
 </head>
 <body> 
@@ -88,7 +91,7 @@ $(document).ready(function(){
   <h3 class="margin">
   <button type="button" class="btn btn-outline-light btn-lg">Read more</button>
   </h3>
-        <p class="speaker">
+        <p id="speaker">
             <pre>
     
             <!-- 
