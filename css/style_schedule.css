@@ -5,20 +5,20 @@ section {
 
 section .section-title {
     text-align: center;
-    color: #007b5e;
+    color: #DCDCDC;
     margin-bottom: 50px;
     text-transform: uppercase;
 }
 #tabs{
-	background: #007b5e;
-    color: #eee;
+	background: #DCDCDC;
+    color: #000000;
 }
 #tabs h4.section-title, h3.section-title{
-    color: #eee;
+    color: #000000;
 }
 
 #tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
-    color: #f3f3f3;
+    color: #000000;
     background-color: transparent;
     border-color: transparent transparent #f3f3f3;
     border-bottom: 4px solid !important;

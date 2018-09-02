@@ -83,7 +83,7 @@
     
    <!-- 
     tel: 
-    Email: 
+    Email:
     Web:<a href="#">?</a>  -->
     </pre>
     Having completed his Bachelors in Ayurvedic Medicine and Surgery (BAMS) and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College, Thiruvananthapuram under the University of Kerala.   He has started his carrier as medical officer in the 

@@ -76,7 +76,7 @@
                                 </tr>
                                 <tr>
                                     <td>3:30 – 4:30 pm</td>
-                                    <td><strong>Keynote Address IRev. Dr. Daniel Hendrickson</strong>
+                                    <td><strong>Keynote Address I -Rev. Dr. Daniel Hendrickson</strong>
                                 </td>
                                     <td>College – Hall</td>
                                 </tr>
