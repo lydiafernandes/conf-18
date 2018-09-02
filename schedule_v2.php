@@ -33,7 +33,7 @@
 
         <h4 class="section-title">
             Venue: St. Xavier’s College, Mumbai (India) <br>
-            9th -11th January 2019
+            9<sup>th</sup> -11<sup>th</sup> January 2019
         </h4>
 		<div class="row">
 			<div class="col-xs-12">
