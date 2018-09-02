@@ -124,7 +124,7 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>8 – 8.45 am</td>9 – 10 am
+                                    <td>8 – 8.45 am</td>
                                     <td>Breakfast</td>
                                     <td>XIMR- Hall</td>
                                 </tr>
@@ -134,7 +134,7 @@
                                     <td>MMR</td>
                                 </tr>
                                 <tr>
-                                    <td colspan="3">
+                                    <td colspan="3" style="text-align:center;">
                                       Technical Break  (10:00 – 10.30 am)
                                     </td>
                                 </tr>
@@ -143,11 +143,18 @@
                                     &nbsp;  
                                     </td>
                                 </tr>
+                            </tbody>
+                        </table>
+                        <table class="table table-dark table-hover">
+                            <thead>
+                         
                                 <tr>
                                     <td>Venue – I  (10.30 - 12.45 pm)</td>
                                     <td>Venue – II (10.30 - 12.45 pm)</td>
                                     <td>Venue – III (10.30 - 12.45 pm)</td>
                                 </tr>
+                            </thead>
+                            <tbody>
                                 <tr>
                                     <td>Topic 1. <br>
                                      Cardiovascular Research: Mending the Broken Heart
