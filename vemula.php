@@ -87,7 +87,24 @@
     
      <p style="display:none;">  
      <!-- speaker content goes here -->
-     
+     After obtaining Ph.D. from Indian Institute of Science in 2005, he
+received postdoctoral training at The City College of New York and Harvard–MIT Division of
+Health Sciences and Technology at Harvard Medical School in affiliation with Brigham and
+Women’s Hospital. In 2009, the Ewing Marion Kauffman Foundation selected him as an
+entrepreneur fellow through whom he received formal training in translational research and
+entrepreneurship. <br><br>
+Dr. Vemula is interested in the fields of biomaterials and chemical biology programs. In
+biomaterials, he is interested in drug delivery and gene delivery; in chemical biology he is
+interested in small molecular drug discovery. Overall he is intersted translation science. He has
+published >60 peer-reviewed papers and has given 80 national and international invited lectures
+and has 20 issued or pending patents. Several technologies developed by his team have formed
+the foundation for multiple products on the market. Based on the technologies he developed, two
+biotech companies were formed, Skintifique and Alivio Therapeutics. Two more startups are being
+formed.<br><br>
+Vemula’s work has been discussed in hundreds of newspapers, online websites, television
+newscasts, and radio shows around the world including The New York Times, CNN, ABC News,
+NBC, Boston Globe, LA Times, BBC, Discovery, National Geographic, The Hindu, The Times of
+India, Deccan Herald and many more.
      
             <a href="#top" class="btn btn-outline-light btn-lg">Top</a>
     

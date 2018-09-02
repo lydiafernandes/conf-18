@@ -93,7 +93,7 @@
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
 					<p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-					<a href="#vemula" class="btn btn-outline-secondary">See Profile</a>
+					<a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -177,28 +177,7 @@
 <!-- ------------------------------------------------- -->
 
 <!-- -----------------got ------------------------------- -->
-<hr> 
-<div class="container">
-    <h1> <a name="lima">Dr. Melchior Luiz Lima M.D. MSc. Ph.D. </a></h1>
-    <p class="card-text para-justify">
-    <pre>
-Professor of Cardiovascular Institute “São Francisco de Assis”. 
-Cardiovascular Surgeon, Center of Cardiovascular Surgery &amp; Heart Transplantation, Meridional Hospital, 
-Cariacica, ES, Brazil. 
-Titular Member &amp; Member of the Deliberative Council of the Brazilian Society of Cardiovascular Surgery.
-Philosophy Doctor - Federal University of São Paulo, Brazil (2015). 
-Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011). 
- </pre>
- <hr>
-Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011).  
-Master of Science - Cardiovascular Institute “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2010). 
-Post-Graduation (Medical Residency) - “Real and Benemérita Sociedade Portuguesa de Beneficência”, São Joaquim Hospital, São Paulo, SP, Brazil (1991). 
-Graduation (Medicine) - School of Sciences of “Santa Casa de Misericórdia de Vitória”, Vitória, ES, Brazil (1988).
-Cardiovascular Surgeon research program collaborator of the Department of Physiological Sciences, Federal University of “Espírito Santo”, Vitoria, ES, Brazil. Researcher on vascular reactivity, myocardial protection and dysfunction of cardiac mitochondrial subpopulations in heart failure.
-<a href="#top" class="btn btn-outline-secondary">Top</a>
-</p>
-</div>
-<hr>
+
 <!--------------------------------------------------- --> 
 <div class="container">
     <h1> <a name="vemula">Dr. Praveen </a>Vemula Ph.D.</h1>
