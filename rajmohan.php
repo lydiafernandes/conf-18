@@ -20,7 +20,7 @@
              $(document).ready(function(){
                $("button").click(function(){
                    alert("hi");
-                $("#speaker").toggle();
+                $("p").toggle();
             });
          });
         </script>
@@ -88,6 +88,9 @@
   <h3 class="margin">
   <button type="button" class="btn btn-outline-light btn-lg">Read more</button>
   </h3>
+    <p>
+    Hide me
+</p>
         <p id="speaker" style="display:none;">
             <pre>
     
