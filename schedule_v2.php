@@ -52,15 +52,12 @@
                             
                             <thead>
                                 <tr>
-                                <div   class="header" id="myHeader">
                                     <th>TIME</th>
                                     <th>ACTIVITY</th>
                                     <th>VENUE</th>
-                                    </div>
                                 </tr>
                             </thead>
                         
-                            <div class="content">
                             <tbody>
                                 <tr>
                                     <td>11:30 – 2:30 pm</td>
@@ -115,7 +112,7 @@
                                 </tr>
 
                           </tbody>
-                        </div>
+                        
                         </table>
   
                     </div>
@@ -150,18 +147,13 @@
                                     &nbsp;  
                                     </td>
                                 </tr>
-                            </tbody>
-                        </table>
-                        <table class="table table-dark table-hover">
-                            <thead>
                          
                                 <tr>
                                     <td>Venue – I  (10.30 - 12.45 pm)</td>
                                     <td>Venue – II (10.30 - 12.45 pm)</td>
                                     <td>Venue – III (10.30 - 12.45 pm)</td>
                                 </tr>
-                            </thead>
-                            <tbody>
+                            
                                 <tr>
                                     <td>Topic 1. <br>
                                      Cardiovascular Research: Mending the Broken Heart
@@ -216,6 +208,79 @@
                                     <td> Selected Paper -  ( 12+3) Min.</td>
                                     <td>  Selected Paper -  ( 12+3) Min.</td>
                                 </tr>
+                                <tr>
+                                    <td colspan="3" style="text-aligh:center">
+                                    Networking Break           (12.45 - 1.45 pm)          XIMR- Hall
+                                    </td>
+                                    
+                                </tr>
+                                <tr>
+                                    <td> Venue – I  (1.45 – 4.00pm)</td>
+                                    <td> Venue – II (1.45 – 4.00 pm.</td>
+                                    <td> Venue – III (1.45 – 4.00 pm)</td>
+                                </tr>
+                                <tr>
+                                    <td> Topic 4.<br>
+                                        <strong>Ayurveda and Phytomedicine: Back to Nature</strong>
+                                    </td>
+                                    <td> 
+                                    Topic 5.<br>
+                                    <strong> Stem cell research and regenerative medicine: New frontiers of self-healing </strong>
+                                    </td>
+                                    <td rowspan="6">
+                                    Topic 6. <br>
+                                    <strong> Fundamental Sciences <br>(Material and Physical Sciences)
+                                    <br> Oral Presentations 15 </strong> 
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td> <strong> Plenary Speaker: 30 + 5min</strong></td>
+                                    <td> 
+                                    <strong>Plenary Speaker: 30 + 5min <br>
+                                        Daniel R. Wilson,</strong>
+                                        President of Western University of Health Sciences, USA
+                                    </td>
+                                </tr>
+
+                                 <tr>
+                                    <td> <strong> Speaker – I (20+5) min.
+                                    Dr. Rajmohan V, </strong>(Ayurveda University, India)
+                                    </td>
+                                    <td> 
+                                    <strong>Speaker – I (20+5) min. </strong>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td> 
+                                        <strong> Speaker – II (20+5) min.</strong>                                   Dr. Rajmohan V, </strong>(Ayurveda University, India)
+                                    </td>
+                                    <td> 
+                                        &nbsp;
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td> 
+                                        <strong> Speaker – III (20+5) min.</strong>                                   Dr. Rajmohan V, </strong>(Ayurveda University, India)
+                                    </td>
+                                    <td> 
+                                        &nbsp;
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td> 
+                                        <strong> Selected Paper -  ( 12+3) Min.</strong>                                   Dr. Rajmohan V, </strong>(Ayurveda University, India)
+                                    </td>
+                                    <td> 
+                                        &nbsp;
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="3" style="text-align:center;">
+                                    Technical Break  ( 4:00 – 4.30 pm)
+                                    </td>
+                                </tr>
+
                             </tbody>
                         </table>
                     </div>
