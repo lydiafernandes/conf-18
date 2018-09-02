@@ -19,7 +19,6 @@
         <script type="text/javascript">
              $(document).ready(function(){
                $("button").click(function(){
-                   alert("hi");
                 $("p").toggle();
             });
          });
