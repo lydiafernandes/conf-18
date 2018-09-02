@@ -87,19 +87,21 @@
   </h3>
     
      <p style="display:none;">  
-     <pre>
-Professor of Cardiovascular Institute “São Francisco de Assis”. 
-Cardiovascular Surgeon, Center of Cardiovascular Surgery &amp; Heart Transplantation, Meridional Hospital, 
-Cariacica, ES, Brazil. 
+
+
 Titular Member &amp; Member of the Deliberative Council of the Brazilian Society of Cardiovascular Surgery.
+<br>
 Philosophy Doctor - Federal University of São Paulo, Brazil (2015). 
+<br>
 Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011). 
- </pre>
- <hr>
-Philosophy Doctor - Cardiovascular Institute  “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2011).  
-Master of Science - Cardiovascular Institute “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2010). 
+
+ <br>
+Master of Science - Cardiovascular Institute “São Francisco de Assis”, Belo Horizonte, MG, Brazil (2010).
+<br>
 Post-Graduation (Medical Residency) - “Real and Benemérita Sociedade Portuguesa de Beneficência”, São Joaquim Hospital, São Paulo, SP, Brazil (1991). 
+<br>
 Graduation (Medicine) - School of Sciences of “Santa Casa de Misericórdia de Vitória”, Vitória, ES, Brazil (1988).
+<br>
 Cardiovascular Surgeon research program collaborator of the Department of Physiological Sciences, Federal University of “Espírito Santo”,
 Vitoria, ES, Brazil. Researcher on vascular reactivity, myocardial protection and dysfunction of cardiac mitochondrial subpopulations in heart failure.
             <a href="#top" class="btn btn-outline-light btn-lg">Top</a>
