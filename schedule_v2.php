@@ -48,29 +48,116 @@
 					<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 						<!-- Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim. Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore. Duis reprehenderit occaecat anim ullamco ad duis occaecat ex. -->
                         <table class="table table-dark table-hover">
-    <thead>
-      <tr>
-        <th>Firstname</th>
-        <th>Lastname</th>
-        <th>Email</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>John</td>
-        <td>Doe</td>
-        <td>john@example.com</td>
-      </tr>
-    </tbody>
-</table>
+                            <thead>
+                                <tr>
+                                    <th>TIME</th>
+                                    <th>ACTIVITY</th>
+                                    <th>VENUE</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>11:30 – 2:30 pm</td>
+                                    <td>Registration</td>
+                                    <td>First Quad.</td>
+                                </tr>
+                                <tr>
+                                    <td>2:30 – 2:45 pm</td>
+                                    <td>Tea / Coffee</td>
+                                    <td>XIMR- Hall</td>
+                                </tr>
+                                <tr>
+                                    <td>2:45 – 3:30 pm</td>
+                                    <td>Inauguration</td>
+                                    <td>College – Hall</td>
+                                </tr>
+                                <tr>
+                                    <td>3:30 – 4:30 pm</td>
+                                    <td><strong>Keynote Address IRev. Dr. Daniel Hendrickson</strong>
+                                </td>
+                                    <td>College – Hall</td>
+                                </tr>
+                                <tr>
+                                    <td>4:30 – 5:00 pm</td>
+                                    <td>Refreshment</td>
+                                    <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td>5.00 – 6.00 pm</td>
+                                    <td> <strong>Keynote Address II Prof. Ramesh K. Goyal ( Vice Chancellor, 
+                                        Delhi Pharmaceutical Sciences &amp; Research University) </strong>
+                                    </td>
+                                    <td>College – Hall</td>
+                                </tr>
+                                <tr>
+                                    <td>6:10 - 6.20 pm</td>
+                                    <td>Conference Description – Prof. D K Agrawal </td>
+                                    <td>College – Hall</td>
+                                </tr>   
+                                <tr>
+                                    <td>6.30 – 7.30 pm</td>
+                                    <td><strong>Meet a scientist </strong> (Panels – CVDs, TE, MSD, Ay, Med)</td>
+                                    <td>&nbsp;</td>
+                                </tr> 
+                                
+                                <tr>             
+                                    <td colspan="3" align="center">
+                                    Dinner : 7:30 onwards        (XIMR Hall)   &amp;   College Tour   
+                                    </td>   
+                                </tr>
+
+                          </tbody>
+                        </table>
   
                     </div>
 					<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
-						Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim. Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore. Duis reprehenderit occaecat anim ullamco ad duis occaecat ex.
-					</div>
+						<!-- Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim. Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore. Duis reprehenderit occaecat anim ullamco ad duis occaecat ex. -->
+                        <table class="table table-dark table-hover">
+                            <thead>
+                                <tr>
+                                    <th>TIME</th>
+                                    <th>ACTIVITY</th>
+                                    <th>VENUE</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>John</td>
+                                    <td>Doe</td>
+                                    <td>john@example.com</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
 					<div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
-						Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim. Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore. Duis reprehenderit occaecat anim ullamco ad duis occaecat ex.
-					</div>
+						<!-- Et et consectetur ipsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim. Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore. Duis reprehenderit occaecat anim ullamco ad duis occaecat ex. -->
+                        <table class="table table-dark table-hover">
+                            <thead>
+                                <tr>
+                                    <th>TIME</th>
+                                    <th>ACTIVITY</th>
+                                    <th>VENUE</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>11:30 – 2:30 pm</td>
+                                    <td>Registration</td>
+                                    <td>First Quad.</td>
+                                </tr>
+                                <tr>
+                                    <td>2:30 – 2:45 pm</td>
+                                    <td>Tea / Coffee</td>
+                                    <td>XIMR- Hall</td>
+                                </tr>
+                                <tr>
+                                    <td>2:45 – 3:30 pm</td>
+                                    <td>Inauguration</td>
+                                    <td>College – Hall</td>
+                                </tr>
+                            </tbody>
+                        </table>	
+                    </div>
 				</div>
 			
 			</div>
