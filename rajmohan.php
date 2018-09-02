@@ -24,8 +24,10 @@
       line-height: 1.8;
       color: #f5f6f7;
   }*/
-  p {font-size: 16px;}
+  p.speaker {font-size: 16px;}
+
   .margin {margin-bottom: 45px;}
+
   .bg-1 { 
       background-color: #1abc9c; /* Green */
       color: #ffffff;
@@ -66,6 +68,36 @@
 
 
 <!-- -------------------------------------------------->
+
+<!-- First Container -->
+<div class="container-fluid bg-1 text-center">
+  <h3 class="margin"> Dr. Rajmohan V.</h3>
+  <img src="img/abt_us_images/Rajmohan_New.png" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="350" height="350">
+  <h3><a name="top"> Asst. Professor </a>with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</h3>
+</div>
+
+<!-- Second Container -->
+<div class="container-fluid bg-2 text-center">
+  <h3 class="margin">Read More...</h3>
+  <p>
+  <pre>
+    Assistant Professor,				            TC 19/1807(22) “Devi Darsanam”
+    Government Ayurveda College, 		                   Kesavan Nair Road, Poojappura,
+    Pariyaram, Kannur 67050		                           Thiruvananthapuram,Kerala 695012
+   <!-- 
+    tel: 
+    Email: 
+    Web:<a href="#">?</a>  -->
+    </pre>
+    Having completed his Bachelors in Ayurvedic Medicine and Surgery (BAMS) and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College, Thiruvananthapuram under the University of Kerala.   He has started his carrier as medical officer in the 
+	Department of Indian Systems of Medicine under of the Government of Kerala and was deputed as Research Officer in the Drug Standardization 
+	Unit under the Department of Ayurveda Medical Education of Government of Kerala.He has started his carrier as medical officer in the Department of Indian Systems of Medicine under of the Government of Kerala and was deputed as Research Officer in the Drug Standardization Unit under the Department of Ayurveda Medical Education of Government of Kerala.
+    He has started his carrier as medical officer in the Department of Indian Systems of Medicine under of the Government of Kerala and was deputed as Research Officer in the Drug Standardization Unit under the Department of Ayurveda Medical Education of Government of Kerala.  His teaching carrier started at Vaidyaratnam P S Varier Ayurveda College, Kottakkal and later continued to Government Ayurveda College, Thiruvananthapuram and since January 2018, to the current institution.  He was the faculty of Research Methodology at Government Ayurveda College, Thiruvananthapuram and Subject expert of research methodology at Kerala University of Health Sciences (KUHS).   Currently he is acting as a resource person to UGC – Human Resource Development Centre, University of Calicut and technical committee member of School of Ayurveda and School of Health Policy and Planning of KUHS.  He has acted as a member of the committee for the preparation of perspective plan for KUHS and was an active member in the committee for developing a vision document for the functioning of KUHS.  He has actively Participated in the Conceptualization and Project Development Workshop for High Impact Projects (HIP) in Ayurveda, organized by FRLHT - Institute of Ayurveda and Integrative Medicine (I-AIM), for the Dept. of AYUSH, Govt. of India, held at the School of Ancient Wisdom, Bangalore from 21st to 23rd may, 2010 and was a national level coordinator for one of the projects.  He has been a resource person to various International and National seminar and conferences since 2007 and has 13 publications to his credit.  He is awarded with SKM Research Scholar 2010 Award by SKM Centre for AYUSH System Research and Education, Erode – A National Level award for outstanding contribution to Research Methodologies in Ayurveda.  He is a teacher, clinician and researcher currently researching on the interface of ageing, Rasayana (ayurvedic drugs for ageing and degeneration) 
+	and cancer through interdisciplinary and multidisciplinary approaches. 
+    <a href="#top" class="btn btn-outline-secondary">Top</a>
+    
+</p>
+</div>
 
 <!--- Connect-->
 
