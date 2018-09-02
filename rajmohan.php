@@ -22,7 +22,7 @@
                  $("img").fadeIn(4000);
                  
                $("button").click(function(){
-                $("p").toggle();
+                $("p").slideToggle();
             });
          });
         </script>
