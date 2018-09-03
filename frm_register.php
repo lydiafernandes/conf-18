@@ -31,7 +31,7 @@
 			<div class="modal-content">
   			
 				<div class="col-12 user-img"> <!-- it will utilize all 12 columns -->
-					<img src="img/logo_college.jpg">
+					<img src="img/logo_college197x197.png">
 				</div>
 				
 				<form class="col-12" method="post" action="register.php">
