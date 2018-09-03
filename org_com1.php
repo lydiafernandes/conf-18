@@ -18,75 +18,73 @@
         <link type="text/css" href="css/style_orgchart.css" rel="stylesheet"/>
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
         
-        
-       
-
-
 </head>
 <body> 
     <!-- include the nav bar -->
 <?php include("includes/navigation1.php");?>
 
 
+
 <!-- -------------------------------------------------->
 <h1 style="text-align:center;"> From Health to Well Being
          An Interdisciplinary Approach From Fundamental Sciences to Translational Medicine</h1>
-<div class="tree">
-    <ul>
-		<li>
-			<a href="#"><strong>Organizing Committee</strong></a>
-			<ul>
-			    
-				<li>
-					<a href="#"><strong>Creighton University / President:</strong> <br> Dr. (Rev.) Daniel Hendrickson, SJ.</a>
-					
+         <div class="container">
+            <div class="tree">
+                <ul>
+	            	<li>
+		            	<a href="#"><strong>Organizing Committee</strong></a>
+		            	<ul>
+			 
+			        	<li>
+					        <a href="#"><strong>Creighton University / President:</strong> <br> Dr. (Rev.) Daniel Hendrickson, SJ.</a>
 				
-					<ul>
-						<li>
-							<a href="#"><strong>Conference Chairperson / Convener 2:</strong><br> Prof. (Dr.)D. K. Agarwal </a>
+        					<ul>
+		        				<li>
+				        			<a href="#"><strong>Conference Chairperson / Convener 2:</strong><br> Prof. (Dr.)D. K. Agarwal </a>
 							
-							<ul>
-					        	<li>
-						        	<a href="#"><strong>International Co-ordinator </strong><br> Dr. Finosh Thankam </a>
-					        	</li>
-				        	</ul>
-						</li>
-					</ul>
-				</li>
+						        	<ul>
+					                	<li>
+						                	<a href="#"><strong>International Co-ordinator </strong><br> Dr. Finosh Thankam </a>
+					        	         </li>
+				        	        </ul>
+						        </li>
+					        </ul>
+				        </li>
 				
-				<li>
-					<a href="#"><strong>St. Xavier&apos;s College-Autonomous / Principal: </strong><br> Prof. (Dr.) Rajendra Shinde</a>
+			        	<li>
+					        <a href="#"><strong>St. Xavier&apos;s College-Autonomous / Principal: </strong><br> Prof. (Dr.) Rajendra Shinde</a>
 					
-					<ul>
-					    <li>
-					        <a href="#"><strong> Conference / Convener 1: </strong> <br> Dr. (Fr.) Roy Pereira </a>
+					        <ul>
+					            <li>
+					                <a href="#"><strong> Conference / Convener 1: </strong> <br> Dr. (Fr.) Roy Pereira </a>
 					   
-					<ul>
+					                <ul>		
+                						<li>
+			                				<a href="#"><strong>Organizing Secretaries:</strong> <br> Dr. Ashma Aggarwal, <br> Mr. Marazaban Kotwal</a>
+					                		<ul>
+								                <li>
+									                <a href="#"><strong> Advisory Board </strong></a>
+								                </li>
+								                <li>
+									                <a href="#"><strong> Scientific Board </strong></a>
+								                </li>
+								                <li>
+									                <a href="#"><strong> Organizing Team </strong></a>
+								                </li>
+						                    </ul>
+						                </li>
 						
-						<li>
-							<a href="#"><strong>Organizing Secretaries:</strong> <br> Dr. Ashma Aggarwal, <br> Mr. Marazaban Kotwal</a>
-							<ul>
-								<li>
-									<a href="#"><strong> Advisory Board </strong></a>
-								</li>
-								<li>
-									<a href="#"><strong> Scientific Board </strong></a>
-								</li>
-								<li>
-									<a href="#"><strong> Organizing Team </strong></a>
-								</li>
-							</ul>
-						</li>
-						
-					
-					</li>
-					</ul>
-				</li>
-			</ul>
-		</li>
-	</ul>
-</div>
+										</li>
+					                </ul>
+				                </li>
+			                </ul>               
+	                	</li>
 
+                        </ul>
+                    </li>
+	            </ul>
+            </div>
+         </div>
 
 <!--- Connect-->
 
