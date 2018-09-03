@@ -59,7 +59,7 @@
 			        	<li>
 					        <a href="#"><strong>St. Xavier&apos;s College-Autonomous / Principal: </strong>
 							<br>
-							<img src="img/org_com_img/Principal_sxc.jpg" height="15%" width="15%" 
+							<img src="img/org_com_img/Principal_sxc.jpg" height="12%" width="12%" 
 							class="img-responsive rounded" style="display:inline" alt="pic of Dr. Rajendra Shinde">
 							<br>
 							Prof. (Dr.) Rajendra Shinde
