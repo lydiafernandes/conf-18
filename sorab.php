@@ -67,11 +67,11 @@
 <!-- First Container -->
 <div class="container-fluid bg-1 text-center">
   
-  <img src="img/speakersnewdimensions/Praveen_Vemula_New.png" class="img-responsive rounded margin"
-   style="display:inline" alt="pic of Dr. Praveen Vemula" width="50%" height="50%">
+  <img src="img/speakersnewdimensions/Sorab_New.png" class="img-responsive rounded margin"
+   style="display:inline" alt="pic of Dr. Sorab Nariman Dalal" width="50%" height="50%">
 
    <h3 class="margin">
-      <a name="top"> Dr. Praveen Vemula Ph.D.</a>
+      <a name="top"> Dr. Sorab Nariman Dalal.</a>
     </h3>
   <h4> Designation: Scientific Officer ‘G’, Associate Professor - HBNI
 	Department: Sorab’s laboratory, ACTREC, Tata Memorial Centre
@@ -87,7 +87,11 @@
     
      <p style="display:none;">  
      <!-- speaker content goes here -->
-			He has been a research fellow of the Leukemia Society of America from July 1997 to July 2000. Joint Secretary Indian Association of Cancer Research April 2009 to March 2012 Secretary Indian Association of Cancer Research April 2012 to 2014 Editor Journal of Biosciences from 2011, Current Science from 2018 Member of the Task Force on Cancer Biology from 2012-2014 DAE SRC Outstanding Scientist Award 2015
+			He has been a research fellow of the Leukemia Society of America from July 1997 to July 2000.
+            Joint Secretary Indian Association of Cancer Research April 2009 to March 2012 Secretary 
+            Indian Association of Cancer Research April 2012 to 2014 Editor Journal of Biosciences 
+            from 2011, Current Science from 2018 Member of the Task Force on Cancer Biology from 
+            2012-2014 DAE SRC Outstanding Scientist Award 2015
      
             <a href="#top" class="btn btn-outline-light btn-lg">Top</a>
     

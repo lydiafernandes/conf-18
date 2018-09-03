@@ -139,7 +139,7 @@
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Sorab Nariman Dalal.</h4>
 					<p class="card-text"> Scientific Officer ‘G’, Associate Professor - HBNI, Tata Memorial Centre</p>
-					<a href="#sorab" class="btn btn-outline-secondary">See Profile</a>
+					<a href="sorab.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -259,27 +259,6 @@ India, Deccan Herald and many more.
 
 </div>
 <hr>
-<!--------------------------------------------------- --> 
-<div class="container">
-    <h1> <a name="sorab"> </a> Dr. Sorab Nariman Dalal.</h1>
-    <p class="card-text" style="text-align:justify">
-    <pre>
-	Designation: Scientific Officer ‘G’, Associate Professor - HBNI
-	Department: Sorab’s laboratory, ACTREC, Tata Memorial Centre
-    </pre>
-	<strong> Awards and Honors: </strong><br>
-He has been a research fellow of the Leukemia Society of America from July 1997 to July 2000. 
-Joint Secretary Indian Association of Cancer Research April 2009 to March 2012
-Secretary Indian Association of Cancer Research April 2012 to 2014
-Editor Journal of Biosciences from 2011, Current Science from 2018
-Member of the Task Force on Cancer Biology from 2012-2014
-DAE SRC Outstanding Scientist Award 2015
-<a href="#top" class="btn btn-outline-secondary">Top</a>
-</p>
-
-
-</div>
-
 <!-- -------------------------------------------------->
 <hr>
 <!--------------------------------------------------- --> 
