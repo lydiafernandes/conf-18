@@ -67,7 +67,7 @@
 <!-- First Container -->
 <div class="container-fluid bg-1 text-center">
   
-  <img src="img/speakersnewdimensions/Praveen_Vemula_New.png" class="img-responsive rounded margin"
+  <img src="img/speakersnewdimensions/Subburaman_Mohan_New.png" class="img-responsive rounded margin"
    style="display:inline" alt="pic of Dr. Praveen Vemula" width="50%" height="50%">
 
    <h3 class="margin">

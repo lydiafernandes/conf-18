@@ -105,7 +105,7 @@
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Subburaman Mohan. </h4>
 					<p class="card-text"> Senior Research Career Scientist, Veterans Administration (VA). Director, Musculoskeletal Disease Center, VA Loma Linda, California</p>
-					<a href="#mohan" class="btn btn-outline-secondary">See Profile</a>
+					<a href="mohan.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -210,30 +210,7 @@ India, Deccan Herald and many more.
 
 </div>
 
-<hr>
-<!--------------------------------------------------- --> 
-<div class="container">
-    <h1> <a name="mohan">Subburaman </a> Mohan Ph.D.</h1>
-    <p class="card-text" style="text-align:justify">
-    <pre>
-	Senior Research Career Scientist at the Veterans Administration (VA),
-	Director of the Musculoskeletal Disease Center at the VA Loma Linda Healthcare Systems,
-	Professor of Medicine, Orthopedics and Biochemistry at Loma Linda University, California
-    </pre>
-	Dr. Subburaman Mohan, Ph.D., is a well-established scientist in skeletal biology research with an international reputation and has published nearly 400 papers
-	in scientific journals with high impact factors.  
-	Dr. Mohan’s research interests during the past three decades have focused on the discovery of novel genes and evaluation of the functions of genes that are relevant
-	 to the acquisition, maintenance, and loss of bone and cartilage using various molecular genetics and biochemical approaches.   Dr. Mohan has made seminal contributions
-	  to the field of growth hormone/insulin-like growth factor (IGF) actions on bone. He discovered of two novel IGF binding proteins and elucidated their role in the musculoskeletal
-	   system. His current research funded by VA and NIH is centered around genetic regulation of peak bone mass, molecular pathways for thyroid hormone and hypoxia signaling in
-	    endochondral ossification, epigenetic mechanisms of vitamin C deficiency-induced skeletal fractures and long-term consequences 
-	of mild traumatic brain injury on bone.  Dr. Mohan is a well funded investigator and is a recipient of a number of professional awards.  
-	He has been a member or is a current member of the Editorial Board of several scientific journals, scientific organizing committees, and grant review panels.  
-	<a href="#top" class="btn btn-outline-secondary">Top</a>
-</p>
 
-
-</div>
 <hr>
 <!--------------------------------------------------- --> 
 <div class="container">
