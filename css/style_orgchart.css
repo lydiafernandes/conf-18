@@ -1,5 +1,5 @@
 /*Now the CSS*/
-* {margin: 0 auto; padding: 0;}
+* {margin: 0; padding: 0;}
 
 .tree ul {
     padding-top: 20px; position: relative;
@@ -74,7 +74,7 @@ right connector from last child*/
 	text-decoration: none;
 	color: #666;
 	font-family: arial, verdana, tahoma;
-	font-size: 11px;
+	font-size: 20px;
 	display: inline-block;
 	
 	border-radius: 5px;

@@ -30,7 +30,7 @@
          An Interdisciplinary Approach From Fundamental Sciences to Translational Medicine</h1>
          <div class="container row">
 
-            <div class="tree col-xs-12">
+            <div class="tree col-xs-12" style="margin:0 auto;">
                 <ul>
 	            	<li>
 		            	<a href="#"><strong>Organizing Committee</strong></a>
