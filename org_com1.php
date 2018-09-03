@@ -41,7 +41,7 @@
 				
         					<ul>
 		        				<li>
-				        			<a href="#"><strong>Conference Chairperson / Convener 2:</strong><br> Prof. (Dr.)D. K. Agarwal </a>
+				        			<a href="#"><strong>Conference Chair/ Convener 2:</strong><br> Prof. (Dr.)D. K. Agarwal </a>
 							
 						        	<ul>
 					                	<li>
