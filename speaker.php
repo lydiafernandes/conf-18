@@ -44,15 +44,15 @@
 		<!-- FIRST CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/Ramesh_Goyal.png">
+				<img class="card-img-top" src="#">
 				<div class="card-body">
-					<h4 class="card-title"> Dr. Ramesh K. Goyal </h4>
-					<p class="card-text"> Member of Task Force, Committee for Herbal Group, 
-					Indian Council of Medical research ,Member,
-					 Indian Pharmacopoeia Commission, CDSCO, Govt. of India.
+					<h4 class="card-title"> Dr. Devendra K. Agrawal  </h4>
+					<p class="card-text"> Ph.D. (Biochem), Ph.D. (Med. Sciences), MBA, MS (ITM), FAAAAI, FAHA, FAPS, FIACS
+						Professor and Chairman
+						Department of Clinical &amp; Translational Science, USA
 
                     </p>
-					<a href="goyal.php" class="btn btn-outline-secondary">See Profile</a>
+					<a href="dka.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -86,7 +86,7 @@
 		</div>
 
 	</div>
-	
+
 	<div class="row padding">
 
 		<!-- ROW 2-FIRST CARD APPEARS HERE -->
