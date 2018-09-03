@@ -7,6 +7,20 @@ require_once "vendor/autoload.php";
 
 $mail = new PHPMailer;
 
+echo "<br> testing after <br>";
+   if(isset($_POST['submit']))
+    {
+        echo "<br> data has come in<br>";
+        $name = $_POST['frm_name'];
+        $email_from = $_POST['frm_email'];
+        $email_to = "isc150@xaviers.edu";
+        $subject = $_POST['frm_subject'];
+        $msg = $_POST['frm_msg'];
+    }
+    else {
+        echo "<br> data was not captured";
+    }
+
 //Enable SMTP debugging. 
 $mail->SMTPDebug = 3;                               
 //Set PHPMailer to use SMTP.
@@ -23,10 +37,10 @@ $mail->SMTPSecure = "tls";
 //Set TCP port to connect to 
 $mail->Port = 587;                                   
 
-$mail->From = "fdes.lydia@gmail.com";
-$mail->FromName = "Lydia Fernandes";
+$mail->From =$email_from;
+$mail->FromName = $name; //"Lydia Fernandes";
 
-$mail->addAddress("isc150@xaviers.edu", "Recepient Name");
+$mail->addAddress("isc150@xaviers.edu", "Recepient Name: Science Conference");
 
 $mail->isHTML(true);
 
