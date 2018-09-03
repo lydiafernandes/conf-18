@@ -67,7 +67,7 @@
 <!-- First Container -->
 <div class="container-fluid bg-1 text-center">
   
-  <img src="#" class="img-responsive rounded margin"
+  <img src="img/speakersnewdimensions/Alex_New.png" class="img-responsive rounded margin"
    style="display:inline" alt="pic of Dr. Alex C Varghese" width="50%" height="50%">
 
    <h3 class="margin">
@@ -75,12 +75,7 @@
     </h3>
   <h4> Scientific  Director, 
 	ASTRA Fertility Group
-    4303 Village Centre Crt.
-    Mississauga, ON
-    L4Z 1S2, Canada
-    tel: 905.949.6999
-    Email: alexcv2008@gmail.com
-    Web: www.lifeinvitro.com
+   
   </h4>
 </div>
 
@@ -96,7 +91,8 @@
 			Alex C Varghese is presently the Scientific Director, Astra Fertility Group of IVF Centre at Mississauga, Ontario, Canada and also hold the position of Laboratory Director at CRAFT Hospital and research centre, Kerala, India. He received his PhD in Biochemistry from University of Calcutta, India for his thesis based on ART. He was a Post Doctoral Research Fellow at the Center for Reproductive Medicine, Cleveland Clinic Foundation, USA. He is active in clinical embryology since 1997 and has initiated many successful training programs in ART and helped in designing and setting up of many IVF units in rural and urban India and neighboring countries. In the year 2010 he founded the educational web platform for IVF professionals- www.lifeinvitro.com which is now popular in 165 countries. Alex has authored over 30 manuscripts and edited 8 books in assisted reproduction, including the popular and bestselling “Practical Manual of in vitro fertilization: Advanced methods and novel devices”. Alex’s research interests are in assisted reproductive technology, in particular, in understanding the molecular and environmental causes and prevention of male infertility, probiotics in fertility, microbiome in health and disease associated with reproduction and developing stress-free, automated embryo culture systems for In Vitro Fertilization. 
 
 He is an executive committee member of special group in Andrology of Canadian Fertility and Andrology Society (CFAS) and Chairman-Scientific Committee of 7th International Congress of Academy of Clinical embryologists, Goa, India (www.acegoa2018.com)
-     
+    Email: alexcv2008@gmail.com, 
+    Web: www.lifeinvitro.com
             <a href="#top" class="btn btn-outline-light btn-lg">Top</a>
     
         </p>

@@ -122,7 +122,7 @@
                                            <a href="www.lifeinvitro.com"> www.lifeinvitro.com</a>
 
                     </p>
-					<a href="#alex" class="btn btn-outline-secondary">See Profile</a>
+					<a href="alex.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -176,68 +176,7 @@
 
 <!-- ------------------------------------------------- -->
 
-<!-- -----------------got ------------------------------- -->
 
-<!--------------------------------------------------- --> 
-<div class="container">
-    <h1> <a name="vemula">Dr. Praveen </a>Vemula Ph.D.</h1>
-    <p class="card-text" style="text-align:justify">
-    <pre>
-Faculty, Institute for Stem Cell Biology and Regenerative Medicine(inStem),
-Bangalore, India.
-    </pre>
-    After obtaining Ph.D. from Indian Institute of Science in 2005, he
-received postdoctoral training at The City College of New York and Harvard–MIT Division of
-Health Sciences and Technology at Harvard Medical School in affiliation with Brigham and
-Women’s Hospital. In 2009, the Ewing Marion Kauffman Foundation selected him as an
-entrepreneur fellow through whom he received formal training in translational research and
-entrepreneurship. <br><br>
-Dr. Vemula is interested in the fields of biomaterials and chemical biology programs. In
-biomaterials, he is interested in drug delivery and gene delivery; in chemical biology he is
-interested in small molecular drug discovery. Overall he is intersted translation science. He has
-published >60 peer-reviewed papers and has given 80 national and international invited lectures
-and has 20 issued or pending patents. Several technologies developed by his team have formed
-the foundation for multiple products on the market. Based on the technologies he developed, two
-biotech companies were formed, Skintifique and Alivio Therapeutics. Two more startups are being
-formed.<br><br>
-Vemula’s work has been discussed in hundreds of newspapers, online websites, television
-newscasts, and radio shows around the world including The New York Times, CNN, ABC News,
-NBC, Boston Globe, LA Times, BBC, Discovery, National Geographic, The Hindu, The Times of
-India, Deccan Herald and many more.
-<a href="#top" class="btn btn-outline-secondary">Top</a>
-</p>
-
-
-</div>
-
-
-<hr>
-<!--------------------------------------------------- --> 
-<div class="container">
-    <h1> <a name="alex">Dr. Alex </a>C Varghese Ph.D.</h1>
-    <p class="card-text" style="text-align:justify">
-    <pre>
-    Scientific  Director
-    ASTRA Fertility Group
-    4303 Village Centre Crt.
-    Mississauga, ON
-    L4Z 1S2, Canada
-    tel: 905.949.6999
-    Email: alexcv2008@gmail.com
-    Web:<a href="http://www.lifeinvitro.com/"> www.lifeinvitro.com</a>
-    </pre>
-    Alex C Varghese is presently the Scientific Director, Astra Fertility Group of IVF Centre at Mississauga, Ontario, Canada and also hold the position of Laboratory Director at CRAFT Hospital and research centre, Kerala, India.  He received his PhD in Biochemistry from University of Calcutta, India for his thesis based on ART. He was a Post Doctoral Research Fellow  at the Center for Reproductive Medicine, Cleveland Clinic Foundation, USA. He is active in clinical embryology since 1997 and has initiated many successful training programs in ART and helped in designing and setting up of many IVF units in rural and urban India and neighboring countries. In the year 2010 he founded the educational web platform for IVF professionals- www.lifeinvitro.com which is now popular in 165 countries. Alex has authored over 30 manuscripts and edited 8 books in assisted reproduction, including the popular and bestselling “Practical Manual of in vitro fertilization: Advanced methods and novel devices”. Alex’s research interests are in assisted reproductive technology, in particular, in understanding the molecular and environmental causes and prevention of male infertility, probiotics in fertility, microbiome in health and disease associated with reproduction and developing stress-free, automated embryo culture systems for In Vitro Fertilization. 
-<br><br>He is an executive committee member of special group in Andrology of Canadian Fertility
- and Andrology Society (CFAS) and Chairman-Scientific Committee of 7th International
-  Congress of Academy of Clinical embryologists, Goa, India (www.acegoa2018.com)
-  <a href="#top" class="btn btn-outline-secondary">Top</a>
-</p>
-
-
-</div>
-<hr>
-<!-- -------------------------------------------------->
-<hr>
 <!--------------------------------------------------- --> 
 <div class="container">
     <h1> <a name="renjith"> </a> Dr. Renjtih P Nair</h1>
