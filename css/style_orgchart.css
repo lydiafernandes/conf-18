@@ -1,5 +1,5 @@
 /*Now the CSS*/
-* {margin: 0; padding: 0;}
+* {margin: 0 auto; padding: 0;}
 
 .tree ul {
     padding-top: 20px; position: relative;
