@@ -67,11 +67,11 @@
 <!-- First Container -->
 <div class="container-fluid bg-1 text-center">
   
-  <img src="img/speakersnewdimensions/Praveen_Vemula_New.png" class="img-responsive rounded margin"
-   style="display:inline" alt="pic of Dr. Praveen Vemula" width="50%" height="50%">
+  <img src="img/speakersnewdimensions/Renjith_New.png" class="img-responsive rounded margin"
+   style="display:inline" alt="pic of Dr. Renjtih P Nair" width="50%" height="50%">
 
    <h3 class="margin">
-      <a name="top"> Dr. Praveen Vemula Ph.D.</a>
+      <a name="top"> Dr. Renjtih P Nair Ph.D.</a>
     </h3>
   <h4> Lecturer in molecular oncology, Malabar Cancer Centre, Thalassery, India.
   </h4>
