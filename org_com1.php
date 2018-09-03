@@ -5,16 +5,16 @@
         <meta charset="utf-8">
     	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
         <!-- popper.js is recommended for bootstrap -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+	    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 
         <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script><script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 
         <!-- this file is included in the externa file -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
         <link type="text/css" href="css/style_orgchart.css" rel="stylesheet"/>
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
         
@@ -29,7 +29,7 @@
 <h1 style="text-align:center;"> From Health to Well Being
          An Interdisciplinary Approach From Fundamental Sciences to Translational Medicine</h1>
          <div class="container">
-            <div class="tree">
+            <div class="tree col-xs-12>
                 <ul>
 	            	<li>
 		            	<a href="#"><strong>Organizing Committee</strong></a>
