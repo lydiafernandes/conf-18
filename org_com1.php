@@ -35,7 +35,7 @@
 	            	<li>
 		            	<a href="#"><strong>Organizing Committee</strong></a>
 		            	<ul>
-			 
+			
 			        	<li>
 					        <a href="#"><strong>Creighton University / President:</strong> <br> Dr. (Rev.) Daniel Hendrickson, SJ.</a>
 				
@@ -82,6 +82,7 @@
 	                	</li>
 
                         </ul>
+                      
                     </li>
 	            </ul>
             </div>
