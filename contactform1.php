@@ -45,7 +45,7 @@ $mail->addAddress("isc150@xaviers.edu", "Recepient Name: Science Conference");
 $mail->isHTML(true);
 
 $mail->Subject = "Subject Text";
-$mail->Body = "<i>Mail body in HTML</i>";
+$mail->Body = "<i>Mail body in HTML</i>".$msg;
 $mail->AltBody = "This is the plain text version of the email content";
 
 if(!$mail->send()) 
