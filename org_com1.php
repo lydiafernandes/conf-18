@@ -19,14 +19,14 @@
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
         
 </head>
-<body> 
+<body style="background-color:#DCDCDC;"> 
     <!-- include the nav bar -->
 <?php include("includes/navigation1.php");?>
 
 
 
 <!-- -------------------------------------------------->
-<h1 style="text-align:center;"> From Health to Well Being
+<h1 style="text-align:center;"> From Health to Well Being <br>
          An Interdisciplinary Approach From Fundamental Sciences to Translational Medicine</h1>
          <div class="container row">
 
