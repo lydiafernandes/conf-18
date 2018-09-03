@@ -28,7 +28,8 @@
 <!-- -------------------------------------------------->
 <h1 style="text-align:center;"> From Health to Well Being
          An Interdisciplinary Approach From Fundamental Sciences to Translational Medicine</h1>
-         <div class="container">
+         <div class="container row">
+
             <div class="tree col-xs-12>
                 <ul>
 	            	<li>
