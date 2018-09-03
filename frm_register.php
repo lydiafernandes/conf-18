@@ -16,8 +16,6 @@
 
         <!-- this file is included in the externa file -->
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
-        
-       
 
 
 </head>
@@ -33,7 +31,7 @@
 			<div class="modal-content">
   			
 				<div class="col-12 user-img"> <!-- it will utilize all 12 columns -->
-					<img src="img/logo_college.png">
+					<img src="img/logo_college.jpg">
 				</div>
 				
 				<form class="col-12" method="post" action="register.php">
