@@ -57,8 +57,13 @@
 				        </li>
 				
 			        	<li>
-					        <a href="#"><strong>St. Xavier&apos;s College-Autonomous / Principal: </strong><br> Prof. (Dr.) Rajendra Shinde</a>
-					
+					        <a href="#"><strong>St. Xavier&apos;s College-Autonomous / Principal: </strong></a>
+							<br>
+							<img src="img/org_com_img/Principal_Xaviers.png" height="15%" width="15%" 
+							class="img-responsive rounded" style="display:inline" alt="pic of Dr. (Rev.) Daniel Hendrickson, SJ.">
+							<br>
+							Prof. (Dr.) Rajendra Shinde
+							
 					        <ul>
 					            <li>
 					                <a href="#"><strong> Conference / Convener 1: </strong> <br> Dr. (Fr.) Roy Pereira </a>
