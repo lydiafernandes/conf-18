@@ -29,8 +29,8 @@
 <h1 style="text-align:center;"> From Health to Well Being <br>
          An Interdisciplinary Approach From Fundamental Sciences to Translational Medicine</h1>
          <div class="container row">
-
-            <div class="tree col-xs-12" style="margin:0 auto;">
+			<div class="col-xs-12">
+            <div class="tree" style="margin:0 auto;">
                 <ul>
 	            	<li>
 		            	<a href="#"><strong>Organizing Committee</strong></a>
@@ -38,9 +38,8 @@
 			
 			        	<li>
 					        <a href="#"><strong>Creighton University / President:</strong> 
-							<img src="img/org_com_img/Daniel_S._Hendrickson,_S.J.jpg" height="25%" width="25%" 
+							<img src="img/org_com_img/Daniel_S._Hendrickson,_S.J.jpg" height="15%" width="15%" 
 							class="img-responsive rounded" style="display:inline" alt="pic of Dr. (Rev.) Daniel Hendrickson, SJ.">
-							<br> 
 							
 							Dr. (Rev.) Daniel Hendrickson, SJ.</a>
 				
@@ -91,6 +90,7 @@
                     </li>
 	            </ul>
             </div>
+			</div>
          </div>
 
 <!--- Connect-->
