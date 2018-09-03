@@ -15,8 +15,9 @@
         <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script><script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 
         <!-- this file is included in the externa file -->
-        <link rel="stylesheet" type="text/css" href="css/style.css"> 
         <link type="text/css" href="css/style_orgchart.css" rel="stylesheet"/>
+        <link rel="stylesheet" type="text/css" href="css/style.css"> 
+        
         
        
 
