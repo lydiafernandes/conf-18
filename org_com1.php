@@ -41,7 +41,9 @@
 							<img src="img/org_com_img/Daniel_S._Hendrickson,_S.J.jpg" height="15%" width="15%" 
 							class="img-responsive rounded" style="display:inline" alt="pic of Dr. (Rev.) Daniel Hendrickson, SJ.">
 							<br>
+
 							Dr. (Rev.) Daniel Hendrickson, SJ.</a>
+							
 				
         					<ul>
 		        				<li>
@@ -57,12 +59,13 @@
 				        </li>
 				
 			        	<li>
-					        <a href="#"><strong>St. Xavier&apos;s College-Autonomous / Principal: </strong>
-							<br>
-							<img src="img/org_com_img/Principal_sxc.jpg" height="12%" width="12%" 
-							class="img-responsive rounded" style="display:inline" alt="pic of Dr. Rajendra Shinde">
-							<br>
-							Prof. (Dr.) Rajendra Shinde
+					        <a href="#">
+								<img src="img/org_com_img/Principal_sxc.jpg" height="12%" width="12%" 
+								class="img-responsive rounded" style="display:inline" alt="pic of Dr. Rajendra Shinde">
+								<br>
+								<strong>St. Xavier&apos;s College-Autonomous / Principal: </strong>
+								<br>
+									Prof. (Dr.) Rajendra Shinde
 							</a>
 					        <ul>
 					            <li>
