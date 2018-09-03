@@ -72,6 +72,26 @@
 		<!-- THIRD CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
+				<img class="card-img-top" src="img/Ramesh_Goyal.png">
+				<div class="card-body">
+					<h4 class="card-title"> Dr. Ramesh K. Goyal </h4>
+					<p class="card-text"> Member of Task Force, Committee for Herbal Group, 
+					Indian Council of Medical research ,Member,
+					 Indian Pharmacopoeia Commission, CDSCO, Govt. of India.
+
+                    </p>
+					<a href="goyal.php" class="btn btn-outline-secondary">See Profile</a>
+				</div>
+			</div>
+		</div>
+
+	</div>
+	
+	<div class="row padding">
+
+		<!-- ROW 2-FIRST CARD APPEARS HERE -->
+		<div class="col-md-4">
+			<div class="card">
 				<img class="card-img-top" src="img/speakersnewdimensions/Luis_Lima_New.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Melchior Luiz Lima M.D. MSc. Ph.D. </h4>
@@ -79,21 +99,6 @@
 					and Cardiovascular Surgeon, Center of Cardiovascular Surgery &amp; Heart
 				    Transplantation, Meridional Hospital, Cariacica, ES, Brazil. </p>
 					<a href="lima.php" class="btn btn-outline-secondary">See Profile</a>
-				</div>
-			</div>
-		</div>
-
-	</div>
-	<div class="row padding">
-
-		<!-- ROW 2-FIRST CARD APPEARS HERE -->
-		<div class="col-md-4">
-			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
-				<div class="card-body">
-					<h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
-					<p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-					<a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -173,6 +178,49 @@
 	</div>
 </div>
 <!-- -------------------------------------------------->
+<div class="row padding">
+
+		<!-- ROW 3-FIRST CARD APPEARS HERE -->
+		<div class="col-md-4">
+			<div class="card">
+				<img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
+				<div class="card-body">
+					<h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
+					<p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
+					<a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
+				</div>
+			</div>
+		</div>
+		
+				<!-- ROW 3 - SECOND CARD APPEARS HERE --><!--
+		<div class="col-md-4">
+			<div class="card">
+				<img class="card-img-top" src="img/speakersnewdimensions/Renjith_New.png">
+				<div class="card-body">
+					<h4 class="card-title"> Dr. Renjith P Nair, PhD </h4>
+					<p class="card-text"> Lecturer in molecular oncology, Malabar Cancer Centre, Thalassery, India</p>
+					<a href="nair.php" class="btn btn-outline-secondary">See Profile</a>
+				</div>
+			</div>
+		</div>
+
+		<!--ROW 3- THIRD CARD APPEARS HERE --> <!--
+		
+		<div class="col-md-4">
+			<div class="card">
+				<img class="card-img-top" src="img/speakersnewdimensions/Rajmohan_New.png">
+				<div class="card-body">
+					<h4 class="card-title"> Dr. Rajmohan V.</h4>
+					<p class="card-text"> Asst. Professor with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) 
+					and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</p>
+					<a href="rajmohan.php" class="btn btn-outline-secondary">See Profile</a>
+				</div>
+			</div>
+		</div>
+-->
+
+	</div>
+</div>
 <!-- -------------------------------------------------->
 
 <!--- Connect-->
