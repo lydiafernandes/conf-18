@@ -25,7 +25,7 @@
 .tree li::before, .tree li::after{
 	content: '';
 	position: absolute; top: 0; right: 50%;
-	border-top: 1px solid #ccc;
+	border-top: 1px solid #000000;
 	width: 50%; height: 20px;
 }
 .tree li::after{
