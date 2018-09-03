@@ -38,6 +38,9 @@
       </div>
     </li>
 
+      <li class="nav-item">
+	      <a class="nav-link" href="org_com.php">Organizing Committee</a>
+	  </li>
      <!-- Dropdown -->
      <li class="nav-item dropdown">
       <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
