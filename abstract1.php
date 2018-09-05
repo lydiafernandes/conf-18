@@ -22,7 +22,7 @@
   <!-- tdis file is included in tde externa file -->
 
    <!-- this file is included in the externa file -->
-   <link rel="stylesheet" type="text/css" href="css/style.css"> 
+   
         <link rel="stylesheet" type="text/css" href="css/style_index.css"> 
 
 
