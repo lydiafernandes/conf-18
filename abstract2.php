@@ -21,7 +21,7 @@
 
   <!-- tdis file is included in tde externa file -->
   <link rel="stylesheet" type="text/css" href="style.css"> 
-
+  <link rel="stylesheet" type="text/css" href="css/style_index.css"> 
 <script src="main.js"></script>
 </head>
 
