@@ -20,7 +20,11 @@
   <script src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
 
   <!-- tdis file is included in tde externa file -->
-  <link rel="stylesheet" type="text/css" href="style.css"> 
+
+   <!-- this file is included in the externa file -->
+   <link rel="stylesheet" type="text/css" href="css/style.css"> 
+        <link rel="stylesheet" type="text/css" href="css/style_index.css"> 
+
 
 <script src="main.js"></script>
 </head>
