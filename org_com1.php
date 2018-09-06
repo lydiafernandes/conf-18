@@ -33,7 +33,7 @@
             <div class="tree" style="margin:0 auto;">
                 <ul>
 	            	<li>
-		            	<a href="#"><strong>Organizing Committee</strong></a>
+		            	<a href="#"><strong>Patrons/Heads</strong></a>
 		            	<ul>
 			
 			        	<li>
@@ -44,10 +44,14 @@
                             <a href="#"><strong>Creighton University / President:</strong> <br>
 							Dr. (Rev.) Daniel Hendrickson, SJ.</a>
 							
-				
+							
         					<ul>
 		        				<li>
-				        			<a href="#"><strong>Conference Chair/ Convener 2:</strong><br> Prof. (Dr.)D. K. Agarwal </a>
+								<img src="img/speakersnewdimensions/dk_agarwal.png" height="25%" width="35%" 
+							class="img-responsive rounded" style="display:inline" alt="pic of Prof. (Dr.)D. K. Agarwal">
+							<br>
+				        			<a href="#"><strong>Conference Chair/ Convener 2:</strong><br> 
+									Prof. (Dr.)D. K. Agarwal </a>
 							
 						        	<ul>
 					                	<li>
