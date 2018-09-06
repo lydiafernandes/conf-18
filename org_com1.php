@@ -38,7 +38,7 @@
 			
 			        	<li>
 					        
-							<img src="img/org_com_img/Daniel_S._Hendrickson,_S.J.jpg" height="25%" width="25%" 
+							<img src="img/org_com_img/Daniel_S._Hendrickson,_S.J.jpg" height="25%" width="35%" 
 							class="img-responsive rounded" style="display:inline" alt="pic of Dr. (Rev.) Daniel Hendrickson, SJ.">
 							<br>
                             <a href="#"><strong>Creighton University / President:</strong> <br>
@@ -60,7 +60,7 @@
 				
 			        	<li>
 					        <a href="#">
-								<img src="img/org_com_img/Principal_sxc.jpg" height="12%" width="12%" 
+								<img src="img/org_com_img/Principal_sxc.jpg" height="22%" width="32%" 
 								class="img-responsive rounded" style="display:inline" alt="pic of Dr. Rajendra Shinde">
 								<br>
 									Prof. (Dr.) Rajendra Shinde
