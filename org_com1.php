@@ -38,7 +38,7 @@
 			
 			        	<li>
 					        
-							<img src="img/org_com_img/Daniel_S._Hendrickson,_S.J.jpg" height="25%" width="25%" 
+							<img src="img/org_com_img/Daniel_S._Hendrickson,_S.J.jpg" height="20%" width="20%" 
 							class="img-responsive rounded" style="display:inline" alt="pic of Dr. (Rev.) Daniel Hendrickson, SJ.">
 							<br>
                             <a href="#"><strong>Creighton University / President:</strong> <br>
@@ -47,13 +47,13 @@
 							
         					<ul>
 		        				<li>
-								<img src="img/org_com_img/org_dk_agarwal.png" height="25%" width="25%" 
+								<img src="img/speakersnewdimensions/org_dk_agarwal.png" height="25%" width="35%" 
 							class="img-responsive rounded" style="display:inline" alt="pic of Prof. (Dr.)D. K. Agarwal">
 							<br>
 				        			<a href="#"><strong>Conference Chair/ Convener 2:</strong><br> 
 									Prof. (Dr.)D. K. Agarwal </a>
 							
-							
+						        	<ul>
 					                	<li>
 						                	<a href="#"><strong>International Co-ordinator </strong><br> Dr. Finosh Thankam </a>
 					        	         </li>
@@ -63,11 +63,10 @@
 				        </li>
 				
 			        	<li>
-					        
-								<img src="img/org_com_img/Principal_sxc1.jpg" height="25%" width="20%" 
+					        <a href="#">
+								<img src="img/org_com_img/Principal_sxc.jpg" height="22%" width="32%" 
 								class="img-responsive rounded" style="display:inline" alt="pic of Dr. Rajendra Shinde">
 								<br>
-								<a href="#">
 									Prof. (Dr.) Rajendra Shinde
 								<br>
 								<strong>St. Xavier&apos;s College-Autonomous / Principal </strong>
@@ -75,7 +74,6 @@
 							</a>
 					        <ul>
 					            <li>
-								
 					                <a href="#"><strong> Conference / Convener 1: </strong> <br> Dr. (Fr.) Roy Pereira </a>
 					   
 					                <ul>		
