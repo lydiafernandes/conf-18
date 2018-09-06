@@ -53,9 +53,10 @@
 				        			<a href="#"><strong>Conference Chair/ Convener 2:</strong><br> 
 									Prof. (Dr.)D. K. Agarwal </a>
 							
-						        	<ul>
+							
 					                	<li>
-						                	<a href="#"><strong>International Co-ordinator </strong><br> Dr. Finosh Thankam </a>
+						                	<a href="#"><strong>International Co-ordinator </strong><br>
+											 Dr. Finosh Thankam </a>
 					        	         </li>
 				        	        </ul>
 						        </li>
@@ -63,10 +64,11 @@
 				        </li>
 				
 			        	<li>
-					        <a href="#">
-								<img src="img/org_com_img/Principal_sxc.jpg" height="20%" width="20%" 
+					        
+								<img src="img/org_com_img/Principal_sxc1.jpg" height="25%" width="20%" 
 								class="img-responsive rounded" style="display:inline" alt="pic of Dr. Rajendra Shinde">
 								<br>
+								<a href="#">
 									Prof. (Dr.) Rajendra Shinde
 								<br>
 								<strong>St. Xavier&apos;s College-Autonomous / Principal </strong>
@@ -74,7 +76,13 @@
 							</a>
 					        <ul>
 					            <li>
-					                <a href="#"><strong> Conference / Convener 1: </strong> <br> Dr. (Fr.) Roy Pereira </a>
+
+								<img src="img/org_com_img/roy_p1.jpg" height="25%" width="20%" 
+								class="img-responsive rounded" style="display:inline" alt="pic of Dr. Rajendra Shinde">
+								<br>
+								<a href="#"><strong> Conference / Convener 1: </strong> <br> 
+									Dr. (Fr.) Roy Pereira 
+								</a>
 					   
 					                <ul>		
                 						<li>
