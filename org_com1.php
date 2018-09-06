@@ -64,7 +64,7 @@
 				
 			        	<li>
 					        <a href="#">
-								<img src="img/org_com_img/Principal_sxc.jpg" height="22%" width="32%" 
+								<img src="img/org_com_img/Principal_sxc.jpg" height="20%" width="20%" 
 								class="img-responsive rounded" style="display:inline" alt="pic of Dr. Rajendra Shinde">
 								<br>
 									Prof. (Dr.) Rajendra Shinde
