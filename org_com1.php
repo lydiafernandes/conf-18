@@ -55,8 +55,7 @@
 							
 							
 					                	<li>
-						                	<a href="#"><strong>International Co-ordinator </strong><br>
-											 Dr. Finosh Thankam </a>
+						                	<a href="#"><strong>International Co-ordinator </strong><br> Dr. Finosh Thankam </a>
 					        	         </li>
 				        	        </ul>
 						        </li>
@@ -77,12 +76,16 @@
 					        <ul>
 					            <li>
 
-								<img src="img/org_com_img/roy_p1.png" height="30%" width="30%" 
+								<img src="img/org_com_img/roy_p1.jpg" height="25%" width="20%" 
 								class="img-responsive rounded" style="display:inline" alt="pic of Dr. Rajendra Shinde">
 								<br>
-								<a href="#"><strong> Conference / Convener 1: </strong> <br> 
-									Dr. (Fr.) Roy Pereira 
-								</a>
+								<a href="#">
+									Prof. (Dr.) Rajendra Shinde
+								<br>
+								<strong>St. Xavier&apos;s College-Autonomous / Principal </strong>
+								
+							</a>
+					                <a href="#"><strong> Conference / Convener 1: </strong> <br> Dr. (Fr.) Roy Pereira </a>
 					   
 					                <ul>		
                 						<li>
