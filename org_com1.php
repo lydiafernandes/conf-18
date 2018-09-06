@@ -38,7 +38,7 @@
 			
 			        	<li>
 					        
-							<img src="img/org_com_img/Daniel_S._Hendrickson,_S.J.jpg" height="25%" width="25%" 
+							<img src="img/org_com_img/Daniel_S._Hendrickson,_S.J.jpg" height="30%" width="30%" 
 							class="img-responsive rounded" style="display:inline" alt="pic of Dr. (Rev.) Daniel Hendrickson, SJ.">
 							<br>
                             <a href="#"><strong>Creighton University / President:</strong> <br>
@@ -47,7 +47,7 @@
 							
         					<ul>
 		        				<li>
-								<img src="img/org_com_img/org_dk_agarwal.png" height="25%" width="25%" 
+								<img src="img/org_com_img/org_dk_agarwal.png" height="30%" width="30%" 
 							class="img-responsive rounded" style="display:inline" alt="pic of Prof. (Dr.)D. K. Agarwal">
 							<br>
 				        			<a href="#"><strong>Conference Chair/ Convener 2:</strong><br> 
