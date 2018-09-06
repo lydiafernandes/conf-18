@@ -77,7 +77,7 @@
 					        <ul>
 					            <li>
 
-								<img src="img/org_com_img/roy_p1.jpg" height="25%" width="20%" 
+								<img src="img/org_com_img/roy_p1.png" height="30%" width="30%" 
 								class="img-responsive rounded" style="display:inline" alt="pic of Dr. Rajendra Shinde">
 								<br>
 								<a href="#"><strong> Conference / Convener 1: </strong> <br> 
