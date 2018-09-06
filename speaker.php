@@ -31,7 +31,7 @@
 <div class="container-fluid padding">
 	<div class="row welcome text-center">
 		<div class="col-12">
-			<h1 class="display-4"><a name="top">Our Esteemed Invited Speakers </a></h1>
+			<h1 class="display-4"><a name="top">Our Esteemed Speakers </a></h1>
 		</div>
 		<hr>
 	</div>
@@ -44,7 +44,7 @@
 		<!-- FIRST CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="#">
+				<img class="card-img-top" src="img/speakersnewdimensions/dk_agarwal.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Devendra K. Agrawal  </h4>
 					<p class="card-text"> Ph.D. (Biochem), Ph.D. (Med. Sciences), MBA, MS (ITM), FAAAAI, FAHA, FAPS, FIACS

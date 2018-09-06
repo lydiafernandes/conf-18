@@ -67,7 +67,7 @@
 <!-- First Container -->
 <div class="container-fluid bg-1 text-center">
   
-  <img src="#" class="img-responsive rounded margin"
+  <img src="img/speakersnewdimensions/dk_agarwal.png" class="img-responsive rounded margin"
    style="display:inline" alt="pic of Dr. D. K. Agarwal" width="50%" height="50%">
 
    <h3 class="margin">
