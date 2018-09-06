@@ -33,25 +33,21 @@
             <div class="tree" style="margin:0 auto;">
                 <ul>
 	            	<li>
-		            	<a href="#"><strong>Patrons/Heads</strong></a>
+		            	<a href="#"><strong>Organizing Committee</strong></a>
 		            	<ul>
 			
 			        	<li>
 					        
-							<img src="img/org_com_img/Daniel_S._Hendrickson,_S.J.jpg" height="20%" width="20%" 
+							<img src="img/org_com_img/Daniel_S._Hendrickson,_S.J.jpg" height="15%" width="15%" 
 							class="img-responsive rounded" style="display:inline" alt="pic of Dr. (Rev.) Daniel Hendrickson, SJ.">
 							<br>
                             <a href="#"><strong>Creighton University / President:</strong> <br>
 							Dr. (Rev.) Daniel Hendrickson, SJ.</a>
 							
-							
+				
         					<ul>
 		        				<li>
-								<img src="img/speakersnewdimensions/org_dk_agarwal.png" height="25%" width="35%" 
-							class="img-responsive rounded" style="display:inline" alt="pic of Prof. (Dr.)D. K. Agarwal">
-							<br>
-				        			<a href="#"><strong>Conference Chair/ Convener 2:</strong><br> 
-									Prof. (Dr.)D. K. Agarwal </a>
+				        			<a href="#"><strong>Conference Chair/ Convener 2:</strong><br> Prof. (Dr.)D. K. Agarwal </a>
 							
 						        	<ul>
 					                	<li>
@@ -64,7 +60,7 @@
 				
 			        	<li>
 					        <a href="#">
-								<img src="img/org_com_img/Principal_sxc.jpg" height="22%" width="32%" 
+								<img src="img/org_com_img/Principal_sxc.jpg" height="12%" width="12%" 
 								class="img-responsive rounded" style="display:inline" alt="pic of Dr. Rajendra Shinde">
 								<br>
 									Prof. (Dr.) Rajendra Shinde
