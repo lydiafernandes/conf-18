@@ -47,7 +47,7 @@
 							
         					<ul>
 		        				<li>
-								<img src="img/speakersnewdimensions/dk_agarwal.png" height="25%" width="35%" 
+								<img src="img/org_com_img/org_dk_agarwal.png" height="20%" width="20%" 
 							class="img-responsive rounded" style="display:inline" alt="pic of Prof. (Dr.)D. K. Agarwal">
 							<br>
 				        			<a href="#"><strong>Conference Chair/ Convener 2:</strong><br> 
