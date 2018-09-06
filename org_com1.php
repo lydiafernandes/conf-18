@@ -38,7 +38,7 @@
 			
 			        	<li>
 					        
-							<img src="img/org_com_img/Daniel_S._Hendrickson,_S.J.jpg" height="15%" width="15%" 
+							<img src="img/org_com_img/Daniel_S._Hendrickson,_S.J.jpg" height="25%" width="25%" 
 							class="img-responsive rounded" style="display:inline" alt="pic of Dr. (Rev.) Daniel Hendrickson, SJ.">
 							<br>
                             <a href="#"><strong>Creighton University / President:</strong> <br>
