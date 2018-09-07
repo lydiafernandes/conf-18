@@ -51,6 +51,7 @@ $mail->AltBody = "This is the plain text version of the email content";
 if(!($mail->send())) 
 {
     echo "Mailer Error: " . $mail->ErrorInfo;
+    header("location: http://www.xaviersmumbaiconf.org/contact.php");
 } 
   //  echo "Message has been sent successfully";
     header("location: http://www.xaviersmumbaiconf.org/contact.php");
