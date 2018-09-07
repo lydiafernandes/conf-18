@@ -53,6 +53,6 @@ if(!($mail->send()))
     echo "Mailer Error: " . $mail->ErrorInfo;
 } 
   //  echo "Message has been sent successfully";
-    header("Location:http://www.xaviersmumbaiconf.org/contact.php");
+    header("location: http://www.xaviersmumbaiconf.org/contact.php");
 
 ?>
