@@ -48,11 +48,14 @@ $mail->Subject = "Subject Text";
 $mail->Body = "<i>Mail body in HTML = </i>".$msg;
 $mail->AltBody = "This is the plain text version of the email content";
 
-if(!($mail->send())) 
+$sent = $mail->send();
+/*
+if(!()) 
 {
     echo "Mailer Error: " . $mail->ErrorInfo;
     header("location: http://www.xaviersmumbaiconf.org/contact.php");
 } 
+*/
   //  echo "Message has been sent successfully";
     header("location: http://www.xaviersmumbaiconf.org/contact.php");
 
