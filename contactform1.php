@@ -35,7 +35,7 @@ $mail->Password = "Isc1501819";//my mail password
 //If SMTP requires TLS encryption then set it
 $mail->SMTPSecure = "tls";                           
 //Set TCP port to connect to 
-$mail->Port = 587;                                   
+$mail->Port = 25;                                   
 
 $mail->From =$email_from;
 $mail->FromName = $name; //"Lydia Fernandes";
