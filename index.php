@@ -32,7 +32,7 @@
       <img class="d-block w-100" src="img/webpage3.jpg" alt="First slide">
       <div class="carousel-caption">
         <h1 class="display-2">X150 <br> The Conference</h1>
-        <h3> Celebrating 150 Glorious years</h3>
+        <h3> Celebrating 150 Beatiful years</h3>
         <!-- button type="button" class="btn btn-outline-light btn-lg"> Take a Tour</button -->
         <!-- button type="button" class="btn btn-primary btn-lg">SIGN-UP</button -->
       </div>
