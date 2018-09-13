@@ -165,7 +165,7 @@
    		 	<div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div>
    		 	<div class="col-sm-4 pad_center" style="background-color:#230A52;">
    		 		
-   		 		<h6>
+   		 		
                     <span>
                     <u><i>Organising Secretaries</i></u><br>
                     <p>
@@ -174,7 +174,7 @@
                     <img src="img\org_com_img\m_k.jpg" class="img-thumbnail" alt="pic of Marzban Kotwal" width="100px" height="200px" style="float:right;"><br>
                   
                     </p>
-   		 		  <br> Dr. Ashma Aggarwal &nbsp;&nbsp;&nbsp; Mr. Marzban Kotwal </span></h6>
+   		 		  <br> &lt;----Dr. Ashma Aggarwal &nbsp;&nbsp;&nbsp; Mr. Marzban Kotwal -----&gt; </span>
    		 	</div>
    		 	<div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div>
    		 	<div class="col-sm-2 pad_center" style="background-color:#0181c7;">
