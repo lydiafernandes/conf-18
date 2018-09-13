@@ -42,7 +42,10 @@
 
         	 a.names:link, .names:visited, .names:hover, .names:active {
         		color:white;
-        	}
+            }
+            .sec_box{
+                border: 2px solid #ffffff;
+            }
     	</style>
                 
        
@@ -168,13 +171,15 @@
    		 		
                     <span>
                     <u><i>Organising Secretaries</i></u><br>
-                    <p>
-                    <img src="img\org_com_img\ash_agg.jpg" class="img-thumbnail" alt="pic of Dr. Ashma Aggarwal" width="100px" height="200px" style="float:left;">
-                    &nbsp;&nbsp;&nbsp;
-                    <img src="img\org_com_img\m_k.jpg" class="img-thumbnail" alt="pic of Marzban Kotwal" width="100px" height="200px" style="float:right;"><br>
-                  
-                    </p>
-   		 		  <br> &lt;----Dr. Ashma Aggarwal &nbsp;&nbsp;&nbsp; Mr. Marzban Kotwal -----&gt; </span>
+                        <span class="sec_box">
+                             <img src="img\org_com_img\ash_agg.jpg" class="img-thumbnail" alt="pic of Dr. Ashma Aggarwal" width="100px" height="200px" style="float:left;">
+                            <br>Dr. Ashma Aggarwal 
+                         </span>
+                        <span class="sec_box">
+                            <img src="img\org_com_img\m_k.jpg" class="img-thumbnail" alt="pic of Marzban Kotwal" width="100px" height="200px" style="float:right;">
+                             <br>Mr. Marzban Kotwal 
+                        </span>
+                    </span>
    		 	</div>
    		 	<div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div>
    		 	<div class="col-sm-2 pad_center" style="background-color:#0181c7;">
