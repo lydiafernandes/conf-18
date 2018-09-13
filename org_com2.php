@@ -44,7 +44,7 @@
         		color:white;
             }
             .sec_box{
-                border: 2px solid #ffffff;
+                border: 5px solid white;
             }
     	</style>
                 
@@ -172,12 +172,12 @@
                     <span>
                     <u><i>Organising Secretaries</i></u><br>
                         <span class="sec_box">
-                             <img src="img\org_com_img\ash_agg.jpg" class="img-thumbnail" alt="pic of Dr. Ashma Aggarwal" width="100px" height="200px" style="float:left;">
-                            <br>Dr. Ashma Aggarwal 
+                             <img src="img\org_com_img\ash_agg.jpg" class="img-thumbnail" alt="pic of Dr. Ashma Aggarwal" width="100px" height="200px">
+                            Dr. Ashma Aggarwal 
                          </span>
                         <span class="sec_box">
-                            <img src="img\org_com_img\m_k.jpg" class="img-thumbnail" alt="pic of Marzban Kotwal" width="100px" height="200px" style="float:right;">
-                             <br>Mr. Marzban Kotwal 
+                            <img src="img\org_com_img\m_k.jpg" class="img-thumbnail" alt="pic of Marzban Kotwal" width="100px" height="200px">
+                             Mr. Marzban Kotwal 
                         </span>
                     </span>
    		 	</div>
