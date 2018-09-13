@@ -162,13 +162,18 @@
                 </span>
                 </h6>
     		</div>
-   		 	<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
-   		 	<div class="col-sm-2 pad_center" style="background-color:#230A52;">
+   		 	<div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div>
+   		 	<div class="col-sm-4 pad_center" style="background-color:#230A52;">
    		 		
-   		 		<h6><span><u><i>Organising Secretaries</i></u>
-   		 		  <br> Dr. Ashma Aggarwal <br> Mr. Marazaban Kotwal </span></h6>
+   		 		<h6>
+                    <span>
+                    <img src="img\org_com_img\ash_agg.jpg" class="img-thumbnail" alt="pic of Dr. Ashma Aggarwal" width="100px" height="200px">
+                    <img src="img\org_com_img\ash_agg.jpg" class="img-thumbnail" alt="pic of Dr. Ashma Aggarwal" width="100px" height="200px"><br>
+                  
+                  <u><i>Organising Secretaries</i></u>
+   		 		  <br> Dr. Ashma Aggarwal <br> Mr. Marazban Kotwal </span></h6>
    		 	</div>
-   		 	<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
+   		 	<div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div>
    		 	<div class="col-sm-2 pad_center" style="background-color:#0181c7;">
 
    		 		<h6><span><u><i>Technical Committee</i></u></span></h6>
