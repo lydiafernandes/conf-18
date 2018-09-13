@@ -154,8 +154,13 @@
     		<div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div>
     		<div class="col-sm-2 pad_center" style="background-color:#9d4672;">
 
-    			 <h6><span> <u><i>International Co-ordinator:</i></u>
-					<br> Dr. Finosh Thankam </span></h6>
+    			 <h6>
+                 <span>
+                 <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" width="100px" height="200px"><br>
+                  <u><i>International Co-ordinator:</i></u>
+					<br> Dr. Finosh Thankam 
+                </span>
+                </h6>
     		</div>
    		 	<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
    		 	<div class="col-sm-2 pad_center" style="background-color:#230A52;">
