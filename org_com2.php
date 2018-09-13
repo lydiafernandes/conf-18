@@ -71,7 +71,7 @@
     		<div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
    		 	<div class="col-sm-3 pad_center" style="background-color:#B3A97D;">
    		 		<span> 
-                    <img src="img\org_com_img\Daniel_S._Hendrickson,_S.J.jpg" class="img-thumbnail" alt="pic of Dr. (Rev.) Daniel Hendrickson, SJ." width="200px" height="300px">
+                    <img src="img\org_com_img\Daniel_S._Hendrickson,_S.J.jpg" class="img-thumbnail" alt="pic of Dr. (Rev.) Daniel Hendrickson, SJ." width="100px" height="200px"><br>
    		 			<a href="#"><strong>Creighton University / President:</strong> <br>	Dr. (Rev.) Daniel Hendrickson, SJ.</a>
 				</span>
 				
