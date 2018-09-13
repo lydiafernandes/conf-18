@@ -78,6 +78,7 @@
    		 	</div>
    		 	<div class="col-sm-3 pad_center" style="background-color:#B3A97D;">
    		 		<span>
+                    <img src="img\org_com_img\Fr. Keith Dsouza, SJ." class="img-thumbnail" alt="pic of Fr. Keith Dsouza, SJ." width="100px" height="200px"><br>
    		 		<a href="#"><strong>St. Xavier&apos;s College / Rector:</strong> <br>
 							Fr. Keith Dsouza, SJ.</a>
 				</span>
