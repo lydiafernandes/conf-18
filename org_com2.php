@@ -167,11 +167,12 @@
    		 		
    		 		<h6>
                     <span>
-                    <img src="img\org_com_img\ash_agg.jpg" class="img-thumbnail" alt="pic of Dr. Ashma Aggarwal" width="100px" height="200px">
+                    <u><i>Organising Secretaries</i></u><br>
+                    <img src="img\org_com_img\ash_agg.jpg" class="img-thumbnail" alt="pic of Dr. Ashma Aggarwal" width="100px" height="200px" style="float:left;">
                     &nbsp;&nbsp;&nbsp;
-                    <img src="img\org_com_img\m_k.jpg" class="img-thumbnail" alt="pic of Marzban Kotwal" width="100px" height="200px"><br>
+                    <img src="img\org_com_img\m_k.jpg" class="img-thumbnail" alt="pic of Marzban Kotwal" width="100px" height="200px" style="float:right;"><br>
                   
-                  <u><i>Organising Secretaries</i></u>
+                  
    		 		  <br> Dr. Ashma Aggarwal &nbsp;&nbsp;&nbsp; Mr. Marzban Kotwal </span></h6>
    		 	</div>
    		 	<div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div>
