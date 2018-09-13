@@ -56,7 +56,7 @@
 
 <!-- -------------------------------------------------->
 	<div class="container-fluid">
-		<h1> Conference Team </h1>
+		<h1 style="text-align:center"> Conference 2019-2020 </h1>
 <!-- row 1 begins -->
 		<div class="row">
 			<div class="col-sm-4" style="background-color:#cbcdd9;"> &nbsp; </div>	
@@ -96,12 +96,14 @@
 			<div class="col-sm-4" style="background-color:#cbcdd9;"> &nbsp; </div>	
 			<!-- <div class="col-sm-2" style="background-color:#cbcdd9;"> &nbsp; </div> -->	
 			<div class="col-sm-4 pad_center" style="background-color:#ff9962;"> 
-				<p><strong> <u><i>Chairperson</i></u> </strong> <br>
+            <span>
+            <img src="img\org_com_img\raj_s.jpg" class="img-thumbnail" alt="pic of Prof. (Dr.) Rajendra Shinde" width="100px" height="200px"><br>
+            	<strong> <u><i>Chairperson</i></u> </strong> <br>
 				<big>Prof. (Dr.) Rajendra Shinde</big>
 				<br><a href="#">
 						<strong>St. Xavier&apos;s College-Autonomous / Principal </strong>
 					</a>
-				</p>
+            </span>
 			</div>	
 			<div class="col-sm-4" style="background-color:#cbcdd9;"> &nbsp; </div>	
 			<!-- <div class="col-sm-3" style="background-color:#cbcdd9;"> &nbsp; </div> -->	
