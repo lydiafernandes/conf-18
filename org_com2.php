@@ -127,15 +127,17 @@
 		<div class="row">
     		<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
    		 	<div class="col-sm-4 pad_center" style="background-color:#506F82;">
-   		 		<span> 
-   		 			<p><a class="names" href="#">Prof. (Dr.) D. K. Agarwal <br> 
-   		 				<strong>	Creighton University</strong></a></p>
+   		 		<span>
+                    <img src="img\org_com_img\org_dk_agarwal.png" class="img-thumbnail" alt="pic of Prof. (Dr.) D. K. Agarwal" width="100px" height="200px"><br> 
+   		 			<a class="names" href="#">Prof. (Dr.) D. K. Agarwal <br> 
+   		 				<strong>	Creighton University</strong></a>
 				</span>
 				
    		 	</div>
    		 	<div class="col-sm-4 pad_center" style="background-color:#506F82;">
    		 		<span>
-   		 		 <p> <a class="names" href="#"> Dr. (Fr.) Roy Pereira  <br><strong>St. Xavier&apos;s College-Autonomous / Vice Principal </strong>  </a></p>
+                    <img src="img\org_com_img\roy_p1.png" class="img-thumbnail" alt="pic of Dr. (Fr.) Roy Pereira" width="100px" height="200px"><br>
+                    <a class="names" href="#"> Dr. (Fr.) Roy Pereira  <br><strong>St. Xavier&apos;s College-Autonomous / Vice Principal </strong>  </a>
    		 		</span>
 			</div>
    		 	<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
