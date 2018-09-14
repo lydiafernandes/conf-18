@@ -44,7 +44,7 @@
         		color:white;
             }
             .sec_box{
-                border: 5px solid white;
+               /* border: 5px solid;*/
             }
     	</style>
                 
