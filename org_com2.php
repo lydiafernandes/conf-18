@@ -181,7 +181,7 @@
                              <br><br>Mr. Marzban Kotwal 
                         </span><br>
 						<p style="float:left; text-align:center;"><br><br>
-						<u><i>Organizing Secretaries:</i></u><br><strong>St. Xavier&apos;s College-Autonomous/Faculty</strong>
+						<u><i>&nbsp;&nbsp;&nbsp;Organizing Secretaries:</i></u><br><strong>&nbsp;&nbsp;&nbsp;St. Xavier&apos;s College-Autonomous / Faculty</strong>
                         </p>
                     </span>
    		 	</div>
