@@ -180,7 +180,7 @@
                             <img src="img\org_com_img\m_k.jpg" class="img-thumbnail" alt="pic of Marzban Kotwal" width="100px" height="200px">
                              <br><br>Mr. Marzban Kotwal 
                         </span><br>
-						<span>
+						<span><br><br>
 						<u><i>Organising Secretaries:</i></u><br><strong>St. Xavier&apos;s College-Autonomous/Faculty</strong>
                         </span>
                     </span>
