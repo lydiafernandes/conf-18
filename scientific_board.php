@@ -17,43 +17,7 @@
         <!-- this file is included in the externa file -->
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
         <link rel="stylesheet" type="text/css" href="css/style_faq.css"> 
-        <script>
-    // Accordian Action
-var action = 'click';
-var speed = "500";
-
-
-$(document).ready(function(){
-
-// Question handler
-  $('li.q').on(action, function(){
-
-    // gets next element
-    // opens .a of selected question
-    $(this).next().slideToggle(speed)
-    
-    // selects all other answers and slides up any open answer
-    .siblings('li.a').slideUp();
-  
-    // Grab img from clicked question
-    var img = $(this).children('img');
-
-    // remove Rotate class from all images except the active
-    $('img').not(img).removeClass('rotate');
-
-    // toggle rotate class
-    img.toggleClass('rotate');
-
-  });
-
-});
-
-
-  </script>
-    <style>
-        
-</style>
-       
+        <script src="script/script_faq.js"></script>    
 </head>
 <body> 
     <!-- include the nav bar -->
@@ -61,9 +25,10 @@ $(document).ready(function(){
 
 
 <!-- -------------------------------------------------->
+<div class="container-fluid">
 
 <ul class="faq">
-
+<div class="row">
     <li class="q">
         <img src="img/arrow.png"> 
         Dr. Shubha Tole (TIFR)
@@ -73,9 +38,9 @@ $(document).ready(function(){
       the development and evolution of the mammalian brain, and she has won many accolades for her work.
       <a href="http://www.tifr.res.in/~dbs/faculty/S_Tole.html" class="btn btn-outline-secondary">See Profile</a>
     </li>
-
+</div>
 <!-- -------------End of Q1------------------------------ -->
-
+<div class="row">
     <li class="q">
         <img src="img/arrow.png"> 
          Dr. Sushil Mujumdar (TIFR)
@@ -87,7 +52,7 @@ $(document).ready(function(){
         ETH, Zurich. He has now set up a programme on Nanooptics and Mesoscopic Optics in TIFR, Mumbai.
         <a href="http://www.tifr.res.in/~mujumdar/index.html" class="btn btn-outline-secondary">See Profile</a>
     </li>
-
+</div>
 <!-- -------------End of Q2------------------------------ -->
 
     <li class="q">
@@ -149,7 +114,7 @@ $(document).ready(function(){
 <!-- -------------End of Q8------------------------------ -->
 
 </ul>
-
+</div>
 <!--- Connect-->
 
 <?php include("includes/footer.php");?>

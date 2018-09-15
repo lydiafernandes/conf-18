@@ -74,11 +74,16 @@
     </li>
 
 <!-- -------------End of Q3------------------------------ -->
-<!--li class="q">
+<li class="q">
         <img src="img/arrow.png"> 
-    
+        Prof. Mustansir Barma (TIFR)
     </li>
-    <li class="a"><a href="" class="btn btn-outline-secondary">See Profile</a>
+    <li class="a">
+    His research work has focused on cooperative effects in interacting systems, both in and out of
+     equilibrium. At TCIS (TIFR Center for Inter-disciplinary Studies), he has been working primarily
+      on nonequilibrium statistical physics, often involving new phases that arise from external
+       driving and interactions between particles. 
+        <a href="https://www.tifrh.res.in/~barma/" class="btn btn-outline-secondary">See Profile</a>
     </li>
 
 <!-- -------------End of Q4------------------------------ -->
