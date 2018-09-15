@@ -16,6 +16,7 @@
 
         <!-- this file is included in the externa file -->
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
+        <link rel="stylesheet" type="text/css" href="css/style_faq.css"> 
         <script>
     // Accordian Action
 var action = 'click';
@@ -50,28 +51,7 @@ $(document).ready(function(){
 
   </script>
     <style>
-        .faq li { padding: 20px; 
-            list-style-type: none;}
-
-.faq li.q {
-  background: #4FC2E;
-  font-weight: bold;
-  font-size: 120%;
-  border-bottom: 1px #ddd solid;
-  cursor: pointer;
-}
-
-.faq li.a {
-  background: #1D2951;
-  display: none;
-  color:#fff;
-}
-
-.rotate {
-  -moz-transform: rotate(90deg);
-  -webkit-transform: rotate(90deg);
-  transform: rotate(90deg);
-}
+        
 </style>
        
 </head>
