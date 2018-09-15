@@ -166,7 +166,7 @@
                 </span>
                 </h6>
     		</div>
-   		 	<div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div>
+   		 	<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
    		 	<div class="col-sm-4 pad_center" style="background-color:#230A52;">
    		 		
    		 		
@@ -189,8 +189,8 @@
    		 	<!--div class="col-sm-2 pad_center" style="background-color:#0181c7;">
 
    		 		<h6><span><u><i>Technical Committee</i></u></span></h6>
-   		 	</div -->
-   		 	<div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div>
+   		 	</div-->
+   		 	<!-- div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div-->
 		</div> <!-- end of div row 9 -->
 	</div>
 
