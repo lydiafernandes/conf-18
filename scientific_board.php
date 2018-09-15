@@ -94,7 +94,7 @@ $(document).ready(function(){
         <img src="img/arrow.png"> 
         Dr. Nandita Mangalore (St. Xavier&apos;s College - Autonomous, Mumbai.)
     </li>
-    <li class="a">Head, Department ofLifesciences &amp; Biochemistry <br>
+    <li class="a">Head, Department of Lifesciences &amp; Biochemistry <br>
     <a href="http://xaviers.edu/main/index.php/lifesciences-and-biochemistry" class="btn btn-outline-secondary">Read More</a>
     
     </li>

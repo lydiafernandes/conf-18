@@ -16,6 +16,9 @@
 
         <!-- this file is included in the externa file -->
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
+
+        <link rel="stylesheet" type="text/css" href="css/style_faq.css"> 
+        <script src="script/script_faq.js"></script>
         
        
 
