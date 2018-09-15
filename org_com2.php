@@ -59,7 +59,7 @@
 
 <!-- -------------------------------------------------->
 	<div class="container-fluid">
-		<h1 style="text-align:center"> Conference 2019-2020 </h1>
+		<h1 style="text-align:center"> International Science Conference 2019-2020 </h1>
 <!-- row 1 begins -->
 		<div class="row">
 			<div class="col-sm-4" style="background-color:#cbcdd9;"> &nbsp; </div>	
@@ -155,7 +155,7 @@
         <!-- row 9 begins -->
 		<div class="row">
     		<div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div>
-    		<div class="col-sm-2 pad_center" style="background-color:#9d4672;">
+    		<div class="col-sm-4 pad_center" style="background-color:#9d4672;">
 
     			 <h6>
                  <span>
