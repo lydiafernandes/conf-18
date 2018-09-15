@@ -50,7 +50,8 @@ $(document).ready(function(){
 
   </script>
     <style>
-        .faq li { padding: 20px; }
+        .faq li { padding: 20px; 
+            list-style-type: none;}
 
 .faq li.q {
   background: #4FC2E;
@@ -61,7 +62,7 @@ $(document).ready(function(){
 }
 
 .faq li.a {
-  background: #3BB0D6;
+  background: #1D2951;
   display: none;
   color:#fff;
 }
