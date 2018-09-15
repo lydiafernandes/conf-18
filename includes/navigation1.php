@@ -44,7 +44,7 @@
         Organizing Committee
       </a>
       <div class="dropdown-menu">
-        <a class="dropdown-item" href="#">Patrons &amp; Heads</a>
+        <a class="dropdown-item" href="org_com.php">Patrons &amp; Heads</a>
         <a class="dropdown-item" href="#">Scientific Board</a>
         <a class="dropdown-item" href="#">Advisory Board</a> 
         
