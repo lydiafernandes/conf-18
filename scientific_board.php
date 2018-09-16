@@ -36,7 +36,7 @@
     <li class="a">Shubha Tole is an Indian neuroscientist, Professor and Principal Investigator at
      the Tata Institute of Fundamental Research in Mumbai, India. Her research involves investigating
       the development and evolution of the mammalian brain, and she has won many accolades for her work.
-      <a href="http://www.tifr.res.in/~dbs/faculty/S_Tole.html" class="btn btn-outline-secondary">See Profile</a>
+      <a href="http://www.tifr.res.in/~dbs/faculty/S_Tole.html" target="_blank" class="btn btn-outline-secondary">See Profile</a>
     </li>
 </div>
 <!-- -------------End of Q1------------------------------ -->
@@ -56,56 +56,60 @@
     </li>
 </div>
 <!-- -------------End of Q2------------------------------ -->
-
+<div class="row">
     <li class="q">
         <img src="img/arrow.png"> 
         Dr. Nandita Mangalore (St. Xavier&apos;s College - Autonomous, Mumbai.)
     </li>
     <li class="a">Head, Department of Lifesciences &amp; Biochemistry <br>
-    <a href="http://xaviers.edu/main/index.php/lifesciences-and-biochemistry" class="btn btn-outline-secondary">Read More</a>
+    <a href="http://xaviers.edu/main/index.php/lifesciences-and-biochemistry" target="_blank" class="btn btn-outline-secondary">Read More</a>
     
     </li>
-
+</div>
 <!-- -------------End of Q3------------------------------ -->
+<div class="row">
 <li class="q">
         <img src="img/arrow.png"> 
         Dr. Madhuri Hambarde (St. Xavier&apos;s College - Autonomous, Mumbai.)
     </li>
     <li class="a">Department of Zoology / Faculty 
-    <a href="http://xaviers.edu/main/index.php/zoology" class="btn btn-outline-secondary">Read More</a>
+    <a href="http://xaviers.edu/main/index.php/zoology" target="_blank" class="btn btn-outline-secondary">Read More</a>
     
     </li>
-
+</div>
 <!-- -------------End of Q4------------------------------ -->
+<div class="row">
 <li class="q">
         <img src="img/arrow.png"> 
         Dr. Finsoh Thankam (Creighton University)
     </li>
     <li class="a"> Department of Biomedical Sciences / Faculty <br>
     Dr. Finosh has expertise in Biotechnology, Cancer Research and Molecular Biology.
-    <a href="https://www.researchgate.net/profile/Finosh_G_T" class="btn btn-outline-secondary">See Profile</a>
+    <a href="https://www.researchgate.net/profile/Finosh_G_T"  target="_blank" class="btn btn-outline-secondary">See Profile</a>
     
     </li>
-
+</div>
 <!-- -------------End of Q5------------------------------ -->
+<div class="row">
 <li class="q">
         <img src="img/arrow.png"> 
         Dr. Smita Krishnan  (St. Xavier&apos;s College - Autonomous, Mumbai.)
     </li>
     <li class="a">Head, Department of Zoology <br>
-    <a href="http://xaviers.edu/main/index.php/zoology" class="btn btn-outline-secondary">Read More</a>
+    <a href="http://xaviers.edu/main/index.php/zoology" target="_blank" class="btn btn-outline-secondary">Read More</a>
     </li>
-
+</div>
 <!-- -------------End of Q6------------------------------ -->
+<div class="row">
 <li class="q">
         <img src="img/arrow.png"> 
         Ms. Miriam Stewart  (St. Xavier&apos;s College - Autonomous, Mumbai.)
     </li>
     <li class="a">Head, Department of Microbiology
-    <a href="http://xaviers.edu/main/index.php/microbiology1" class="btn btn-outline-secondary">Read More</a>
+    <a href="http://xaviers.edu/main/index.php/microbiology1" target="_blank" class="btn btn-outline-secondary">Read More</a>
    
     </li>
-
+</div>
 <!-- -------------End of Q7------------------------------ -->
 <!-- li class="q">
         <img src="img/arrow.png"> 

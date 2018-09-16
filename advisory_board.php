@@ -30,7 +30,10 @@
 
 
 <!-- -------------------------------------------------->
+<div class="container-fluid">
 <ul class="faq">
+
+    <div class="row">
 
     <li class="q">
         <img src="img/arrow.png"> 
@@ -39,10 +42,13 @@
     <li class="a">
     Prof Nirmal K. Ganguly is Advisor, Translational Health Science and Technology Institute and President, 
     Jawaharlal Institute of Post Graduate Medical Education and Research in India. He is a former Director General of the Indian Council of Medical Research.     
-    <a href="http://www.who.int/neglected_diseases/ganguly/en/" class="btn btn-outline-secondary">See Profile</a>
+    <a href="http://www.who.int/neglected_diseases/ganguly/en/" target="_blank" class="btn btn-outline-secondary">See Profile</a>
     </li>
 
+    </div>
+
 <!-- -------------End of Q1------------------------------ -->
+    <div class="row">
 
     <li class="q">
         <img src="img/arrow.png"> 
@@ -53,10 +59,13 @@
     &amp; Cell Signalling, Drug Development and Study of their mechanism of Action based on Genomics &amp;
      Proteomics, Development of Antibiotics for Gyrase Resistant Strains targeting Topoisomerase IA 
      Gene in bacteria.    
-    <a href="https://www.jnu.ac.in/content/vtandon" class="btn btn-outline-secondary">See Profile</a>
+    <a href="https://www.jnu.ac.in/content/vtandon" target="_blank" class="btn btn-outline-secondary">See Profile</a>
     </li>
 
+    </div>
 <!-- -------------End of Q2------------------------------ -->
+<div class="row">
+
 <li class="q">
         <img src="img/arrow.png"> 
         Dr. Nishigandha Naik (Haffkine Institute, Mumbai)
@@ -70,10 +79,11 @@
       development of therapeutic approaches for cancer, especially chronic myeloid leukemia, breast
        cancer, glioblastoma and neural stem cells.
         
-    <a href="https://www.researchgate.net/profile/Nishigandha_Naik" class="btn btn-outline-secondary">See Profile</a>
+    <a href="https://www.researchgate.net/profile/Nishigandha_Naik" target="_blank" class="btn btn-outline-secondary">See Profile</a>
     </li>
-
+</div>
 <!-- -------------End of Q3------------------------------ -->
+<div class="row">
 <li class="q">
         <img src="img/arrow.png"> 
         Prof. Mustansir Barma (TIFR)
@@ -83,12 +93,12 @@
      equilibrium. At TCIS (TIFR Center for Inter-disciplinary Studies), he has been working primarily
       on nonequilibrium statistical physics, often involving new phases that arise from external
        driving and interactions between particles. 
-        <a href="https://www.tifrh.res.in/~barma/" class="btn btn-outline-secondary">See Profile</a>
+        <a href="https://www.tifrh.res.in/~barma/" target="_blank" class="btn btn-outline-secondary">See Profile</a>
     </li>
-
+</div>
 <!-- -------------End of Q4------------------------------ -->
 </ul>
-
+</div>
 <!--- Connect-->
 
 <?php include("includes/footer.php");?>
