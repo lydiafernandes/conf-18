@@ -75,23 +75,25 @@
    		 	<div class="col-sm-6 pad_center" style="background-color:#B3A97D;">
 				<span>
 
-   		 		<span class="sec_box" style="float:left;"> 
-				
-                    <img src="img\org_com_img\Daniel_S._Hendrickson,_S.J.jpg" class="img-thumbnail" alt="pic of Dr. (Rev.) Daniel Hendrickson, SJ." width="100px" height="200px"><br>
-   		 			<p> 
-						<a href="#"><strong>Creighton University /<br> President:</strong> <br>	Dr. (Rev.) Daniel Hendrickson, SJ.</a>
-					</p>
-				</span>
+   		 		
 				
    		 	<!-- /div>
    		 	<div class="col-sm-3 pad_center" style="background-color:#B3A97D;" -->
-   		 		<span class="sec_box" style="float:right;">
+   		 		<span class="sec_box" style="float:left;">
                     <img src="img\org_com_img\rector_sxc.jpg" class="img-thumbnail" alt="pic of Fr. Keith Dsouza, SJ." width="100px" height="200px"><br>
    		 		<p>
-					<a href="#"><strong>St. Xavier&apos;s College / <br> Rector:</strong> <br>
+					<a href="#"><strong>St. Xavier&apos;s College / Rector:</strong> <br>
 							Fr. Keith Dsouza, SJ.</a>
 				</p>
 				</span>
+
+				<span class="sec_box" style="float:right;"> 
+				
+				<img src="img\org_com_img\Daniel_S._Hendrickson,_S.J.jpg" class="img-thumbnail" alt="pic of Dr. (Rev.) Daniel Hendrickson, SJ." width="100px" height="200px"><br>
+					<p> 
+					<a href="#"><strong>Creighton University /  President:</strong> <br>	Dr. (Rev.) Daniel Hendrickson, SJ.</a>
+				</p>
+			   </span>
 				<span>
 
 			</div>
@@ -102,13 +104,13 @@
 		<div class="row">
 			<div class="col-sm-12" style="background-color:#cbcdd9; padding:5px;"> &nbsp; </div>	
 		</div><!-- end of div row 3 -->
-
 		<!-- row 4 begins -->
 		<div class="row">
 			<div class="col-sm-4" style="background-color:#cbcdd9;"> &nbsp; </div>	
 			<!-- <div class="col-sm-2" style="background-color:#cbcdd9;"> &nbsp; </div> -->	
 			<div class="col-sm-4 pad_center" style="background-color:#ff9962;"> 
             <span>
+
             <img src="img\org_com_img\raj_s.jpg" class="img-thumbnail" alt="pic of Prof. (Dr.) Rajendra Shinde" width="100px" height="200px"><br>
             	<strong> <u><i>Chairperson</i></u> </strong> <br>
 				<big>Prof. (Dr.) Rajendra Shinde</big>
@@ -137,22 +139,22 @@
 
 				<!-- row 7 begins -->
 		<div class="row">
-    		<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
-   		 	<div class="col-sm-4 pad_center" style="background-color:#506F82;">
-   		 		<span>
+    		<div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
+   		 	<div class="col-sm-6 pad_center" style="background-color:#506F82;">
+   		 		<span <span class="sec_box" style="float:left;">
                     <img src="img\org_com_img\org_dk_agarwal.png" class="img-thumbnail" alt="pic of Prof. (Dr.) D. K. Agarwal" width="100px" height="200px"><br> 
    		 			<a class="names" href="#">Prof. (Dr.) D. K. Agarwal <br> 
    		 				<strong>	Creighton University</strong></a>
 				</span>
 				
-   		 	</div>
-   		 	<div class="col-sm-4 pad_center" style="background-color:#506F82;">
-   		 		<span>
+   		 	<!--/div>
+   		 	<div class="col-sm-4 pad_center" style="background-color:#506F82;"-->
+   		 		<span class="sec_box" style="float:right;">
                     <img src="img\org_com_img\roy_p1.png" class="img-thumbnail" alt="pic of Dr. (Fr.) Roy Pereira" width="100px" height="200px"><br>
                     <a class="names" href="#"> Dr. (Fr.) Roy Pereira  <br><strong>St. Xavier&apos;s College-Autonomous / Vice Principal </strong>  </a>
    		 		</span>
 			</div>
-   		 	<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
+   		 	<div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
 		</div> <!-- end of div row 7 -->
 
 		<!-- row 8 begins -->
