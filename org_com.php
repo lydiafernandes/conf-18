@@ -73,18 +73,27 @@
 		<div class="row">
     		<div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
    		 	<div class="col-sm-6 pad_center" style="background-color:#B3A97D;">
+				<span>
+
    		 		<span class="sec_box" style="float:left;"> 
+				
                     <img src="img\org_com_img\Daniel_S._Hendrickson,_S.J.jpg" class="img-thumbnail" alt="pic of Dr. (Rev.) Daniel Hendrickson, SJ." width="100px" height="200px"><br>
-   		 			<a href="#"><strong>Creighton University / President:</strong> <br>	Dr. (Rev.) Daniel Hendrickson, SJ.</a>
+   		 			<p> 
+						<a href="#"><strong>Creighton University / President:</strong> <br>	Dr. (Rev.) Daniel Hendrickson, SJ.</a>
+					</p>
 				</span>
 				
    		 	<!-- /div>
    		 	<div class="col-sm-3 pad_center" style="background-color:#B3A97D;" -->
    		 		<span class="sec_box" style="float:right;">
                     <img src="img\org_com_img\rector_sxc.jpg" class="img-thumbnail" alt="pic of Fr. Keith Dsouza, SJ." width="100px" height="200px"><br>
-   		 		<a href="#"><strong>St. Xavier&apos;s College / Rector:</strong> <br>
+   		 		<p>
+					<a href="#"><strong>St. Xavier&apos;s College / Rector:</strong> <br>
 							Fr. Keith Dsouza, SJ.</a>
+				</p>
 				</span>
+				<span>
+
 			</div>
    		 	<div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
 		</div> <!-- end of div row 2 -->
