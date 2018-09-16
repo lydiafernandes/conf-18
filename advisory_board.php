@@ -70,7 +70,11 @@
         <img src="img/arrow.png"> 
         Dr. Nishigandha Naik (Haffkine Institute, Mumbai)
     </li>
-    <li class="a">Director in Charge <br>
+    <li class="a">
+    <div class="col-sm-2" style="float:left;">
+        <img src="img\board_pics\nishi.png">
+    </div>
+    <div class="col-sm-10">
     Nishigandha Naik is working as a Director (additional charge) at the Haffkine Institute for Training,
     Research and Testing (HITRT), Mumbai and is the Head of the Dept. of Biochemistry and Dept. of 
     Toxicology. She has more than twenty eight years of research work experience that includes academia 
@@ -80,6 +84,7 @@
        cancer, glioblastoma and neural stem cells.
         
     <a href="https://www.researchgate.net/profile/Nishigandha_Naik" target="_blank" class="btn btn-outline-secondary">See Profile</a>
+    </div>
     </li>
 </div>
 <!-- -------------End of Q3------------------------------ -->
