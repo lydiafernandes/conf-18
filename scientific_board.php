@@ -43,14 +43,16 @@
 <div class="row">
     <li class="q">
         <img src="img/arrow.png"> 
-         Dr. Sushil Mujumdar (TIFR)
+        Dr. Shyamalava Mazumdar (TIFR)
     </li>
     <li class="a">
-        Sushil Mujumdar completed his PhD in 2001 from the Raman Research Institute, Bangalore in the field of 
-        light propagation in passive and active random media. He followed up with post doctoral research in 
-        coherent random lasing and near-field optics in LENS, Florence, University of Alberta, Canada, and 
-        ETH, Zurich. He has now set up a programme on Nanooptics and Mesoscopic Optics in TIFR, Mumbai.
-        <a href="http://www.tifr.res.in/~mujumdar/index.html" class="btn btn-outline-secondary">See Profile</a>
+     With a Ph.D in Chemistry from TIFR, University of Mumbai, INDIA in 1990, the current areas of 
+     research of Dr. Mazumdar, comprise of: <br> Bioinorganic Chemistry:  Redox processes in Biological Systems
+      with special interest on oxidases, oxygenases and peroxidases. Enzyme kinetics, Protein stability 
+      and unfolding-refolding processes, protein engineering. <br>
+      Circular dichroism, Stopped-flow, micro-calorimetry, protein mass spectrometry (ESI-MS &amp; MALDI-MS), 
+      protein engineering techniques, high-resolution NMR and time-resolved fluorescence 
+        <a href="http://www.tifr.res.in/~shyamal/" target="_blank" class="btn btn-outline-secondary">See Profile</a>
     </li>
 </div>
 <!-- -------------End of Q2------------------------------ -->
