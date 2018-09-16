@@ -90,10 +90,10 @@
     </li>
     
     <li class="a">
-    <div class="col-sm-4" style="float:left;">
+    <div class="col-sm-2" style="float:left;">
         <img src="img\board_pics\barma_new.png">
     </div>
-    <div class="col-sm-8">
+    <div class="col-sm-10">
     
     His research work has focused on cooperative effects in interacting systems, both in and out of
      equilibrium. At TCIS (TIFR Center for Inter-disciplinary Studies), he has been working primarily
