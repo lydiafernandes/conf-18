@@ -79,7 +79,7 @@
 				
                     <img src="img\org_com_img\Daniel_S._Hendrickson,_S.J.jpg" class="img-thumbnail" alt="pic of Dr. (Rev.) Daniel Hendrickson, SJ." width="100px" height="200px"><br>
    		 			<p> 
-						<a href="#"><strong>Creighton University / President:</strong> <br>	Dr. (Rev.) Daniel Hendrickson, SJ.</a>
+						<a href="#"><strong>Creighton University /<br> President:</strong> <br>	Dr. (Rev.) Daniel Hendrickson, SJ.</a>
 					</p>
 				</span>
 				
@@ -88,7 +88,7 @@
    		 		<span class="sec_box" style="float:right;">
                     <img src="img\org_com_img\rector_sxc.jpg" class="img-thumbnail" alt="pic of Fr. Keith Dsouza, SJ." width="100px" height="200px"><br>
    		 		<p>
-					<a href="#"><strong>St. Xavier&apos;s College / Rector:</strong> <br>
+					<a href="#"><strong>St. Xavier&apos;s College / <br> Rector:</strong> <br>
 							Fr. Keith Dsouza, SJ.</a>
 				</p>
 				</span>
