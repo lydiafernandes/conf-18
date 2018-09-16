@@ -40,7 +40,7 @@
         Dr. N.K.Ganguly
     </li>
     <li class="a">
-    Prof Nirmal K. Ganguly is Advisor, Translational Health Science and Technology Institute and President, 
+    Prof Nirmal K. Ganguly is the Advisor, Translational Health Science and Technology Institute and President, 
     Jawaharlal Institute of Post Graduate Medical Education and Research in India. He is a former Director General of the Indian Council of Medical Research.     
     <a href="http://www.who.int/neglected_diseases/ganguly/en/" target="_blank" class="btn btn-outline-secondary">See Profile</a>
     </li>
