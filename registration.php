@@ -93,8 +93,4 @@ if (isset($_POST['regis_user'])) {
  
 }
 
-
-
-
-
 ?>
