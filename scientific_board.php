@@ -27,18 +27,18 @@
 <!-- -------------------------------------------------->
 <div class="container-fluid">
 
-<ul class="faq">
-<div class="row">
-    <li class="q">
-        <img src="img/arrow.png"> 
-        Dr. Shubha Tole (TIFR)
-    </li>
-    <li class="a">Shubha Tole is an Indian neuroscientist, Professor and Principal Investigator at
-     the Tata Institute of Fundamental Research in Mumbai, India. Her research involves investigating
-      the development and evolution of the mammalian brain, and she has won many accolades for her work.
-      <a href="http://www.tifr.res.in/~dbs/faculty/S_Tole.html" target="_blank" class="btn btn-outline-secondary">See Profile</a>
-    </li>
-</div>
+    <ul class="faq">
+        <div class="row">
+             <li class="q">
+                  <img src="img/arrow.png"> 
+                     Dr. Shubha Tole (TIFR)
+            </li>
+            <li class="a">Shubha Tole is an Indian neuroscientist, Professor and Principal Investigator at
+                 the Tata Institute of Fundamental Research in Mumbai, India. Her research involves investigating
+             the development and evolution of the mammalian brain, and she has won many accolades for her work.
+             <a href="http://www.tifr.res.in/~dbs/faculty/S_Tole.html" target="_blank" class="btn btn-outline-secondary">See Profile</a>
+            </li>
+        </div>
 <!-- -------------End of Q1------------------------------ -->
 <div class="row">
     <li class="q">
@@ -68,14 +68,14 @@
 </div>
 <!-- -------------End of Q3------------------------------ -->
 <div class="row">
-<li class="q">
-        <img src="img/arrow.png"> 
-        Dr. Madhuri Hambarde (St. Xavier&apos;s College - Autonomous, Mumbai.)
-    </li>
-    <li class="a">Department of Zoology / Faculty 
-    <a href="http://xaviers.edu/main/index.php/zoology" target="_blank" class="btn btn-outline-secondary">Read More</a>
+        <li class="q">
+              <img src="img/arrow.png"> 
+                  Dr. Madhuri Hambarde (St. Xavier&apos;s College - Autonomous, Mumbai.)
+        </li>
+         <li class="a">Department of Zoology / Faculty 
+              <a href="http://xaviers.edu/main/index.php/zoology" target="_blank" class="btn btn-outline-secondary">Read More</a>
     
-    </li>
+         </li>
 </div>
 <!-- -------------End of Q4------------------------------ -->
 <div class="row">
