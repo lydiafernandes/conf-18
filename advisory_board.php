@@ -90,7 +90,7 @@
     </li>
     
     <li class="a">
-    <div class="col-sm-4">
+    <div class="col-sm-4" style="float:left;">
         <img src="img\board_pics\barma_new.png">
     </div>
     <div class="col-sm-8">
