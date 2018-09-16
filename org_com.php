@@ -139,8 +139,8 @@
 
 				<!-- row 7 begins -->
 		<div class="row">
-    		<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
-   		 	<div class="col-sm-8 pad_center" style="background-color:#506F82;">
+    		<div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
+   		 	<div class="col-sm-6 pad_center" style="background-color:#506F82;">
 				<span>
    		 		
 				
@@ -159,7 +159,7 @@
 
 					</span>
 			</div>
-   		 	<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
+   		 	<div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
 		</div> <!-- end of div row 7 -->
 
 		<!-- row 8 begins -->
