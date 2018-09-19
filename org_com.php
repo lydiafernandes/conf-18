@@ -115,7 +115,7 @@
             	<strong> <u><i>Chairperson</i></u> </strong> <br>
 				<big>Prof. (Dr.) Rajendra Shinde</big>
 				<br><a href="#">
-						<strong>St. Xavier&apos;s College-Autonomous / Principal </strong>
+						<strong>St. Xavier&apos;s  College  / Principal </strong>
 					</a>
             </span>
 			</div>	
@@ -143,19 +143,22 @@
    		 	<div class="col-sm-6 pad_center" style="background-color:#506F82;">
 				<span>
    		 		
-				
-   		 	<!--/div>
-   		 	<div class="col-sm-4 pad_center" style="background-color:#506F82;"-->
-   		 		<span class="sec_box" style="float:left;">
-                    <img src="img\org_com_img\roy_p1.png" class="img-thumbnail" alt="pic of Dr. (Fr.) Roy Pereira" width="100px" height="200px"><br>
-                    <a class="names" href="#"> Dr. (Fr.) Roy Pereira  <br><br><strong>St. Xavier&apos;s College- <br> Autonomous / Vice Principal </strong>  </a>
-   		 		</span>
-
-					<span <span class="sec_box" style="float:right;">
+				<span <span class="sec_box" style="float:right;">
                     <img src="img\org_com_img\org_dk_agarwal.png" class="img-thumbnail" alt="pic of Prof. (Dr.) D. K. Agarwal" width="100px" height="200px"><br> 
    		 			<a class="names" href="#">Prof. (Dr.) D. K. Agarwal <br><br> 
    		 				<strong>	Creighton University / <br> Professor, School <br>of Medicine </strong></a>
 				</span>
+				
+   		 	<!--/div>
+   		 	<div class="col-sm-4 pad_center" style="background-color:#506F82;"-->
+   		 		
+
+					
+
+				<span class="sec_box" style="float:left;">
+                    <img src="img\org_com_img\roy_p1.png" class="img-thumbnail" alt="pic of Dr. (Fr.) Roy Pereira" width="100px" height="200px"><br>
+                    <a class="names" href="#"> Dr. (Fr.) Roy Pereira  <br><br><strong>St. Xavier&apos;s  College <br>   / Vice Principal </strong>  </a>
+   		 		</span>
 
 					</span>
 			</div>
@@ -186,7 +189,7 @@
                              <br><br>Mr. Marzban Kotwal 
                         </span><br>
 						<p style="float:left; text-align:center;"><br>
-						<u><i>&nbsp;&nbsp;&nbsp;Organizing Secretaries:</i></u><br><strong>&nbsp;&nbsp;&nbsp;St. Xavier&apos;s College-Autonomous / Faculty</strong>
+						<u><i>&nbsp;&nbsp;&nbsp;Organizing Secretaries:</i></u><br><strong>&nbsp;&nbsp;&nbsp;St. Xavier&apos;s  College  / Faculty</strong>
                         </p>
                     </span>
    		 	</div>
