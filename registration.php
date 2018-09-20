@@ -43,18 +43,18 @@ if (isset($_POST['regis_user'])) {
 	$purpose = mysqli_real_escape_string($conn, $_POST['purpose']);
 	}
   echo $title;
-  echo $fname;
-  echo $lname;
-  echo $email;
-  echo $code;
-  echo $mobile;
-  echo $category;
-  echo $university;
-  echo $city;
-  echo $country;
-  echo $state;
-  echo $purpose;
-  echo "<br>";
+  echo $fname;  echo "<br>";
+  echo $lname;  echo "<br>";
+  echo $email;  echo "<br>";
+  echo $code;   echo "<br>";
+  echo $mobile; echo "<br>";
+  echo $category;   echo "<br>";
+  echo $university; echo "<br>";
+  echo $city;       echo "<br>";
+  echo $country;    echo "<br>";
+  echo $state;      echo "<br>";
+  echo $purpose;    echo "<br>";
+  echo "<br>"; 
 
   // form validation: ensure that the form is correctly filled ...
   // by adding (array_push()) corresponding error unto $errors array
