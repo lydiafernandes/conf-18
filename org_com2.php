@@ -143,7 +143,7 @@
    		 	<div class="col-sm-6 pad_center" style="background-color:#506F82;">
 				<span>
    		 		
-				<span <span class="sec_box" style="float:right;">
+				<span <span class="sec_box" style="float:left;">
                     <img src="img\org_com_img\org_dk_agarwal.png" class="img-thumbnail" alt="pic of Prof. (Dr.) D. K. Agarwal" width="100px" height="200px"><br> 
    		 			<a class="names" href="#">Prof. (Dr.) D. K. Agarwal <br><br> 
    		 				<strong>	Creighton University / <br> Professor, School <br>of Medicine </strong></a>
@@ -155,7 +155,7 @@
 
 					
 
-				<span class="sec_box" style="float:left;">
+				<span class="sec_box" style="float:right;">
                     <img src="img\org_com_img\roy_p1.png" class="img-thumbnail" alt="pic of Dr. (Fr.) Roy Pereira" width="100px" height="200px"><br>
                     <a class="names" href="#"> Dr. (Fr.) Roy Pereira  <br><br><strong>St. Xavier&apos;s  College <br>   / Vice Principal </strong>  </a>
    		 		</span>
@@ -197,7 +197,7 @@
                             <img src="img\org_com_img\m_k.jpg" class="img-thumbnail" alt="pic of Marzban Kotwal" width="100px" height="200px">
                              <br><br>Mr. Marzban Kotwal <br><u><i> Organising Secretary </i></u><br>St. Xavier&apos;s  College  / Faculty
                         </span>
-                        
+
 						<!--p style="float:left; text-align:center;"><br>
 						<u><i>&nbsp;&nbsp;&nbsp;Organizing Secretaries:</i></u><br><strong>&nbsp;&nbsp;&nbsp;St. Xavier&apos;s  College  / Faculty</strong>
                         </p -->
