@@ -176,7 +176,7 @@
    		 		        
                    
                         <img src="img\org_com_img\ash_agg.jpg" class="img-thumbnail" alt="pic of Dr. Ashma Aggarwal" width="100px" height="200px">
-                        <!-- Dr. Ashma Aggarwal <br><u><i>Organising Secretary</i><u><br> St. Xavier&apos;s  College  / Faculty -->
+                        <p> Dr. Ashma Aggarwal <br><u><i>Organising Secretary</i><u><br> St. Xavier&apos;s  College  / Faculty </p>
                   
 
             </div>
