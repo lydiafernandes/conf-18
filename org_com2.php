@@ -176,7 +176,7 @@
    		 		        
                    
                         <img src="img\org_com_img\ash_agg.jpg"  alt="pic of Dr. Ashma Aggarwal" width="100px" height="200px">
-                        <Dr. Ashma Aggarwal <br><u><i>Organising Secretary</i><u><br> St. Xavier&apos;s  College  / Faculty
+                        <!-- Dr. Ashma Aggarwal <br><u><i>Organising Secretary</i><u><br> St. Xavier&apos;s  College  / Faculty -->
                   
 
             </div>
@@ -184,14 +184,14 @@
             <div class="col-sm-4">
                     
                       <img src="img\org_com_img\finosh_t.jpg" style=""  alt="pic of Dr. Finosh Thankam" width="100px" height="200px"><br>
-                        <br> Dr. Finosh Thankam <br> <u><i>International Co-ordinator:</i></u><br> <strong>Creighton University</strong>
+                        <!-- br> Dr. Finosh Thankam <br> <u><i>International Co-ordinator:</i></u><br> <strong>Creighton University</strong -->
 					
             </div>
 
              <div class="col-sm-4">
             
                         <img src="img\org_com_img\m_k.jpg" class="" alt="pic of Marzban Kotwal" width="100px" height="200px">
-                        <br><br>Mr. Marzban Kotwal <br><u><i> Organising Secretary </i></u><br>St. Xavier&apos;s  College  / Faculty
+                        <!-- br><br>Mr. Marzban Kotwal <br><u><i> Organising Secretary </i></u><br>St. Xavier&apos;s  College  / Faculty -->
         	</div>
 
            
