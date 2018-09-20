@@ -15,6 +15,7 @@
         purpose VARCHAR(255) NOT NULL,
     );';
     echo $conn->query($query);
+    echo "Table created";
     /*
     INSERT INTO registration (title, fname, lname, email,
      c_code, number, category, university, city, state, country, purpose) 
