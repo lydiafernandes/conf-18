@@ -143,7 +143,7 @@
    		 	<div class="col-sm-6 pad_center" style="background-color:#506F82;">
 				<span>
    		 		
-				<span <span class="sec_box" style="float:right;">
+				<span <span class="sec_box" style="float:left;">
                     <img src="img\org_com_img\org_dk_agarwal.png" class="img-thumbnail" alt="pic of Prof. (Dr.) D. K. Agarwal" width="100px" height="200px"><br> 
    		 			<a class="names" href="#">Prof. (Dr.) D. K. Agarwal <br><br> 
    		 				<strong>	Creighton University / <br> Professor, School <br>of Medicine </strong></a>
@@ -151,11 +151,8 @@
 				
    		 	<!--/div>
    		 	<div class="col-sm-4 pad_center" style="background-color:#506F82;"-->
-   		 		
 
-					
-
-				<span class="sec_box" style="float:left;">
+				<span class="sec_box" style="float:right;">
                     <img src="img\org_com_img\roy_p1.png" class="img-thumbnail" alt="pic of Dr. (Fr.) Roy Pereira" width="100px" height="200px"><br>
                     <a class="names" href="#"> Dr. (Fr.) Roy Pereira  <br><br><strong>St. Xavier&apos;s  College <br>   / Vice Principal </strong>  </a>
    		 		</span>
@@ -169,53 +166,52 @@
 		<div class="row">
 			<div class="col-sm-12" style="background-color:#cbcdd9; padding:5px;"> &nbsp; </div>	
 		</div><!-- end of div row 8 -->
-       
-
-        <!-- row 9 begins -->
+       <!-- ---------------------------row 9.0 --------------------------- -->
+       <!-- row 9 begins -->
 		<div class="row">
-    		<div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div>
+    		<div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
     		
-   		 	<div class="col-sm-4 pad_center" style="background-color:#230A52;">
-   		 		
-   		 		
-                    <span>
-                   
+   		 	<div class="col-sm-2 pad_center" style="background-color:#230A52;">
+   		 		  		 		
                         <span class="sec_box" style="float:left;">
                              <img src="img\org_com_img\ash_agg.jpg" class="img-thumbnail" alt="pic of Dr. Ashma Aggarwal" width="100px" height="200px">
-                            <br><br> Dr. Ashma Aggarwal 
+                            <br><br> Dr. Ashma Aggarwal <br>
+				             <br> <u><i>Organising Secretary:</i></u><br> <strong>St. Xavier&apos;s  College / Faculty</strong>
+					
                          </span> 
-                        <span class="sec_box" style="float:right;">
-                            <img src="img\org_com_img\m_k.jpg" class="img-thumbnail" alt="pic of Marzban Kotwal" width="100px" height="200px">
-                             <br><br>Mr. Marzban Kotwal 
-                        </span><br>
-						<p style="float:left; text-align:center;"><br>
-						<u><i>&nbsp;&nbsp;&nbsp;Organizing Secretaries:</i></u><br><strong>&nbsp;&nbsp;&nbsp;St. Xavier&apos;s  College  / Faculty</strong>
-                        </p>
-                    </span>
+                        
    		 	</div>
 
-				<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
- 
+	
    		 	
-				<div class="col-sm-4 pad_center" style="background-color:#9d4672;">
+				<div class="col-sm-2 pad_center" style="background-color:#9d4672;">
 
-    			 <h6>
                  <span>
                  <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" width="100px" height="200px"><br>
-                 <br> Dr. Finosh Thankam <br><br>
+                 <br><br> Dr. Finosh Thankam <br>
 				 <br> <u><i>International Co-ordinator:</i></u><br> <strong>Creighton University</strong>
-					
                 </span>
-                </h6>
     		</div>
 
-			<div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div>
-   		 	<!--div class="col-sm-2 pad_center" style="background-color:#0181c7;">
+			
 
-   		 		<h6><span><u><i>Technical Committee</i></u></span></h6>
-   		 	</div-->
-   		 	<!-- div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div-->
+            <div class="col-sm-2 pad_center" style="background-color:#230A52;">
+   		 		        
+                        <span class="sec_box" style="float:left;">
+                            <img src="img\org_com_img\m_k.jpg" class="img-thumbnail"
+                             alt="pic of Marzban Kotwal" width="100px" height="200px">
+                             <br><br>Mr. Marzban Kotwal <br>
+				             <br> <u><i>Organising Secretary:</i></u><br> <strong>St. Xavier&apos;s  College / Faculty</strong>
+					
+                        </span>						
+                
+   		 	</div>
+
+   		 	<div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
 		</div> <!-- end of div row 9 -->
+
+            <!-- ---------------------- row 9.0 ends ------------------------------ -->
+       
 	</div>
 
 
