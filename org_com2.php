@@ -247,7 +247,7 @@
                 <div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
                 
                 <div class="column1 col-sm-2">
-                <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" style="width:100%">
+                <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" style="width:100px; height:200px;">
                     <span> Dr. Ashma Aggarwal <br> <u><i>Organising Secretary</i><u><br> St. Xavier&apos;s  College  / Faculty</span>
                  </div>
                 
