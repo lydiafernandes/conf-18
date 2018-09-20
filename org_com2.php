@@ -22,7 +22,7 @@
         box-sizing: border-box;
     }
 
-    .column1 {
+    .column {
                   float: left;
                   width: 33.33%;
                  padding: 5px;
@@ -188,9 +188,9 @@
 
         <!-- row 9 begins -->
 		<div class="row">
-    		<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
+    		<div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
     		
-   		 	<div class="col-sm-8 pad_center" style="background-color:#230A52;">
+   		 	<div class="col-sm-2 pad_center" style="background-color:#230A52;">
    		 		
    		 		
                     <span>
@@ -246,22 +246,22 @@
         <div class="row row1">
                 <div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
                 
-                <div class="column1 col-sm-2">
+                <div class="column">
                 <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" style="width:100px; height:200px;">
                     <span> Dr. Ashma Aggarwal <br> <u><i>Organising Secretary</i><u><br> St. Xavier&apos;s  College  / Faculty</span>
                  </div>
                 
-                <div class="column1 col-sm-2">
+                <div class="column">
                 <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" style="width:100%"> 
                     <span>Dr. Finosh Thankam <br> <u><i>International Co-ordinator:</i></u><br> <strong>Creighton University</strong></span>
                 </div>
 
-                <div class="column1 col-sm-2">
+                <div class="column">
                 <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" style="width:100%">
                     <span>Mr. Marzban Kotwal <br><u><i> Organising Secretary </i></u><br>St. Xavier&apos;s  College  / Faculty</span>
                 </div>
 
-                <div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
+                <div class="col-sm-3" style="background-color:#cbcdd9; float:right;">&nbsp;</div>
         </div>
         <!---------------------------- div row 9 ends------------------ -->
 	</div>
