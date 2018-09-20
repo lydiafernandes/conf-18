@@ -187,7 +187,7 @@
     			 <h6>
                  <span>
                  <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" width="100px" height="200px"><br>
-                 <br> Dr. Finosh Thankam <br><br>
+                 <br> Dr. Finosh Thankam <br>
 				 <br> <u><i>International Co-ordinator:</i></u><br> <strong>Creighton University</strong>
 					
                 </span>
@@ -201,8 +201,8 @@
                         <span class="sec_box" style="float:left;">
                             <img src="img\org_com_img\m_k.jpg" class="img-thumbnail"
                              alt="pic of Marzban Kotwal" width="100px" height="200px">
-                             <br>Mr. Marzban Kotwal <br><br>
-				 <br> <u><i>Organising Secretary:</i></u><br> <strong>St. Xavier&apos;s  College / Faculty</strong>
+                             <br>Mr. Marzban Kotwal <br>
+				             <br> <u><i>Organising Secretary:</i></u><br> <strong>St. Xavier&apos;s  College / Faculty</strong>
 					
                         </span>						
                 
