@@ -199,7 +199,8 @@
             <div class="col-sm-2 pad_center" style="background-color:#230A52;">
    		 		        
                         <span class="sec_box" style="float:left;">
-                            <img src="img\org_com_img\m_k.jpg" class="img-thumbnail" alt="pic of Marzban Kotwal" width="100px" height="200px">
+                            <img src="img\org_com_img\m_k.jpg" class="img-thumbnail"
+                             alt="pic of Marzban Kotwal" width="100px" height="200px">
                              <br><br>Mr. Marzban Kotwal 
                         </span>						
                 
