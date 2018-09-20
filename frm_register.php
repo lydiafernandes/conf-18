@@ -36,7 +36,7 @@
 					<img src="img/logo_college197x197.png">
 				</div>
 				
-				<form class="col-12" method="post" action="registeration.php">
+				<form class="col-12" method="post" action="registration.php">
 				
 				<legend>
 					<p> <font color="white"><h4>Personal Details</h4></p>
