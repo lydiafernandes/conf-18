@@ -236,7 +236,7 @@
 
         <!--- div row 9 -->
         <div class="row">
-                <div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
+                <!-- div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div -->
                 
                 <div class="column">
                 <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" style="width:100%">
@@ -253,7 +253,7 @@
                     <span>test</span>
                 </div>
 
-                <div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
+                <!-- div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div -->
         </div>
         <!---------------------------- div row 9 ends------------------ -->
 	</div>
