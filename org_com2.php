@@ -248,17 +248,17 @@
                 
                 <div class="column1 col-sm-2">
                 <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" style="width:100%">
-                    <span>test</span>
+                    <span> Dr. Ashma Aggarwal <br> <u><i>Organising Secretary</i><u><br> St. Xavier&apos;s  College  / Faculty</span>
                  </div>
                 
                 <div class="column1 col-sm-2">
                 <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" style="width:100%"> 
-                    <span>test</span>
+                    <span>Dr. Finosh Thankam <br> <u><i>International Co-ordinator:</i></u><br> <strong>Creighton University</strong></span>
                 </div>
 
                 <div class="column1 col-sm-2">
                 <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" style="width:100%">
-                    <span>test</span>
+                    <span>Mr. Marzban Kotwal <br><u><i> Organising Secretary </i></u><br>St. Xavier&apos;s  College  / Faculty</span>
                 </div>
 
                 <div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
