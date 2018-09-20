@@ -166,14 +166,14 @@
 		<div class="row">
 			<div class="col-sm-12" style="background-color:#cbcdd9; padding:5px;"> &nbsp; </div>	
 		</div><!-- end of div row 8 -->
-       
+       <!-- ---------------------------row 9.0 --------------------------- -->
         <div class="row">
             <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
             <div class="col-sm-4" style="background-color:lavenderblush;">.col-sm-4</div>
             <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
         </div>
 
-
+            <!-- ---------------------- row 9.0 ends ------------------------------ -->
         <!-- row 9 begins -->
 		<div class="row">
     		<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
