@@ -201,8 +201,7 @@
                         <span class="sec_box" style="float:left;">
                             <img src="img\org_com_img\m_k.jpg" class="img-thumbnail" alt="pic of Marzban Kotwal" width="100px" height="200px">
                              <br><br>Mr. Marzban Kotwal 
-                        </span><
-						
+                        </span>						
                 
    		 	</div>
 
