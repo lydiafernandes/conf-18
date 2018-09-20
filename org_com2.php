@@ -169,31 +169,20 @@
        <!-- ---------------------------row 9.0 --------------------------- -->
        <!-- row 9 begins -->
 		<div class="row">
-    		<div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div>
+    		<div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
     		
-   		 	<div class="col-sm-4 pad_center" style="background-color:#230A52;">
-   		 		
-   		 		
-                    <span>
-                   
+   		 	<div class="col-sm-2 pad_center" style="background-color:#230A52;">
+   		 		  		 		
                         <span class="sec_box" style="float:left;">
                              <img src="img\org_com_img\ash_agg.jpg" class="img-thumbnail" alt="pic of Dr. Ashma Aggarwal" width="100px" height="200px">
                             <br><br> Dr. Ashma Aggarwal 
                          </span> 
-                        <span class="sec_box" style="float:right;">
-                            <img src="img\org_com_img\m_k.jpg" class="img-thumbnail" alt="pic of Marzban Kotwal" width="100px" height="200px">
-                             <br><br>Mr. Marzban Kotwal 
-                        </span><br>
-						<p style="float:left; text-align:center;"><br>
-						<u><i>&nbsp;&nbsp;&nbsp;Organizing Secretaries:</i></u><br><strong>&nbsp;&nbsp;&nbsp;St. Xavier&apos;s  College  / Faculty</strong>
-                        </p>
-                    </span>
+                        
    		 	</div>
 
-				<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
- 
+	
    		 	
-				<div class="col-sm-4 pad_center" style="background-color:#9d4672;">
+				<div class="col-sm-2 pad_center" style="background-color:#9d4672;">
 
     			 <h6>
                  <span>
@@ -205,8 +194,19 @@
                 </h6>
     		</div>
 
-			<div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div>
-   		 	
+			
+
+            <div class="col-sm-2 pad_center" style="background-color:#230A52;">
+   		 		        
+                        <span class="sec_box" style="float:left;">
+                            <img src="img\org_com_img\m_k.jpg" class="img-thumbnail" alt="pic of Marzban Kotwal" width="100px" height="200px">
+                             <br><br>Mr. Marzban Kotwal 
+                        </span><
+						
+                
+   		 	</div>
+
+   		 	<div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
 		</div> <!-- end of div row 9 -->
 
             <!-- ---------------------- row 9.0 ends ------------------------------ -->
