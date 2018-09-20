@@ -11,8 +11,12 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-        <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
-        
+
+	<!-- fontawesome will allow us to create icons in the input sections -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/solid.css">
+
+<!-- downlading a font awesome for creating an icon in the login-->
+<script src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
 
 
         <!-- this file is included in the externa file -->
