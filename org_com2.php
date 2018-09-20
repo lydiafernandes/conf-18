@@ -186,14 +186,11 @@
    		 	
 				<div class="col-sm-2 pad_center" style="background-color:#9d4672;">
 
-    			 <h6>
                  <span>
                  <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" width="100px" height="200px"><br>
                  <br><br> Dr. Finosh Thankam <br>
 				 <br> <u><i>International Co-ordinator:</i></u><br> <strong>Creighton University</strong>
-					
                 </span>
-                </h6>
     		</div>
 
 			
