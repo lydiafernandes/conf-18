@@ -22,11 +22,19 @@
         box-sizing: border-box;
     }
 
-    .column {
+    .column1 {
                   float: left;
                   width: 33.33%;
                  padding: 5px;
             }
+
+            /* Clearfix (clear floats) */
+        .row1::after {
+           content: "";
+           clear: both;
+            display: table;
+        }
+
         	.pad_center{
         		text-align: center;
         	    padding:10px;
@@ -235,20 +243,20 @@
 
 
         <!--- div row 9 -->
-        <div class="row">
+        <div class="row row1">
                 <div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
                 
-                <div class="column col-sm-2">
+                <div class="column1 col-sm-2">
                 <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" style="width:100%">
                     <span>test</span>
                  </div>
                 
-                <div class="column col-sm-2">
+                <div class="column1 col-sm-2">
                 <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" style="width:100%"> 
                     <span>test</span>
                 </div>
 
-                <div class="column col-sm-2">
+                <div class="column1 col-sm-2">
                 <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" style="width:100%">
                     <span>test</span>
                 </div>
