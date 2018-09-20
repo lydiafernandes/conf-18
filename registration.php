@@ -23,7 +23,7 @@ $errors = array();
 
 // connect to the database
 //$conn = mysqli_connect('localhost', 'root', '', 'sci_fi_db');
-$conn= mysqli_connect('localhost', 'root', '', 'sci_fi_db') or die("Error connecting to database: ".mysql_error());
+//$conn= mysqli_connect('localhost', 'root', '', 'sci_fi_db') or die("Error connecting to database: ".mysql_error());
 
 // REGISTER USER
 if (isset($_POST['regis_user'])) {
