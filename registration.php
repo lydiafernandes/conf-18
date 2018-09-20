@@ -54,7 +54,7 @@ if (isset($_POST['regis_user'])) {
   echo $country;
   echo $state;
   echo $purpose;
-
+  echo "<br>"
 
   // form validation: ensure that the form is correctly filled ...
   // by adding (array_push()) corresponding error unto $errors array
@@ -74,7 +74,9 @@ if (isset($_POST['regis_user'])) {
   
   // first check the database to make sure 
   // a user does not already exist with the same username and/or email
-  $user_check_query = "SELECT * FROM registration WHERE email='$email'";
+  $user_check_query = "SELECT * FROM registration WHERE email='". mysqli_escape_string($conn,$email) ."';";
+
+  //" ... WHERE PartNumber = '" . mysqli_escape_string($conn,$partid) . "';"
   $result = mysqli_query($conn, $user_check_query);
   $user = mysqli_fetch_assoc($result);
   
