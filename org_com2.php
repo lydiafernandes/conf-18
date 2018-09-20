@@ -172,7 +172,7 @@
 		<div class="row">
     		<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
     		
-   		 	<div class="col-sm-2 pad_center">
+   		 	<div class="col-sm-2 pad_center" style="background-color:#230A52;">
    		 		        
                    
                         <img src="img\org_com_img\ash_agg.jpg" class="img-thumbnail" alt="pic of Dr. Ashma Aggarwal" width="100px" height="200px">
