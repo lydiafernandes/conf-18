@@ -83,7 +83,8 @@ if (isset($_POST['regis_user'])) {
 	
   // Finally, register user if there are no errors in the form
   if (count($errors) == 0) {
-  	$query = "INSERT INTO registration (title, fname, lname, email, c_code, number, category, university, city, state, country, purpose) 
+    
+  	$query = "INSERT INTO tbl_registrations (title, fname, lname, email, c_code, number, category, university, city, state, country, purpose) 
   			 VALUES('$title', '$fname', '$lname', '$email', '$code', '$mobile', '$category', '$university', '$city', '$state', '$country', '$purpose')";
 			  //$query = "INSERT INTO trial (fname, lname, email) 
   			  //VALUES('$fname', '$lname', '$email', '$code', '$mobile', '$category', '$university', '$city', '$state', '$country', '$purpose',)";
