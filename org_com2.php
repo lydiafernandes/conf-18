@@ -151,9 +151,6 @@
 				
    		 	<!--/div>
    		 	<div class="col-sm-4 pad_center" style="background-color:#506F82;"-->
-   		 		
-
-					
 
 				<span class="sec_box" style="float:right;">
                     <img src="img\org_com_img\roy_p1.png" class="img-thumbnail" alt="pic of Dr. (Fr.) Roy Pereira" width="100px" height="200px"><br>
@@ -173,9 +170,9 @@
 
         <!-- row 9 begins -->
 		<div class="row">
-    		<div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
+    		<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
     		
-   		 	<div class="col-sm-6 pad_center" style="background-color:#230A52;">
+   		 	<div class="col-sm-8 pad_center" style="background-color:#230A52;">
    		 		
    		 		
                     <span>
@@ -187,8 +184,7 @@
 
                         <span>
                  <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" width="100px" height="200px"><br>
-                 <br> Dr. Finosh Thankam <br><br>
-				 <br> <u><i>International Co-ordinator:</i></u><br> <strong>Creighton University</strong>
+                 <br> Dr. Finosh Thankam <br> <u><i>International Co-ordinator:</i></u><br> <strong>Creighton University</strong>
 					
                 </span>
 
@@ -204,7 +200,7 @@
                     </span>
    		 	</div>
 
-				<div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
+				<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
  
    		 	
 				<!--div class="col-sm-4 pad_center" style="background-color:#9d4672;">
