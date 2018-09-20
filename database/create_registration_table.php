@@ -14,7 +14,11 @@
         country VARCHAR(255) NOT NULL,
         purpose VARCHAR(255) NOT NULL,
     );';
+
+    echo "Table getting created";
+
     echo $conn->query($query);
+
     echo "Table created";
     /*
     INSERT INTO registration (title, fname, lname, email,
