@@ -172,7 +172,7 @@
 		<div class="row">
     		<div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
     		
-   		 	<div class="col-sm-2">
+   		 	<div class="col-sm-2 pad_center">
    		 		        
                    
                         <img src="img\org_com_img\ash_agg.jpg" class="img-thumbnail" alt="pic of Dr. Ashma Aggarwal" width="100px" height="200px">
@@ -185,16 +185,18 @@
 
             <div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
 
-            <div class="col-sm-2">
+            <div class="col-sm-2 pad_center">
                     
                       <img src="img\org_com_img\finosh_t.jpg"  class="img-thumbnail"  alt="pic of Dr. Finosh Thankam" width="100px" height="200px"><br>
-                        <!-- br> Dr. Finosh Thankam <br> <u><i>International Co-ordinator:</i></u><br> <strong>Creighton University</strong -->
+                      <span>
+                       Dr. Finosh Thankam <br> <u><i>International Co-ordinator:</i></u><br> <strong>Creighton University</strong 
+                       </span>
 					
             </div>
 
             <div class="col-sm-2" style="background-color:#cbcdd9;">&nbsp;</div>
 
-             <div class="col-sm-2">
+             <div class="col-sm-2 pad_center">
             
                         <img src="img\org_com_img\m_k.jpg" class="img-thumbnail" alt="pic of Marzban Kotwal" width="100px" height="200px">
                         <!-- br><br>Mr. Marzban Kotwal <br><u><i> Organising Secretary </i></u><br>St. Xavier&apos;s  College  / Faculty -->
