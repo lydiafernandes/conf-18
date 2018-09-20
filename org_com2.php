@@ -168,7 +168,12 @@
 		</div><!-- end of div row 8 -->
        <!-- ---------------------------row 9.0 --------------------------- -->
         <div class="row">
-            <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
+            <div class="col-sm-4" style="background-color:lavender;">
+            <img src="img\org_com_img\ash_agg.jpg" class="img-thumbnail" alt="pic of Dr. Ashma Aggarwal" width="100px" height="200px">
+             <p> 
+                        Dr. Ashma Aggarwal <br><u><i>Organising Secretary</i><u><br> St. Xavier&apos;s  College  / Faculty 
+            </p>
+            </div>
             <div class="col-sm-4" style="background-color:lavenderblush;">.col-sm-4</div>
             <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
         </div>
