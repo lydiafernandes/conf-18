@@ -17,24 +17,6 @@
         <!-- this file is included in the externa file -->
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
 <style>
-
-    *{
-        box-sizing: border-box;
-    }
-
-    .column {
-                  float: left;
-                  width: 33.33%;
-                 padding: 5px;
-            }
-
-            /* Clearfix (clear floats) */
-        .row1::after {
-           content: "";
-           clear: both;
-            display: table;
-        }
-
         	.pad_center{
         		text-align: center;
         	    padding:10px;
@@ -241,29 +223,6 @@
    		 	<!-- div class="col-sm-1" style="background-color:#cbcdd9;">&nbsp;</div-->
 		</div> <!-- end of div row 9 -->
 
-
-        <!--- div row 9 -->
-        <div class="row row1">
-                <div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
-                
-                <div class="column">
-                <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" style="width:100px; height:200px;">
-                    <span> Dr. Ashma Aggarwal <br> <u><i>Organising Secretary</i><u><br> St. Xavier&apos;s  College  / Faculty</span>
-                 </div>
-                
-                <div class="column">
-                <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" style="width:100%"> 
-                    <span>Dr. Finosh Thankam <br> <u><i>International Co-ordinator:</i></u><br> <strong>Creighton University</strong></span>
-                </div>
-
-                <div class="column">
-                <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" style="width:100%">
-                    <span>Mr. Marzban Kotwal <br><u><i> Organising Secretary </i></u><br>St. Xavier&apos;s  College  / Faculty</span>
-                </div>
-
-                <div class="col-sm-3" style="background-color:#cbcdd9; float:right;">&nbsp;</div>
-        </div>
-        <!---------------------------- div row 9 ends------------------ -->
 	</div>
 
 
