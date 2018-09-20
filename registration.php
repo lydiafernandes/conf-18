@@ -74,7 +74,7 @@ if (isset($_POST['regis_user'])) {
   
   // first check the database to make sure 
   // a user does not already exist with the same username and/or email
-  $user_check_query = "SELECT * FROM registration WHERE email='$email'";
+  $user_check_query = "SELECT * FROM tbl_registrations WHERE email='$email'";
 
   //" ... WHERE PartNumber = '" . mysqli_escape_string($conn,$partid) . "';"
   $result = mysqli_query($conn, $user_check_query);
