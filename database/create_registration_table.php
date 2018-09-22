@@ -1,6 +1,6 @@
 <?php
 
-    require 'dbh.php';
+    require '../dbh.php';
 
     echo "Table getting created";
 
