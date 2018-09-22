@@ -95,7 +95,9 @@ if (isset($_POST['regis_user'])) {
   			 VALUES('$title', '$fname', '$lname', '$email', '$code', '$mobile', '$category', '$university', '$city', '$state', '$country', '$purpose')";
 			  //$query = "INSERT INTO trial (fname, lname, email) 
   			  //VALUES('$fname', '$lname', '$email', '$code', '$mobile', '$category', '$university', '$city', '$state', '$country', '$purpose',)";
-  	mysqli_query($conn, $query) or die ("wrong query");
+  //	mysqli_query($conn, $query) or die ("wrong query");
+
+    echo $conn->query($query);
   	header('location:success.php');
   }
  
