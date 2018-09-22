@@ -79,7 +79,7 @@ if (isset($_POST['regis_user'])) {
   //" ... WHERE PartNumber = '" . mysqli_escape_string($conn,$partid) . "';"
 
   //$result = mysqli_query($conn, $user_check_query);
-  $result = $conn->query($query);
+  $result = $conn->query($user_check_query);
   $user = mysqli_fetch_assoc($result);
   
  
