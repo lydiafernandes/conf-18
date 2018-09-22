@@ -85,7 +85,7 @@ if (isset($_POST['regis_user'])) {
     if ($user['email'] === $email) {
       array_push($errors, "email already exists");
     }
-    else echo "error occurred";
+    else echo "fresh email";
   
 	
   // Finally, register user if there are no errors in the form

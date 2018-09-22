@@ -1,6 +1,8 @@
 <?php
 
     require 'dbh.php';
+
+    echo "Table getting created";
     $query = 'CREATE TABLE IF NOT EXISTS tbl_registrations(
         id INT PRIMARY KEY AUTO_INCREMENT,
         title VARCHAR(255) NOT NULL,
@@ -15,7 +17,7 @@
         purpose VARCHAR(255) NOT NULL,
     );';
 
-    echo "Table getting created";
+  
 
     echo $conn->query($query);
 
