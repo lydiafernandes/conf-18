@@ -98,7 +98,7 @@ if (isset($_POST['regis_user'])) {
   //	mysqli_query($conn, $query) or die ("wrong query");
 
     echo $conn->query($query);
-  	header('location:success.php');
+  //	header('location:success.php');
   }
  
 }
