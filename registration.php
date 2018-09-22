@@ -77,7 +77,9 @@ if (isset($_POST['regis_user'])) {
   $user_check_query = "SELECT * FROM tbl_registrations WHERE email='$email'";
 
   //" ... WHERE PartNumber = '" . mysqli_escape_string($conn,$partid) . "';"
-  $result = mysqli_query($conn, $user_check_query);
+
+  //$result = mysqli_query($conn, $user_check_query);
+  $result = $conn->query($query);
   $user = mysqli_fetch_assoc($result);
   
  
