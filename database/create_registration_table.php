@@ -3,7 +3,10 @@
     require 'dbh.php';
 
     echo "Table getting created";
-    $query = 'CREATE TABLE IF NOT EXISTS tbl_registrations(
+
+    $query = 'DROP TABLE tbl_registrations';
+
+   /* $query = 'CREATE TABLE IF NOT EXISTS tbl_registrations(
         id INT PRIMARY KEY AUTO_INCREMENT,
         title VARCHAR(255) NOT NULL,
         fname VARCHAR(255) NOT NULL,
@@ -15,13 +18,13 @@
         state VARCHAR(255) NOT NULL,
         country VARCHAR(255) NOT NULL,
         purpose VARCHAR(255) NOT NULL,
-    );';
+    );'; */ 
 
   
 
     echo $conn->query($query);
 
-    echo "Table created";
+    echo "Table dropped";
     /*
     INSERT INTO registration (title, fname, lname, email,
      c_code, number, category, university, city, state, country, purpose) 
