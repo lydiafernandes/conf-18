@@ -21,7 +21,7 @@
 
         <!-- this file is included in the externa file -->
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
-        <link rel="stylesheet" type="text/css" href="css/style_index.css"> 
+        <link rel="stylesheet" type="text/css" href="css/style_regis.css"> 
 
 
 </head>
