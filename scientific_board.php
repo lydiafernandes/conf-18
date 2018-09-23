@@ -50,9 +50,7 @@ Award in 2010; the Research Award for Innovation in Neurosciences (RAIN) by the 
 Neuroscience in 2008, which is given for innovative work regardless of age or nationality.  She
 received the National Woman Bioscientist award by the Department of Biotechnology, Govt. of
 India (2008), the Swarnajayanti Fellowship (a prestigious young scientist award) by the
-Department of Science in Technology, Govt. of India (2005), and a Wellcome Trust Senior
-International Fellowship (1999), when she started her laboratory in Mumbai.  She is a fellow of
-the INSA, the IAS, and the NAS.
+Department of Science in Technology, Govt. of India (2005).
 
              <a href="http://www.tifr.res.in/~dbs/faculty/S_Tole.html" target="_blank" class="btn btn-outline-secondary">See Profile</a>
             </li>
