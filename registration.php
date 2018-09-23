@@ -82,6 +82,11 @@ if (isset($_POST['regis_user'])) {
   $result = $conn->query($user_check_query);
   $user = mysqli_fetch_assoc($result);
   
+  if ($user['email'] == $email) {
+    array_push($errors, "email already exists");
+  }
+  else echo "not the same email";
+
  
 
     if ($user['email'] === $email) {
