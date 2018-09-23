@@ -6,7 +6,7 @@
 
    // $query = 'DROP TABLE tbl_registrations';
 
-   $query = 'DELETE FROM tbl_registrations where id=5';
+   $query = 'DELETE FROM tbl_registrations where id=6';
 
     if($conn->query($query)){
         echo "record deleted";
