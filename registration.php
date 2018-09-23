@@ -80,7 +80,9 @@ if (isset($_POST['regis_user'])) {
 
   //$result = mysqli_query($conn, $user_check_query);
   $result = $conn->query($user_check_query);
+  /*
   $user = mysqli_fetch_assoc($result);
+<<<<<<< HEAD
   
   if ($user['email'] == $email) {
     array_push($errors, "email already exists");
@@ -89,12 +91,13 @@ if (isset($_POST['regis_user'])) {
 
  
 
+=======
+>>>>>>> 73707b4b06a1a9c0061e9c1785cd9892ca0f545e
     if ($user['email'] === $email) {
       array_push($errors, "email already exists");
     }
     else echo "fresh email";
-  
-	
+   
   // Finally, register user if there are no errors in the form
   if (count($errors) == 0) {
 
@@ -107,6 +110,18 @@ if (isset($_POST['regis_user'])) {
     echo $conn->query($query);
   //	header('location:success.php');
   }
+  */
+
+  if($result->num_rows == 0){
+    $query = "INSERT INTO tbl_registrations (title, fname, lname, email, c_code, mobile, category, university, city, state, country, purpose) 
+         VALUES('$title', '$fname', '$lname', '$email', '$code', '$mobile', '$category', '$university', '$city', '$state', '$country', '$purpose')";
+    echo $query;
+    if($conn->query($query)){
+      echo "created";
+    }
+  }
+
+  header('location: success.php');
  
 }
 
