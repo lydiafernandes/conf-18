@@ -40,6 +40,20 @@
             Shubha Tole is an Indian neuroscientist, Professor and Principal Investigator at
                  the Tata Institute of Fundamental Research in Mumbai, India. Her research involves investigating
              the development and evolution of the mammalian brain, and she has won many accolades for her work.
+
+            <br> Prof. Shubha Tole obtained her BSc in Life Sciences and Biochemistry from St. Xavier&#39;s
+College, Mumbai  (1987).  Her MSc and PhD are from Caltech, USA.  She worked at the
+University of Chicago as a post-doctoral fellow, and then joined the Tata Institute in Mumbai,
+India as a faculty member in 1999.  
+<br> Tole has been awarded the Infosys prize for Life Sciences (2014), the Shanti Swarup Bhatnagar
+Award in 2010; the Research Award for Innovation in Neurosciences (RAIN) by the Society for
+Neuroscience in 2008, which is given for innovative work regardless of age or nationality.  She
+received the National Woman Bioscientist award by the Department of Biotechnology, Govt. of
+India (2008), the Swarnajayanti Fellowship (a prestigious young scientist award) by the
+Department of Science in Technology, Govt. of India (2005), and a Wellcome Trust Senior
+International Fellowship (1999), when she started her laboratory in Mumbai.  She is a fellow of
+the INSA, the IAS, and the NAS.
+
              <a href="http://www.tifr.res.in/~dbs/faculty/S_Tole.html" target="_blank" class="btn btn-outline-secondary">See Profile</a>
             </li>
         </div>
