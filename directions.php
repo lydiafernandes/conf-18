@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <HTML>
     <head>
-        <title> How to reacch?</title>
+        <title> How to reach?</title>
         <meta charset="utf-8">
     	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -43,6 +43,13 @@
          <p>
          The venue may be reached from CST station, or (in the opposite direction) by crossing the busy traffic junction at Dhobi Talao,and either proceeding to Mahapalika Road (Xavier’s College),
 
+         </p>
+
+         <p>
+         If you are traveling by train on the Western Railway (WR), alight at Marine Lines station, walk
+         down Princess St (now Shamaldas Gandhi Rd), turn right at the first traffic signal, and walk on to Dhobi
+         Talao. You may either cross the busy junction at Dhobi Talao, or use the pedestrian subway (exit 6) in the
+         direction of CST station/Mahapalika Road. The journey takes about ten minutes.
          </p>
           
         </div>
