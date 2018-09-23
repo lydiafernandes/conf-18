@@ -13,17 +13,19 @@
         lname VARCHAR(255) NOT NULL,
         email VARCHAR(255) NOT NULL UNIQUE KEY,
         c_code VARCHAR(255) NOT NULL,
+        mobile VARCHAR(10) NOT NULL,
+        category VARCHAR(255) NOT NULL,
         university VARCHAR(255) NOT NULL,
         city VARCHAR(255) NOT NULL,
         state VARCHAR(255) NOT NULL,
         country VARCHAR(255) NOT NULL,
-        purpose VARCHAR(255) NOT NULL,
+        purpose VARCHAR(255) NOT NULL
     );'; 
 
 
-    echo $conn->query($query);
-
-    echo "Table created";
+    if($conn->query($query)){
+        echo "table created";
+    }
     /*
     INSERT INTO registration (title, fname, lname, email,
      c_code, number, category, university, city, state, country, purpose) 
