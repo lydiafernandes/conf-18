@@ -163,7 +163,7 @@
 				<table>
 							
 						<button type="submit" class="btn" name="regis_user">
-  						<i class="fas fa-sign-in-alt"> </i> Proceed to Pay 
+  						<i class="fas fa-sign-in-alt"> </i> Submit 
   				</button>
 					
 				</table>				
