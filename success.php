@@ -23,12 +23,20 @@
 </head>
 <body> 
     <!-- include the nav bar -->
-<?php include("includes/navigation.php");?>
+<?php include("includes/navigation1.php");?>
 
 
 <!-- -------------------------------------------------->
-
-<p> Congratulations, you have successfully registered for the conference. You may now move on to the payment process. </p>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-12">
+            <h4> 
+                Congratulations, you have successfully registered for the conference. 
+                <br>You may now move on to the payment process.
+            </h4>
+        <div>
+    </div>
+</div>
 <!--- Connect-->
 <?php include("includes/footer.php");?>
 </body>
