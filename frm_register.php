@@ -50,7 +50,7 @@
 					<tr>
 						<td>
 							<div class="form-group" >
-								<select class="form-control" name="title" value="<?php echo $title; ?>">
+								<select required class="form-control" name="title" value="<?php echo $title; ?>">
 									<option value="" hidden> Designation/Title </option>
 									<option value="Miss">Miss</option>
 									<option value="Mr.">Mr.</option>
@@ -67,14 +67,14 @@
 					<tr>
 						<td>
 							<div class="form-group">
-								<input type="text" name="fname" class="form-control" placeholder="First Name" value="<?php echo $fname; ?>">
+								<input required type="text" name="fname" class="form-control" placeholder="First Name" value="<?php echo $fname; ?>">
 							</div>
 						</td>
 						
 						
 						<td>
 							<div class="form-group">
-								<input type="text" name="lname" class="form-control" placeholder="Last Name" value="<?php echo $lname; ?>">
+								<input required type="text" name="lname" class="form-control" placeholder="Last Name" value="<?php echo $lname; ?>">
 							</div>
 						</td>
 					</tr>
@@ -82,7 +82,7 @@
 					<tr>
 						<td>
 							<div class="form-group">
-								<input type="email" name="email" class="form-control" placeholder="Email" value="<?php echo $email; ?>">
+								<input required type="email" name="email" class="form-control" placeholder="Email" value="<?php echo $email; ?>">
 							</div>
 						</td>
 					</tr>
@@ -92,20 +92,20 @@
 						
 						<td>
 							<div class="form-group">
-								<input type="text" name="code" class="form-control" placeholder="Country Code" value="<?php echo $code; ?>">
+								<input required type="text" name="code" class="form-control" placeholder="Country Code" value="<?php echo $code; ?>">
 							</div>
 							
 						</td>
 						<td>
 							<div class="form-group">
-								<input type="phone" name="mobile" class="form-control" placeholder="Number" value="<?php echo $mobile; ?>">
+								<input required type="phone" name="mobile" class="form-control" placeholder="Number" value="<?php echo $mobile; ?>">
 							</div>
 						</td>
 					</tr>
 					<tr>
 						<td>
 							<div class="form-group">
-								<select class="form-control" name="category" value="<?php echo $category; ?>">
+								<select required class="form-control" name="category" value="<?php echo $category; ?>">
 									<option value="" hidden> Category </option>
 									<option value="Student">Student</option>
 									<option value="Faculty">Faculty</option>
@@ -125,7 +125,7 @@
 						<td>
 							
 							<div class="form-group">
-								<input type="text" name="university" class="form-control" placeholder="Company/University" value="<?php echo $university; ?>">
+								<input required type="text" name="university" class="form-control" placeholder="Company/University" value="<?php echo $university; ?>">
 							</div>
 						</td>
 					</tr>
@@ -133,17 +133,17 @@
 					<tr>
 						<td>
 							<div class="form-group">
-								<input type="text" name="city" class="form-control" placeholder="City" value="<?php echo $city; ?>">
+								<input required type="text" name="city" class="form-control" placeholder="City" value="<?php echo $city; ?>">
 							</div>
 						</td>
 						<td>
 							<div class="form-group">
-								<input type="text" name="state" class="form-control" placeholder="State" value="<?php echo $state; ?>">
+								<input required type="text" name="state" class="form-control" placeholder="State" value="<?php echo $state; ?>">
 							</div>
 						</td>
 						<td>
 							<div class="form-group">
-								<input type="text" name="country" class="form-control" placeholder="Country" value="<?php echo $country; ?>">
+								<input required type="text" name="country" class="form-control" placeholder="Country" value="<?php echo $country; ?>">
 							</div>
 						</td>
 					</tr>
@@ -152,7 +152,7 @@
 						<td>
 							<p> <font color="white"><label> Registration for: <label></p>
 						
-							<input type="radio" name="purpose" value="Oral">Oral Presentation <br>
+							<input required type="radio" name="purpose" value="Oral">Oral Presentation <br>
 						
 							<input type="radio" name="purpose" value="Poster">Poster <br>
 						
