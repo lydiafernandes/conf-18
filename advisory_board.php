@@ -43,8 +43,14 @@
     <div class="col-sm-2" style="float:left;">
         <img src="img\board_pics\nk_ganguly.png">
     </div>
-    Prof Nirmal K. Ganguly is the Advisor, Translational Health Science and Technology Institute and President, 
-    Jawaharlal Institute of Post Graduate Medical Education and Research in India. He is a former Director General of the Indian Council of Medical Research.     
+    Prof. Nirmal Kumar Ganguly <br>
+    Former Director General ICMR, India <br>
+    
+    Honorary Senior Research Professor (Clinical Research), Institute of Liver & Biliary Sciences, New Delhi, India &
+Professor (GRIPMER), The Ganga Ram Institute for Postgraduate Medical Education & Research, Sir Ganga Ram Hospital, New Delhi
+Visiting Professor of Eminence, Translational Health Science & Technology Institute, Faridabad, India
+Senior Scientific Advisor, Global Health Strategies     <br>
+
     <a href="http://www.who.int/neglected_diseases/ganguly/en/" target="_blank" class="btn btn-outline-secondary">See Profile</a>
     </li>
 
