@@ -27,8 +27,13 @@
 
 
 <!-- -------------------------------------------------->
-<div class="container-fluid">
-    <div class="row">
+<h4> 
+                Congratulations, you have successfully registered for the conference. 
+                <br>You may now move on to the payment process.
+            </h4>
+   
+
+    <!-- div class="row">
 
         <div class="col-sm-2">  &nbsp; </div>
         <div class="col-sm-8">
@@ -39,7 +44,7 @@
         <div>
         <div class="col-sm-2">  &nbsp; </div>
     </div>
-</div>
+</div -->
 <!--- Connect-->
 <?php include("includes/footer.php");?>
 </body>
