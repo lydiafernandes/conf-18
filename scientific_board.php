@@ -33,7 +33,11 @@
                   <img src="img/arrow.png"> 
                      Dr. Shubha Tole (TIFR)
             </li>
-            <li class="a">Shubha Tole is an Indian neuroscientist, Professor and Principal Investigator at
+            <li class="a">
+               <div class="col-sm-2" style="float:left;">
+                    <img src="img\board_pics\sci_board\tole.png">
+                </div>
+            Shubha Tole is an Indian neuroscientist, Professor and Principal Investigator at
                  the Tata Institute of Fundamental Research in Mumbai, India. Her research involves investigating
              the development and evolution of the mammalian brain, and she has won many accolades for her work.
              <a href="http://www.tifr.res.in/~dbs/faculty/S_Tole.html" target="_blank" class="btn btn-outline-secondary">See Profile</a>
