@@ -19,7 +19,7 @@
         <link rel="stylesheet" type="text/css" href="css/style_faq.css"> 
         <script src="script/script_faq.js"></script>    
 </head>
-<body style="background-color:#cbcdd9;> 
+<body style="background-color:#cbcdd9;"> 
     <!-- include the nav bar -->
 <?php include("includes/navigation1.php");?>
 
