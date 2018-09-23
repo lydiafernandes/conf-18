@@ -1,49 +1,35 @@
-<!Doctype html>
+<!DOCTYPE html>
 <HTML>
-<HEAD>
-    <TITLE> SUCCESS </TITLE>
-</HEAD>
-<BODY>
-<?php
-session_start();
-ini_set("display_errors", 1);
-error_reporting(E_ALL);
+    <head>
+        <title> Contact Us </title>
+        <meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-include 'dbh.php';
+         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-// initializing variables
-$title = "";
-$fname = "";
-$lname = "";
-$email = "";
-$code = "";
-$mobile = "";
-$category = "";
-$university = "";
-$city = "";
-$state = "";
-$country = "";
-$purpose = "";
+        <!-- popper.js is recommended for bootstrap -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 
-$errors = array(); 
-  
-  $user_check_query = "SELECT * FROM tbl_registrations";
+        <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script><script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 
-  $result = $conn->query($user_check_query);
-  
-  //$user = mysqli_fetch_assoc($result);
-  
-  if ($result->num_rows > 0) {
-    // output data of each row
-    while($row = $result->fetch_assoc()) {
-        echo "id: " . $row["id"]. " - Name: " . $row["fname"]. " " . $row["lname"]. "<br>";
-    }
-} else {
-    echo "0 results";
-}
-$conn->close();
+        <!-- this file is included in the externa file -->
+        <link rel="stylesheet" type="text/css" href="css/style.css"> 
+        
+       
 
-?>
 
-</BODY>
-</HTML>
+</head>
+<body> 
+    <!-- include the nav bar -->
+<?php include("includes/navigation.php");?>
+
+
+<!-- -------------------------------------------------->
+
+<p> Congratulations, you have successfully registered for the conference. You may now move on to the payment process. </p>
+<!--- Connect-->
+<?php include("includes/footer.php");?>
+</body>
+</html>
