@@ -41,7 +41,9 @@
          </p>
 
          <p>
-         The venue may be reached from CST station, or (in the opposite direction) by crossing the busy traffic junction at Dhobi Talao,and either proceeding to Mahapalika Road (Xavier’s College),
+         The venue may be reached from CST station, or (in the opposite direction) by crossing the
+          busy traffic junction at Dhobi Talao,and proceeding to Mahapalika Road 
+          (Xavier’s College),
 
          </p>
 
