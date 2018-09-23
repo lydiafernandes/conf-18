@@ -51,6 +51,26 @@
          Talao. You may either cross the busy junction at Dhobi Talao, or use the pedestrian subway (exit 6) in the
          direction of CST station/Mahapalika Road. The journey takes about ten minutes.
          </p>
+
+         <p>
+         If traveling by train on the Central Railway (CR), on either the main line or the harbour line, get
+off at CST station (formerly VT), cross the road or use the pedestrian underpass to Mahapalika Road. The college
+is five minutes’ walk away. If traveling by bus or car, come to Dhobi Talao, from where you can proceed to the college. 
+</p>
+<p>
+The following buses connect with the college:
+5,
+9,
+14,
+28,
+66,
+68,
+69,
+101,
+126,
+133. </p>
+<p>Taxis ply by meter and the passenger pays a surcharge on the fare shown. The minimum fare is Rs 22
+</p>
           
         </div>
     </div>
