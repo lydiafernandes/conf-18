@@ -2,7 +2,7 @@
 
     require '../dbh.php';
 
-    echo "deleting record";
+    echo "deleting record <br>";
 
    // $query = 'DROP TABLE tbl_registrations';
 
