@@ -47,11 +47,7 @@ if (isset($_POST['regis_user'])) {
 </head>
 
 <body>
-<?php
-echo $head; echo "<br>";
-  echo $t1;  echo "<br>";
-  echo $f1;  echo "<br>";
-?>
+
 	<!--<div class="modal-dialog text-center">-->
   	<!-- should occupy 2/3rd of tde screen for above 576 px screen sm stands for small screen-->
   	<!-- main-section is for styling -->
@@ -141,45 +137,15 @@ echo $head; echo "<br>";
 		<button type="submit" class="btn" name="abs_sub">
 			<i class="fas fa-sign-in-alt"> </i> Submit 
 		</button>
-	</table>	
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
+	</table>					
 				</form>
 			</div>
 		</div>
+		<?php
+echo $head; echo "<br>";
+  echo $t1;  echo "<br>";
+  echo $f1;  echo "<br>";
+?>
 	<!--</div>-->
 </body>
 </html>
