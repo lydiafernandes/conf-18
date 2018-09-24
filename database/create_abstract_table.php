@@ -6,7 +6,7 @@
 
    // $query = 'DROP TABLE tbl_registrations';
 
-    $query = "CREATE TABLE abstract (
+    $query = 'CREATE TABLE abstract(
         Sr_No int(11) NOT NULL,
         Title varchar(200) NOT NULL,
         t1 varchar(50) NOT NULL,
@@ -43,7 +43,7 @@
         k4 varchar(100) DEFAULT NULL,
         k5 varchar(100) DEFAULT NULL,
         abs varchar(5000) NOT NULL
-    );"; 
+    );'; 
 
 
     if($conn->query($query)){
