@@ -39,7 +39,8 @@ if (isset($_POST['regis_user'])) {
   $city = mysqli_real_escape_string($conn, $_POST['city']);
   $state = mysqli_real_escape_string($conn, $_POST['state']);
   $country = mysqli_real_escape_string($conn, $_POST['country']);
-	if(isset($_POST['purpose'])) {
+
+  if(isset($_POST['purpose'])) {
 	$purpose = mysqli_real_escape_string($conn, $_POST['purpose']);
 	}
   echo $title;

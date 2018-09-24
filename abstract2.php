@@ -1,5 +1,29 @@
+<?php
+//session_start();
+ini_set("display_errors", 1);
+error_reporting(E_ALL);
 
+include 'dbh.php';
 
+// initializing variables
+$head = "";
+$t1 = "";
+$f1 = "";
+
+$errors = array(); 
+
+// REGISTER USER
+if (isset($_POST['regis_user'])) {
+	// receive all input values from the form
+	$head = mysqli_real_escape_string($conn, $_POST['head']);
+	$t1 = mysqli_real_escape_string($conn, $_POST['t1']);
+	$f1 = mysqli_real_escape_string($conn, $_POST['f1']);
+}
+
+echo $title; echo "<br>";
+  echo $fname;  echo "<br>";
+  echo $lname;  echo "<br>";
+?>
 <!DOCTYPE html>
 
 
