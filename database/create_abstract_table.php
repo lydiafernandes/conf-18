@@ -42,7 +42,7 @@
         k3 varchar(100) DEFAULT NULL,
         k4 varchar(100) DEFAULT NULL,
         k5 varchar(100) DEFAULT NULL,
-        abs varchar(5000) NOT NULL
+        abstract varchar(5000) NOT NULL
     );'; 
 
 
