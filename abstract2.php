@@ -20,9 +20,9 @@ if (isset($_POST['regis_user'])) {
 	$f1 = mysqli_real_escape_string($conn, $_POST['f1']);
 }
 
-echo $title; echo "<br>";
-  echo $fname;  echo "<br>";
-  echo $lname;  echo "<br>";
+echo $head; echo "<br>";
+  echo $t1;  echo "<br>";
+  echo $f1;  echo "<br>";
 ?>
 <!DOCTYPE html>
 
