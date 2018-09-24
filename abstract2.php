@@ -19,6 +19,11 @@ if (isset($_POST['abs_sub'])) {
 	$t1 = mysqli_real_escape_string($conn, $_POST['t1']);
 	$f1 = mysqli_real_escape_string($conn, $_POST['f1']);
 }
+
+
+echo $head; echo "<br>";
+  echo $t1;  echo "<br>";
+  echo $f1;  echo "<br>";
 ?>
 
 <!DOCTYPE html>
@@ -141,11 +146,7 @@ if (isset($_POST['abs_sub'])) {
 				</form>
 			</div>
 		</div>
-		<?php
-echo $head; echo "<br>";
-  echo $t1;  echo "<br>";
-  echo $f1;  echo "<br>";
-?>
+		
 	<!--</div>-->
 </body>
 </html>
