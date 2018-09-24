@@ -13,7 +13,7 @@ $f1 = "";
 $errors = array(); 
 
 // REGISTER USER
-if (isset($_POST['regis_user'])) {
+if (isset($_POST['abs_sub'])) {
 	// receive all input values from the form
 	$head = mysqli_real_escape_string($conn, $_POST['head']);
 	$t1 = mysqli_real_escape_string($conn, $_POST['t1']);
