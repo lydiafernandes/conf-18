@@ -19,11 +19,8 @@ if (isset($_POST['regis_user'])) {
 	$t1 = mysqli_real_escape_string($conn, $_POST['t1']);
 	$f1 = mysqli_real_escape_string($conn, $_POST['f1']);
 }
-
-echo $head; echo "<br>";
-  echo $t1;  echo "<br>";
-  echo $f1;  echo "<br>";
 ?>
+
 <!DOCTYPE html>
 
 
@@ -50,6 +47,11 @@ echo $head; echo "<br>";
 </head>
 
 <body>
+<?php
+echo $head; echo "<br>";
+  echo $t1;  echo "<br>";
+  echo $f1;  echo "<br>";
+?>
 	<!--<div class="modal-dialog text-center">-->
   	<!-- should occupy 2/3rd of tde screen for above 576 px screen sm stands for small screen-->
   	<!-- main-section is for styling -->
