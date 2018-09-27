@@ -105,7 +105,7 @@ Department of Science in Technology, Govt. of India (2005).
     
     </li>
 </div>
-<!-- -------------End of Q5------------------------------ -->
+<!-- -------------End of Q5------------------------------
 <div class="row">
 <li class="q">
         <img src="img/arrow.png"> 
