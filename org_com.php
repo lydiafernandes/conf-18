@@ -184,7 +184,7 @@
 
 	
    		 	
-				<div class="col-sm-2 pad_center" style="background-color:#b3d9ff;">
+				<div class="col-sm-2 pad_center" style="background-color:#230A52;">
 
                  <span>
                  <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" width="100px" height="200px"><br>
