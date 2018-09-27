@@ -169,7 +169,7 @@
        <!-- ---------------------------row 9.0 --------------------------- -->
        <!-- row 9 begins -->
 		<div class="row">
-    		<div class="col-sm-3" style="background-color:#b3d9ff;">&nbsp;</div>
+    		<div class="col-sm-3" style="background-color:#cbcdd9;">&nbsp;</div>
     		
    		 	<div class="col-sm-2 pad_center" style="background-color:#230A52;">
    		 		  		 		
