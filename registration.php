@@ -116,7 +116,7 @@ if (isset($_POST['regis_user'])) {
     echo $query;
     if($conn->query($query)){
       //echo "created";
-      header('Location: success.php');
+      header('Location:success.php');
     }
     
   }

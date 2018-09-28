@@ -44,7 +44,7 @@
          // Creating a Layer object
          L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 		 
-		 L.marker([18.9430, 72.8315]).addTo(map).bindPopup('College').openPopup();
+		 L.marker([18.9430, 72.8315]).addTo(map).bindPopup("St. Xavier's College").openPopup();
          
       </script>
 
