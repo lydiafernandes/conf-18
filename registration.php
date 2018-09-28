@@ -115,11 +115,13 @@ if (isset($_POST['regis_user'])) {
          VALUES('$title', '$fname', '$lname', '$email', '$code', '$mobile', '$category', '$university', '$city', '$state', '$country', '$purpose')";
     echo $query;
     if($conn->query($query)){
-      echo "created";
+      //echo "created";
+      header('Location: success.php');
     }
+    
   }
 
-  header('location: success.php');
+  //header('location: success.php');
  
 }
 

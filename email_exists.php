@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <HTML>
     <head>
-        <title> Locate Venue On Map </title>
+        <title> Contact Us </title>
         <meta charset="utf-8">
     	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,19 +14,11 @@
 
         <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script><script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 
-    <link rel = "stylesheet" href = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
-	<script src = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
         <!-- this file is included in the externa file -->
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
         
        
-        <style>
-      /* Set the size of the div element that contains the map */
-      #map {
-        height: 400px;  /* The height is 400 pixels */
-        width: 100%;  /* The width is the width of the web page */
-       }
-    </style>
+
 
 </head>
 <body> 
@@ -35,19 +27,8 @@
 
 
 <!-- -------------------------------------------------->
-<div id = "map"></div>
-	  <script>
-         
-         // Creating a map object
-         var map = new L.map('map').setView([18.9430, 72.8315],17);
-         
-         // Creating a Layer object
-         L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
-		 
-		 L.marker([18.9430, 72.8315]).addTo(map).bindPopup('College').openPopup();
-         
-      </script>
 
+<h3> The email id you entered already exists in our records, use another email id or send us a mail at isc150@xaviers.edu </h3>
 <!--- Connect-->
 
 <?php include("includes/footer.php");?>
