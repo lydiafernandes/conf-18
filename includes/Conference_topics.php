@@ -4,13 +4,10 @@
               
   <table class="table table-hover">
     <thead>
-      <tr>
-        <th>Sr.No</th>
-        <th>Topic</th>
-      </tr>
+      <tr>         <th>Topics</th>       </tr>
     </thead>
     <tbody>
-        <ol>
+        <ol type="1">
       <tr>
         <td> <li> Nano science and Nano-technology </li> </td>
       </tr>
@@ -20,7 +17,7 @@
       <tr>
         <td> <li> Green Chemistry </li> </td>
       </tr>
-</ol>
+    </ol>
     </tbody>
   </table>
 </div>
