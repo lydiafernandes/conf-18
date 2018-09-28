@@ -52,14 +52,12 @@
 							<div class="form-group" >
 								<select required class="form-control" name="title" value="<?php echo $title; ?>">
 									<option value="" hidden> Designation/Title </option>
-									<option value="Miss">Miss</option>
 									<option value="Mr.">Mr.</option>
 									<option value="Mrs.">Mrs.</option>
 									<option value="Ms.">Ms.</option>
 									<option value="Prof.">Prof.</option>
-									<option value="Dr.">Dr.</option>
-									<option value="Asst. Prof. Dr.">Asst. Prof. Dr.</option>
-									<option value="Assoc. Prof. Dr.">Assoc. Prof. Dr.</option>
+									<option value="Dr1">Dr.(MBBS)</option>
+									<option value="Dr2">Dr.</option>
 								</select>
 							</div>
 						</td>
@@ -110,6 +108,7 @@
 									<option value="Student">Student</option>
 									<option value="Faculty">Faculty</option>
 									<option value="Industry">Industry</option>
+									<option value="Others">Others</option>
 								</select>
 							</div>
 						</td>
@@ -117,7 +116,7 @@
 				</table>
 				
 				<legend>
-				<p> <font color="white">	<h4> Affiliated Company/University/College </h4></p>
+				<p> <font color="white">	<h4> Affiliated Industry/University/College </h4></p>
 				</legend>
 					
 				<table>
