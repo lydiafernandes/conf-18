@@ -144,8 +144,15 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 </h1>
 		</div>
 		<hr>
+		<div class="col-sm-3">
+			<a href="http://xaviers.edu/main/" target="_blank" border="0">
+				<img src="img/logo_college197x197.png">
+			</a>
+			
+			<p>St. Xavier&apos;s College - Autonomous, Mumbai</p>
+		</div>
 
-		<div class="col-12">
+		<div class="col-sm-6">
 			<p class="lead">
 			Under the auspices of both St. Xavier&apos;s College, Mumbai, India and 
 			Creighton University, Omaha, NE, USA, our 1<sup>st</sup> joint International
@@ -155,6 +162,17 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 			  of St. Xavier&apos;s College, Mumbai, India from <br> <strong>09 –11 January 2019</strong>.  
 			</p>
 		</div>
+
+		<div class="col-sm-3">
+			<a href="https://www.creighton.edu/" target="_blank" border="0">
+				<img src="img/197px-Creighton_University_seal.png">
+			</a>
+		
+			<p>Creighton University, Omaha, NE, USA</p>
+		
+		</div>
+
+</div>
 	</div>
 </div>
 <!--- Three Column Section -->
