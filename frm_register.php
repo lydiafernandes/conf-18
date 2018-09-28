@@ -56,8 +56,8 @@
 									<option value="Mrs.">Mrs.</option>
 									<option value="Ms.">Ms.</option>
 									<option value="Prof.">Prof.</option>
-									<option value="Dr1">Dr.(MBBS)</option>
-									<option value="Dr2">Dr.</option>
+									<option value="DrMBBS">Dr.(MBBS)</option>
+									<option value="DrPhD">Dr.</option>
 								</select>
 							</div>
 						</td>
@@ -124,7 +124,7 @@
 						<td>
 							
 							<div class="form-group">
-								<input required type="text" name="university" class="form-control" placeholder="Company/University" value="<?php echo $university; ?>">
+								<input required type="text" name="university" class="form-control" placeholder="Industry/University/College" value="<?php echo $university; ?>">
 							</div>
 						</td>
 					</tr>
