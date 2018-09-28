@@ -27,8 +27,9 @@
 
 
 <!-- -------------------------------------------------->
-
-<h3> The email id you entered already exists in our records, use another email id or send us a mail at isc150@xaviers.edu </h3>
+<h3 style="color:red; font-style:italic"> Oops! </h3
+<h4> The email id you entered already exists in our records, 
+    use another email id or send us a mail at isc150@xaviers.edu </h4>
 <!--- Connect-->
 
 <?php include("includes/footer.php");?>

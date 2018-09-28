@@ -27,8 +27,8 @@
 
 
 <!-- -------------------------------------------------->
-        <h4> 
-                Congratulations, you have successfully registered for the conference. 
+        <h3> Congratulations, </h3>
+        <h4>you have successfully registered for the conference. 
                 <br>You may now move on to the payment process.
             </h4>
    
