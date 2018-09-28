@@ -111,11 +111,17 @@ Senior Scientific Advisor, Global Health Strategies     <br>
         Dr. Vibha Tandon (Jawaharlal Nehru University, New Delhi)
     </li>
     <li class="a">
+    <div class="col-sm-2" style="float:left;">
+        <img src="img\board_pics\tandon.png">
+    </div>
+    <div class="col-sm-10">
     Professor  &amp; Chairperson Special Centre for Molecular Medicine. <br> With 22 years of research experience, Dr. Tandon specializes in Chemical Biology ,Radiation Biology 
     &amp; Cell Signalling, Drug Development and Study of their mechanism of Action based on Genomics &amp;
      Proteomics, Development of Antibiotics for Gyrase Resistant Strains targeting Topoisomerase IA 
      Gene in bacteria.    
     <a href="https://www.jnu.ac.in/content/vtandon" target="_blank" class="btn btn-outline-secondary">See Profile</a>
+    </div>
+    
     </li>
 
     </div>

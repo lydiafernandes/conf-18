@@ -193,6 +193,11 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 	</div>
 	<hr class="my-4">
 </div>
+
+<!-- ------------------------------------------------------------------- -->
+	<?php include("includes/Conference_topics.php");?>
+
+<!-- --------------------------------------------------------------- -->
 <!--- Two Column Section -->
 
 <div class="container-fluid">
