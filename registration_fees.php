@@ -46,7 +46,7 @@
 
 		
 		<div class="row">
-<div class="table-responsive">
+        <div class="table-responsive">
                         <table class="table table-dark table-hover">
 							
 
