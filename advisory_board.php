@@ -37,13 +37,13 @@
 
     <li class="q">
         <img src="img/arrow.png"> 
-        Dr. N.K.Ganguly
+        Padma Bhushan Dr. N. K. Ganguly
     </li>
     <li class="a">
     <div class="col-sm-2" style="float:left;">
         <img src="img\board_pics\nk_ganguly.png">
     </div>
-    Prof. Nirmal Kumar Ganguly <br>
+    Dr. Nirmal Kumar Ganguly <br>
     Former Director General ICMR, India <br>
     
     Honorary Senior Research Professor (Clinical Research), Institute of Liver & Biliary Sciences, New Delhi, India &
@@ -57,21 +57,27 @@ Senior Scientific Advisor, Global Health Strategies     <br>
     </div>
 
 <!-- -------------End of Q1------------------------------ -->
-    <div class="row">
-
-    <li class="q">
+<div class="row">
+<li class="q">
         <img src="img/arrow.png"> 
-        Dr. Vibha Tandon (Jawaharlal Nehru University, New Delhi)
+        Padma Shri Dr. Mustansir Barma (TIFR)
     </li>
+    
     <li class="a">
-    Professor  &amp; Chairperson Special Centre for Molecular Medicine. <br> With 22 years of research experience, Dr. Tandon specializes in Chemical Biology ,Radiation Biology 
-    &amp; Cell Signalling, Drug Development and Study of their mechanism of Action based on Genomics &amp;
-     Proteomics, Development of Antibiotics for Gyrase Resistant Strains targeting Topoisomerase IA 
-     Gene in bacteria.    
-    <a href="https://www.jnu.ac.in/content/vtandon" target="_blank" class="btn btn-outline-secondary">See Profile</a>
-    </li>
-
+    <div class="col-sm-2" style="float:left;">
+        <img src="img\board_pics\barma_new.png">
     </div>
+    <div class="col-sm-10">
+    
+    His research work has focused on cooperative effects in interacting systems, both in and out of
+     equilibrium. At TCIS (TIFR Center for Inter-disciplinary Studies), he has been working primarily
+      on nonequilibrium statistical physics, often involving new phases that arise from external
+       driving and interactions between particles. 
+        <a href="https://www.tifrh.res.in/~barma/" target="_blank" class="btn btn-outline-secondary">See Profile</a>
+    
+    </div>
+    </li>
+</div>
 <!-- -------------End of Q2------------------------------ -->
 <div class="row">
 
@@ -97,28 +103,24 @@ Senior Scientific Advisor, Global Health Strategies     <br>
     </li>
 </div>
 <!-- -------------End of Q3------------------------------ -->
-<div class="row">
-<li class="q">
+
+    <div class="row">
+
+    <li class="q">
         <img src="img/arrow.png"> 
-        Prof. Mustansir Barma (TIFR)
+        Dr. Vibha Tandon (Jawaharlal Nehru University, New Delhi)
     </li>
-    
     <li class="a">
-    <div class="col-sm-2" style="float:left;">
-        <img src="img\board_pics\barma_new.png">
-    </div>
-    <div class="col-sm-10">
-    
-    His research work has focused on cooperative effects in interacting systems, both in and out of
-     equilibrium. At TCIS (TIFR Center for Inter-disciplinary Studies), he has been working primarily
-      on nonequilibrium statistical physics, often involving new phases that arise from external
-       driving and interactions between particles. 
-        <a href="https://www.tifrh.res.in/~barma/" target="_blank" class="btn btn-outline-secondary">See Profile</a>
-    
-    </div>
+    Professor  &amp; Chairperson Special Centre for Molecular Medicine. <br> With 22 years of research experience, Dr. Tandon specializes in Chemical Biology ,Radiation Biology 
+    &amp; Cell Signalling, Drug Development and Study of their mechanism of Action based on Genomics &amp;
+     Proteomics, Development of Antibiotics for Gyrase Resistant Strains targeting Topoisomerase IA 
+     Gene in bacteria.    
+    <a href="https://www.jnu.ac.in/content/vtandon" target="_blank" class="btn btn-outline-secondary">See Profile</a>
     </li>
-</div>
+
+    </div>
 <!-- -------------End of Q4------------------------------ -->
+
 </ul>
 </div>
 <!--- Connect-->
