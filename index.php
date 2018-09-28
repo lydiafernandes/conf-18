@@ -176,39 +176,6 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 	</div>
 </div>
 <!--- Three Column Section -->
-
-<div class="container-fluid" padding></div>
-<div class="row text-center padding">
-	<div class="col-xs-12 col-sm-6 col-md-4">
-		<a href="http://xaviers.edu/main/" target="_blank" border="0">
-			<img src="img/logo_college197x197.png">
-		</a>
-		<!-- <i class="fas fa-code"></i>
-		<h3> HTML5 </h3> -->
-		<p>St. Xavier&apos;s College - Autonomous, Mumbai</p>
-	</div>
-<!-- space for third logo -->
-	<div class="col-sm-12 col-md-4">
-<!--
-		<i class="fas fa-bold"></i>
-		<h3> BOOTSTRAP </h3>
-		<p>Built with the latest version of BOOTSTRAP, BOOTSTRAP 4,</p>
-		-->
-	</div>
-	
-
-	<div class="col-xs-12 col-sm-6 col-md-4">
-		<a href="https://www.creighton.edu/" target="_blank" border="0">
-			<img src="img/197px-Creighton_University_seal.png">
-		</a>
-		<!--
-		<i class="fas fa-css3"></i>
-		<h3> CSS3 </h3> 
-		<p>Built with the latest version of CSS, CSS3,</p>
-		-->
-		<p>Creighton University, Omaha, NE, USA</p>
-		
-	</div>
 	<hr class="my-4">
 </div>
 
