@@ -84,6 +84,17 @@ Department of Science in Technology, Govt. of India (2005).
 </div>
 <!-- -------------End of Q3------------------------------ -->
 <div class="row">
+<li class="q">
+        <img src="img/arrow.png"> 
+        Ms. Miriam Stewart  (St. Xavier&apos;s College - Autonomous, Mumbai.)
+    </li>
+    <li class="a">Head, Department of Microbiology
+    <a href="http://xaviers.edu/main/index.php/microbiology1" target="_blank" class="btn btn-outline-secondary">Read More</a>
+   
+    </li>
+</div>
+<!-- -------------End of Q4------------------------------ -->
+<div class="row">
         <li class="q">
               <img src="img/arrow.png"> 
                   Dr. Madhuri Hambarde (St. Xavier&apos;s College - Autonomous, Mumbai.)
@@ -93,7 +104,7 @@ Department of Science in Technology, Govt. of India (2005).
     
          </li>
 </div>
-<!-- -------------End of Q4------------------------------ -->
+<!-- -------------End of Q5------------------------------ -->
 <div class="row">
 <li class="q">
         <img src="img/arrow.png"> 
@@ -105,35 +116,7 @@ Department of Science in Technology, Govt. of India (2005).
     
     </li>
 </div>
-<!-- -------------End of Q5------------------------------
-<div class="row">
-<li class="q">
-        <img src="img/arrow.png"> 
-        Dr. Smita Krishnan  (St. Xavier&apos;s College - Autonomous, Mumbai.)
-    </li>
-    <li class="a">Head, Department of Zoology <br>
-    <a href="http://xaviers.edu/main/index.php/zoology" target="_blank" class="btn btn-outline-secondary">Read More</a>
-    </li>
-</div>
-<!-- -------------End of Q6------------------------------ -->
-<div class="row">
-<li class="q">
-        <img src="img/arrow.png"> 
-        Ms. Miriam Stewart  (St. Xavier&apos;s College - Autonomous, Mumbai.)
-    </li>
-    <li class="a">Head, Department of Microbiology
-    <a href="http://xaviers.edu/main/index.php/microbiology1" target="_blank" class="btn btn-outline-secondary">Read More</a>
-   
-    </li>
-</div>
-<!-- -------------End of Q7------------------------------ -->
-<!-- li class="q">
-        <img src="img/arrow.png"> 
-        Dr. Nandita Mangalore
-    </li>
-    <li class="a">Answer 3</li>
-
-<!-- -------------End of Q8------------------------------ -->
+<!-- -------------End of Q6---------------------------- -->
 
 </ul>
 </div>
