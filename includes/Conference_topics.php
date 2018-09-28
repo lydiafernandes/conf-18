@@ -7,7 +7,7 @@
       <tr>         <th>Topics</th>       </tr>
     </thead>
     <tbody>
-        <ol type="1">
+        <ol style="list-style-type:number;">
       <tr>
         <td> <li> Nano science and Nano-technology </li> </td>
       </tr>
