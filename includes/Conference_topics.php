@@ -1,10 +1,12 @@
 <!-- -----------------------Beginning  of topics table ---------------- -->
 <div class="container">
-  <h2>conference Topics and Related Areas</h2>
+  <h2>Conference Topics and Related Areas</h2>
               
   <table class="table table-hover">
     <thead>
-      <tr>         <th>Topics</th>       </tr>
+      <tr style="background-color:black; color:white;">       
+            <th>Topics</th>      
+     </tr>
     </thead>
     <tbody>
         <ol style="list-style-type:number;">
