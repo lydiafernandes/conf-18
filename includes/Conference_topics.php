@@ -22,6 +22,61 @@
       <tr>
         <td> <li> Green Chemistry </li> </td>
       </tr>
+      
+      <tr>
+        <td> <li> Optical Instruments  in Diagnostic Tools </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Electro analytical Techniques  </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Advanced Analytical Techniques </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Translational Medicine </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Biotechnology </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Microbiology   </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Cell-Biology   </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Alternative Medicine( Ayurveda/ Yunani/ Homeopathic) </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Nuclear Medicine  </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Bio-statistics  </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Bio-molecules  </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Toxicology  </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Pharmaceuticals </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Clinical Research </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Natural Products in Medicine </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Bio-physical Chemistry </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Bio-inorganic Chemistry </li> </td>
+      </tr>
+      <tr>
+        <td> <li> Organometallic complexes in Medicine </li> </td>
+      </tr>
     </ol>
     </tbody>
   </table>
