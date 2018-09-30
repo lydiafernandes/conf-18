@@ -228,30 +228,6 @@ The occasion is a time for all of us at St. Xavier &apos;s College to reflect on
 </figure>
 
 
-<!--- Two Column Section 
-<div class="container-fluid">
-	<div class="row padding">
-		
-		<div class="col-md-12 col-lg-6">
-			<h2> 150 Years of Excellence in Education</h2>
-			<p> 
-				Blatter Herbarium was started at the end of the 19th century. By 1918 a very large number of plants were gathered by Fr. E. Blatter, S.J., his associates and students. The Herbarium was named after Fr. Blatter in 1941. It contains the largest collection of plants in Western India.  It provides facilities for the study of Plant Systematics and has a well-stocked library on Systematic Botany. The Herbarium has received the Sir Ratan Tata Trust Grant for upgradation and digitization of the plant database. Dr. Rajendra Shinde is the present Director.
-			</p>
-			<p>
-
-				Caius Laboratory for Inter-Disciplinary Research (1947) was established to carry out drug research and was named after Fr. J. F. Caius, S.J. It was restructured and equipped with new instruments. It functions as a research and coordination centre for all the Science Departments. In this Lab a strain of Streptomyces was identified. It has been supported by grants from industry and from UGC, UNDP, et al. Dr. Priya Sundarrajan is the Director.
-			</p>
-		
-
-			
-		</div>
-		<div class="col-lg-6">
-			<img src="img/bootstrap2.png" class="img-fluid">
-		</div>
-	</div>
-</div>
---> 
-
 <!--- Connect -->
 <?php include("includes/footer.php");?>
 
