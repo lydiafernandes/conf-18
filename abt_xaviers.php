@@ -32,7 +32,7 @@
 body{
     background-color:#DCDCDC;
 }
-<style>
+
 img:hover {
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
