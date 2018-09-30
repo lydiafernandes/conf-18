@@ -173,7 +173,7 @@
     		
    		 	<div class="col-sm-2 pad_center" style="background-color:#230A52;">
    		 		  		 		
-                        <span class="sec_box" style="float:left;">
+                        <span class="sec_box" style="float:left;border-right-style:none;">
                              <img src="img\org_com_img\ash_agg.jpg" class="img-thumbnail" alt="pic of Dr. Ashma Aggarwal" width="100px" height="200px">
                             <br><br> Dr. Ashma Aggarwal <br>
 				             <br> <u><i>Organising Secretary</i></u><br> <strong>St. Xavier&apos;s  College / Faculty</strong>
@@ -186,7 +186,7 @@
    		 	
 				<div class="col-sm-2 pad_center" style="background-color:#230A52;">
 
-                 <span>
+                 <span style="border-left-style:none;border-right-style:none;">
                  <img src="img\org_com_img\finosh_t.jpg" class="img-thumbnail" alt="pic of Dr. Finosh Thankam" width="100px" height="200px"><br>
                  <br><br> Dr. Finosh Thankam <br>
 				 <br> <u><i>International Co-ordinator</i></u><br> <strong>Creighton University</strong>
@@ -197,7 +197,7 @@
 
             <div class="col-sm-2 pad_center" style="background-color:#230A52;">
    		 		        
-                        <span class="sec_box" style="float:left;border-left:0px;">
+                        <span class="sec_box" style="float:left;border-left-style:none;">
                             <img src="img\org_com_img\m_k.jpg" class="img-thumbnail"
                              alt="pic of Marzban Kotwal" width="100px" height="200px">
                              <br><br>Mr. Marzban Kotwal <br>
