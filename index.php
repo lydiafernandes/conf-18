@@ -14,6 +14,23 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 	<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 	<link href="css/style.css" rel="stylesheet">
+<style>
+	img {
+    -webkit-animation: anim 10s infinite linear;
+    animation: anim 5s infinite linear;
+}
+
+@-webkit-keyframes anim {
+    from {-webkit-transform: rotateY(0deg);}
+    to {-webkit-transform: rotateY(360deg);}
+}
+
+@keyframes anim {
+    from {transform: rotateY(0deg);}
+    to {transform: rotateY(360deg);}
+}
+</style>
+
 </head>
 <body>
 
@@ -111,7 +128,7 @@ var x = setInterval(function() {
 		<hr>
 		<div class="col-sm-3">
 			<a href="http://xaviers.edu/main/" target="_blank" border="0">
-				<img src="img/logo_college197x197.png">
+				<img class="coll_logo" src="img/logo_college197x197.png">
 			</a>
 			
 			<p>St. Xavier&apos;s College - Autonomous, Mumbai</p>
@@ -130,7 +147,7 @@ var x = setInterval(function() {
 
 		<div class="col-sm-3">
 			<a href="https://www.creighton.edu/" target="_blank" border="0">
-				<img src="img/197px-Creighton_University_seal.png">
+				<img class="coll_logo" src="img/197px-Creighton_University_seal.png">
 			</a>
 		
 			<p>Creighton University, Omaha, NE, USA</p>
