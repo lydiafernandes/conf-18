@@ -3,14 +3,14 @@
   <h2>Conference Topics and Related Areas</h2>
    <div class="row">
 
-    <div class="col-sm-3"> 
+    <div class="col-sm-2"> 
     &nbsp;
      </div>
-    <div class="col-sm-6">
+    <div class="col-sm-8">
       <table class="table table-hover table-striped">
        <thead>
              <tr style="background-color:black; color:white;">       
-                <th>Topics</th>      
+                <th colspan="2">Topics</th>      
              </tr>
       </thead>
     <tbody>
@@ -65,7 +65,7 @@
   </table>
   </div>
 
-    <div class="col-sm-3"> 
+    <div class="col-sm-2"> 
     &nbsp;
      </div>
 </div> <!-- -------------------------End of div row ----------------- -->
