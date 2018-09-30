@@ -31,7 +31,7 @@
 body{
     background-color:#DCDCDC;
 }
-img:hover {
+.image:hover {
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
 }
@@ -81,14 +81,14 @@ img:hover {
 		</div>
 
         <div class="col-sm-7 col-md-7 col-xs-7">
-			<img src="img/abt_us_images/CreightonUniv_Church1.jpg" class="img-fluid" style="width:100%; height:100%;" />
+			<img class="image" src="img/abt_us_images/CreightonUniv_Church1.jpg" class="img-fluid" style="width:100%; height:100%;" />
 		</div>
 	</div>
 <!-- ---------------------------------------- -->
     <div class="row" style="border:none; background:#DCDCDC;">
 		
     <div class="col-sm-5 col-md-5 col-xs-5">
-			<img src="img/abt_us_images/Creighton_University3.jpg" class="img-fluid rounded" 
+			<img class="image" src="img/abt_us_images/Creighton_University3.jpg" class="img-fluid rounded" 
             style="width:100%; height:100" />
 		</div>
 		<div class="col-sm-7 col-md-7 col-xs-7">  
