@@ -15,7 +15,7 @@
 	<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 	<link href="css/style.css" rel="stylesheet">
 <style>
-	img {
+	img.coll_logo {
     -webkit-animation: anim 10s infinite linear;
     animation: anim 5s infinite linear;
 }
