@@ -56,7 +56,8 @@
          <td> <li> Bio-inorganic Chemistry </li> </td>
       </tr>
       <tr>
-        <td colspan="2"> <li> Organometallic complexes in Medicine </li> </td>
+        <td> <li> Organometallic complexes in Medicine </li> </td>
+        <td> <li> Biochemistry </li> </td>
         
 
       </tr>
