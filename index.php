@@ -98,47 +98,12 @@ var x = setInterval(function() {
 
 
 
-<!--- Jumbotron -->
-
-<div class="container-fluid">
-	<div class="row Jumbotron">
-		<div class="col-12">
-		<!-- 
-			<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10"> 
-		-->
-		<!--
-				<p class="lead" style="text-align:center">This calls for a celebration.
-
-We're celebrating our sesquicentennial across 2018–19. The year-long commemoration, 
-which begins during the joyous christmas week Dec, 2018, 
-leading up to the 150th anniversary of the college.
-</p>
-<p class="lead" style="text-align:center">
-The occasion is a time for all of us at St. Xavier &apos;s College to reflect on our
- past — and look forward to our future of maintaining the momentum for 
- Excellence in Education. 
-				</p>
-
-				-->
-		</div>
-		<!--
-		<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">
-				<a href="#"> <button type="button" class="btn btn-outline-secondary btn-lg">
-					webhosting
-				</button>
-			</a>
-		</div>
-		-->
-	</div>
-
-</div>
-
 <!--- Welcome Section -->
 <div class="container-fluid padding">
 	<div class="row welcome text-center">
 		
 		<div class="col-sm-12" style="margin-top:0px">
-			<h1  style="background-color:#999999;"> From Health to Well Being:  <br>
+			<h1  style="background-color:#B3A97D;"> From Health to Well Being:  <br>
 			An Interdisciplinary approach from Fundamental Sciences to 
 			Translational Medicine
 			</h1>
