@@ -9,7 +9,7 @@
     <div class="col-sm-10">
       <table class="table table-hover table-striped">
        <thead>
-             <tr style="background-color:black; color:white;">       
+             <tr style="background-color:black; color:white; text-align:center;">       
                 <th colspan="2">Topics</th>      
              </tr>
       </thead>
