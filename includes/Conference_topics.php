@@ -3,10 +3,10 @@
   <h2>Conference Topics and Related Areas</h2>
    <div class="row">
 
-    <div class="col-sm-2"> 
+    <div class="col-sm-1"> 
     &nbsp;
      </div>
-    <div class="col-sm-8">
+    <div class="col-sm-10">
       <table class="table table-hover table-striped">
        <thead>
              <tr style="background-color:black; color:white;">       
@@ -56,8 +56,8 @@
          <td> <li> Bio-inorganic Chemistry </li> </td>
       </tr>
       <tr>
-        <td> <li> Organometallic complexes in Medicine </li> </td>
-        <td> &nbsp; </td>
+        <td colspan="2"> <li> Organometallic complexes in Medicine </li> </td>
+        
 
       </tr>
     </ol>
@@ -65,7 +65,7 @@
   </table>
   </div>
 
-    <div class="col-sm-2"> 
+    <div class="col-sm-1"> 
     &nbsp;
      </div>
 </div> <!-- -------------------------End of div row ----------------- -->
