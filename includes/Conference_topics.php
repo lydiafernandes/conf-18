@@ -1,6 +1,6 @@
 <!-- -----------------------Beginning  of topics table ---------------- -->
 <div class="container">
-  <h2>Conference Topics and Related Areas</h2>
+  <h2 style="text-align:center;">Conference Topics and Related Areas</h2>
    <div class="row">
 
     <div class="col-sm-1"> 
