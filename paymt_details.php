@@ -55,7 +55,12 @@
     <div class="col-sm-10">
         <h5>
        <p> <b> Note: </b><br>
-             Kindly make the payment after you register online at the particular url (www.xaviersmumbaiconf.org/registration). remember to note down your unique code at the end of the process. After the payment is complete, you will have to email us the unique identification code generated at the time of your registration along with the transactions ID at isc150@xaviers.edu. The abstract submission/ registration process, will not be considered as complete, in the event of failing to receive a mail from your side.
+             Kindly make the payment after you register online at the particular url <a href="www.xaviersmumbaiconf.org/registration">
+              (www.xaviersmumbaiconf.org/registration). </a> Remember to note down your unique code at the end of 
+              process. After the payment is complete, you will have to email us the 
+              <b><i>unique identification code </i></b> generated at the time of your registration
+               along with the bank <b> <i> transaction ID </i></b> at <a href="isc150@xaviers.edu">isc150@xaviers.edu </a>. 
+                The abstract submission/ registration process, will not be considered as <u>complete</u>, in the event of failing to receive a mail from your side.
         </p>
     </h5>
     </div> 
