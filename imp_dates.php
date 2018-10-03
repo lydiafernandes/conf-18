@@ -34,8 +34,9 @@
   <div class="row">
     <div class="col-2 bg-success">&nbsp;</div>
     <div class="col-8 bg-warning">
-        <b> 25<sup>th</sup> Oct. 2018: </b><br> 
-        Early Bird Registration as Audience and for Abstract Submission.
+
+       <h3>  25<sup>th</sup> Oct. 2018: </h3> 
+        <h5> Early Bird Registration as Audience and for Abstract Submission. </h5>
     </div>
     <div class="col-2 bg-success">&nbsp;</div>
   </div>
@@ -43,8 +44,8 @@
     <div class="row">
         <div class="col-3 bg-success">&nbsp;</div>
          <div class="col-6 bg-warning">
-                <b> 10<sup>th</sup> Nov. 2018: </b><br> 
-                Last date for Abstract Submission
+        <h3> 10<sup>th</sup> Nov. 2018: </h3> 
+            <h5> Last date for Abstract Submission </h5>
         </div>
         <div class="col-3 bg-success">&nbsp;</div>
   </div>
@@ -52,8 +53,8 @@
     <div class="row">
         <div class="col-3 bg-success">&nbsp;</div>
          <div class="col-6 bg-warning">
-                <b> 9<sup>th</sup> Jan. 2019 </b> to <b> 11 <sup>th</sup> Jan. 2019: </b><br> 
-                Conference
+               <h3> <b> 9<sup>th</sup> Jan. 2019 </b> to <b> 11 <sup>th</sup> Jan. 2019: </b></h3> 
+                <h5>Conference </h5>
         </div>
         <div class="col-3 bg-success">&nbsp;</div>
   </div>
