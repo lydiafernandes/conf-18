@@ -28,8 +28,8 @@
 
 <!-- -------------------------------------------------->
 <div class="container-fluid">
-  <h2>Three Unequal Columns</h2>
-  <p>To create unequal columns, you have to use numbers. The following example will create a 25%/50%/25% split:</p>
+  <h2>Important Dates </h2>
+  
   
   <div class="row">
     <div class="col-3 bg-success">&nbsp;</div>
