@@ -124,11 +124,11 @@
         <div class="row">
 
         <div class="col-sm-2">&nbsp; </div>
-        <div class="col-sm-8">
+        <div class="col-sm-8"><h3>
             <p> Kindly note that, 
             No abstract submissions will be accepted post <b> 10th Nov 2018 </b>, while <b><i>Registration </i></b>
             as audience will still remain <b><i>open</i></b>
-            </p>
+            </p> </h3>
         </div>
 
         <div class="col-sm-2">&nbsp; </div>
