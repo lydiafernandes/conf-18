@@ -28,7 +28,9 @@
 
 <!-- -------------------------------------------------->
 <div class="row">
-    <div class="col-sm-12 container">
+
+        <div class="col-sm-1"> &nbsp; </div>
+    <div class="col-sm-10 container">
         <h4>
        <p> <b> Bank Holder Name: </b> The Bombay St Xaviers College Society A/C </p>
        <p> <b>A/C No: </b>520101011006621. </p>
@@ -40,13 +42,27 @@
        </h4>
     </div>
 
-    <div class="col-sm-12 container">
+        <div class="col-sm-1"> &nbsp; </div>
+
+    </div> <!-- row ends -->
+
+
+
+    <div class="row">
+
+    <div class="col-sm-1"> &nbsp; </div>
+
+    <div class="col-sm-10">
         <h5>
        <p> <b> Note: </b><br>
              Kindly make the payment after you register online at the particular url (www.xaviersmumbaiconf.org/registration). remember to note down your unique code at the end of the process. After the payment is complete, you will have to email us the unique identification code generated at the time of your registration along with the transactions ID at isc150@xaviers.edu. The abstract submission/ registration process, will not be considered as complete, in the event of failing to receive a mail from your side.
         </p>
     </h5>
     </div> 
+
+    <div class="col-sm-1"> &nbsp; </div>
+
+    </div> <!-- row ends -->
 </div>
 
 <!--- Connect-->
