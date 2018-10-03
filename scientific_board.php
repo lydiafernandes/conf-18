@@ -73,17 +73,6 @@ Department of Science in Technology, Govt. of India (2005).
 </div>
 <!-- -------------End of Q2------------------------------ -->
 <div class="row">
-    <li class="q">
-        <img src="img/arrow.png"> 
-        Dr. Nandita Mangalore (St. Xavier&apos;s College - Autonomous, Mumbai.)
-    </li>
-    <li class="a">Head, Department of Lifesciences &amp; Biochemistry <br>
-    <a href="http://xaviers.edu/main/index.php/lifesciences-and-biochemistry" target="_blank" class="btn btn-outline-secondary">Read More</a>
-    
-    </li>
-</div>
-<!-- -------------End of Q3------------------------------ -->
-<div class="row">
         <li class="q">
               <img src="img/arrow.png"> 
                   Dr. Madhuri Hambarde (St. Xavier&apos;s College - Autonomous, Mumbai.)
@@ -93,6 +82,19 @@ Department of Science in Technology, Govt. of India (2005).
     
          </li>
 </div>
+<!-- -------------End of Q3------------------------------ -->
+<div class="row">
+    <li class="q">
+        <img src="img/arrow.png"> 
+        Dr. Karuna Gokarn (St. Xavier&apos;s College - Autonomous, Mumbai.)
+    </li>
+    <li class="a">Head, Department of Biotechnology <br>
+    <a href="https://www.linkedin.com/in/dr-karuna-gokarn-981773120/?originalSubdomain=in" target="_blank" class="btn btn-outline-secondary">Read More</a>
+    
+    </li>
+</div>
+
+
 <!-- -------------End of Q4------------------------------ -->
 <div class="row">
 <li class="q">
