@@ -46,9 +46,9 @@
       <div class="dropdown-menu">
         <a class="dropdown-item" href="org_com.php">Patrons &amp; Heads</a>
         
-        <a class="dropdown-item" href="#">Advisory Board</a> 
+        <a class="dropdown-item" href="advisory_board.php">Advisory Board</a> 
 
-        <a class="dropdown-item" href="#">Scientific Board</a>
+        <a class="dropdown-item" href="scientific_board.php">Scientific Board</a>
         
       </div>
     </li>
