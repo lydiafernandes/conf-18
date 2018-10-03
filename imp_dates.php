@@ -30,11 +30,35 @@
 <div class="container-fluid">
   <h2>Three Unequal Columns</h2>
   <p>To create unequal columns, you have to use numbers. The following example will create a 25%/50%/25% split:</p>
+  
   <div class="row">
     <div class="col-3 bg-success">&nbsp;</div>
-    <div class="col-6 bg-warning">.col-6</div>
-    <div class="col-3 bg-success">.col-3</div>
+    <div class="col-6 bg-warning">
+        <b> 25<sup>th</sup> Oct. 2018: </b><br> 
+        Early Bird Registration as Audience and for Abstract Submission.
+    </div>
+    <div class="col-3 bg-success">&nbsp;</div>
   </div>
+
+    <div class="row">
+        <div class="col-3 bg-success">&nbsp;</div>
+         <div class="col-6 bg-warning">
+                <b> 10<sup>th</sup> Nov. 2018: </b><br> 
+                Last date for Abstract Submission
+        </div>
+        <div class="col-3 bg-success">&nbsp;</div>
+  </div>
+
+    <div class="row">
+        <div class="col-3 bg-success">&nbsp;</div>
+         <div class="col-6 bg-warning">
+                <b> 9<sup>th</sup> Jan. 2019 </b> to <b> 11 <sup>th</sup> Jan. 2019: </b><br> 
+                Conference
+        </div>
+        <div class="col-3 bg-success">&nbsp;</div>
+  </div>
+
+
 </div>
 
 <!--- Connect-->
