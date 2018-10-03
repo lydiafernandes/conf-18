@@ -30,13 +30,13 @@
 <div class="row">
     <div class="col-sm-12 container">
         <h4>
-       <p> Bank Holder Name: The Bombay St Xaviers College Society A/C </p>
-       <p> A/C No: 520101011006621. </p>
-       <p> Type of A/C: Saving Account</p>
-       <p> IFSC: CORP0000536 </p>
-       <p> Bank Name: Corporation Bank. </p>
-       <p> Bank Address: Mahapalika Marg Branch Mumbai 400 001 </p>
-       <p>MICR: 400017043. </p>
+       <p> <b> Bank Holder Name: </b> The Bombay St Xaviers College Society A/C </p>
+       <p> <b>A/C No: </b>520101011006621. </p>
+       <p> <b>Type of A/C: </b>Saving Account</p>
+       <p> <b>IFSC:</b> CORP0000536 </p>
+       <p> <b>Bank Name:</b> Corporation Bank. </p>
+       <p> <b>Bank Address:</b> Mahapalika Marg Branch Mumbai 400 001 </p>
+       <p><b>MICR: </b>400017043. </p>
        </h4>
     </div>
 
