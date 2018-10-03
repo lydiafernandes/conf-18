@@ -32,12 +32,12 @@
   
   
   <div class="row">
-    <div class="col-3 bg-success">&nbsp;</div>
-    <div class="col-6 bg-warning">
+    <div class="col-2 bg-success">&nbsp;</div>
+    <div class="col-8 bg-warning">
         <b> 25<sup>th</sup> Oct. 2018: </b><br> 
         Early Bird Registration as Audience and for Abstract Submission.
     </div>
-    <div class="col-3 bg-success">&nbsp;</div>
+    <div class="col-2 bg-success">&nbsp;</div>
   </div>
 
     <div class="row">
