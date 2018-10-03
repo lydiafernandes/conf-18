@@ -44,87 +44,96 @@
         </h4>
 		
 
-		
 		<div class="row">
-        <div class="table-responsive">
-                        <table class="table table-dark table-hover">
-							
+            <div class="table-responsive">
+                <table class="table table-dark table-hover">
 
-                            <thead>
-								<tr class="table-active">
-                                    <th colspan="6" class= "center_cell">Registration Fees</th>
-                                </tr>
-                                <tr>
-                                    <th>Sr. No.</th>
-                                    <th class= "center_cell">Category</th>
-                                    <th colspan = 2 class= "center_cell">Indian (in rupees)
-                                        <i class="fa fa-rupee" style="font-size:36px"></i>
-                                    </th>
-                                    <th colspan = 2 class= "center_cell">
-                                        International (in dollars)  $
-                                    </th>
-                                </tr>
-								<tr>
-									<th></th>
-									<th></th>
-									<th class= "center_cell">Early Bird<br>25.10.2018</th>
-									<th class= "center_cell">After 10.11.2018</th>
-									<th class= "center_cell">Early Bird<br>25.10.2018</th>
-									<th class= "center_cell">After 10.11.2018</th>
-								</tr>
-                            </thead>
-                        
-                            <tbody>
-                                <tr>
-                                    <td>1.</td>
-                                    <td>Authors<br>(Acadmeicians/Scientists/Practitioners)</td>
-                                    <td class= "center_cell">4000/-</td>
-                                    <td class= "center_cell">4500/-</td>
-                                    <td class= "center_cell">250/-</td>
-                                    <td class= "center_cell">275/-</td>
-                                </tr>
-                                <tr>
-                                    <td>2.</td>
-                                    <td>Authors<br>(Research Scholars/Young Scientists)</td>
-                                    <td class= "center_cell">2500/-</td>
-                                    <td class= "center_cell">3000/-</td>
-                                    <td class= "center_cell">200/-</td>
-                                    <td class= "center_cell">225/-</td>
-                                </tr>
-                                <tr>
-                                    <td>3.</td>
-                                    <td>Industry Experts</td>
-                                    <td class= "center_cell">7000/-</td>
-                                    <td class= "center_cell">8000/-</td>
-                                    <td class= "center_cell">300/-</td>
-                                    <td class= "center_cell">325/-</td>
-                                </tr>
-                                <tr>
-                                    <td>4.</td>
-                                    <td>Listeners<br>(Non-authors)</td>
-                                    <td class= "center_cell">2000/</td>
-                                    <td class= "center_cell">2500/-</td>
-                                    <td class= "center_cell">150/-</td>
-                                    <td class= "center_cell">160/-</td>
-                                </tr>
-                                <tr>
-                                    <td>5.</td>
-                                    <td>Listeners<br>(Under-Grad./Post Grad. Students)</td>
-                                    <td class= "center_cell">1200/-</td>
-                                    <td class= "center_cell">1500/-</td>
-                                    <td class= "center_cell">50/-</td>
-                                    <td class= "center_cell">70/-</td>
-                                </tr>
-                                
-                          </tbody>
-                        
-                        </table>
-  
-                    </div>
-					</div>
-			
-			
-		</div> <!-- end of row -->
+
+                    <thead>
+                        <tr class="table-active">
+                            <th colspan = 6 class= "center_cell">Registration Fees</th>
+                        </tr>
+                        <tr>
+                            <th>Sr. No.</th>
+                            <th class= "center_cell">Category</th>
+                            <th colspan = 2 class= "center_cell">Indian (in rupees)
+                             <i class="fa fa-rupee" style="font-size:24px"></i>
+                             </th>
+                            <th colspan = 2 class= "center_cell">International (in dollars) $</th>
+                        </tr>
+                        <tr>
+                           <th></th>
+                           <th></th>
+                           <th class= "center_cell">Early Bird<br>25<sup>th</sup> Oct 2018</th>
+                           <th class= "center_cell">After <br/>10<sup>th</sup> Nov 2018</th>
+                           <th class= "center_cell">Early Bird<br>25<sup>th</sup> Oct 2018</th>
+                           <th class= "center_cell">After <br/>10<sup>th</sup> Nov 2018</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <tr>
+                            <td>1.</td>
+                            <td>Authors<br>(Acadmeicians/Scientists/Practitioners)</td>
+                            <td class= "center_cell">3500/-</td>
+                            <td class= "center_cell">4000/-</td>
+                            <td class= "center_cell">250/-</td>
+                            <td class= "center_cell">275/-</td>
+                        </tr>
+                        <tr>
+                            <td>2.</td>
+                            <td>Authors<br>(Research Scholars/Young Scientists)</td>
+                            <td class= "center_cell">2500/-</td>
+                            <td class= "center_cell">3000/-</td>
+                            <td class= "center_cell">200/-</td>
+                            <td class= "center_cell">225/-</td>
+                        </tr>
+                        <tr>
+                            <td>3.</td>
+                            <td>Industry Experts</td>
+                            <td class= "center_cell">6000/-</td>
+                            <td class= "center_cell">7000/-</td>
+                            <td class= "center_cell">300/-</td>
+                            <td class= "center_cell">325/-</td>
+                        </tr>
+                        <tr>
+                            <td>4.</td>
+                            <td>Listeners<br>(Non-authors)</td>
+                            <td class= "center_cell">2000/</td>
+                            <td class= "center_cell">2500/-</td>
+                            <td class= "center_cell">150/-</td>
+                            <td class= "center_cell">160/-</td>
+                        </tr>
+                        <tr>
+                            <td>5.</td>
+                            <td>Listeners<br>(Under-Grad./Post Grad. Students)</td>
+                            <td class= "center_cell">1200/-</td>
+                            <td class= "center_cell">1500/-</td>
+                            <td class= "center_cell">50/-</td>
+                            <td class= "center_cell">70/-</td>
+                        </tr>
+
+                    </tbody>
+
+                </table>
+
+            </div>
+        </div>
+    </div> <!-- end of row -->
+
+        <div class="row">
+
+        <div class="col-sm-2">&nbsp; </div>
+        <div class="col-sm-8">
+            <p> Kindly note that, 
+            No abstract submissions will be accepted post <b> 10th Nov 2018 </b>, while <b><i>Registration </i></b>
+            as audience will still remain <b><i>open</i></b>
+            </p>
+        </div>
+
+        <div class="col-sm-2">&nbsp; </div>
+
+        </div><!-- end of row -->
 	</div>
 </section>
 
