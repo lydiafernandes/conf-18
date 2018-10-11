@@ -57,7 +57,7 @@
 									<option value="Ms.">Ms.</option>
 									<option value="Prof.">Prof.</option>
 									<option value="DrMBBS">Dr.(MBBS)</option>
-									<option value="DrPhD">Dr.</option>
+									<option value="DrPhD">Dr.(PhD.)</option>
 								</select>
 							</div>
 						</td>
@@ -151,11 +151,11 @@
 						<td>
 							<p> <font color="white"><label> Registration for: <label></p>
 						
-							<input required type="radio" name="purpose" value="Oral">Oral Presentation <br>
+							<input required type="radio" name="purpose" value="Oral">Oral Presentation / Poster <br>
 						
-							<input type="radio" name="purpose" value="Poster">Poster <br>
+							<!-- <input type="radio" name="purpose" value="Poster">Poster <br> -->
 						
-							<input type="radio" name="purpose" value="Audience">Audience
+							<input type="radio" name="purpose" value="Audience">Audience / Attendees
 						</td>
 					</tr>
 				</table>
