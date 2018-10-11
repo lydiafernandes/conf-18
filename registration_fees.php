@@ -74,7 +74,7 @@
                     <tbody>
                         <tr>
                             <td>1.</td>
-                            <td>Authors<span style="color:#36a7e9; font-size:22px;">*</span> <br>(Acadmeicians/Scientists/Practitioners)</td>
+                            <td>Authors<span style="color:#36a7e9; font-size:22px;">#</span> <br>(Acadmeicians/Scientists/Practitioners)</td>
                             <td class= "center_cell">3500/-</td>
                             <td class= "center_cell">4000/-</td>
                             <td class= "center_cell">250/-</td>
@@ -82,7 +82,7 @@
                         </tr>
                         <tr>
                             <td>2.</td>
-                            <td>Authors<span style="color:#36a7e9;font-size:22px;">*</span><br>(Research Scholars/Young Scientists)</td>
+                            <td>Authors<span style="color:#36a7e9;font-size:22px;">#</span><br>(Research Scholars/Young Scientists)</td>
                             <td class= "center_cell">2500/-</td>
                             <td class= "center_cell">3000/-</td>
                             <td class= "center_cell">200/-</td>
@@ -125,11 +125,16 @@
 
         <div class="col-sm-2">&nbsp; </div>
         <div class="col-sm-8"><h3>
-            <p><span style="color:yellow; font-size:30px"><sup>#</sup></span>Kindly note that, 
-            No abstract submissions will be accepted post <b> 10th Nov 2018 </b>, while <b><i>
+            <p>Kindly note:<br>
+            <span style="color:yellow; font-size:30px"><sup>#</sup></span>No abstract submissions will be accepted post <b> 10th Nov 2018 </b>, while <b><i>
             Registration </i></b>
             as Audience / Attendee will still remain <b><i>open</i></b>
-            </p> </h3>
+            </p>
+            <p><span style="color:#36a7e9; font-size:22px"><sup>#</sup></span>The decision for the submitted abstract qualifying to be
+            a Oral Paper presentation or Poster presentation, will be conveyed by email. 
+            </p>
+
+             </h3>
         </div>
 
         <div class="col-sm-2">&nbsp; </div>
