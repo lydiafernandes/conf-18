@@ -125,7 +125,7 @@
 
         <div class="col-sm-2">&nbsp; </div>
         <div class="col-sm-8"><h3>
-            <p><span style="color:red; font-size:20px;">*</span> Kindly note that, 
+            <p><span style="color:yellow; font-size:30px">*</span> Kindly note that, 
             No abstract submissions will be accepted post <b> 10th Nov 2018 </b>, while <b><i>Registration </i></b>
             as audience will still remain <b><i>open</i></b>
             </p> </h3>
