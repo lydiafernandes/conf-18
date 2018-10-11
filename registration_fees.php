@@ -126,8 +126,9 @@
         <div class="col-sm-2">&nbsp; </div>
         <div class="col-sm-8"><h3>
             <p><span style="color:yellow; font-size:30px"><sup>#</sup></span>Kindly note that, 
-            No abstract submissions will be accepted post <b> 10th Nov 2018 </b>, while <b><i>Registration </i></b>
-            as audience will still remain <b><i>open</i></b>
+            No abstract submissions will be accepted post <b> 10th Nov 2018 </b>, while <b><i>
+            Registration </i></b>
+            as Audience / Attendee will still remain <b><i>open</i></b>
             </p> </h3>
         </div>
 
