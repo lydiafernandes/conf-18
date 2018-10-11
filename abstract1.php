@@ -65,14 +65,12 @@
 							<div class="form-group" >
 								<select class="form-control" name="t1" >
 									<option value="" hidden> Designation/Title </option>
-									<option value="Miss">Miss</option>
 									<option value="Mr.">Mr.</option>
 									<option value="Mrs.">Mrs.</option>
 									<option value="Ms.">Ms.</option>
 									<option value="Prof.">Prof.</option>
-									<option value="Dr.">Dr.</option>
-									<option value="Asst. Prof. Dr.">Asst. Prof. Dr.</option>
-									<option value="Assoc. Prof. Dr.">Assoc. Prof. Dr.</option>
+									<option value="DrMBBS">Dr.(MBBS)</option>
+									<option value="DrPhD">Dr.(PhD.)</option>
 								</select>
 							</div>
 						</td>
@@ -119,14 +117,12 @@
 							<div class="form-group" >
 								<select class="form-control" name="t1" >
 									<option value="" hidden> Designation/Title </option>
-									<option value="Miss">Miss</option>
 									<option value="Mr.">Mr.</option>
 									<option value="Mrs.">Mrs.</option>
 									<option value="Ms.">Ms.</option>
 									<option value="Prof.">Prof.</option>
-									<option value="Dr.">Dr.</option>
-									<option value="Asst. Prof. Dr.">Asst. Prof. Dr.</option>
-									<option value="Assoc. Prof. Dr.">Assoc. Prof. Dr.</option>
+									<option value="DrMBBS">Dr.(MBBS)</option>
+									<option value="DrPhD">Dr.(PhD.)</option>
 								</select>
 							</div>
 						</td>
@@ -174,14 +170,12 @@
 							<div class="form-group" >
 								<select class="form-control" name="t1" >
 									<option value="" hidden> Designation/Title </option>
-									<option value="Miss">Miss</option>
 									<option value="Mr.">Mr.</option>
 									<option value="Mrs.">Mrs.</option>
 									<option value="Ms.">Ms.</option>
 									<option value="Prof.">Prof.</option>
-									<option value="Dr.">Dr.</option>
-									<option value="Asst. Prof. Dr.">Asst. Prof. Dr.</option>
-									<option value="Assoc. Prof. Dr.">Assoc. Prof. Dr.</option>
+									<option value="DrMBBS">Dr.(MBBS)</option>
+									<option value="DrPhD">Dr.(PhD.)</option>
 								</select>
 							</div>
 						</td>
@@ -228,14 +222,12 @@
 							<div class="form-group" >
 								<select class="form-control" name="t1" >
 									<option value="" hidden> Designation/Title </option>
-									<option value="Miss">Miss</option>
 									<option value="Mr.">Mr.</option>
 									<option value="Mrs.">Mrs.</option>
 									<option value="Ms.">Ms.</option>
 									<option value="Prof.">Prof.</option>
-									<option value="Dr.">Dr.</option>
-									<option value="Asst. Prof. Dr.">Asst. Prof. Dr.</option>
-									<option value="Assoc. Prof. Dr.">Assoc. Prof. Dr.</option>
+									<option value="DrMBBS">Dr.(MBBS)</option>
+									<option value="DrPhD">Dr.(PhD.)</option>
 								</select>
 							</div>
 						</td>
@@ -282,14 +274,12 @@
 							<div class="form-group" >
 								<select class="form-control" name="t1" >
 									<option value="" hidden> Designation/Title </option>
-									<option value="Miss">Miss</option>
 									<option value="Mr.">Mr.</option>
 									<option value="Mrs.">Mrs.</option>
 									<option value="Ms.">Ms.</option>
 									<option value="Prof.">Prof.</option>
-									<option value="Dr.">Dr.</option>
-									<option value="Asst. Prof. Dr.">Asst. Prof. Dr.</option>
-									<option value="Assoc. Prof. Dr.">Assoc. Prof. Dr.</option>
+									<option value="DrMBBS">Dr.(MBBS)</option>
+									<option value="DrPhD">Dr.(PhD.)</option>
 								</select>
 							</div>
 						</td>
