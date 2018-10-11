@@ -65,9 +65,9 @@
                            <th></th>
                            <th></th>
                            <th class= "center_cell">Early Bird<br>Before<br>1<sup>st</sup> Nov 2018</th>
-                           <th class= "center_cell">After<span style="color:yellow; font-size:25px;">#</span> <br/>1<sup>st</sup> Nov 2018</th>
+                           <th class= "center_cell">After<span style="color:yellow; font-size:22px;">#</span> <br/>1<sup>st</sup> Nov 2018</th>
                            <th class= "center_cell">Early Bird<br>Before<br>1<sup>st</sup> Nov 2018</th>
-                           <th class= "center_cell">After <span style="color:yellow; font-size:25px;">#</span> <br/>1<sup>st</sup> Nov 2018</th>
+                           <th class= "center_cell">After<span style="color:yellow; font-size:22px;">#</span> <br/>1<sup>st</sup> Nov 2018</th>
                         </tr>
                     </thead>
 
