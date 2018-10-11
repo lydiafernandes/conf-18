@@ -74,7 +74,7 @@
                     <tbody>
                         <tr>
                             <td>1.</td>
-                            <td>Authors<br>(Acadmeicians/Scientists/Practitioners)</td>
+                            <td>Authors<span style="color:#36a7e9; font-size:22px;">*</span> <br>(Acadmeicians/Scientists/Practitioners)</td>
                             <td class= "center_cell">3500/-</td>
                             <td class= "center_cell">4000/-</td>
                             <td class= "center_cell">250/-</td>
@@ -82,7 +82,7 @@
                         </tr>
                         <tr>
                             <td>2.</td>
-                            <td>Authors<br>(Research Scholars/Young Scientists)</td>
+                            <td>Authors<span style="color:#36a7e9;font-size:22px;">*</span><br>(Research Scholars/Young Scientists)</td>
                             <td class= "center_cell">2500/-</td>
                             <td class= "center_cell">3000/-</td>
                             <td class= "center_cell">200/-</td>
@@ -98,7 +98,7 @@
                         </tr>
                         <tr>
                             <td>4.</td>
-                            <td>Listeners<br>(Non-authors)</td>
+                            <td>Listeners /Attendee /Audience<br>(Non-authors)</td>
                             <td class= "center_cell">2000/</td>
                             <td class= "center_cell">2500/-</td>
                             <td class= "center_cell">150/-</td>
@@ -106,7 +106,7 @@
                         </tr>
                         <tr>
                             <td>5.</td>
-                            <td>Listeners<br>(Under-Grad./Post Grad. Students)</td>
+                            <td>Listeners /Attendee /Audience<br>(Under-Grad./Post Grad. Students)</td>
                             <td class= "center_cell">1200/-</td>
                             <td class= "center_cell">1500/-</td>
                             <td class= "center_cell">50/-</td>
