@@ -131,7 +131,7 @@
             as Audience / Attendee will still remain <b><i>open</i></b>
             </p>
             <p><span style="color:#36a7e9; font-size:30px"><sup>#</sup></span>The decision for the submitted abstract qualifying to be
-            a Oral Paper presentation or Poster presentation, will be conveyed by email. 
+            an Oral Paper presentation or Poster presentation, will be conveyed by email. 
             </p>
 
              </h3>
