@@ -155,7 +155,7 @@
 						
 							<!-- <input type="radio" name="purpose" value="Poster">Poster <br> -->
 						
-							<input type="radio" name="purpose" value="Audience">Audience / Attendees
+							<input type="radio" name="purpose" value="Audience">Audience / Attendee
 						</td>
 					</tr>
 				</table>
