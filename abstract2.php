@@ -70,22 +70,20 @@ echo $head; echo "<br>";
 				</legend>
 				
 				Before you begin<br>
-
-1.	The abstract should contain the objectives, methods, results and conclusions so that the scientific committee could evaluate the quality of the work.<br>
-2.	The abstract (exceeding the title and author information) should not exceed 250 words.<br>
-3.	The title should reflect the content of the abstract.  <br>
-4.	The abstract should be divided into: Background (should include the purpose of the study), Methodology, Major findings and Conclusions.<br>
-5.	The authors must accept sole responsibility for the statements in their submitted abstract. The conference committee will use the submitted abstract as such for the proceedings and will not be responsible for any errors in the abstract.<br>
-6.	Figures, supplementary information and tables are not permitted in the abstract.<br>
-7.	References section can be avoided.<br>
-8.	Abbreviations may be used in the abstract and should be defined at their first mention.<br>
-9.	Abstracts may be submitted for oral or poster presentation. However, the scientific review committee will decide the acceptance of oral presentation based on the quality and scientific relevance of the study. <br>
-10.	The corresponding authors of accepted abstracts will receive confirmation of the abstract acceptances.<br>
-11.	A maximum of 5 authors may be specified in the online abstract submission process; however, a presentation at the scientific meeting may have more than 5 authors. <br>
-12.	All abstracts will be assigned an identification number which should be used for all communications about an abstract.<br>
-13.	The presenter of each accepted abstract must register for the scientific meeting in the standard fashion.<br>
-14.	The name of the presenting author should be underlined in the abstract <br>
-15.	All decisions of the Conference Committees are final.<br>
+1. Abstract should be concise(minimum 250 words) giving only the highlights of research work. <br>
+2. Graphs, figures or tables are NOT PERMITTED in the abstract. <br>
+3. Title should be in Capital letters. <br>
+4. keywords are to be mentioned at the end of abstract. <br> 
+5. The authors must accept sole responsibility for the statements in their submitted abstract. 
+The conference committee will use the submitted abstract as such for the proceedings and will not be
+ responsible for any errors in the abstract. <br>
+6. Abstracts may be submitted for oral or poster presentation. However, the scientific review 
+committee will decide the acceptance of oral presentation based on the quality and scientific
+ relevance of the study. <br> 
+7.  The corresponding authors of accepted abstracts will receive confirmation of the
+ abstract acceptances. <br>
+8. All abstracts will be assigned an identification number which 
+should be used for all communications about an abstract.
 	
 	<legend>
 		<p> <font color="white">	<h4> Abstract </h4></p>
