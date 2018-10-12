@@ -14,8 +14,8 @@
 
         <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script><script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 
-    <link rel = "stylesheet" href = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
-	<script src = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    
+    
          <!-- this file is included in the externa file -->
         
         <link rel="stylesheet" type="text/css" href="css/style_schedule.css">
