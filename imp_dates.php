@@ -35,7 +35,7 @@
     <div class="col-2 bg-success">&nbsp;</div>
     <div class="col-8 bg-warning">
 
-       <h3>  25<sup>th</sup> Oct. 2018: </h3> 
+       <h3> Till, 31<sup>st</sup> Oct. 2018: </h3> 
         <h5> Early Bird Registration as Audience and for Abstract Submission. </h5>
     </div>
     <div class="col-2 bg-success">&nbsp;</div>
