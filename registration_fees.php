@@ -12,16 +12,14 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 
-       
- <!-- fontawesome will allow us to create icons in tde input sections -->
- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/solid.css">
+        <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script><script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 
-<!-- downlading a font awesome for creating an icon in tde login-->
-<script src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
-      <!-- this file is included in the externa file -->
-        <link rel="stylesheet" type="text/css" href="css/style.css"> 
-        <link rel="stylesheet" type="text/css" href="css/style_schedule.css">
+    <link rel = "stylesheet" href = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+	<script src = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+         <!-- this file is included in the externa file -->
         
+        <link rel="stylesheet" type="text/css" href="css/style_schedule.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css"> 
 		<style>
 			.center_cell{
 				text-align:center;
