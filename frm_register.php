@@ -56,7 +56,7 @@
 									<option value="Mrs.">Mrs.</option>
 									<option value="Ms.">Ms.</option>
 									<option value="Prof.">Prof.</option>
-									<option value="DrMBBS">Dr.(MBBS)</option>
+									<option value="Dr">Dr.</option>
 									<option value="DrPhD">Dr.(PhD.)</option>
 								</select>
 							</div>

@@ -36,7 +36,7 @@
          <td> <li> Cell-Biology   </li> </td>
       </tr>
       <tr>
-        <td> <li> Alternative Medicine( Ayurveda/ Yunani/ Homeopathic) </li> </td>
+        <td> <li> Alternative Medicine( Ayurveda/ Unani/ Homeopathic) </li> </td>
         <td> <li> Nuclear Medicine  </li> </td>
       </tr>
       <tr>
