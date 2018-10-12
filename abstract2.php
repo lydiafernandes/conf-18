@@ -70,7 +70,7 @@ echo $head; echo "<br>";
 				</legend>
 				
 				Before you begin<br>
-1. Abstract should be concise (minimum 500 words) giving only the highlights of research work. <br>
+1. Abstract should be concise (between 300 to 500 words) giving only the highlights of research work. <br>
 2. Graphs, figures or tables are NOT PERMITTED in the abstract. <br>
 3. Title should be in Capital letters. <br>
 4. Keywords are to be mentioned at the end of abstract. <br> 
