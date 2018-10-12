@@ -64,10 +64,10 @@
                         <tr>
                            <th></th>
                            <th></th>
-                           <th class= "center_cell">Early Bird<br>Before<br>1<sup>st</sup> Nov 2018</th>
-                           <th class= "center_cell">After<span style="color:yellow; font-size:22px;">#</span> <br/>1<sup>st</sup> Nov 2018</th>
-                           <th class= "center_cell">Early Bird<br>Before<br>1<sup>st</sup> Nov 2018</th>
-                           <th class= "center_cell">After<span style="color:yellow; font-size:22px;">#</span> <br/>1<sup>st</sup> Nov 2018</th>
+                           <th class= "center_cell">Early Bird<br>Till<br>31<sup>st</sup> Oct 2018</th>
+                           <th class= "center_cell">From<span style="color:yellow; font-size:22px;">#</span> <br/>1<sup>st</sup> Nov 2018</th>
+                           <th class= "center_cell">Early Bird<br>Till<br>31<sup>st</sup> Oct 2018</th>
+                           <th class= "center_cell">From<span style="color:yellow; font-size:22px;">#</span> <br/>1<sup>st</sup> Nov 2018</th>
                         </tr>
                     </thead>
 
