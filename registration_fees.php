@@ -76,7 +76,7 @@
                     <tbody>
                         <tr>
                             <td>1.</td>
-                            <td>Authors<span style="color:#36a7e9; font-size:22px;">#</span> <br>(Acadmeicians/Scientists/Practitioners)</td>
+                            <td>Authors<span style="color:#36a7e9; font-size:22px;">#</span> <br>(Academicians/Scientists/Practitioners)</td>
                             <td class= "center_cell">3500/-</td>
                             <td class= "center_cell">4000/-</td>
                             <td class= "center_cell">250/-</td>
