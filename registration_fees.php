@@ -84,7 +84,7 @@
                         </tr>
                         <tr>
                             <td>2.</td>
-                            <td>Authors<span style="color:#36a7e9;font-size:22px;">#</span><br>(Research Scholars/Young Scientists)</td>
+                            <td>Authors<span style="color:#36a7e9;font-size:22px;">#</span><br>(Masters/Ph.D candidates)</td>
                             <td class= "center_cell">2500/-</td>
                             <td class= "center_cell">3000/-</td>
                             <td class= "center_cell">200/-</td>
