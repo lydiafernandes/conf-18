@@ -128,8 +128,8 @@
         <div class="col-sm-2">&nbsp; </div>
         <div class="col-sm-8"><h3>
             <p>Kindly note:<br>
-            <span style="color:yellow; font-size:30px"><sup>#</sup></span>No abstract submissions will be accepted post <b> 10th Nov 2018 </b>, while <b><i>
-            Registration </i></b>
+            <span style="color:yellow; font-size:30px"><sup>#</sup></span>No abstract submissions will 
+            be accepted post <b> 20th Nov 2018 </b>, while <b><i> Registration </i></b>
             as Audience / Attendee will still remain <b><i>open</i></b>
             </p>
             <p><span style="color:#36a7e9; font-size:30px"><sup>#</sup></span>The decision for the submitted abstract qualifying to be

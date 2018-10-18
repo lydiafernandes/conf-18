@@ -44,7 +44,7 @@
     <div class="row">
         <div class="col-2 bg-success">&nbsp;</div>
          <div class="col-8 bg-warning">
-        <h3> 10<sup>th</sup> Nov. 2018: </h3> 
+        <h3> 20<sup>th</sup> Nov. 2018: </h3> 
             <h5> Last date for Abstract Submission </h5>
         </div>
         <div class="col-2 bg-success">&nbsp;</div>
