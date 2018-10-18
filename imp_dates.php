@@ -16,11 +16,10 @@
 
         <!-- this file is included in the externa file -->
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
-        <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'> 
-       
-        <style>
+        <link href='https://fonts.googleapis.com/css?family=Electrolize' rel='stylesheet'>
+<style>
 body {
-    font-family: 'Sofia';font-size: 22px;
+    font-family: 'Electrolize';
 }
 </style>
 
