@@ -44,13 +44,13 @@
   
   
   <div class="row">
-    <div class="col-2 bg-success">&nbsp;</div>
+    
     <div class="col-8 bg-warning">
 
        <p class="date_title"> Till, 10<sup>th</sup> Nov. 2018: </p> 
         <p class="date_content"> Early Bird Registration as Audience and for Abstract Submission. </p>
     </div>
-    <div class="col-2 bg-success">&nbsp;</div>
+    <div class="col-4 bg-success">&nbsp;</div>
   </div>
 
     <div class="row">
@@ -63,12 +63,11 @@
   </div>
 
     <div class="row">
-        <div class="col-2 bg-success">&nbsp;</div>
+        <div class="col-4 bg-success">&nbsp;</div>
          <div class="col-8 bg-warning">
          <p class="date_title"> <b> 9<sup>th</sup> Jan. 2019 </b> to <b> 11 <sup>th</sup> Jan. 2019: </b></p>
          <p class="date_content">Conference </p>
         </div>
-        <div class="col-2 bg-success">&nbsp;</div>
   </div>
 
 
