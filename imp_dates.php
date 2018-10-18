@@ -18,7 +18,7 @@
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
         <link href='https://fonts.googleapis.com/css?family=Electrolize' rel='stylesheet'>
 <style>
-.container-fluid {
+.my_content {
     font-family: 'Electrolize';
 }
 </style>
@@ -30,7 +30,7 @@
 
 
 <!-- -------------------------------------------------->
-<div class="container-fluid">
+<div class="container-fluid my_content">
   <h2 style="text-align:center">Important Dates </h2>
   
   
