@@ -16,9 +16,13 @@
 
         <!-- this file is included in the externa file -->
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
-        
+        <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'> 
        
-
+        <style>
+body {
+    font-family: 'Sofia';font-size: 22px;
+}
+</style>
 
 </head>
 <body> 
@@ -28,14 +32,14 @@
 
 <!-- -------------------------------------------------->
 <div class="container-fluid">
-  <h2>Important Dates </h2>
+  <h2 style="text-align:center">Important Dates </h2>
   
   
   <div class="row">
     <div class="col-2 bg-success">&nbsp;</div>
     <div class="col-8 bg-warning">
 
-       <h3> Till, 31<sup>st</sup> Oct. 2018: </h3> 
+       <h3> Till, 10<sup>th</sup> Nov. 2018: </h3> 
         <h5> Early Bird Registration as Audience and for Abstract Submission. </h5>
     </div>
     <div class="col-2 bg-success">&nbsp;</div>
