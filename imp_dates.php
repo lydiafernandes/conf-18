@@ -18,7 +18,7 @@
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
         <link href='https://fonts.googleapis.com/css?family=Electrolize' rel='stylesheet'>
 <style>
-body {
+.container-fluid {
     font-family: 'Electrolize';
 }
 </style>
