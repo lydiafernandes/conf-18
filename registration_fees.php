@@ -66,10 +66,10 @@
                         <tr>
                            <th></th>
                            <th></th>
-                           <th class= "center_cell">Early Bird<br>Till<br>31<sup>st</sup> Oct 2018</th>
-                           <th class= "center_cell">From<span style="color:yellow; font-size:22px;">#</span> <br/>1<sup>st</sup> Nov 2018</th>
-                           <th class= "center_cell">Early Bird<br>Till<br>31<sup>st</sup> Oct 2018</th>
-                           <th class= "center_cell">From<span style="color:yellow; font-size:22px;">#</span> <br/>1<sup>st</sup> Nov 2018</th>
+                           <th class= "center_cell">On or<br>Before<br>10<sup>th</sup> Nov 2018</th>
+                           <th class= "center_cell">After<span style="color:yellow; font-size:22px;">#</span> <br/>10<sup>th</sup> Nov 2018</th>
+                           <th class= "center_cell">On or<br>Before<br>10<sup>th</sup> Nov 2018</th>
+                           <th class= "center_cell">After<span style="color:yellow; font-size:22px;">#</span> <br/>10<sup>th</sup> Nov 2018</th>
                         </tr>
                     </thead>
 
@@ -100,7 +100,7 @@
                         </tr>
                         <tr>
                             <td>4.</td>
-                            <td>Listeners /Attendee /Audience<br>(Non-authors)</td>
+                            <td>Attendee /Audience<br>(Non-authors)</td>
                             <td class= "center_cell">2000/</td>
                             <td class= "center_cell">2500/-</td>
                             <td class= "center_cell">150/-</td>
@@ -108,7 +108,7 @@
                         </tr>
                         <tr>
                             <td>5.</td>
-                            <td>Listeners /Attendee /Audience<br>(Under-Grad./Post Grad. Students)</td>
+                            <td>Attendee /Audience<br>(Under-Grad./Post Grad. Students)</td>
                             <td class= "center_cell">1200/-</td>
                             <td class= "center_cell">1500/-</td>
                             <td class= "center_cell">50/-</td>
