@@ -24,9 +24,47 @@
 
 .date_title{
     font-size:36px;
+    text-decoration:underline;
 }
 .date_content{
     font-size:28px;
+}
+
+.wrapper { 
+  /*height: 100%;
+  width: 100%;
+  left:0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  position: absolute;*/
+background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+/*background-size: 1800% 1800%;*/
+
+-webkit-animation: rainbow 18s ease infinite;
+-z-animation: rainbow 18s ease infinite;
+-o-animation: rainbow 18s ease infinite;
+  animation: rainbow 18s ease infinite;}
+
+@-webkit-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-moz-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-o-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@keyframes rainbow { 
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
 }
 </style>
 
@@ -38,11 +76,11 @@
 
 <!-- -------------------------------------------------->
 <div class="container-fluid my_content">
-  <h2 style="text-align:center">Important Dates </h2>
+  <h1 style="text-align:center">Important Dates </h1>
   
   
   <div class="row">
-    <div class="col-2 bg-success">&nbsp;</div>
+    <div class="col-2 wrapper">&nbsp;</div>
     <div class="col-8 bg-warning">
 
        <p class="date_title"> Till, 10<sup>th</sup> Nov. 2018: </p> 
