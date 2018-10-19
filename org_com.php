@@ -59,7 +59,7 @@
 
 <!-- -------------------------------------------------->
 	<div class="container-fluid">
-		<h1 style="text-align:center"> International Science Conference 2019-2020 </h1>
+		<h1 style="text-align:center"> International Science Conference 2019 </h1>
 <!-- row 1 begins -->
 		<div class="row">
 			<div class="col-sm-4" style="background-color:#cbcdd9;"> &nbsp; </div>	
