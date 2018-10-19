@@ -70,19 +70,18 @@ echo $head; echo "<br>";
 				</legend>
 				
 				Before you begin<br>
-1. Abstract should be concise (between 300 to 500 words) giving only the highlights of research work. <br>
+1. Abstract should be concise (between 400 to 700 words) giving only the highlights of research work. <br>
 2. Graphs, figures or tables are NOT PERMITTED in the abstract. <br>
-3. Title should be in Capital letters. <br>
-4. Keywords are to be mentioned at the end of abstract. <br> 
-5. The authors must accept sole responsibility for the statements in their submitted abstract. 
-The conference committee will use the submitted abstract as such for the proceedings and will not be
+3. Keywords are to be mentioned at the end of abstract. <br> 
+4. The authors must accept sole responsibility for the statements in their submitted abstract. 
+ The conference committee will use the submitted abstract as such for the proceedings and will not be
  responsible for any errors in the abstract. <br>
-6. Abstracts may be submitted for oral or poster presentation. However, the scientific review 
+5. Abstracts may be submitted for oral or poster presentation. However, the scientific review 
 committee will decide the acceptance of oral presentation based on the quality and scientific
  relevance of the study. <br> 
-7. The corresponding authors of accepted abstracts will receive confirmation of the
+6. The corresponding authors of accepted abstracts will receive confirmation of the
  abstract acceptances. <br>
-8. All abstracts will be assigned an identification number which 
+7. All abstracts will be assigned an identification number which 
 should be used for all communications about an abstract.
 	
 	<legend>

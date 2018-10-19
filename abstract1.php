@@ -49,7 +49,7 @@
 				<table>
 					<tr>
 						<div class="form-group">
-						<input type="text" name="head" class="form-control" placeholder="Title of Abstract" >
+						<input type="text" name="head" class="form-control" placeholder="Title of Abstract (IN CAPITAL CASE)" >
 						</div>
 					</tr>
 				</table>
