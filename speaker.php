@@ -155,7 +155,7 @@
 				<img class="card-img-top" src="img/speakersnewdimensions/Renjith_New.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Renjith P Nair, PhD </h4>
-					<p class="card-text"> Lecturer in molecular oncology, Malabar Cancer Centre, Thalassery, India</p>
+					<p class="card-text"> Scientist, Sree Sree Chitra Tirunal Institute for Medical Science and Technology Thiruvananthapuram, India.</p>
 					<a href="nair.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
