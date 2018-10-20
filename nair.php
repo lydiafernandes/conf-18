@@ -73,7 +73,7 @@
    <h3 class="margin">
       <a name="top"> Dr. Renjtih P Nair Ph.D.</a>
     </h3>
-  <h4> Lecturer in molecular oncology, Malabar Cancer Centre, Thalassery, India.
+  <h4>Scientist, Sree Sree Chitra Tirunal Institute for Medical Science and Technology Thiruvananthapuram, India.
   </h4>
 </div>
 
@@ -86,8 +86,15 @@
     
      <p style="display:none;">  
      <!-- speaker content goes here -->
-			Dr. Renjith, is involved in the molecular diagnosis of different cancer types. He is a recipient of several awards and fellowships from KSCSTE, CSIR, ICMR and JNCASR. His areas of research are personalized therapy, tissue engineering, gene therapy, protein engineering, drug repurposing and molecular oncology. He had several publications in peer reviewed high impact international journals. He delivered several invited talks in national and international conferences. He is a reviewer of several international journals including RSC Advances, Artificial Organs, Biomedical Materials and Journal of Applied polymer Science.
-     
+     Dr Renjith P Nair obtained PhD from Sree Chitra Tirunal Institute for medical Science and
+Technology in 2014 and post-doctoral training at Louisiana State University Health Science
+Centre, USA. He worked as a faculty in molecular oncology at Malabar Cancer Centre, India.
+Presently he is a Scientist at SCTIMST, Thiruvananthapuram. He is a recipient of several
+awards and fellowships from KSCSTE, CSIR, ICMR and JNCASR and has 12 high impact
+publications to his credit. His areas of research are personalized therapy, tissue engineering
+and drug repurposing. He has been a resource person to various International and National
+seminar and conferences. He is a reviewer of several international journals including RSC
+Advances, Artificial Organs, Biomedical Materials and Journal of Applied polymer Science.
             <a href="#top" class="btn btn-outline-light btn-lg">Top</a>
     
         </p>
