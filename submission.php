@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <HTML>
     <head>
-        <title> Contact Us </title>
+        <title> Abstract Submission Guidelines </title>
         <meta charset="utf-8">
     	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,6 +16,7 @@
 
         <!-- this file is included in the externa file -->
         <link rel="stylesheet" type="text/css" href="css/style.css"> 
+        <link rel="stylesheet" type="text/css" href="css/style_index.css">
         
        
 
