@@ -28,13 +28,57 @@
 
 
 <!-- -------------------------------------------------->
-<div class="col-sm-8 main-section"> 
+<div class="col-sm-10 main-section"> 
 	<div class="modal-content">
         <legend>
 			<h4 style="color:white">
-                 GENERAL GUIDELINES FOR ABSTRACT SUBMISSION
+                 ONLINE ABSTRACT SUBMISSION SYSTEM
             </h4>
 		</legend>
+
+
+        <p>
+        For abstract submission either for poster or oral papers, please follow the two steps detailed below.
+        <ul>
+            <li> visit the <a href=" registration page      
+       </p>
+
+        <ol>
+            <li>Delegates are invited to submit abstracts for oral paper / poster presentations. 
+            Two of the best submissions shall be selected for the Best Paper Award Presentations. 
+            </li>
+
+            <li>All presenting authors must register for the Conference.</li>
+
+            <li>Abstract submission will only be considered complete after payment of registration fees.
+             If the abstract is subsequently not accepted for presentation, the registration fee will be refunded if cancellation is requested.
+            </li>
+
+            <li> Abstracts must be in English. </li>
+
+            <li>The title (in full capitals) should be concise yet bear sufficient details to identify the nature of the study.
+
+            <li> Abstract body should be concise (between 400 to 700 words) giving only the highlights of research work. 
+            </li>
+
+            <li> Graphs, figures or tables are NOT PERMITTED in the abstract. </li>
+
+            <li>
+            Drugs should be given in generic terms (in small letters) at first mention in the text, to be followed 
+            by the proprietary name (capitalised) if desired.
+            </li>
+
+            <li>  Keywords: It is mandatory to mention 5 keywords at the end of abstract, 
+            in the space provided for the same. 
+            </li>
+
+            <li>
+                On Successful submission of the abstract, a unque ID will be generated.
+                This ID must be used as a reference for all future correspondence
+            </li>
+        </ol>
+
+
     </div>
 </div> <!-- end of parent div -->
   			
