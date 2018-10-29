@@ -90,9 +90,12 @@
      Dr. Oormila Kovilam completed her medical school and post graduation education in Kasturba medical
       college, Manipal India. She furthered her scientific training for basic Science research at 
       Columbia university in New York and underwent extensive clinical training in the field of 
-      Internal medicine, OBGYN, Critical care and a fellowship in Maternal fetal medicine in various
+      Internal medicine, OBGYN, Critical care and a fellowship in Maternal fetal medicine in 
+      various
        prestigious universities including Mount Sianai New york and University of Cincinnati Ohio. 
-       She worked in the field of academics and clinical Medicine and was a mentor to several students both graduates and postgraduates in the field of Obstetrics and gynecology.She was one of the investigators for several NIH funded research projects in Diabetes in pregnancy and various other projects associated with High risk pregnancies.She has several publication to her credit in peer reviewed journals.
+       She worked in the field of academics and clinical Medicine and was a mentor to several students 
+       both graduates and postgraduates in the field of Obstetrics and gynecology. She was one of the 
+       investigators for several NIH funded research projects in Diabetes in pregnancy and various other projects associated with High risk pregnancies.She has several publication to her credit in peer reviewed journals.
 <br> She has been recognized with several awards for her contributions in clinical organizations, research teaching and mentorship.
 <br> She has been named the "Go to Person that sees projects through completion and the glue that holds the team together".Her current research interest includes diabetes in pregnancy, multifetal gestation,
 and fetal programming of adult diseases. 
