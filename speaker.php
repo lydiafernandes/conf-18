@@ -39,53 +39,60 @@
 
 <!--- Cards -->
 <div  class="container-fluid padding">
-	<div class="row padding">
 
-		<!-- FIRST CARD APPEARS HERE -->
-		<div class="col-md-4">
-			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/dk_agarwal.png">
-				<div class="card-body">
-					<h4 class="card-title"> Dr. Devendra K. Agrawal  </h4>
-					<p class="card-text"> Ph.D. (Biochem), Ph.D. (Med. Sciences), MBA, MS (ITM), FAAAAI, FAHA, FAPS, FIACS
-						Professor and Chairman
-						Department of Clinical &amp; Translational Science, USA
+	<!-- ROW 1 begins -------------------------------------- -->
 
-                    </p>
-					<a href="dka.php" class="btn btn-outline-secondary">See Profile</a>
+		<div class="row padding">
+
+			<!-- ROW 1 - FIRST CARD APPEARS HERE -->
+			<div class="col-md-4">
+				<div class="card">
+					<img class="card-img-top" src="img/speakersnewdimensions/dk_agarwal.png">
+					<div class="card-body">
+						<h4 class="card-title"> Dr. Devendra K. Agrawal  </h4>
+						<p class="card-text"> Ph.D. (Biochem), Ph.D. (Med. Sciences), MBA, MS (ITM), FAAAAI, FAHA, FAPS, FIACS
+							Professor and Chairman
+							Department of Clinical &amp; Translational Science, USA
+
+                    	</p>
+						<a href="dka.php" class="btn btn-outline-secondary">See Profile</a>
+					</div>
 				</div>
 			</div>
-		</div>
 
-		<!-- SECOND CARD APPEARS HERE -->
-		<div class="col-md-4">
-			<div class="card">
+		<!-- ROW 1 - SECOND CARD APPEARS HERE -->
+			<div class="col-md-4">
+				<div class="card">
 				<img class="card-img-top" src="img/speakersnewdimensions/Daniel_Wilson_New.png">
-				<div class="card-body">
-					<h4 class="card-title"> Dr. Daniel R. Wilson, M.D., Ph.D. </h4>
-					<p class="card-text"> A pioneer in Evolutionary Neuroscience, Currently he is the President of Western University of Health Sciences, Pomona, California USA.</p>
-					<a href="wilson.php" class="btn btn-outline-secondary">See Profile</a>
+					<div class="card-body">
+						<h4 class="card-title"> Dr. Daniel R. Wilson, M.D., Ph.D. </h4>
+						<p class="card-text"> A pioneer in Evolutionary Neuroscience, Currently he is the President of Western University of Health Sciences, Pomona, California USA.</p>
+						<a href="wilson.php" class="btn btn-outline-secondary">See Profile</a>
+					</div>
 				</div>
 			</div>
-		</div>
 
-		<!-- THIRD CARD APPEARS HERE -->
-		<div class="col-md-4">
-			<div class="card">
+		<!-- ROW 1 - THIRD CARD APPEARS HERE -->
+			<div class="col-md-4">
+				<div class="card">
 				<img class="card-img-top" src="img/Ramesh_Goyal.png">
-				<div class="card-body">
-					<h4 class="card-title"> Dr. Ramesh K. Goyal </h4>
-					<p class="card-text"> Member of Task Force, Committee for Herbal Group, 
-					Indian Council of Medical research ,Member,
-					 Indian Pharmacopoeia Commission, CDSCO, Govt. of India.
+					<div class="card-body">
+						<h4 class="card-title"> Dr. Ramesh K. Goyal </h4>
+						<p class="card-text"> Member of Task Force, Committee for Herbal Group, 
+							Indian Council of Medical research ,Member,
+					 		Indian Pharmacopoeia Commission, CDSCO, Govt. of India.
 
-                    </p>
-					<a href="goyal.php" class="btn btn-outline-secondary">See Profile</a>
+                    	</p>
+						<a href="goyal.php" class="btn btn-outline-secondary">See Profile</a>
+					</div>
 				</div>
 			</div>
+
 		</div>
 
-	</div>
+	<!-- ROW 1 ends ---------------------------------------->
+
+	<!-- ROW 2 BEGINS ---------------------------------------->
 
 	<div class="row padding">
 
@@ -133,93 +140,96 @@
 		</div>
 
 	</div>
+    <!-- ROW 2 ENDS ---------------------------------------->
 
-<!--------------------- row 3 begins ------------ -->
-<div class="row padding">
+<!--------------------- ROW 3 BEGINS ------------ -->
+	<div class="row padding">
 
 		<!-- ROW 3-FIRST CARD APPEARS HERE -->
-		<div class="col-md-4">
-			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Sorab_New.png">
-				<div class="card-body">
-					<h4 class="card-title"> Dr. Sorab Nariman Dalal.</h4>
-					<p class="card-text"> Scientific Officer ‘G’, Associate Professor - HBNI, Tata Memorial Centre</p>
-					<a href="sorab.php" class="btn btn-outline-secondary">See Profile</a>
+			<div class="col-md-4">
+				<div class="card">
+					<img class="card-img-top" src="img/speakersnewdimensions/Sorab_New.png">
+					<div class="card-body">
+						<h4 class="card-title"> Dr. Sorab Nariman Dalal.</h4>
+						<p class="card-text"> Scientific Officer ‘G’, Associate Professor - HBNI, Tata Memorial Centre</p>
+						<a href="sorab.php" class="btn btn-outline-secondary">See Profile</a>
+					</div>
 				</div>
 			</div>
-		</div>
 
 		<!-- ROW 3 - SECOND CARD APPEARS HERE -->
-		<div class="col-md-4">
-			<div class="card">
+			<div class="col-md-4">
+				<div class="card">
 				<img class="card-img-top" src="img/speakersnewdimensions/Renjith_New.png">
-				<div class="card-body">
-					<h4 class="card-title"> Dr. Renjith P Nair, PhD </h4>
-					<p class="card-text"> Scientist, Sree Sree Chitra Tirunal Institute for Medical Science and Technology Thiruvananthapuram, India.</p>
-					<a href="nair.php" class="btn btn-outline-secondary">See Profile</a>
+					<div class="card-body">
+						<h4 class="card-title"> Dr. Renjith P Nair, PhD </h4>
+						<p class="card-text"> Scientist, Sree Sree Chitra Tirunal Institute for Medical Science and Technology Thiruvananthapuram, India.</p>
+						<a href="nair.php" class="btn btn-outline-secondary">See Profile</a>
+					</div>
 				</div>
 			</div>
-		</div>
 
 		<!--ROW 3- THIRD CARD APPEARS HERE -->
 		
+			<div class="col-md-4">
+				<div class="card">
+					<img class="card-img-top" src="img/speakersnewdimensions/Rajmohan_New.png">
+					<div class="card-body">
+						<h4 class="card-title"> Dr. Rajmohan V.</h4>
+						<p class="card-text"> Asst. Professor with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) 
+						and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</p>
+						<a href="rajmohan.php" class="btn btn-outline-secondary">See Profile</a>
+					</div>
+				</div>
+			</div>
+
+	</div>
+
+<!-- ROW 3 ENDS ---------------------------------------->
+
+<!-- ROW 4 BEGINS -------------------------------------------------->
+	<div class="row padding">
+
+			<!-- ROW -4 -FIRST CARD APPEARS HERE -->
+			<div class="col-md-4">
+				<div class="card">
+					<img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
+					<div class="card-body">
+						<h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
+						<p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
+						<a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
+					</div>
+			    </div>
+			</div>
+		
+			<!-- ROW 4 - SECOND CARD APPEARS HERE -->
+			<div class="col-md-4">
+				<div class="card">
+					<img class="card-img-top" src="img/speakersnewdimensions/Oormila_New.png">
+					<div class="card-body">
+						<h4 class="card-title"> Dr. Oormila Kovilam </h4>
+						<p class="card-text"> Amita Health, Chicago Illinois, USA</p>
+						<a href="kovilam.php" class="btn btn-outline-secondary">See Profile</a>
+					</div>
+				</div>
+			</div>
+
+		<!--ROW 4- THIRD CARD APPEARS HERE -->
+		
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Rajmohan_New.png">
+				<img class="card-img-top" src="img/speakersnewdimensions/Dr_Juan_New.png">
 				<div class="card-body">
-					<h4 class="card-title"> Dr. Rajmohan V.</h4>
-					<p class="card-text"> Asst. Professor with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) 
-					and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</p>
-					<a href="rajmohan.php" class="btn btn-outline-secondary">See Profile</a>
+					<h4 class="card-title"> Dr. Juan Asensio</h4>
+					<p class="card-text"> Professor, Creighton University, USA</p>
+					<a href="asensio.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
 
 	</div>
-</div>
-<!-- -------------------------------------------------->
-<div class="row padding">
+<!-- ROW 4 ENDS -------------------------------------------------->
 
-		<!-- ROW 3-FIRST CARD APPEARS HERE -->
-		<div class="col-md-4">
-			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
-				<div class="card-body">
-					<h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
-					<p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-					<a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
-				</div>
-			</div>
-		</div>
-		
-				<!-- ROW 3 - SECOND CARD APPEARS HERE --><!--
-		<div class="col-md-4">
-			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Renjith_New.png">
-				<div class="card-body">
-					<h4 class="card-title"> Dr. Renjith P Nair, PhD </h4>
-					<p class="card-text"> Lecturer in molecular oncology, Malabar Cancer Centre, Thalassery, India</p>
-					<a href="nair.php" class="btn btn-outline-secondary">See Profile</a>
-				</div>
-			</div>
-		</div>
-
-		<!--ROW 3- THIRD CARD APPEARS HERE --> <!--
-		
-		<div class="col-md-4">
-			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Rajmohan_New.png">
-				<div class="card-body">
-					<h4 class="card-title"> Dr. Rajmohan V.</h4>
-					<p class="card-text"> Asst. Professor with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) 
-					and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</p>
-					<a href="rajmohan.php" class="btn btn-outline-secondary">See Profile</a>
-				</div>
-			</div>
-		</div>
--->
-
-	</div>
 </div>
 <!-- -------------------------------------------------->
 
