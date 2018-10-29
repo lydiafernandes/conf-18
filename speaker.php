@@ -218,7 +218,7 @@
 		
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Dr_Juan_New.png">
+				<img class="card-img-top" src="img/speakersnewdimensions/Dr_Juan_Asensio_New.png">
 				<div class="card-body">
 					<h4 class="card-title"> Dr. Juan Asensio</h4>
 					<p class="card-text"> Professor, Creighton University, USA</p>
