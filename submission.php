@@ -37,8 +37,8 @@
 		</legend>
 
 
-        <h4 style="color:white">
-        For abstract submission either for poster or oral papers, please follow the two steps detailed below.
+        <h5 style="color:white">
+        For abstract submission of poster or oral papers, please follow the two steps detailed below.
         <ul>
             <li> visit the <a href="https://www.xaviersmumbaiconf.org/registration"> Registration Page </a></li>      
         </ul>
@@ -79,7 +79,7 @@
             </li>
         </ol>
 
-        </h4>
+        </h5>
     </div>
 </div> <!-- end of parent div -->
   			
