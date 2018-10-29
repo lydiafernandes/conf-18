@@ -37,13 +37,13 @@
 		</legend>
 
 
-        <p>
+        <p style="color:white">
         For abstract submission either for poster or oral papers, please follow the two steps detailed below.
         <ul>
             <li> visit the <a href="https://www.xaviersmumbaiconf.org/registration"> Registration Page </a></li>      
        </p>
 
-        <ol>
+        <ol style="color:white">
             <li>Delegates are invited to submit abstracts for oral paper / poster presentations. 
             Two of the best submissions shall be selected for the Best Paper Award Presentations. 
             </li>
