@@ -37,11 +37,12 @@
 		</legend>
 
 
-        <p style="color:white">
+        <h4 style="color:white">
         For abstract submission either for poster or oral papers, please follow the two steps detailed below.
         <ul>
             <li> visit the <a href="https://www.xaviersmumbaiconf.org/registration"> Registration Page </a></li>      
-       </p>
+        </ul>
+       
 
         <ol style="color:white">
             <li>Delegates are invited to submit abstracts for oral paper / poster presentations. 
@@ -50,7 +51,7 @@
 
             <li>All presenting authors must register for the Conference.</li>
 
-            <li>Abstract submission will only be considered complete after payment of registration fees.
+            <li>Abstract submission will only be considered complete after details of registration fees payment is received via email.
              If the abstract is subsequently not accepted for presentation, the registration fee will be refunded if cancellation is requested.
             </li>
 
@@ -78,7 +79,7 @@
             </li>
         </ol>
 
-
+        </h4>
     </div>
 </div> <!-- end of parent div -->
   			
