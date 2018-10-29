@@ -40,7 +40,7 @@
         <p>
         For abstract submission either for poster or oral papers, please follow the two steps detailed below.
         <ul>
-            <li> visit the <a href=" registration page      
+            <li> visit the <a href="https://www.xaviersmumbaiconf.org/registration"> Registration Page </a></li>      
        </p>
 
         <ol>
