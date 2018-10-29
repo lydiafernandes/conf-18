@@ -19,7 +19,12 @@
         <link rel="stylesheet" type="text/css" href="css/style_index.css">
         
        
+<style>
 
+    li:not(:last-child) {
+    margin-bottom: 5px;
+  }
+</style>
 
 </head>
 <body> 
