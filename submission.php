@@ -22,7 +22,7 @@
 <style>
 
     li:not(:last-child) {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
   }
 </style>
 
@@ -45,7 +45,7 @@
         <h5 style="color:white">
         For abstract submission of poster or oral papers, please follow the two steps detailed below.
         <ul>
-            <li> visit the <a href="https://www.xaviersmumbaiconf.org/registration"> Registration Page </a></li>      
+            <li> visit the <a href="https://www.xaviersmumbaiconf.org/registration" style="color:yellow"> Registration Page </a></li>      
         </ul>
        
 
