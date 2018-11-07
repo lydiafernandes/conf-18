@@ -61,21 +61,9 @@
 			</div>
 
 		<!-- ROW 1 - SECOND CARD APPEARS HERE -->
-			<div class="col-md-4">
+        <div class="col-md-4">
 				<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Daniel_Wilson_New.png">
-					<div class="card-body">
-						<h4 class="card-title"> Dr. Daniel R. Wilson, M.D., Ph.D. </h4>
-						<p class="card-text"> A pioneer in Evolutionary Neuroscience, Currently he is the President of Western University of Health Sciences, Pomona, California USA.</p>
-						<a href="wilson.php" class="btn btn-outline-secondary">See Profile</a>
-					</div>
-				</div>
-			</div>
-
-		<!-- ROW 1 - THIRD CARD APPEARS HERE -->
-			<div class="col-md-4">
-				<div class="card">
-				<img class="card-img-top" src="img/Ramesh_Goyal.png">
+				    <img class="card-img-top" src="img/Ramesh_Goyal.png">
 					<div class="card-body">
 						<h4 class="card-title"> Dr. Ramesh K. Goyal </h4>
 						<p class="card-text"> Member of Task Force, Committee for Herbal Group, 
@@ -84,6 +72,20 @@
 
                     	</p>
 						<a href="goyal.php" class="btn btn-outline-secondary">See Profile</a>
+					</div>
+				</div>
+			</div>
+
+		<!-- ROW 1 - THIRD CARD APPEARS HERE -->
+        <div class="col-md-4">
+				<div class="card">
+				    <img class="card-img-top" src="img/Ramesh_Goyal.png">
+					<div class="card-body">
+						<h4 class="card-title"> Dr. Nishigandha Naik </h4>
+						<p class="card-text"> 
+                                Director, Haffkine Institute, Mumbai
+                    	</p>
+						<a href="naik.php" class="btn btn-outline-secondary">See Profile</a>
 					</div>
 				</div>
 			</div>
@@ -423,16 +425,16 @@
 </div>
 
 <!--ROW 9- THIRD CARD APPEARS HERE -->
-<div class="col-md-4">
-    <div class="card">
-        <img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
-        <div class="card-body">
-            <h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
-            <p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-            <a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
-        </div>
-    </div>
-</div>
+            <div class="col-md-4">
+				<div class="card">
+				<img class="card-img-top" src="img/speakersnewdimensions/Daniel_Wilson_New.png">
+					<div class="card-body">
+						<h4 class="card-title"> Dr. Daniel R. Wilson, M.D., Ph.D. </h4>
+						<p class="card-text"> A pioneer in Evolutionary Neuroscience, Currently he is the President of Western University of Health Sciences, Pomona, California USA.</p>
+						<a href="wilson.php" class="btn btn-outline-secondary">See Profile</a>
+					</div>
+				</div>
+			</div>
 </div>
 <!-- ROW 9 ENDS -------------------------------------------------->
 </div>
