@@ -79,7 +79,7 @@
 		<!-- ROW 1 - THIRD CARD APPEARS HERE -->
         <div class="col-md-4">
 				<div class="card">
-				    <img class="card-img-top" src="img/Ramesh_Goyal.png">
+				    <img class="card-img-top" src="img/speakersnewdimensions/Dr_Naik_New.png">
 					<div class="card-body">
 						<h4 class="card-title"> Dr. Nishigandha Naik </h4>
 						<p class="card-text"> 
