@@ -38,7 +38,8 @@
        <p> <b><ul>IFSC:</ul></b> CORP0000536 </p>
        <p> <b><ul>Bank Name:</ul></b> Corporation Bank. </p>
        <p> <b><ul>Bank Address:</ul></b> Mahapalika Marg Branch Mumbai 400 001 </p>
-       <p><b><ul>MICR: </ul></b>400017043. </p>
+       <p> <b><ul>MICR: </ul></b>400017043. </p>
+       <p> <b><ul>SWIFT code: </ul></b> CORPINBB0163 </p>
        </h4>
     </div>
 
