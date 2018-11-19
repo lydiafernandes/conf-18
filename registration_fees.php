@@ -180,7 +180,7 @@
         <div class="col-sm-8"><h3>
             <p><b><ul>Kindly note: (Date Extended) </ul></b><br>
             <span style="color:yellow; font-size:30px"><sup>#</sup></span> No abstract submissions will 
-            be accepted post <b> <span class="strikethrough"> 20th Nov 2018 </span> 30th Nov. 2018 </b>, while <b><i> Registration </i></b>
+            be accepted post <b> <span class="strikethrough"> 20th Nov 2018 </span> 3rd Dec. 2018 </b>, while <b><i> Registration </i></b>
             as Audience / Attendee will still remain <b><i>open</i></b>
             </p>
             
