@@ -32,6 +32,7 @@
 	<div class="row welcome text-center">
 		<div class="col-12">
 			<h1 class="display-4"><a name="top">Our Esteemed Speakers </a></h1>
+			<h3> In Alphabetical Order </h3>
 		</div>
 		<hr>
 	</div>
@@ -110,28 +111,24 @@
 		<!-- ROW 2 - SECOND CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Subburaman_Mohan_New.png">
-				<div class="card-body">
-					<h4 class="card-title"> Dr. Subburaman Mohan. </h4>
-					<p class="card-text"> Senior Research Career Scientist, Veterans Administration (VA). Director, Musculoskeletal Disease Center, VA Loma Linda, California</p>
-					<a href="mohan.php" class="btn btn-outline-secondary">See Profile</a>
-				</div>
+			<img class="card-img-top" src="img/speakersnewdimensions/Sorab_New.png">
+					<div class="card-body">
+						<h4 class="card-title"> Dr. Sorab Nariman Dalal.</h4>
+						<p class="card-text"> Scientific Officer ‘G’, Associate Professor - HBNI, Tata Memorial Centre</p>
+						<a href="sorab.php" class="btn btn-outline-secondary">See Profile</a>
+					</div>
 			</div>
 		</div>
 
 		<!--ROW 2- THIRD CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Alex_New.png">
+				<img class="card-img-top" src="img/speakersnewdimensions/Foster_Gonsalves_New.png">
 				<div class="card-body">
-					<h4 class="card-title"> Dr. Alex C Varghese </h4>
-					<p class="card-text"> Scientific  Director <br>
-                                           ASTRA Fertility Group,<br>
-                                           <b>Web:</b> 
-                                           <a href="www.lifeinvitro.com"> www.lifeinvitro.com</a>
-
+					<h4 class="card-title"> Dr. Foster Gonsalves </h4>
+					<p class="card-text"> VP of Drug Development and Strategy, Rgenix, USA
                     </p>
-					<a href="alex.php" class="btn btn-outline-secondary">See Profile</a>
+					<a href="#" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
