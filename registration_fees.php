@@ -185,7 +185,7 @@
             </p>
             
 
-            <p> <b><ul> Date Extended: </ul></b><br> 
+            <p> <b><ul> **Date Extended: </ul></b>
             <span style="color:yellow; font-size:30px"><sup>##</sup></span>No abstract submissions will 
             be accepted post <b> 30th Nov 2018 </b>, while <b><i> Registration </i></b>
             as Audience / Attendee will still remain <b><i>open</i></b>
