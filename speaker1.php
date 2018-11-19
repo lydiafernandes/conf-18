@@ -63,15 +63,12 @@
 		<!-- ROW 1 - SECOND CARD APPEARS HERE -->
         <div class="col-md-4">
 				<div class="card">
-				    <img class="card-img-top" src="img/Ramesh_Goyal.png">
+				    <img class="card-img-top" src="img/speakersnewdimensions/Ajit_Anerao_New.png">
 					<div class="card-body">
-						<h4 class="card-title"> Dr. Ramesh K. Goyal </h4>
-						<p class="card-text"> Member of Task Force, Committee for Herbal Group, 
-							Indian Council of Medical research ,Member,
-					 		Indian Pharmacopoeia Commission, CDSCO, Govt. of India.
-
+						<h4 class="card-title"> Dr. Ajit Anerao </h4>
+						<p class="card-text">Deputy General Manager, Wanbury Limited, Mumbai
                     	</p>
-						<a href="goyal.php" class="btn btn-outline-secondary">See Profile</a>
+						<a href="#" class="btn btn-outline-secondary">See Profile</a>
 					</div>
 				</div>
 			</div>
@@ -79,13 +76,13 @@
 		<!-- ROW 1 - THIRD CARD APPEARS HERE -->
         <div class="col-md-4">
 				<div class="card">
-				    <img class="card-img-top" src="img/speakersnewdimensions/Dr_Naik_New.png">
+				    <img class="card-img-top" src="img/speakersnewdimensions/Dr_Aseem_Ansari.png">
 					<div class="card-body">
-						<h4 class="card-title"> Dr. Nishigandha Naik </h4>
+						<h4 class="card-title"> Dr. Aseem Ansari </h4>
 						<p class="card-text"> 
-                                Director, Haffkine Institute, Mumbai
+						Professor of Chemical Genomics and Synthetic Biology at University of Wisconsin-Madison
                     	</p>
-						<a href="naik.php" class="btn btn-outline-secondary">See Profile</a>
+						<a href="#" class="btn btn-outline-secondary">See Profile</a>
 					</div>
 				</div>
 			</div>
@@ -101,13 +98,11 @@
 		<!-- ROW 2-FIRST CARD APPEARS HERE -->
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Luis_Lima_New.png">
+			<img class="card-img-top" src="img/speakersnewdimensions/Dr_Juan_Asensio_New.png">
 				<div class="card-body">
-					<h4 class="card-title"> Dr. Melchior Luiz Lima M.D. MSc. Ph.D. </h4>
-					<p class="card-text"> A Professor of Cardiovascular Institute “São Francisco de Assis”
-					and Cardiovascular Surgeon, Center of Cardiovascular Surgery &amp; Heart
-				    Transplantation, Meridional Hospital, Cariacica, ES, Brazil. </p>
-					<a href="lima.php" class="btn btn-outline-secondary">See Profile</a>
+					<h4 class="card-title"> Dr. Juan Asensio</h4>
+					<p class="card-text"> Professor, Creighton University, USA</p>
+					<a href="asensio.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
