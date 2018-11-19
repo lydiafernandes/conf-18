@@ -32,6 +32,14 @@
         <div class="col-sm-1"> &nbsp; </div>
     <div class="col-sm-10 container">
         <h4>
+
+        <p> <b> Beneficiary Name: </b> The Bombay St. Xavier's College Society</p>
+     <p> <b>A/C No: </b>520101011006621</p>
+     <p> <b>Type of A/C: </b>Saving Account</p>
+     <p> <b>IFSC:</b> CORP0000536</p>
+     <p> <b>Bank Name:</b> Corporation Bank</p>
+     <p> <b>Bank Address:</b> Mahapalika Marg Branch Mumbai 400 001</p>
+     <p><b>MICR: </b>400017043</p>
        <p> <b><ul> Beneficiary Name: </ul></b> The Bombay St. Xavier&apos;s College Society </p>
        <p> <b><ul>A/C No: </ul></b>520101011006621. </p>
        <p> <b><ul>Type of A/C: </ul></b>Saving Account</p>
