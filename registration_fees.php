@@ -178,10 +178,10 @@
 
         <div class="col-sm-2">&nbsp; </div>
         <div class="col-sm-8"><h3>
-            <p class="strikethrough"><b><ul>Kindly note:</ul></b><br>
+            <p><span class="strikethrough"><b><ul>Kindly note:</ul></b><br>
             <span  style="color:yellow; font-size:30px"><sup>#</sup></span>No abstract submissions will 
             be accepted post <b> 20th Nov 2018 </b>, while <b><i> Registration </i></b>
-            as Audience / Attendee will still remain <b><i>open</i></b>
+            as Audience / Attendee will still remain <b><i>open</i></b> </span>
             </p>
             <p> <b><ul> Date Extended: </ul></b><br> 
             <span style="color:yellow; font-size:30px"><sup>##</sup></span>No abstract submissions will 
