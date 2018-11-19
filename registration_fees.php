@@ -24,6 +24,57 @@
 			.center_cell{
 				text-align:center;
 			}
+
+
+/* Strikethrough */
+
+.strikethrough {
+	display: inline-block;
+	position: relative;
+	transition: all 0.5s cubic-bezier(.55, 0, .1, 1);
+}
+
+.strikethrough:after {
+	content: '';
+	position: absolute;
+	display: block;
+	width: 100%;
+	height: 2px;
+	box-shadow: 0 1px rgba(255,255,255,0.6);
+	margin-top: -0.7em;
+	background: black;
+	transform-origin: center left;
+	animation: strikethrough 1s 0.5s cubic-bezier(.55, 0, .1, 1) 1;
+	transition: transform 0.5s cubic-bezier(.55, 0, .1, 1);
+}
+
+
+/* Little hover effect */
+
+.strikethrough:hover {
+	color: rgba(200,0,0,1);
+	background: rgba(255, 189, 182, 0.3);
+}
+
+.strikethrough:hover:after {
+	transform: scaleX(0);
+	transform-origin: center right;
+}
+
+
+
+
+/* Keyframes for initial animation */
+
+@keyframes strikethrough {
+	from {
+		transform: scaleX(0);
+	}
+	to {
+		transform: scaleX(1);
+	}
+}
+
 		</style>
 		
 		
@@ -127,9 +178,14 @@
 
         <div class="col-sm-2">&nbsp; </div>
         <div class="col-sm-8"><h3>
-            <p><b><ul>Kindly note:</ul></b><br>
-            <span style="color:yellow; font-size:30px"><sup>#</sup></span>No abstract submissions will 
+            <p class="strikethrough"><b><ul>Kindly note:</ul></b><br>
+            <span  style="color:yellow; font-size:30px"><sup>#</sup></span>No abstract submissions will 
             be accepted post <b> 20th Nov 2018 </b>, while <b><i> Registration </i></b>
+            as Audience / Attendee will still remain <b><i>open</i></b>
+            </p>
+            <p> <b><ul> Date Extended: </ul></b><br> 
+            <span style="color:yellow; font-size:30px"><sup>##</sup></span>No abstract submissions will 
+            be accepted post <b> 30th Nov 2018 </b>, while <b><i> Registration </i></b>
             as Audience / Attendee will still remain <b><i>open</i></b>
             </p>
             <p><span style="color:#36a7e9; font-size:30px"><sup>#</sup></span>The decision for the submitted abstract qualifying to be
