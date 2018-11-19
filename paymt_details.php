@@ -40,14 +40,9 @@
      <p> <b>Bank Name:</b> Corporation Bank</p>
      <p> <b>Bank Address:</b> Mahapalika Marg Branch Mumbai 400 001</p>
      <p><b>MICR: </b>400017043</p>
-       <p> <b><ul> Beneficiary Name: </ul></b> The Bombay St. Xavier&apos;s College Society </p>
-       <p> <b><ul>A/C No: </ul></b>520101011006621. </p>
-       <p> <b><ul>Type of A/C: </ul></b>Saving Account</p>
-       <p> <b><ul>IFSC:</ul></b> CORP0000536 </p>
-       <p> <b><ul>Bank Name:</ul></b> Corporation Bank. </p>
-       <p> <b><ul>Bank Address:</ul></b> Mahapalika Marg Branch Mumbai 400 001 </p>
-       <p> <b><ul>MICR: </ul></b>400017043. </p>
-       <p> <b><ul>SWIFT code: </ul></b> CORPINBB0163 </p>
+     <p> <b>SWIFT code: </b> CORPINBB0163 </p>
+       
+       
        </h4>
     </div>
 
