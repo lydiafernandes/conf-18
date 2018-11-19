@@ -142,11 +142,15 @@
 		<!-- ROW 3-FIRST CARD APPEARS HERE -->
 			<div class="col-md-4">
 				<div class="card">
-					<img class="card-img-top" src="img/speakersnewdimensions/Sorab_New.png">
+				<img class="card-img-top" src="img/Ramesh_Goyal.png">
 					<div class="card-body">
-						<h4 class="card-title"> Dr. Sorab Nariman Dalal.</h4>
-						<p class="card-text"> Scientific Officer ‘G’, Associate Professor - HBNI, Tata Memorial Centre</p>
-						<a href="sorab.php" class="btn btn-outline-secondary">See Profile</a>
+						<h4 class="card-title"> Dr. Ramesh K. Goyal </h4>
+						<p class="card-text"> Member of Task Force, Committee for Herbal Group, 
+							Indian Council of Medical research ,Member,
+					 		Indian Pharmacopoeia Commission, CDSCO, Govt. of India.
+
+                    	</p>
+						<a href="goyal.php" class="btn btn-outline-secondary">See Profile</a>
 					</div>
 				</div>
 			</div>
