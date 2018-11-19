@@ -179,8 +179,8 @@
         <div class="col-sm-2">&nbsp; </div>
         <div class="col-sm-8"><h3>
             <p><b><ul>Kindly note:</ul></b><br>
-            <span style="color:yellow; font-size:30px"><sup>#</sup></span>No abstract submissions will 
-            be accepted post <b> <span class="strikethrough"> 20th Nov 2018 </span> </b>, while <b><i> Registration </i></b>
+            <span style="color:yellow; font-size:30px"><sup>#</sup></span> <span class="strikethrough">No abstract submissions will 
+            be accepted post <b>  20th Nov 2018 </span> </b>, while <b><i> Registration </i></b>
             as Audience / Attendee will still remain <b><i>open</i></b>
             </p>
             
