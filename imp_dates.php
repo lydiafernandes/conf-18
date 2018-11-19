@@ -107,9 +107,9 @@
          <div class="col-8 bg-warning">
          <p class="date_title"> 
             <span class="strikethrough"> 20<sup>th</sup> Nov. 2018: </span> 
-            <br> Now Extended:
+            <br> Now Extended: 30 <sup> th </sup> Nov. 2018
          </p>
-         <p class="date_content"> Last date for Abstract Submission <br> 30 <sup> th </sup> Nov. 2018</p>
+         <p class="date_content"> Last date for Abstract Submission </p>
         </div>
         <div class="col-2 bg-success">&nbsp;</div>
   </div>
