@@ -178,18 +178,13 @@
 
         <div class="col-sm-2">&nbsp; </div>
         <div class="col-sm-8"><h3>
-            <p><b><ul>Kindly note:</ul></b><br>
-            <span style="color:yellow; font-size:30px"><sup>#</sup></span> <span class="strikethrough">No abstract submissions will 
-            be accepted post <b>  20th Nov 2018 </span> </b>, while <b><i> Registration </i></b>
+            <p><b><ul>Kindly note: (Date Extended) </ul></b><br>
+            <span style="color:yellow; font-size:30px"><sup>#</sup></span> No abstract submissions will 
+            be accepted post <b> <span class="strikethrough"> 20th Nov 2018 </span> 30th Nov. 2018 </b>, while <b><i> Registration </i></b>
             as Audience / Attendee will still remain <b><i>open</i></b>
             </p>
             
 
-            <p> <b><ul> **Date Extended: </ul></b>
-            <span style="color:yellow; font-size:30px"><sup>##</sup></span>No abstract submissions will 
-            be accepted post <b> 30th Nov 2018 </b>, while <b><i> Registration </i></b>
-            as Audience / Attendee will still remain <b><i>open</i></b>
-            </p>
             <p><span style="color:#36a7e9; font-size:30px"><sup>#</sup></span>The decision for the submitted abstract qualifying to be
             an Oral Paper presentation or Poster presentation, will be conveyed by email. 
             </p>
