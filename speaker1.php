@@ -247,25 +247,28 @@ Mater Research Institute-University of Queensland Faculty of Medicine & Queensla
         </div>
 
     <!-- ROW 5 - SECOND CARD APPEARS HERE -->
-        <div class="col-md-4">
-            <div class="card">
-                <img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
-                <div class="card-body">
-                    <h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
-                    <p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-                    <a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
-                </div>
-            </div>
-        </div>
+			<div class="col-md-4">
+				<div class="card">
+				<img class="card-img-top" src="img/speakersnewdimensions/Renjith_New.png">
+					<div class="card-body">
+						<h4 class="card-title"> Dr. Renjith P Nair, PhD </h4>
+						<p class="card-text"> Scientist, Sree Sree Chitra Tirunal Institute for Medical Science and Technology Thiruvananthapuram, India.</p>
+						<a href="nair.php" class="btn btn-outline-secondary">See Profile</a>
+					</div>
+				</div>
+			</div>
 
     <!--ROW 5- THIRD CARD APPEARS HERE -->
     <div class="col-md-4">
             <div class="card">
-                <img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
+                <img class="card-img-top" src="img/speakersnewdimensions/Basavaraj_Nanjwade_New.png">
                 <div class="card-body">
-                    <h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
-                    <p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-                    <a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
+                    <h4 class="card-title"> Dr. Basavaraj K. Nanjwade M.Pharm., Ph.D </h4>
+                    <p class="card-text"> Principal Scientist 
+Trroy Life Sciences Pvt Ltd
+C-14 KSSIDC Industrial Area, New Town Yelahanka,
+Bengaluru, Karanataka, India.</p>
+                    <a href="nanjwade.php" class="btn btn-outline-secondary">See Profile</a>
                 </div>
             </div>
         </div>
