@@ -94,7 +94,7 @@ Her basic research is focused on cell motility related signal transduction event
 especially chronic myeloid leukemia, breast cancer, glioblastoma and neural stem cells. 
 Studies of her group have identified rhoGTPases as therapeutic targets. Currently, she is also involved in research on 
 venom and anti-venom, especially from big four snakes.
-<br>
+<br><br>
 Dr. Naik did her Ph.D. at the Cancer Research Institute (CRI) of the <strong>Tata Memorial Centre </strong>
 which is a pioneering and leading comprehensive cancer centre of India.
 She did her post - doctoral research at the Centre 
@@ -113,7 +113,7 @@ ember of the Academic Committee
 , Institutional 
 Scientific Committee, etc
 .
-<br>
+<br><br>
 
 The NCE research
 division 
@@ -169,7 +169,7 @@ precli
 nical
 imaging facility required for the drug discovery 
 industry.
-<br>
+<br><br>
 Dr. Naik 
 is inventor in
 international patents and is a recipient of several national and international awards 

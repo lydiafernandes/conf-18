@@ -237,11 +237,11 @@ Mater Research Institute-University of Queensland Faculty of Medicine & Queensla
         <!-- ROW -5 -FIRST CARD APPEARS HERE -->
         <div class="col-md-4">
             <div class="card">
-                <img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
+                <img class="card-img-top" src="img/speakersnewdimensions/Dr_Naik_New.png">
                 <div class="card-body">
-                    <h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
-                    <p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-                    <a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
+                    <h4 class="card-title">Dr. Nishigandha Naik</h4>
+                    <p class="card-text"> Director, Haffkine Institute, Mumbai</p>
+                    <a href="naik.php" class="btn btn-outline-secondary">See Profile</a>
                 </div>
             </div>
         </div>
