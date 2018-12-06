@@ -161,8 +161,9 @@
 				<img class="card-img-top" src="img/speakersnewdimensions/Dhanisha_Jhaveri_New.png">
 					<div class="card-body">
 						<h4 class="card-title"> Dr. Dhanisha Jhaveri</h4>
-						<p class="card-text"> Scientist, Sree Sree Chitra Tirunal Institute for Medical Science and Technology Thiruvananthapuram, India.</p>
-						<a href="nair.php" class="btn btn-outline-secondary">See Profile</a>
+						<p class="card-text"> Senior Research Fellow
+Mater Research Institute-University of Queensland Faculty of Medicine & Queensland Brain Institute</p>
+						<a href="jhaveri.php" class="btn btn-outline-secondary">See Profile</a>
 					</div>
 				</div>
 			</div>
