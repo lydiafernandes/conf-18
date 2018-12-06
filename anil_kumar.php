@@ -87,12 +87,14 @@
     
      <p style="display:none;">  
      <!-- speaker content goes here -->
-			He has been a research fellow of the Leukemia Society of America from July 1997 to July 2000.
-            Joint Secretary Indian Association of Cancer Research April 2009 to March 2012 Secretary 
-            Indian Association of Cancer Research April 2012 to 2014 Editor Journal of Biosciences 
-            from 2011, Current Science from 2018 Member of the Task Force on Cancer Biology from 
-            2012-2014 DAE SRC Outstanding Scientist Award 2015
-     
+     Anil Kumar PR is Scientist E and Head of Division of Tissue Culture, Sree Chitra Tirunal Institute for Medical Sciences and Technology, which is situated in Kerela, India. He’s also the Visiting Scientist at Wake Forest Institute for Regenerative Medicine, North Carolina, USA. Mr. Kumar graduated from University of Kerala with a B.Ed in Natural Sciences in 1998 and M. Sc in Biotechnology, followed by Ph. D. in Tissue engineering.
+<br><br>
+Mr. Kumar has held key positions as Honorary Research Fellow at the National University of Singapore, also, has been the Project Scientist at Sree Chitra Tirunal Institute for Medical Sciences and Technology. He has broad experience in the field of tissue culture and is currently occupied with 3D BioPrinting of tissues, Development and Evaluation of BioInk for 3D BioPrinting. He has been recognized as the Ph.D. guide and Faculty for the courses MTech.
+<br><br>
+In 2009, Mr. Kumar was honored with DST-IIPA Gold Medal by the Department of Science and Technology, India. In 2005, he was awarded the Young Scientist Award by the Kerala Science Congress, followed by the Bajpa- Saha Award by the Society of Biomaterials and Artificial Organs, India. Society for Applied Biotechnology recognized him to be the Young Bioengineer, 2011. He has been the recipient of the Medi Biotech Award (2014), by the Society for Educational and Scientific Research.
+<br><br>
+Mr. Kumar is an esteemed Life member of the Society for Tissue Engineering and Regenerative Medicine, India.
+
             <a href="#top" class="btn btn-outline-light btn-lg">Top</a>
     
         </p>
