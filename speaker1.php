@@ -172,12 +172,11 @@ Mater Research Institute-University of Queensland Faculty of Medicine & Queensla
 		
 			<div class="col-md-4">
 				<div class="card">
-					<img class="card-img-top" src="img/speakersnewdimensions/Rajmohan_New.png">
+					<img class="card-img-top" src="img/speakersnewdimensions/Oormila_New.png">
 					<div class="card-body">
-						<h4 class="card-title"> Dr. Rajmohan V.</h4>
-						<p class="card-text"> Asst. Professor with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) 
-						and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</p>
-						<a href="rajmohan.php" class="btn btn-outline-secondary">See Profile</a>
+						<h4 class="card-title"> Dr. Oormila Kovilam </h4>
+						<p class="card-text"> Amita Health, Chicago Illinois, USA</p>
+						<a href="kovilam.php" class="btn btn-outline-secondary">See Profile</a>
 					</div>
 				</div>
 			</div>
@@ -357,16 +356,21 @@ Mater Research Institute-University of Queensland Faculty of Medicine & Queensla
  <div class="row padding">
 
 <!-- ROW -8 -FIRST CARD APPEARS HERE -->
-<div class="col-md-4">
-    <div class="card">
-        <img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
-        <div class="card-body">
-            <h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
-            <p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-            <a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
-        </div>
-    </div>
-</div>
+<!----------------------- -->
+			<div class="col-md-4">
+				<div class="card">
+					<img class="card-img-top" src="img/speakersnewdimensions/Rajmohan_New.png">
+					<div class="card-body">
+						<h4 class="card-title"> Dr. Rajmohan V.</h4>
+						<p class="card-text"> Asst. Professor with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) 
+						and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</p>
+						<a href="rajmohan.php" class="btn btn-outline-secondary">See Profile</a>
+					</div>
+				</div>
+			</div>
+
+<!----------------------------->
+
 
 <!-- ROW 8 - SECOND CARD APPEARS HERE -->
 <div class="col-md-4">
