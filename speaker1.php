@@ -218,14 +218,15 @@ Mater Research Institute-University of Queensland Faculty of Medicine & Queensla
 		
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Dr_Juan_Asensio_New.png">
+				<img class="card-img-top" src="img/speakersnewdimensions/Subburaman_Mohan_New.png">
 				<div class="card-body">
-					<h4 class="card-title"> Dr. Juan Asensio</h4>
-					<p class="card-text"> Professor, Creighton University, USA</p>
-					<a href="asensio.php" class="btn btn-outline-secondary">See Profile</a>
+					<h4 class="card-title"> Dr. Subburaman Mohan. </h4>
+					<p class="card-text"> Senior Research Career Scientist, Veterans Administration (VA). Director, Musculoskeletal Disease Center, VA Loma Linda, California</p>
+					<a href="mohan.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
+
 
 	</div>
 <!-- ROW 4 ENDS -------------------------------------------------->
