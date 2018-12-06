@@ -32,7 +32,7 @@
 	<div class="row welcome text-center">
 		<div class="col-12">
 			<h1 class="display-4"><a name="top">Our Esteemed Speakers </a></h1>
-			<h3> In Alphabetical Order </h3>
+			<h3><ul> In Alphabetical Order <ul> </h3>
 		</div>
 		<hr>
 	</div>
@@ -69,7 +69,7 @@
 						<h4 class="card-title"> Dr. Ajit Anerao </h4>
 						<p class="card-text">Deputy General Manager, Wanbury Limited, Mumbai
                     	</p>
-						<a href="#" class="btn btn-outline-secondary">See Profile</a>
+						<a href="anerao.php" class="btn btn-outline-secondary">See Profile</a>
 					</div>
 				</div>
 			</div>
