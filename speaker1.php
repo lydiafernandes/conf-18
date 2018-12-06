@@ -191,11 +191,11 @@ Mater Research Institute-University of Queensland Faculty of Medicine & Queensla
 			<!-- ROW -4 -FIRST CARD APPEARS HERE -->
 			<div class="col-md-4">
 				<div class="card">
-					<img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
+					<img class="card-img-top" src="img/speakersnewdimensions/Anil_Kumar_New.png">
 					<div class="card-body">
-						<h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
-						<p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-						<a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
+						<h4 class="card-title"> Dr. Anil Kumar PR</h4>
+						<p class="card-text"> Scientist Sree Chitra Tirunal Institute for Medical Sciences and Technology, Biomedical Technology Wing,Thiruvananthapuram, Kerala, India </p>
+						<a href="anil_kumar.php" class="btn btn-outline-secondary">See Profile</a>
 					</div>
 			    </div>
 			</div>
