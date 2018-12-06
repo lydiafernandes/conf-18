@@ -83,7 +83,7 @@
 						<p class="card-text"> 
 						Professor of Chemical Genomics and Synthetic Biology at University of Wisconsin-Madison
                     	</p>
-						<a href="#" class="btn btn-outline-secondary">See Profile</a>
+						<a href="ansari.php" class="btn btn-outline-secondary">See Profile</a>
 					</div>
 				</div>
 			</div>
