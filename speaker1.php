@@ -202,15 +202,17 @@ Mater Research Institute-University of Queensland Faculty of Medicine & Queensla
 		
 			<!-- ROW 4 - SECOND CARD APPEARS HERE -->
 			<div class="col-md-4">
-				<div class="card">
-					<img class="card-img-top" src="img/speakersnewdimensions/Oormila_New.png">
-					<div class="card-body">
-						<h4 class="card-title"> Dr. Oormila Kovilam </h4>
-						<p class="card-text"> Amita Health, Chicago Illinois, USA</p>
-						<a href="kovilam.php" class="btn btn-outline-secondary">See Profile</a>
-					</div>
+			<div class="card">
+				<img class="card-img-top" src="img/speakersnewdimensions/Luis_Lima_New.png">
+				<div class="card-body">
+					<h4 class="card-title"> Dr. Melchior Luiz Lima M.D. MSc. Ph.D. </h4>
+					<p class="card-text"> A Professor of Cardiovascular Institute “São Francisco de Assis”
+					and Cardiovascular Surgeon, Center of Cardiovascular Surgery &amp; Heart
+				    Transplantation, Meridional Hospital, Cariacica, ES, Brazil. </p>
+					<a href="lima.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
+		</div>
 
 		<!--ROW 4- THIRD CARD APPEARS HERE -->
 		
