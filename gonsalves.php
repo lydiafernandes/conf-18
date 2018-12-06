@@ -67,13 +67,13 @@
 <!-- First Container -->
 <div class="container-fluid bg-1 text-center">
   
-  <img src="img/speakersnewdimensions/Aseem_Ansari_New.png" class="img-responsive rounded margin"
-   style="display:inline" alt="pic of Dr. Ajit Anerao" width="50%" height="50%">
+  <img src="img/speakersnewdimensions/Foster_Gonsalves_New.png" class="img-responsive rounded margin"
+   style="display:inline" alt="pic of Dr. Foster Gonsalves" width="50%" height="50%">
 
    <h3 class="margin">
-      <a name="top">Dr. Aseem Ansari </a>
+      <a name="top">Dr. Foster Casimir Gonsalves</a>
     </h3>
-  <h4> Professor of Chemical Genomics and Synthetic Biology at University of Wisconsin-Madison
+  <h4>  VP of Drug Development and Strategy, Rgenix, USA
   </h4>
 </div>
 
@@ -86,17 +86,20 @@
     
      <p style="display:none;">  
      <!-- speaker content goes here -->
-     Aseem Zoe Ansari is a Professor of Chemical Genomics and Synthetic Biology at University of Wisconsin-Madison 
-     <a href="https://biochem.wisc.edu/faculty/ansari">(https://biochem.wisc.edu/faculty/ansari)</a> 
-     <br> <br>
-Professor Ansari received his B.Sc. from St. Xavier’s in Chemistry and Zoology and his Ph.D. from Northwestern University in Chicago. Aseem was a Helen Hay Whitney Fellow at Harvard University with Mark Ptashne and a visiting scholar with Richard Young at MIT. The Ansari group designs synthetic gene switches to control stem cell fate. Integrating chemistry, genomics, molecular medicine and bioinformatics, the Ansari group has recently created a designer gene switch that can find and fix the diseased gene that causes an incurable neuronal disease (Friedreich’s ataxia). The design strategy permits the precision-targeting of other genes whose malfunction causes a wide array of diseases.
-    
-    <br><br>
-
-Professor Ansari is also the co-founder of the prestigious Khorana Program (2008) and the S.N. Bose Scholars Program (2013). He also Founded WINstep Forward, a non-profit focused on promoting science, technology and innovation partnerships between US and India (www.winstepforward.org). Recent WINstep initiatives include the Khorana Tech Transfer Program (2013), Sci-ROI (2015), YIM@C (2016), and Young Entrepreneurs’ Summit (YES 2018).      
-
-  <br><br>
-Professor Ansari has received a few honours and awards over his career, including: CAREER award from the U.S. National Science Foundation (NSF), Research Excellence Award from the W. M. Keck Foundation, Basil O'Connor Starter Scholar Award from the March of Dimes Foundation, Fellowship from the Japan Society for Promotion of Science (JSPS), Resident Tutorship at Winthrop House from Harvard, First prize for graduate research from Sigma Xi Research society and his most cherished honour is standing first in Chemistry and Zoology class (B.Sc.) at St. Xavier’s College.
+     Foster Casimir Gonsalves is currently the Vice President of Drug Development and Strategy, 
+     Rgenix, Inc. – New York. He was Vice President, Preclinical Development, Rgenix, Inc. from 2013-16.
+     <br><br> 
+At Rgenix, Dr. Foster is in-charge of Product development strategy of immune-oncology and cancer metabolism pipeline at a NYC-based biotech, in Market analysis, forecasting and product planning to support clinical development strategy for oncology indications and in Partnering discussions with potential pharma/biotech partners.He is responsible for all clinical pharmacokinetics and biomarker data analytics and data management, planning and manage IND-enabling DMPK and toxicology studies and IND-filing with the FDA.
+<br><br> 
+Dr. Foster has successfully strategized and obtained orphan designations for 3 independent indications from the Office of Orphan Drug Products
+<br><br>
+Mr. Foster has held the position of Managing Consultant at Easton Associates - New York, NY, from 2012 to 2013. 
+<br><br>
+He secured B.Sc. in Microbiology & Biochemistry from <strong>St. Xavier’s College, University of Mumbai, India.</strong>
+ Followed by a Ph.D. in Molecular & Cell Biology from <strong>University of California, Berkeley. </strong>
+ He did his  Post-Doctoral Fellowship from <strong> NYU School of Medicine-</strong> Cancer Institute – New York, NY. Dr. Foster has identified and has been granted patents on
+  3 lead compounds for Wnt inhibition, which formed the basis of a <strong>$250K award by the New York
+   City Investment Fund. </strong> Mr. Foster Gonsalves has been honored the Kimmel Foundation Postdoctoral Fellowship. Dr. Foster also holds a degree in Master of Public Health, Health Policy and Management From Columbia University Mailman School of Public Health. His Publications, patents and awards are available on request.
 
             <a href="#top" class="btn btn-outline-light btn-lg">Top</a>
     
