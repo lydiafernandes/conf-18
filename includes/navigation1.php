@@ -64,6 +64,7 @@
       <div class="dropdown-menu">
         <a class="dropdown-item" href="map1.php">How to reach?</a>
         <a class="dropdown-item" href="venue.php">Xavier&apos;s Map</a>
+        <a class="dropdown-item" href="files/ISC_hotels.xlsx"> Accomodation Suggestions </a>
         <a class="dropdown-item" href="#">Mumbai Tour</a> 
         
       </div>
