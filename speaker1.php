@@ -282,7 +282,7 @@ Bengaluru, Karanataka, India.</p>
     <!-- ROW -6 -FIRST CARD APPEARS HERE -->
 <div class="col-md-4">
     <div class="card">
-        <img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
+        <img class="card-img-top" src="img/speakersnewdimensions/Swati_Patankar_New.png">
         <div class="card-body">
             <h4 class="card-title"> Dr. Swati Patankar</h4>
             <p class="card-text"> Professor,                         
@@ -296,11 +296,11 @@ Indian Institute of Technology Bombay,Powai.</p>
 <!-- ROW 6 - SECOND CARD APPEARS HERE -->
 <div class="col-md-4">
     <div class="card">
-        <img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
+        <img class="card-img-top" src="img/speakersnewdimensions/Roy_Pereira_New.png">
         <div class="card-body">
-            <h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
-            <p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-            <a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
+            <h4 class="card-title"> Dr. (Fr.) Roy Pereira, S.J.</h4>
+            <p class="card-text"> Provost/Vice Principal Academics, Head, Dept. of Chemistry, St. Xavier&apos;s  College.</p>
+            <a href="#" class="btn btn-outline-secondary">See Profile</a>
         </div>
     </div>
 </div>
