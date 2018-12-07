@@ -349,11 +349,13 @@ Indian Institute of Technology Bombay,Powai.</p>
 <!--ROW 7- THIRD CARD APPEARS HERE -->
 <div class="col-md-4">
     <div class="card">
-        <img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
+        <img class="card-img-top" src="img/speakersnewdimensions/Selvaraj_Vithyalakshmi_New.png">
         <div class="card-body">
-            <h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
-            <p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-            <a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
+            <h4 class="card-title"> Dr. Selvaraj Vithyalakshmi</h4>
+            <p class="card-text"> 
+Associate Professor, Dept. of Psychiatry,
+School of Medicine, Creighton University, USA</p>
+            <a href="#" class="btn btn-outline-secondary">See Profile</a>
         </div>
     </div>
 </div>
@@ -367,12 +369,11 @@ Indian Institute of Technology Bombay,Powai.</p>
 <!----------------------- -->
 			<div class="col-md-4">
 				<div class="card">
-					<img class="card-img-top" src="img/speakersnewdimensions/Rajmohan_New.png">
+					<img class="card-img-top" src="img/speakersnewdimensions/Finosh_thankam_New.png">
 					<div class="card-body">
-						<h4 class="card-title"> Dr. Rajmohan V.</h4>
-						<p class="card-text"> Asst. Professor with a Bachelors in Ayurvedic Medicine and Surgery (BAMS) 
-						and Doctor of Medicine (MD) in Ayurveda from Government Ayurveda College</p>
-						<a href="rajmohan.php" class="btn btn-outline-secondary">See Profile</a>
+						<h4 class="card-title"> Dr. Finosh Thankam</h4>
+						<p class="card-text"> Cregihton University, School of Medicine, CTS-Surgery </p>
+						<a href="#" class="btn btn-outline-secondary">See Profile</a>
 					</div>
 				</div>
 			</div>
@@ -383,11 +384,11 @@ Indian Institute of Technology Bombay,Powai.</p>
 <!-- ROW 8 - SECOND CARD APPEARS HERE -->
 <div class="col-md-4">
     <div class="card">
-        <img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
+        <img class="card-img-top" src="img/speakersnewdimensions/Shubha_Tole_New.png">
         <div class="card-body">
-            <h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
-            <p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-            <a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
+            <h4 class="card-title"> Dr. Shubha Tole</h4>
+            <p class="card-text"> Professor, Department of Biological Sciences, TIFR, Mumbai.</p>
+            <a href="tole.php" class="btn btn-outline-secondary">See Profile</a>
         </div>
     </div>
 </div>
