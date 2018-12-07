@@ -99,7 +99,7 @@ img:hover {
               with modern technological advancements. It keeps up with the ever complex environment
                of the present world through its various centres such as Blatter Herbarium, 
                Heras Institute of Indian History and Culture, Caius Laboratory for Interdisciplinary 
-               Research, Nadkarny Sacasa Research Laboratory (NSRL), Xavier’s Research Centre 
+               Research, Nadkarny Sacasa Research Laboratory (NSRL), Xavier’s Resource Centre 
                for Visually Challenged (XRCVC), Department of Inter-Religious Studies (DIRS) and the
                 Xavier’s Visual Arts Studio (XVAS) on the campus.
             </p>

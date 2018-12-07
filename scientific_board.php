@@ -62,6 +62,9 @@ Department of Science in Technology, Govt. of India (2005).
         Dr. Shyamalava Mazumdar (TIFR)
     </li>
     <li class="a">
+    <div class="col-sm-2" style="float:left;">
+                    <img src="img\board_pics\sci_board\mazumdar.png">
+                </div>
      With a Ph.D in Chemistry from TIFR, University of Mumbai, INDIA in 1990, the current areas of 
      research of Dr. Mazumdar, comprise of: <br> Bioinorganic Chemistry:  Redox processes in Biological Systems
       with special interest on oxidases, oxygenases and peroxidases. Enzyme kinetics, Protein stability 
@@ -89,6 +92,9 @@ Department of Science in Technology, Govt. of India (2005).
         Dr. Karuna Gokarn (St. Xavier&apos;s College - Autonomous, Mumbai.)
     </li>
     <li class="a">Head, Department of Biotechnology <br>
+    <div class="col-sm-2" style="float:left;">
+                    <img src="img\board_pics\sci_board\karuna.png">
+                </div>
     <a href="https://www.linkedin.com/in/dr-karuna-gokarn-981773120/?originalSubdomain=in" target="_blank" class="btn btn-outline-secondary">Read More</a>
     
     </li>
@@ -99,9 +105,13 @@ Department of Science in Technology, Govt. of India (2005).
 <div class="row">
 <li class="q">
         <img src="img/arrow.png"> 
-        Dr. Finsoh Thankam (Creighton University)
+        Dr. Finosh Thankam (Creighton University)
     </li>
-    <li class="a"> Department of Biomedical Sciences / Faculty <br>
+    <li class="a"> 
+    <div class="col-sm-2" style="float:left;">
+                    <img src="img\board_pics\sci_board\finosh.png">
+                </div>
+    Department of Biomedical Sciences / Faculty <br>
     Dr. Finosh has expertise in Biotechnology, Cancer Research and Molecular Biology.
     <a href="https://www.researchgate.net/profile/Finosh_G_T"  target="_blank" class="btn btn-outline-secondary">See Profile</a>
     

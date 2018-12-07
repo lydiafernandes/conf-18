@@ -49,7 +49,7 @@
 				<p> 022 22620661</p>
 				<p><a href="mailto:isc150@xaviers.edu"> isc150@xaviers.edu</a></p>
 				<p> 5, Mahapalika Marg </p>
-				<p> Mumbai, Maharasthra 400 001 </p>
+				<p> Mumbai, Maharashtra 400 001 </p>
 				
 			</div>
 

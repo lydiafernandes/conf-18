@@ -65,7 +65,7 @@
         <a class="dropdown-item" href="map1.php">How to reach?</a>
         <a class="dropdown-item" href="venue.php">Xavier&apos;s Map</a>
         <a class="dropdown-item" href="files/ISC_hotels.xlsx"> Accomodation Suggestions </a>
-        <a class="dropdown-item" href="#">Mumbai Tour</a> 
+        <a class="dropdown-item" target="_blank" href="https://www.maharashtratourism.gov.in/maharashtra/mumbai-darshan-tour">Mumbai Tour</a> 
         
       </div>
     </li>
@@ -75,7 +75,7 @@
       </li>  
       -->
       <li class="nav-item">
-        <a class="nav-link" href="speaker.php">Invited Speakers</a>
+        <a class="nav-link" href="speaker1.php">Invited Speakers</a>
       </li>  
       <li class="nav-item">
 	      <a class="nav-link" href="contact_new.php">Connect</a>

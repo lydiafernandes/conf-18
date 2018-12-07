@@ -145,7 +145,7 @@
    		 		
 				<span class="sec_box" style="float:left;">
                     <img src="img\org_com_img\org_dk_agarwal.png" class="img-thumbnail" alt="pic of Prof. (Dr.) D. K. Agarwal" width="100px" height="200px"><br> 
-   		 			<a class="names" href="#">Prof. (Dr.) D. K. Agarwal <br><br> 
+   		 			<a class="names" href="#">Prof. (Dr.) D. K. Agrawal <br><br> 
    		 				<strong>	Creighton University / <br> Professor, School <br>of Medicine </strong></a>
 				</span>
 				
