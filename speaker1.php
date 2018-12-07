@@ -325,11 +325,11 @@ Indian Institute of Technology Bombay,Powai.</p>
 <!-- ROW -7 -FIRST CARD APPEARS HERE -->
 <div class="col-md-4">
     <div class="card">
-        <img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
+        <img class="card-img-top" src="img/speakersnewdimensions/Mohd_Radwan_New.png">
         <div class="card-body">
-            <h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
-            <p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-            <a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
+            <h4 class="card-title"> Dr. Mohd. Radwan</h4>
+            <p class="card-text"> Faculty, Creighton University, USA</p>
+            <a href="#" class="btn btn-outline-secondary">See Profile</a>
         </div>
     </div>
 </div>
@@ -337,11 +337,11 @@ Indian Institute of Technology Bombay,Powai.</p>
 <!-- ROW 7 - SECOND CARD APPEARS HERE -->
 <div class="col-md-4">
     <div class="card">
-        <img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
+        <img class="card-img-top" src="img/speakersnewdimensions/Richa_Rikhy_New.png">
         <div class="card-body">
-            <h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
-            <p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-            <a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
+            <h4 class="card-title"> Dr. Richa Rikhy</h4>
+            <p class="card-text"> Professor at IISER, Pune</p>
+            <a href="rikhy.php" class="btn btn-outline-secondary">See Profile</a>
         </div>
     </div>
 </div>
