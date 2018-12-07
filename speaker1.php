@@ -284,9 +284,11 @@ Bengaluru, Karanataka, India.</p>
     <div class="card">
         <img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
         <div class="card-body">
-            <h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
-            <p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-            <a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
+            <h4 class="card-title"> Dr. Swati Patankar</h4>
+            <p class="card-text"> Professor,                         
+Department of Biosciences & Bioengineering,
+Indian Institute of Technology Bombay,Powai.</p>
+            <a href="patankar.php" class="btn btn-outline-secondary">See Profile</a>
         </div>
     </div>
 </div>
