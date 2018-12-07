@@ -128,7 +128,7 @@
 					<h4 class="card-title"> Dr. Foster Gonsalves </h4>
 					<p class="card-text"> VP of Drug Development and Strategy, Rgenix, USA
                     </p>
-					<a href="#" class="btn btn-outline-secondary">See Profile</a>
+					<a href="gonsalves.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
