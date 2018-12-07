@@ -441,7 +441,24 @@ School of Medicine, Creighton University, USA</p>
 </div>
 
 <!--ROW 9- THIRD CARD APPEARS HERE -->
-            <div class="col-md-4">
+			<div class="col-md-4">
+				<div class="card">
+					<img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
+					<div class="card-body">
+						<h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
+						<p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
+						<a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
+					</div>
+			    </div>
+			</div> 
+</div>
+<!-- ROW 9 ENDS -------------------------------------------------->
+
+<!-- ROW 10 BEGINS -------------------------------------------------->
+<div class="row padding">
+
+<!-- ROW -10 -FIRST CARD APPEARS HERE -->
+<div class="col-md-4">
 				<div class="card">
 				<img class="card-img-top" src="img/speakersnewdimensions/Daniel_Wilson_New.png">
 					<div class="card-body">
@@ -451,8 +468,12 @@ School of Medicine, Creighton University, USA</p>
 					</div>
 				</div>
 			</div>
+<!-- ROW 10 - SECOND CARD APPEARS HERE -->
+
+<!--ROW 10- THIRD CARD APPEARS HERE -->
+           
 </div>
-<!-- ROW 9 ENDS -------------------------------------------------->
+<!-- ROW 10 ENDS -------------------------------------------------->
 </div>
 <!-- -------------------------------------------------->
 
