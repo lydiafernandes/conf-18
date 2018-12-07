@@ -218,11 +218,11 @@ Mater Research Institute-University of Queensland Faculty of Medicine & Queensla
 		
 		<div class="col-md-4">
 			<div class="card">
-				<img class="card-img-top" src="img/speakersnewdimensions/Subburaman_Mohan_New.png">
+				<img class="card-img-top" src="img/speakersnewdimensions/Shyamalava_Mazumdar_New.png" alt="Picture of Shyamalava Mazumdar">
 				<div class="card-body">
-					<h4 class="card-title"> Dr. Subburaman Mohan. </h4>
-					<p class="card-text"> Senior Research Career Scientist, Veterans Administration (VA). Director, Musculoskeletal Disease Center, VA Loma Linda, California</p>
-					<a href="mohan.php" class="btn btn-outline-secondary">See Profile</a>
+					<h4 class="card-title"> Dr. Shyamalava Mazumdar </h4>
+					<p class="card-text"> Senior Professor, Department of Chemical Sciences, at the Tata Institute of Fundamental Research (TIFR), Mumbai.</p>
+					<a href="mazumdar.php" class="btn btn-outline-secondary">See Profile</a>
 				</div>
 			</div>
 		</div>
@@ -236,6 +236,19 @@ Mater Research Institute-University of Queensland Faculty of Medicine & Queensla
 
         <!-- ROW -5 -FIRST CARD APPEARS HERE -->
         <div class="col-md-4">
+			<div class="card">
+				<img class="card-img-top" src="img/speakersnewdimensions/Subburaman_Mohan_New.png">
+				<div class="card-body">
+					<h4 class="card-title"> Dr. Subburaman Mohan. </h4>
+					<p class="card-text"> Senior Research Career Scientist, Veterans Administration (VA). Director, Musculoskeletal Disease Center, VA Loma Linda, California</p>
+					<a href="mohan.php" class="btn btn-outline-secondary">See Profile</a>
+				</div>
+			</div>
+		</div>
+
+
+    <!-- ROW 5 - SECOND CARD APPEARS HERE -->
+	<div class="col-md-4">
             <div class="card">
                 <img class="card-img-top" src="img/speakersnewdimensions/Dr_Naik_New.png">
                 <div class="card-body">
@@ -246,8 +259,8 @@ Mater Research Institute-University of Queensland Faculty of Medicine & Queensla
             </div>
         </div>
 
-    <!-- ROW 5 - SECOND CARD APPEARS HERE -->
-			<div class="col-md-4">
+    <!--ROW 5- THIRD CARD APPEARS HERE -->
+    <div class="col-md-4">
 				<div class="card">
 				<img class="card-img-top" src="img/speakersnewdimensions/Renjith_New.png">
 					<div class="card-body">
@@ -257,9 +270,15 @@ Mater Research Institute-University of Queensland Faculty of Medicine & Queensla
 					</div>
 				</div>
 			</div>
+    </div>
+<!-- ROW 5 ENDS -------------------------------------------------->
 
-    <!--ROW 5- THIRD CARD APPEARS HERE -->
-    <div class="col-md-4">
+
+<!-- ROW 6 BEGINS -------------------------------------------------->
+<div class="row padding">
+
+    <!-- ROW -6 -FIRST CARD APPEARS HERE -->
+	<div class="col-md-4">
             <div class="card">
                 <img class="card-img-top" src="img/speakersnewdimensions/Basavaraj_Nanjwade_New.png">
                 <div class="card-body">
@@ -272,28 +291,21 @@ Bengaluru, Karanataka, India.</p>
                 </div>
             </div>
         </div>
-    </div>
-<!-- ROW 5 ENDS -------------------------------------------------->
-
-
-<!-- ROW 6 BEGINS -------------------------------------------------->
-<div class="row padding">
-
-    <!-- ROW -6 -FIRST CARD APPEARS HERE -->
-<div class="col-md-4">
-    <div class="card">
+    
+<!-- ROW 6 - SECOND CARD APPEARS HERE -->
+	<div class="col-md-4">
+    	<div class="card">
         <img class="card-img-top" src="img/speakersnewdimensions/Swati_Patankar_New.png">
-        <div class="card-body">
+        	<div class="card-body">
             <h4 class="card-title"> Dr. Swati Patankar</h4>
             <p class="card-text"> Professor,                         
 Department of Biosciences & Bioengineering,
 Indian Institute of Technology Bombay,Powai.</p>
             <a href="patankar.php" class="btn btn-outline-secondary">See Profile</a>
-        </div>
-    </div>
-</div>
-
-<!-- ROW 6 - SECOND CARD APPEARS HERE -->
+        	</div>
+    	</div>
+	</div>
+<!--ROW 6- THIRD CARD APPEARS HERE -->
 <div class="col-md-4">
     <div class="card">
         <img class="card-img-top" src="img/speakersnewdimensions/Roy_Pereira_New.png">
@@ -301,18 +313,6 @@ Indian Institute of Technology Bombay,Powai.</p>
             <h4 class="card-title"> Dr. (Fr.) Roy Pereira, S.J.</h4>
             <p class="card-text"> Provost/Vice Principal Academics, Head, Dept. of Chemistry, St. Xavier&apos;s  College.</p>
             <a href="#" class="btn btn-outline-secondary">See Profile</a>
-        </div>
-    </div>
-</div>
-
-<!--ROW 6- THIRD CARD APPEARS HERE -->
-<div class="col-md-4">
-    <div class="card">
-        <img class="card-img-top" src="img/speakersnewdimensions/Praveen_Vemula_New.png">
-        <div class="card-body">
-            <h4 class="card-title"> Dr. Praveen Vemula Ph.D.</h4>
-            <p class="card-text"> Faculty at the Institute for Stem Cell Biology and Regenerative Medicine(inStem), Bangalore, India.</p>
-            <a href="vemula.php" class="btn btn-outline-secondary">See Profile</a>
         </div>
     </div>
 </div>
