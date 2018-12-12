@@ -127,9 +127,8 @@ Department of Science in Technology, Govt. of India (2005).
                     <img src="img\board_pics\sci_board\finosh.png">
                 </div>
                 <p>
-    Department of Biomedical Sciences / Faculty <br>
-    Dr. Finosh has expertise in Biotechnology, Cancer Research and Molecular Biology.
-    <a href="https://www.researchgate.net/profile/Finosh_G_T"  target="_blank" class="btn btn-outline-secondary">See Profile</a>
+                Finosh G Thankam is presently the Senior Post Doctoral researcher, Dept. of Clinical and Translational sciences and Dept. of Surgery, Creighton University School of Medicine. He received his PhD in Biomaterials Science from SCTIMST, India for his thesis based on cardiac tissue engineering. His research interests at Creighton focuses on understanding the pathological mechanisms underlying musculoskeletal disorders especially tendinopathies. His research findings has thrown light to understand the sterile inflammatory mechanisms that results in the alteration of tendon tissue extracellular matrix, migration and differentiation of various stem cell populations and mitochondrial dysfunction. The translational potential of exosome biology and tendon tissue engineering are another dimension of his research. In addition, he is also studying molecular mechanisms of incisional hernia formation, stem cell migration following traumatic brain injury and pathological aspects of cardio vascular disease. Finosh has authored more than 30 publications in international peer reviewed journals and a book chapter. He is presently the reviewer of several international journals.  
+                <a href="https://www.researchgate.net/profile/Finosh_G_T"  target="_blank" class="btn btn-outline-secondary">See Profile</a>
     </p>
     </li>
 </div>

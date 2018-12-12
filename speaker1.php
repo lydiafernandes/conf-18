@@ -373,7 +373,7 @@ School of Medicine, Creighton University, USA</p>
 					<div class="card-body">
 						<h4 class="card-title"> Dr. Finosh Thankam</h4>
 						<p class="card-text"> Cregihton University, School of Medicine, CTS-Surgery </p>
-						<a href="#" class="btn btn-outline-secondary">See Profile</a>
+						<a href="finosh.php" class="btn btn-outline-secondary">See Profile</a>
 					</div>
 				</div>
 			</div>
