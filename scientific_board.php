@@ -80,9 +80,22 @@ Department of Science in Technology, Govt. of India (2005).
               <img src="img/arrow.png"> 
                   Dr. Madhuri Hambarde (St. Xavier&apos;s College - Autonomous, Mumbai.)
         </li>
-         <li class="a">Department of Zoology / Faculty 
+         <li class="a">Department of Zoology / Faculty <br>
+
+         <div class="col-sm-2" style="float:left;">
+                    <img src="img\board_pics\sci_board\madhuri.png">
+                </div>
+
+                <p>
+                Dr. Madhuri is Associate Professor in Department of Zoology, St. Xavier’s College, 
+                Mumbai. She attained her PhD. In Zoology from Bhabha Atomic Research Centre (BARC), Mumbai 
+                and has got training in Animal Tissue Culture from NCCS, Pune, India. 
+                Dr. Madhuri has been Coordinator and project partner for UKIERI Funded “Diploma in Industrial 
+                Biotechnology and  Enterprise” Leading to a M.Sc. Degree from University of Bath. UK.
+                 She has been involved in various research projects and has been recognised by Gov. of Maharashtra for carrying out a project titled ‘Assessing the total phenolics and antioxidant activity of non-conventional  food sources (marine algae found along the coast of Gujarat) for use as functional food’. Her research expertise includes expertise in protein profiling in health and disease (Arthritis and Hypothyroidism). She has been a reviewer for many national and International Journals.
+
               <a href="http://xaviers.edu/main/index.php/zoology" target="_blank" class="btn btn-outline-secondary">Read More</a>
-    
+            </p>
          </li>
 </div>
 <!-- -------------End of Q3------------------------------ -->
