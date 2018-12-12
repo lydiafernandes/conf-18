@@ -95,8 +95,10 @@ Department of Science in Technology, Govt. of India (2005).
     <div class="col-sm-2" style="float:left;">
                     <img src="img\board_pics\sci_board\karuna.png">
                 </div>
-    <a href="https://www.linkedin.com/in/dr-karuna-gokarn-981773120/?originalSubdomain=in" target="_blank" class="btn btn-outline-secondary">Read More</a>
-    
+                
+                <p>Dr. Karuna Gokarn is Head of  PG Department of Biotechnology and Associate Professor In Department of Microbiology, St. Xavier’s College, Mumbai. She has done her PhD. from Sir HN Hospital & Medical Research Society, Mumbai University and has been invited as speaker for various International conferences in Italy, UK and USA. Dr. Karuna has guided various MSc. Research projects. She has carried out research projects with University of California, Berkeley. She is Honorary Consultant and Research Scientist in Microbiology, Sir Hurkisondas Nurrotamdas Hospital and Medical Research Centre and Sir HN Medical Research Society since July 2018
+                <a href="https://www.linkedin.com/in/dr-karuna-gokarn-981773120/?originalSubdomain=in" target="_blank" class="btn btn-outline-secondary">Read More</a>    
+                </p>
     </li>
 </div>
 
