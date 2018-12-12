@@ -312,7 +312,7 @@ Indian Institute of Technology Bombay,Powai.</p>
         <div class="card-body">
             <h4 class="card-title"> Dr. (Fr.) Roy Pereira, S.J.</h4>
             <p class="card-text"> Provost/Vice Principal Academics, Head, Dept. of Chemistry, St. Xavier&apos;s  College.</p>
-            <a href="#" class="btn btn-outline-secondary">See Profile</a>
+            <a href="pereira.php" class="btn btn-outline-secondary">See Profile</a>
         </div>
     </div>
 </div>
