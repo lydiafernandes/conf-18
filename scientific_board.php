@@ -126,10 +126,11 @@ Department of Science in Technology, Govt. of India (2005).
     <div class="col-sm-2" style="float:left;">
                     <img src="img\board_pics\sci_board\finosh.png">
                 </div>
+                <p>
     Department of Biomedical Sciences / Faculty <br>
     Dr. Finosh has expertise in Biotechnology, Cancer Research and Molecular Biology.
     <a href="https://www.researchgate.net/profile/Finosh_G_T"  target="_blank" class="btn btn-outline-secondary">See Profile</a>
-    
+    </p>
     </li>
 </div>
 <!-- -------------End of Q5---------------------------- -->
