@@ -50,8 +50,8 @@
       <div class="carousel-caption">
         <h1 class="display-2">X150 <br> The Conference</h1>
         <h3> Celebrating 150 Glorious years</h3>
-        <button type="button" class="btn btn-outline-light btn-lg" style="color:yellow;"  href="files/Conference_Schedule_ISC_2019.pdf"> View Schedule</button>
-        <!-- button type="button" class="btn btn-primary btn-lg">View Schedule</button -->
+        <!-- button type="button" class="btn btn-outline-light btn-lg" style="color:yellow;"  href="files/Conference_Schedule_ISC_2019.pdf"> View Schedule</button -->
+        <button type="button" class="btn btn-primary btn-lg" style="color:yellow" href="files/Conference_Schedule_ISC_2019.pdf"> View Schedule </button>
 				
       </div>
     </div>
