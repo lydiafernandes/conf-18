@@ -25,7 +25,7 @@
     <!-- include the nav bar -->
 <?php include("includes/navigation1.php");?>
 
-<H3 align="center"> click <a href="files/Conference_Schedule_ISC_2019">here</a> to download schedule </H3>
+<H3 align="center"> click <a href="files/Conference_Schedule_ISC_2019.pdf">here</a> to download schedule </H3>
  
 <!-- -------------------------------------------------->
 
