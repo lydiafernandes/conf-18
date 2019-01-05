@@ -52,6 +52,7 @@
         <h3> Celebrating 150 Glorious years</h3>
         <!-- button type="button" class="btn btn-outline-light btn-lg"> Take a Tour</button -->
         <button type="button" class="btn btn-primary btn-lg">View Schedule</button>
+				<button> Test </button>
       </div>
     </div>
     <div class="carousel-item">
