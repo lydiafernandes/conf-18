@@ -52,7 +52,7 @@
         <h3> Celebrating 150 Glorious years</h3>
         <!-- button type="button" class="btn btn-outline-light btn-lg" style="color:yellow;"  href="files/Conference_Schedule_ISC_2019.pdf"> View Schedule</button -->
         <!-- button type="button" class="btn btn-primary btn-lg" style="color:yellow" formaction="files/Conference_Schedule_ISC_2019.pdf"> View Schedule </button -->
-		     <a href="files/Conference_Schedule_ISC_2019.pdf" class="btn btn-primary btn-lg" style="color:yellow" role="button">Link Button</a>
+		     <a href="files/Conference_Schedule_ISC_2019.pdf" class="btn btn-primary btn-lg" style="color:yellow" role="button">View Schedule</a>
       </div>
     </div>
     <div class="carousel-item">
